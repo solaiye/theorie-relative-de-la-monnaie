@@ -3,8 +3,14 @@ Install
 
 Prerequisite :
 
-* On Mac OS X : TODO
+* On Mac OS X :
+
+ TODO
+
 * On Ubuntu :
+
+::
+
     $ sudo apt-get install python-dev
     $ sudo apt-get install libfreetype6-dev
 
