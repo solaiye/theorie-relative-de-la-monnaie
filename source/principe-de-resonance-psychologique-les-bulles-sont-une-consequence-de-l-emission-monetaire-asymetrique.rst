@@ -35,7 +35,7 @@ et selon donc, pour cette valeur spécifique :
 
 .. math::
 
-   dJx = dMx – Px * dCx > 0
+   dJx = dMx - Px * dCx > 0
 
 Cette « croissance » atteint un maximum limité soit par le contrôle de la
 quantité globale d'expansion monétaire par les autorités, soit par la saturation

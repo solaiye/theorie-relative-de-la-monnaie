@@ -18,13 +18,13 @@ optimisé serait alors compris entre :
 
 .. math::
 
-   DU = \frac{10 000 000 / 330 * 5,48\%}{12} = 138 € / mois / citoyen
+   DU = \frac{10 000 000 / 330 * 5,48\%}{12} = 138 Euros / mois / citoyen
 
 et
 
 .. math::
 
-   DU = \frac{10 000 000 / 330 * 9,22\%}{12} = 232 € / mois / citoyen
+   DU = \frac{10 000 000 / 330 * 9,22\%}{12} = 232 Euros / mois / citoyen
 
 Donc entre 552 € / mois et 928 € / mois pour une famille de 4 personnes.
 
@@ -55,7 +55,7 @@ Il serait compris entre :
 .. math::
 
    DU = \frac{15 000 000 / 310 * 5,48\%}{12} \approx 221 \$ / mois / citoyen
-   
+
    DU = \frac{15 000 000 / 310 * 9,22\%}{12} \approx 357 \$ / mois / citoyen
 
 Ceci étant noté, nous verrons plus tard que l'installation d'un Dividende

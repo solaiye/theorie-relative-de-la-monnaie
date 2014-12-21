@@ -4,15 +4,19 @@ Install
 Prerequisite :
 
 * On Mac OS X : TODO
-* On Ubuntu : TODO
+* On Ubuntu :
+    $ sudo apt-get install python-dev
+    $ sudo apt-get install libfreetype6-dev
 
 Installation :
 
 ::
 
-    $ python bootstrap.py
-    $ bin/pip install -r requirements.txt
-    $ bin/pip install https://github.com/harobed/matplotlib/archive/master.zip
+    $ sudo pip install virtualenv
+    $ virtualenv -p /usr/bin/python2.7 venv
+    $ source venv/bin/activate
+    $ pip install -r requirements.txt
+    $ pip install matplotlib
 
 Generate HTML version and PDF version
 =====================================
