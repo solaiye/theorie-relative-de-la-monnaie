@@ -1,22 +1,13 @@
 Install
 =======
 
-Prerequisite :
-
-* On Mac OS X :
-
- TODO
-
 * On Ubuntu :
 
 ::
 
+    $ sudo apt-get install python-pip
     $ sudo apt-get install python-dev
     $ sudo apt-get install libfreetype6-dev
-
-Installation :
-
-::
 
     $ sudo pip install virtualenv
     $ virtualenv -p /usr/bin/python2.7 venv
@@ -39,7 +30,7 @@ Generate PDF version :
 
     $ make latexpdf
 
-Generate PDF version :
+Generate EPUB version :
 
 ::
 
