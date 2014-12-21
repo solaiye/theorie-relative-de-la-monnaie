@@ -24,7 +24,7 @@ Installation :
     $ pip install -r requirements.txt
     $ pip install matplotlib
 
-Generate HTML version and PDF version
+Generate HTML, PDF and EPUB version
 =====================================
 
 Generate HTML version :
@@ -38,3 +38,9 @@ Generate PDF version :
 ::
 
     $ make latexpdf
+
+Generate PDF version :
+
+::
+
+    $ make epub
