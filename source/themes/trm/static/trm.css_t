@@ -6,7 +6,7 @@ BLOCKQUOTE.epigraph {
     padding: 15px;
     border-left: 3px solid #ccc;
     background-color: #fafafa;
-} 
+}
 
 BLOCKQUOTE.epigraph .attribution {
     text-align: right;
@@ -67,7 +67,7 @@ A.headerlink {
     width: 16px;
     visibility: visible;
 }
- 
+
 H1:hover A.headerlink,
 H2:hover A.headerlink,
 H3:hover A.headerlink,
@@ -105,7 +105,7 @@ H6 {
 }
 
 P {
-    text-align:justify;
+    /*text-align:justify;*/
     margin: 0 0 20px 0;
 }
 
