@@ -12,8 +12,8 @@ Sommaire
    definitions.rst
    formalisaton.rst
    probleme-des-trois-producteurs.rst
-..   probleme-de-la-valeur-de-reference.rst
-   probleme-de-la-monnaie-dette.rst
+   probleme-de-la-valeur-de-reference.rst
+..   probleme-de-la-monnaie-dette.rst
    solutions.rst
    considerations-generales.rst
    masse-monetaire-et-relativite.rst
