@@ -56,15 +56,30 @@ Pour peu que ces deux zones soient pseudo-isolées au sein de la zone économiqu
 et produisent les mêmes biens et services, on aura des prix élevés dans l'une et
 bas dans l'autre uniquement à cause de la densité monétaire ainsi distribuée.
 
-[image]
+.. figure:: images/champ_valeur_1.png
+    :align: center
+    :width: 450px
 
-NB : Yoland Bresson définit le champ de valeur comme
+    *Variations spatiales du champ de valeur*
+
+    | *(Luc Fievet TRM 2.0)*
+    |
+
+
+*NB : Yoland Bresson définit le champ de valeur comme*
 
 .. math::
 
    dJ = dx / K + dM / M - dp / P - dc/C
 
-où K représente l'étalon temps (le Dividende Universel), M la masse monétaire P la production et C les échanges économiques. Le champ de valeur ainsi posé est sans dimension. Les deux définitions sont proches, car basées sur les mêmes grandeurs, et prenant toutes deux la mesure du local et du global dans une équation différentielle. Je distingue par ailleurs, dans un souci de précision la part de production et de monnaie créée localement et celle qui est échangée.
+*où K représente l'étalon temps (le Dividende Universel),*
+*M la masse monétaire P la production et C les échanges économiques.*
+*Le champ de valeur ainsi posé est sans dimension.*
+*Les deux définitions sont proches, car basées sur les mêmes grandeurs,*
+*et prenant toutes deux la mesure du local et du global*
+*dans une équation différentielle. Je distingue par ailleurs,*
+*dans un souci de précision la part de production et de monnaie*
+*créée localement et celle qui est échangée.*
 
 
 Le champ de valeur de l'argent dette
@@ -81,7 +96,12 @@ cette création de crédit unilatérale. Cette monnaie émise de façon abrupte 
 centralisée dévaluera lentement la monnaie disponible dans le reste de la zone
 économique au fur et à mesure de sa diffusion dans l'espace économique.
 
-[image]
+.. figure:: images/champ_valeur_2.png
+    :align: center
+    :width: 450px
+
+    *(Luc Fievet TRM 2.0)*
+
 
 Le terme « monnaie-dette » est insuffisant pour comprendre le mécanisme, parce
 que la dette émise n'est en fait jamais vraiment remboursée, seuls les intérêts
@@ -113,7 +133,19 @@ l'économie officielle, et c'est une part considérable du PIB qui échappe ains
 la valorisation de l'économie, du fait de la non-densité intrinsèque aux
 monnaies à émission asymétrique.
 
-[image]
+.. figure:: images/champ_valeur_3.png
+    :align: center
+    :width: 450px
+
+    *Le SEL est « plat » initialement,*
+
+    | *sa densité de création monétaire est spatialement équilibrée.*
+    | *Elle ne le sera pas temporellement s'il utilise*
+    | *un crédit mutuel fixe donc créé une seule fois*
+    | *à l'origine de son axe de temps économique*
+    | *(Luc Fievet TRM 2.0)*
+    |
+
 
 Le champ de valeur de la production non monétisée
 =================================================
@@ -155,7 +187,19 @@ aisée, elle est typiquement de l'ordre de l'algorithmique et du jeu, domaines
 maîtrisés par cette communauté. Pourtant il existe déjà des logiciels permettant
 d'établir un lien monétaire communautaire, et qui se déploient rapidement.
 
-[image]
+.. figure:: images/champ_valeur_4.png
+    :align: center
+    :width: 450px
+
+    *La production non-monétisée*
+
+    | *peut-être tout à fait énorme en terme de valeur*
+    | *et arbitrairement ignorée d'un centre arbitraire*
+    | *d'émission d'une « monnaie dette » qui ne monétise que ce qu'il connaît,*
+    | *niant ainsi la deuxième liberté économique.*
+    | *(Luc Fievet TRM 2.0)*
+    |
+
 
 Cependant, pour compenser ce triste constat, sans doute temporaire, on peut
 remarquer que les grandes communautés créées autour d'activités ludiques comme
@@ -195,7 +239,14 @@ monnaie dans toute la zone économique par sa structure intrinsèquement dense,
 qui limite les points et les durées d'accumulation tant monétaires que
 productives.
 
-[image]
+.. figure:: images/champ_valeur_5.png
+    :align: center
+    :width: 450px
+
+    *Champ de valeurs fluctuant, sans point central*
+
+    | *(Luc Fievet TRM 2.0)*
+    |
 
 Il n'y a pas dans ce type d'économie de point central de création de monnaie, ce
 qui rend tout projet, toute production, et tout circuit économique autonome

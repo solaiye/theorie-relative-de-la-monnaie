@@ -56,8 +56,8 @@ pour compenser.
 
 La « croissance » du point de vue du « PIB » est donc une notion parfaitement
 biaisée, alors que la croissance de la masse monétaire représente une donnée
-parfaitement sûre, connue, vérifiable et ne dépend pas du référentiel choisi
-pour la mesurer contrairement à toute autre estimation.
+parfaitement sûre, connue, vérifiable et *ne dépend pas du référentiel choisi*
+*pour la mesurer* contrairement à toute autre estimation.
 
 Le graphique suivant montre la Masse monétaire totale M3 composée de M1, (M2-M1)
 et (M3-M2) de la zone euro de 1997 à octobre 2012 en quantité ainsi qu'en
@@ -66,7 +66,10 @@ croissance sur 12 mois (ordonnée en % à droite). La croissance des euros de 19
 millions de citoyens de la zone économique du surplus de monnaie commune non
 communiquée et certainement non-dense.
 
-[image]
+.. image:: images/masse_monetaire_relativite_1.png
+    :align: center
+    :width: 450px
+
 
 Cette création monétaire bénéficie essentiellement aux États et aux grandes
 entreprises quand bien même ils produisent le plus souvent avec des processus
@@ -130,7 +133,10 @@ augmenté de plus de 100 % sur la même période. Il est fort étonnant de voir
 propager au sein de démocraties où le pouvoir médiatique est censé
 représenter la garantie de la transparence.
 
-[image]
+.. image:: images/masse_monetaire_relativite_2.png
+    :align: center
+    :width: 450px
+
 
 La théorie relative de la monnaie ne dit pas qu'un « salaire » devrait suivre
 l'inflation de la masse monétaire, c'est en fait impossible, les salaires les
