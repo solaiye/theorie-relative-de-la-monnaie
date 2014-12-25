@@ -17,14 +17,15 @@ avec 10 000 milliards d'euros et 330 millions de citoyens le Dividende Universel
 optimisé serait alors compris entre :
 
 .. math::
+    :encoding: unicode
 
-   DU = \frac{10 000 000 / 330 * 5,48\%}{12} = 138 Euros / mois / citoyen
+   DU = \frac{10 000 000 / 330 * 5,48\%}{12} = 138 € / mois / citoyen
 
 et
 
 .. math::
 
-   DU = \frac{10 000 000 / 330 * 9,22\%}{12} = 232 Euros / mois / citoyen
+   DU = \frac{10 000 000 / 330 * 9,22\%}{12} = 232 € / mois / citoyen
 
 Donc entre 552 € / mois et 928 € / mois pour une famille de 4 personnes.
 
@@ -66,26 +67,26 @@ effectué. Il ne faut pas oublier que la masse monétaire n'est pas une quantit�
 fixe, elle évolue dans le temps et dans l'espace, et toute mesure doit être
 comprise comme n'ayant de valeur que locale et instantanée.
 
-NB : Yoland Bresson remarque par ailleurs que le PIB vaut entre 2 et 3 fois la
-masse monétaire selon les phases, et qu'on peut envisager qu'un revenu
-individuel inconditionnel (Revenu d'Existence ou Revenu de Base ou Allocation
-Universelle) soit basé sur 2 à 3 fois le Dividende Universel, soit en 2010
-environ 400 € / mois / Citoyen pour l'Europe ou 600 $ / mois / Citoyen aux USA.
-On fait alors une différence entre le Dividende Universel en tant que création
-monétaire individuelle et le Revenu de Base, qui comprend le Dividende Universel
-et une part de redistribution.  On peut aussi appliquer le principe de symétrie
-temporelle non pas à la seule monnaie immatérielle circulante mais aussi aux
-droits de propriétés de la matière originelle dans son ensemble, ce qui conduit
-à au moins douber la valeur transmise dans le temps si l'on considère que la
-monnaie reflète la valeur existante. Mais cette considération sort du strict
-cadre de la TRM proprement dite.
+*NB : Yoland Bresson remarque par ailleurs que le PIB vaut entre 2 et 3 fois la*
+*masse monétaire selon les phases, et qu'on peut envisager qu'un revenu*
+*individuel inconditionnel (Revenu d'Existence ou Revenu de Base ou Allocation*
+*Universelle) soit basé sur 2 à 3 fois le Dividende Universel, soit en 2010*
+*environ 400 € / mois / Citoyen pour l'Europe ou 600 $ / mois / Citoyen aux USA.*
+*On fait alors une différence entre le Dividende Universel en tant que création*
+*monétaire individuelle et le Revenu de Base, qui comprend le Dividende Universel*
+*et une part de redistribution.  On peut aussi appliquer le principe de symétrie*
+*temporelle non pas à la seule monnaie immatérielle circulante mais aussi aux*
+*droits de propriétés de la matière originelle dans son ensemble, ce qui conduit*
+*à au moins douber la valeur transmise dans le temps si l'on considère que la*
+*monnaie reflète la valeur existante. Mais cette considération sort du strict*
+*cadre de la TRM proprement dite.*
 
-Ces remarques associées à la plage de valeurs possibles pour « c », donnent une
-plage de valeurs acceptables en 2012 pour un Revenu de Base (et pas un seul
-Dividende Universel) entre 200 € et 800 € / mois / Citoyen pour l'Europe et 300
-$ à 1200 $ / mois / Citoyen aux USA. Ces données de 2010/2012 seront évidemment
-à recalculer selon les variations de la population, de l'espérance de vie et de
-la masse monétaire.
+*Ces remarques associées à la plage de valeurs possibles pour « c », donnent une*
+*plage de valeurs acceptables en 2012 pour un Revenu de Base (et pas un seul*
+*Dividende Universel) entre 200 € et 800 € / mois / Citoyen pour l'Europe et 300*
+*$ à 1200 $ / mois / Citoyen aux USA. Ces données de 2010/2012 seront évidemment*
+*à recalculer selon les variations de la population, de l'espérance de vie et de*
+*la masse monétaire.*
 
 
 À propos de la valeur
@@ -131,7 +132,7 @@ inférieur à c s'il possède plus de 1/N de monnaie.
 C'est donc selon la quantité de monnaie possédée qu'on peut estimer être gagnant
 monétairement ou pas.
 
-Exemple numérique : A possède 50, B possède 200 il y a d'autres individus dans
+**Exemple numérique :** A possède 50, B possède 200 il y a d'autres individus dans
 cette communauté monétaire et la masse monétaire est de 1 000, pour une
 communauté de 10 membres. Admettons une espérance de vie telle que le DU soit de
 5 % / an.
@@ -156,7 +157,18 @@ possède moins de M/N de monnaie, les prix pourront avoir tendance à monter pou
 la raison inverse, et ce qui est gagné relativement à la monnaie sera perdu
 relativement aux valeurs.
 
-[image]
+.. figure:: images/considerations_generales_1.png
+    :align: center
+    :width: 450px
+
+    *Exemple graphique*
+
+    | *avec trois individus, ayant une répartition monétaire de 300,*
+    | *avant Dividende Universel, puis après.*
+    | *L'évolution de leur situation relative est différente*
+    | *selon la part relative de monnaie possédée par chacun.*
+    |
+
 
 En théorie relative où l'analyse comprend la relation entre les parties et le
 tout, Local + Non Local  = Global. Cela signifie que tout ce qui est choisi
@@ -179,7 +191,21 @@ uniquement de la quantité de monnaie qu'il possède. D'autant que dans une
 services, ce qui sera la valeur de demain est dans une grande partie totalement
 imprévisible.
 
-[image]
+.. figure:: images/considerations_generales_2.png
+    :align: center
+    :width: 450px
+
+    *Mais par ailleurs,*
+
+    | *avant et après la distribution d'un dividende universel,*
+    | *les prix des biens non-monétaires pourront eux-aussi évoluer.*
+    | *Il n'est donc pas de conclusion possible simple et généralisable*
+    | *quant à la distribution monétaire, si ce n'est qu'elle n'est ni favorable*
+    | *ni défavorable pour tous, tout le temps, mais que son effet bénéfique ou non*
+    | *dépend de l'individu concerné et de comment le surplus monétaire sera distribué d'une part,*
+    | *et utilisé par les individus d'autre part.*
+    |
+
 
 Aussi il n'existe aucune certitude possible quant à ce qu'il conviendrait de
 faire dans le cadre de la « protection » de son capital, qui est donc ici aussi
@@ -238,3 +264,11 @@ l'expérience vécue, ce qui sur le long terme constituera sans aucun doute une
 valeur liée au savoir expérimental ainsi acquis quel qu'en soit
 l'interprétation. Il ne doit faire aucun doute que la valeur économique pour les
 Amish est très sensiblement différente de celle d'une autre communauté.
+
+.. figure:: images/considerations_generales_3.png
+    :align: center
+    :width: 450px
+
+    *Fermier Amish fertilisant son champ*
+
+    | *(wikimedia)*
