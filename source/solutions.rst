@@ -2,30 +2,30 @@
 Solutions
 =========
 
-Une symétrie spatio-temporelle (l'application du principe de Relativité) est
-donc nécessaire, qui permette une circularité des échanges de valeurs, assure
-une continuité dans le temps, soit non discriminatoire au sein du référentiel
-spatio-temporel, prenant en compte présent et futur et qui pourtant limite aussi
-la quantité de monnaie afin qu'elle garde à la fois de la stabilité et un
-potentiel d'échange non nul.
+Une *symétrie spatio-temporelle* (l'application du principe de Relativité)
+est donc nécessaire, qui permette une circularité des échanges de valeurs,
+assure une continuité dans le temps, soit non discriminatoire
+au sein du référentiel spatio-temporel, prenant en compte présent et futur
+et qui pourtant limite aussi la quantité de monnaie
+afin qu'elle garde à la fois de la stabilité et un potentiel d'échange non nul.
 
 Est-ce seulement possible ? Oui !
 
-Comme nous allons le voir, non seulement les classes de solutions sont
-parfaitement déterminées mais on peut trouver une solution optimisée.
+Comme nous allons le voir, non seulement les classes de solutions
+sont parfaitement déterminées mais on peut trouver une solution optimisée.
 
 
-Classes de solutions
-====================
+a) Classes de solutions
+=======================
 
 Les solutions de création monétaire respectant les symétries spatio-temporelles
-impliquent donc pour la masse monétaire « M(t) » choisie par les acteurs un
-crédit mutuel (pas une dette) mathématique, donc sans dimension et non liée à
-une valeur spécifique.
+impliquent donc pour la masse monétaire « M(t) » choisie par les acteurs
+un crédit mutuel (pas une dette) mathématique, donc sans dimension
+et non liée à une valeur spécifique.
 
-Les conditions de symétrie et donc de liberté, vont nous permettre d'établir les
-équations différentielles qui sont nécessaires pour la détermination des
-solutions du problème des trois producteurs.
+Les conditions de symétrie et donc de liberté, vont nous permettre d'établir
+les équations différentielles qui sont nécessaires pour la détermination
+des solutions du problème des trois producteurs.
 
 Une symétrie spatiale
 ---------------------
@@ -131,7 +131,11 @@ renouvellement, et que dans ce flux il n'y a aucune raison de privilégier aucun
 d'entre eux vis à vis de la création monétaire dans l'ensemble de l'espace-temps
 économique ainsi déterminé.
 
-[image]
+.. figure:: images/solutions_1.png
+    :align: center
+    :width: 450px
+
+    *(Luc Fievet TRM 2.0)*
 
 « c » est le facteur de Dividende Universel, il représente bien une part de la
 masse monétaire totale existante à l'instant « t », créée pour chacun des
@@ -147,10 +151,19 @@ garder plus généralement que le résultat fondamental instantané, à savoir u
 dividende universel, dont nous allons maintenant établir les valeurs limites
 et cohérentes d'encadrement.
 
-[image]
+.. figure:: images/solutions_2.png
+    :align: center
+    :width: 450px
 
-Optimisation et espérance de vie
-================================
+    *(Luc Fievet TRM 2.0)*
+
+    | *En vert sont marquées les naissances, en rouge les décès des individus,*
+    | *l'axe vertical étant le temps*
+
+
+
+b) Optimisation et espérance de vie
+===================================
 
 Il est possible de trouver une relation fondamentale entre le Dividende
 Universel « c » et l'espérance de vie. En effet, considérons tout d'abord pour
@@ -164,7 +177,17 @@ comment les individus les plus proches de « ev » passent de vie à trépas e
 non encore nés mais proches de naître viennent à l'existence, ainsi que le
 passage d'une coordonnée de temps à la suivante de tous ceux qui restent en vie.
 
-[image]
+.. figure:: images/solutions_3.png
+    :align: center
+    :width: 450px
+
+    *En vert les générations vivantes à « t »*
+
+    | *On doit voir et comprendre sur ce schéma*
+    | *la hauteur temporelle d'existence « ev »*
+    | *et son centre de symétrie « ev/2 »*
+    |
+
 
 Pour se donner une analogie, cela peut faire penser à une fontaine qui semble
 toujours la même vue de loin bien que ses gouttes d'eau disparaissent de proche
@@ -173,7 +196,12 @@ initiale à sa base à celles qui retombent dans le bassin. Il faut un temps don
 (l'espérance de vie) pour que la goutte d'eau effectue l'ensemble de ce « trajet
 de vie » en parcourant l'ensemble du jet d'eau, qui lui semble immuable.
 
-[image]
+.. figure:: images/solutions_4.png
+    :align: center
+    :width: 450px
+
+    *Fontaine (wikimedia)*
+
 
 Une fois cette observation comprise et intégrée avec les résultats précédents,
 nous pouvons donc poser comme relation fondamentale que la création de la masse
@@ -234,7 +262,18 @@ fondamentale du fait des données expérimentales qui donnent à l'année solair
 rythme économique fondamental du fait notamment des récoltes annuelles, mais
 aussi des congés.
 
-[image]
+.. figure:: images/solutions_5.png
+    :align: center
+    :width: 450px
+
+    *Notez la génération ici marquée en bleu*
+
+    | *Elle ne représente plus que 1/ev*
+    | *de l'ensemble des vivants, a participé à la création monétaire*
+    | *de la génération précédente pour M(t) durant son existence*
+    | *alors que la masse monétaire en vigueur est M(t+ev)*
+    |
+
 
 On pourra remarquer que la monnaie étant quantitative sous sa forme utile,
 l'aspect continu n'étant qu'apparent (cf. l'analogie de la fontaine), le
@@ -247,7 +286,16 @@ projet de monnaie libre compatible avec la TRM (comme OpenUDC) d'utiliser une
 règle fondamentale très simple et très lisible qui arbitre perpétuellement entre
 valeur quantitative et valeur relative.
 
-[image]
+.. figure:: images/solutions_6.png
+    :align: center
+    :width: 450px
+
+    *Au bout de 80 unités de temps...*
+
+    | *la génération précédente représentée par 1 à t = 0*
+    | *ne représentera plus que 1/80ème de la monnaie existante*
+    |
+
 
 Conclusion
 ==========
@@ -255,10 +303,10 @@ Conclusion
 On peut maintenant conclure de façon complète que le résultat fondamental de la
 TRM est :
 
-« Les systèmes monétaires compatibles avec le principe de relativité et les
-trois libertés économiques sont les systèmes monétaires à dividende universel
-dont la valeur est une proportion « c » de la masse monétaire qui dépend de
-l'espérance de vie moyenne de la zone monétaire considérée sous la forme :
+**Les systèmes monétaires compatibles avec le principe de relativité et les**
+**trois libertés économiques sont les systèmes monétaires à dividende universel**
+**dont la valeur est une proportion « c » de la masse monétaire qui dépend de**
+**l'espérance de vie moyenne de la zone monétaire considérée sous la forme :**
 
 .. math::
 
@@ -266,8 +314,8 @@ l'espérance de vie moyenne de la zone monétaire considérée sous la forme :
 
 La contraposée est donc aussi un résultat fondamental de la TRM :
 
-« Les systèmes monétaires qui n'intègrent pas un dividende universel ne sont pas
-compatibles avec le principe de relativité et les trois libertés économiques »
+**« Les systèmes monétaires qui n'intègrent pas un dividende universel ne sont pas**
+**compatibles avec le principe de relativité et les trois libertés économiques »**
 
 On pourrait aussi rajouter pour préciser mieux encore qu'un dividende universel
 qui existerait mais qui serait trop faible ou trop fort, donc en dehors des
@@ -285,6 +333,18 @@ On pourra retenir que Le Dividende Universel optimisé est quasi inversement
 proportionnel à l'espérance de vie de la zone économique considérée (ln étant
 une fonction qui varie très peu).
 
-[image]
+.. figure:: images/solutions_7.png
+    :align: center
+    :width: 450px
+
+    *Valeurs acceptables (en bleu) du % du dividende universel*
+
+    | *en fonction de l'espérance de vie*
+    | *En dessous de la zone coloriée*
+    | *un dividende trop faible aura tendance à favoriser les sortants,*
+    | *tandis qu'au dessus un dividende trop élevé*
+    | *aura tendance à favoriser les entrants*
+    |
+
 
 Ces résultats concluent notre développement théorique principal.

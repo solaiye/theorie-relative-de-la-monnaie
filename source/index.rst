@@ -13,10 +13,10 @@ Sommaire
    formalisaton.rst
    probleme-des-trois-producteurs.rst
    probleme-de-la-valeur-de-reference.rst
-..   probleme-de-la-monnaie-dette.rst
+   probleme-de-la-monnaie-dette.rst
    solutions.rst
    considerations-generales.rst
-   masse-monetaire-et-relativite.rst
+..   masse-monetaire-et-relativite.rst
    champ-de-valeur.rst
    sur-la-theorie-quantitative-de-la-monnaie.rst
    principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst

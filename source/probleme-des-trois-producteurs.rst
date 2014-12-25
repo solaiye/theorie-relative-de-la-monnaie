@@ -65,7 +65,7 @@ demeurera donc limité par les prix au delà desquels
 les producteurs ne pourraient pas échanger leurs productions
 par manque de monnaie.
 
-.. figure:: images/probleme_des_trois_producteurs2.png
+.. figure:: images/probleme_des_trois_producteurs_2.png
     :align: center
     :width: 450px
 
