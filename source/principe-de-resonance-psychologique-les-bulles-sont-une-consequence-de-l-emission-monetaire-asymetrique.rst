@@ -25,7 +25,7 @@ relativité.
 
 .. figure:: images/principe_resonance_1.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Évolution temporelle de pseudo « valeurs » par émission arbitraire de « monnaie dette »*
 
@@ -75,7 +75,7 @@ de crédits.
 
 .. figure:: images/principe_resonance_2.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *a) Fonds propres initiaux (Luc Fievet TRM 2.0)*
 
@@ -100,7 +100,7 @@ chargé d'une dette produite mécaniquement par un remboursement total dû (capi
 
 .. figure:: images/principe_resonance_3.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *b) L'émetteur de crédits par effet de levier crée de la monnaie supplémentaire*
     *qui alimente un producteur arbitrairement sélectionné. (Luc Fievet TRM 2.0)*
@@ -115,7 +115,7 @@ taux de croissance global de la monnaie.
 
 .. figure:: images/principe_resonance_4.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *c) Force de remboursement du crédit arbitrairement émis et alloué (Luc Fievet TRM 2.0)*
 
@@ -139,7 +139,7 @@ un risque véritable de perte sans que l'économie en soit globalement affectée
 
 .. figure:: images/principe_resonance_5.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Faillite forcée par assèchement monétaire progressif,*
     *et captation de toute la valeur par le centre d'émission (Luc Fievet TRM 2.0)*
@@ -178,7 +178,7 @@ Pour M3 € nous obtenons alors ceci :
 
 .. figure:: images/principe_resonance_6.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Ecart type sur 12 mois de la croissance de M3 € 1998 - 2010*
 
@@ -202,7 +202,7 @@ des autres acteurs économiques.
 
 .. figure:: images/principe_resonance_7.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Ecart type sur 12 mois de la croissance de M3 $ 1958 - 2010*
 

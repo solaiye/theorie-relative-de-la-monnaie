@@ -24,7 +24,7 @@ http://wiki.creationmonetaire.info
 
     .. figure:: images/remerciements_1.png
         :align: center
-        :width: 450px
+        :scale: 100
 
         *Couverture de la TRM 1.0 revue par Luc Fievet*
 

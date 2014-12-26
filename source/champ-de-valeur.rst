@@ -58,7 +58,7 @@ bas dans l'autre uniquement à cause de la densité monétaire ainsi distribuée
 
 .. figure:: images/champ_valeur_1.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Variations spatiales du champ de valeur (Luc Fievet TRM 2.0)*
 
@@ -94,7 +94,7 @@ centralisée dévaluera lentement la monnaie disponible dans le reste de la zone
 
 .. figure:: images/champ_valeur_2.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *(Luc Fievet TRM 2.0)*
 
@@ -130,7 +130,7 @@ monnaies à émission asymétrique.
 
 .. figure:: images/champ_valeur_3.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Le SEL est « plat » initialement,*
     *sa densité de création monétaire est spatialement équilibrée.*
@@ -180,7 +180,7 @@ d'établir un lien monétaire communautaire, et qui se déploient rapidement.
 
 .. figure:: images/champ_valeur_4.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *La production non-monétisée*
     *peut-être tout à fait énorme en terme de valeur*
@@ -228,7 +228,7 @@ productives.
 
 .. figure:: images/champ_valeur_5.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Champ de valeurs fluctuant, sans point central (Luc Fievet TRM 2.0)*
 

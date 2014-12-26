@@ -27,7 +27,7 @@ toute sa part dans le système monétaire.
 
 .. image:: images/comment_installer_1.png
     :align: center
-    :width: 450px
+    :scale: 100
 
 
 Approche progressive, le cas Européen
@@ -59,7 +59,7 @@ citoyens, cela reviendrait
 
 .. image:: images/comment_installer_2.png
     :align: center
-    :width: 450px
+    :scale: 100
 
 à un taux de 18 % de la masse monétaire, qui, à DU
 fixe, atteindrait le taux de croissance optimal de 5 % de la masse monétaire en
@@ -69,7 +69,7 @@ Le DU lui même suivrait alors cette évolution :
 
 .. image:: images/comment_installer_3.png
     :align: center
-    :width: 450px
+    :scale: 100
 
 On pourrait objecter que cette évolution serait brusque, créant des distorsions
 économiques violentes et soudaines, les pays qui dans la zone sont privés de DU
@@ -107,7 +107,7 @@ la mesure de toute valeur, et donc devant la création monétaire.
 
 .. image:: images/comment_installer_4.png
     :align: center
-    :width: 450px
+    :scale: 100
 
 Réflexion sur le prêt à intérêts
 ================================

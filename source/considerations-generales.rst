@@ -158,7 +158,7 @@ relativement aux valeurs.
 
 .. figure:: images/considerations_generales_1.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Exemple graphique avec trois individus,*
     *ayant une répartition monétaire de 300,*
@@ -190,7 +190,7 @@ imprévisible.
 
 .. figure:: images/considerations_generales_2.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Mais par ailleurs,*
     *avant et après la distribution d'un dividende universel,*
@@ -261,6 +261,6 @@ Amish est très sensiblement différente de celle d'une autre communauté.
 
 .. figure:: images/considerations_generales_3.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Fermier Amish fertilisant son champ (wikimedia)*

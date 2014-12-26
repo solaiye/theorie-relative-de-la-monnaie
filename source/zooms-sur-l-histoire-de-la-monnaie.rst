@@ -23,7 +23,7 @@ jusqu'à nous.
 
 .. figure:: images/zoom_histoire_1.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Haches en Jade du néolithique (Wikimedia)*
 
@@ -55,7 +55,7 @@ L'expansion de l'Empire Romain s'accompagne d'expansion monétaire régulièreme
 
 .. figure:: images/zoom_histoire_2.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Solidus, 327 ap JC (Wikimedia)*
 
@@ -74,7 +74,7 @@ infinies.
 
 .. figure:: images/zoom_histoire_3.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Région aurifère de Las Medulas exploitée par Rome du Ier au IIIe siècle ap JC (Wikimedia)*
 
@@ -101,7 +101,7 @@ d'où vient le surplus constaté.
 
 .. figure:: images/zoom_histoire_4.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Sesterce de trajan 105 ap JC (Wikimedia)*
 
@@ -150,7 +150,7 @@ constante.
 
 .. figure:: images/zoom_histoire_5.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Le conquistador Francisco Pizarro (Wikimedia)*
 
@@ -161,7 +161,7 @@ de monnaie en a donc stabilisé le prix facial.
 
 .. figure:: images/zoom_histoire_6.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Inflation d'or et d'argent suite à la conquête Espagnole (Luc Fievet TRM 2.0)*
 
@@ -186,7 +186,7 @@ monnaie proposée.
 
 .. figure:: images/zoom_histoire_7.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Reales en argent (Wikimedia)*
 
@@ -250,7 +250,7 @@ thésaurisation ou les investissements extérieurs à la zone économique concer
 
 .. figure:: images/zoom_histoire_8.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Un exemple de thésaurisation et d'investissement avec fuite (Luc Fievet TRM 2.0)*
 
@@ -287,7 +287,7 @@ John Locke 1632 - 1704
 
 .. figure:: images/zoom_histoire_9.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *John Locke (wikimedia)*
 
@@ -302,7 +302,7 @@ Les monnaies fiduciaires, premières monnaies expansionnistes
 
 .. figure:: images/zoom_histoire_10.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Caricature du système de Law (Wikimedia)*
 
@@ -407,7 +407,7 @@ politique.
 
 .. figure:: images/zoom_histoire_11.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Thomas Paine (wikimedia)*
 
@@ -474,7 +474,7 @@ internationale basée sur une valeur de référence fixe.
 
 .. figure:: images/zoom_histoire_12.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Charles Ponzi, inventeur de la pyramide du même nom (Wikimedia)*
 
@@ -488,7 +488,7 @@ correction du biais des intérêts liés aux dettes.
 
 .. figure:: images/zoom_histoire_13.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Clifford Hugh Douglas (wikimedia)*
 
@@ -505,7 +505,7 @@ un.
 
 .. figure:: images/zoom_histoire_14.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Evolution du prix de l'or en $ jusqu'en 1971*
 
@@ -596,7 +596,7 @@ l'espace-temps.
 
 .. figure:: images/zoom_histoire_15.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Trois étapes d'émission de l'« argent dette » (Luc Fievet TRM 2.0)*
 
@@ -605,7 +605,7 @@ Yoland Bresson, né en 1942
 
 .. figure:: images/zoom_histoire_16.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Yoland Bresson en 2012 (wikimedia)*
 
@@ -682,7 +682,7 @@ Graphique historique
 
 .. figure:: images/zoom_histoire_17.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Les différentes formes monétaires depuis 12 000 ans*
 
@@ -725,7 +725,7 @@ ce montant.
 
 .. figure:: images/zoom_histoire_18.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Evolution en France en 2011, du revenu net perçu*
     *(zones bleue + orange = RSA + complément net.*

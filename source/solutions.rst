@@ -133,7 +133,7 @@ d'entre eux vis à vis de la création monétaire dans l'ensemble de l'espace-te
 
 .. figure:: images/solutions_1.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *(Luc Fievet TRM 2.0)*
 
@@ -153,7 +153,7 @@ et cohérentes d'encadrement.
 
 .. figure:: images/solutions_2.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *En vert sont marquées les naissances, en rouge les décès des individus,*
     *l'axe vertical étant le temps (Luc Fievet TRM 2.0)*
@@ -175,7 +175,7 @@ passage d'une coordonnée de temps à la suivante de tous ceux qui restent en vi
 
 .. figure:: images/solutions_3.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *En vert les générations vivantes à « t ».*
     *On doit voir et comprendre sur ce schéma*
@@ -191,7 +191,7 @@ de vie » en parcourant l'ensemble du jet d'eau, qui lui semble immuable.
 
 .. figure:: images/solutions_4.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Fontaine (wikimedia)*
 
@@ -258,7 +258,7 @@ aussi des congés.
 
     .. figure:: images/solutions_5.png
         :align: center
-        :width: 450px
+        :scale: 100
 
         *La génération marquée ici en bleu*
         *ne représente plus que 1/ev*
@@ -291,7 +291,7 @@ valeur quantitative et valeur relative.
 
 .. figure:: images/solutions_6.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Au bout de 80 unités de temps,*
     *la génération précédente représentée par 1 à t = 0*
@@ -335,7 +335,7 @@ une fonction qui varie très peu).
 
 .. figure:: images/solutions_7.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Valeurs acceptables (en bleu) du % du dividende universel*
     *en fonction de l'espérance de vie*

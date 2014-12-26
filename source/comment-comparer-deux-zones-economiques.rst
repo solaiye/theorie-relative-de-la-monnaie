@@ -113,7 +113,7 @@ la hauteur de la densité de la masse monétaire.
 
 .. figure:: images/comment_comparer_1.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Evolution selon un rapport Mb/Ma stable via la monétisation temporelle.*
     *Seule la quantité monétaire des échanges augmente*
@@ -121,7 +121,7 @@ la hauteur de la densité de la masse monétaire.
 
 .. figure:: images/comment_comparer_2.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Evolution selon un rapport Ma/Na stable via la monétisation spatiale.*
     *La quantité monétaire par citoyen monétisé*

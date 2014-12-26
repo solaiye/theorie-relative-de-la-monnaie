@@ -68,7 +68,7 @@ communiquée et certainement non-dense.
 
 .. image:: images/masse_monetaire_relativite_1.png
     :align: center
-    :width: 450px
+    :scale: 100
 
 Cette création monétaire bénéficie essentiellement aux États et aux grandes
 entreprises quand bien même ils produisent le plus souvent avec des processus
@@ -134,7 +134,7 @@ représenter la garantie de la transparence.
 
 .. image:: images/masse_monetaire_relativite_2.png
     :align: center
-    :width: 450px
+    :scale: 100
 
 
 La théorie relative de la monnaie ne dit pas qu'un « salaire » devrait suivre

@@ -39,7 +39,7 @@ Où V = t = nombre de cycles complets d'échanges monétisés.
 
 .. figure:: images/theorie_quantitative_1.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Lignes circulaires des échanges de valeurs et de monnaie (Luc Fievet TRM 2.0)*
 
@@ -56,7 +56,7 @@ concerne que ses acteurs, et n'est stable ni dans le temps, ni dans l'espace
 
 .. figure:: images/theorie_quantitative_2.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *SEL et valeurs non monétisées dans la monnaie « dette » centrale (Luc Fievet TRM 2.0)*
 

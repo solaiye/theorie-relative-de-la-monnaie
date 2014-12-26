@@ -28,7 +28,7 @@ la possibilité d'échanger de façon convenable la production des uns et des au
 afin de satisfaire leurs besoins évolutifs respectifs.
 
 .. figure:: images/probleme_des_trois_producteurs.png
-    :width: 450px
+    :scale: 100
     :align: center
     :figclass: align-center
 
@@ -62,7 +62,7 @@ par manque de monnaie.
 
 .. figure:: images/probleme_des_trois_producteurs_2.png
     :align: center
-    :width: 450px
+    :scale: 100
 
     *Le problème des trois producteurs se complique*
     *lorsqu'au bout d'un temps suffisamment long ils sont morts et remplacés (Luc Fievet TRM 2.0)*
