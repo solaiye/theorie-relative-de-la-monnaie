@@ -32,14 +32,9 @@ afin de satisfaire leurs besoins évolutifs respectifs.
     :align: center
     :figclass: align-center
 
-    *figure 1*
-
-    | *Pour une petite unité de temps « dt »*
-      *les individus X Y et Z co-existent,*
-    | *produisent et échangent des valeurs stables.*
-    | *(Luc Fievet TRM 2.0)*
-    |
-
+    *Pour une petite unité de temps « dt »*
+    *les individus X Y et Z co-existent,*
+    *produisent et échangent des valeurs stables. (Luc Fievet TRM 2.0)*
 
 Donc, non seulement *« dans l'espace »* (pour un temps d'évolution court «dt»)
 les valeurs ne sont pas communément reconnues par les producteurs
@@ -69,12 +64,8 @@ par manque de monnaie.
     :align: center
     :width: 450px
 
-    *figure 2*
-
-    | *Le problème des trois producteurs se complique*
-    | *lorsqu'au bout d'un temps suffisamment long ils sont morts et remplacés*
-    | *(Luc Fievet TRM 2.0)*
-    |
+    *Le problème des trois producteurs se complique*
+    *lorsqu'au bout d'un temps suffisamment long ils sont morts et remplacés (Luc Fievet TRM 2.0)*
 
 Le problème est posé, nous allons maintenant balayer les solutions envisagées
 et les soucis qu'elles posent avant d'aborder la solution relativiste proprement dite.

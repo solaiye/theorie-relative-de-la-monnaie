@@ -161,14 +161,12 @@ relativement aux valeurs.
     :align: center
     :width: 450px
 
-    *Exemple graphique*
-
-    | *avec trois individus, ayant une répartition monétaire de 300,*
-    | *avant Dividende Universel, puis après.*
-    | *L'évolution de leur situation relative est différente*
-    | *selon la part relative de monnaie possédée par chacun.*
-    |
-
+    *Exemple graphique avec trois individus,*
+    *ayant une répartition monétaire de 300,*
+    *avant Dividende Universel, puis après.*
+    *L'évolution de leur situation relative*
+    *est différente selon la part relative*
+    *de monnaie possédée par chacun.*
 
 En théorie relative où l'analyse comprend la relation entre les parties et le
 tout, Local + Non Local  = Global. Cela signifie que tout ce qui est choisi
@@ -196,16 +194,13 @@ imprévisible.
     :width: 450px
 
     *Mais par ailleurs,*
-
-    | *avant et après la distribution d'un dividende universel,*
-    | *les prix des biens non-monétaires pourront eux-aussi évoluer.*
-    | *Il n'est donc pas de conclusion possible simple et généralisable*
-    | *quant à la distribution monétaire, si ce n'est qu'elle n'est ni favorable*
-    | *ni défavorable pour tous, tout le temps, mais que son effet bénéfique ou non*
-    | *dépend de l'individu concerné et de comment le surplus monétaire sera distribué d'une part,*
-    | *et utilisé par les individus d'autre part.*
-    |
-
+    *avant et après la distribution d'un dividende universel,*
+    *les prix des biens non-monétaires pourront eux-aussi évoluer.*
+    *Il n'est donc pas de conclusion possible simple et généralisable*
+    *quant à la distribution monétaire, si ce n'est qu'elle n'est ni favorable*
+    *ni défavorable pour tous, tout le temps, mais que son effet bénéfique ou non*
+    *dépend de l'individu concerné et de comment le surplus monétaire sera distribué d'une part,*
+    *et utilisé par les individus d'autre part.*
 
 Aussi il n'existe aucune certitude possible quant à ce qu'il conviendrait de
 faire dans le cadre de la « protection » de son capital, qui est donc ici aussi
@@ -269,6 +264,4 @@ Amish est très sensiblement différente de celle d'une autre communauté.
     :align: center
     :width: 450px
 
-    *Fermier Amish fertilisant son champ*
-
-    | *(wikimedia)*
+    *Fermier Amish fertilisant son champ (wikimedia)*

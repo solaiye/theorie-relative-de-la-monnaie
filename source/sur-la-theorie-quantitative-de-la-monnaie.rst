@@ -41,11 +41,7 @@ Où V = t = nombre de cycles complets d'échanges monétisés.
     :align: center
     :width: 450px
 
-    *Lignes circulaires des échanges de valeurs et de monnaie*
-
-    | *(Luc Fievet TRM 2.0)*
-    |
-
+    *Lignes circulaires des échanges de valeurs et de monnaie (Luc Fievet TRM 2.0)*
 
 Qui est donc une égalité ne concernant que des quantités intégrales globales. Ce
 résultat ne tient pas compte des fluctuations locales du repère spatio-temporel,
@@ -62,11 +58,7 @@ concerne que ses acteurs, et n'est stable ni dans le temps, ni dans l'espace
     :align: center
     :width: 450px
 
-    *SEL et valeurs non monétisées dans la monnaie « dette » centrale*
-
-    | *(Luc Fievet TRM 2.0)*
-    |
-
+    *SEL et valeurs non monétisées dans la monnaie « dette » centrale (Luc Fievet TRM 2.0)*
 
 Si  tant est que la monnaie est créée de façon asymétrique, non dense, la valeur
 se stocke ou s'échange alors massivement dans une autre partie de l'économie

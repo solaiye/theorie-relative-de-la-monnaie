@@ -103,9 +103,7 @@ chargé d'une dette produite mécaniquement par un remboursement total dû (capi
     :width: 450px
 
     *b) L'émetteur de crédits par effet de levier crée de la monnaie supplémentaire*
-    *qui alimente un producteur arbitrairement sélectionné.*
-    *(Luc Fievet TRM 2.0)*
-
+    *qui alimente un producteur arbitrairement sélectionné. (Luc Fievet TRM 2.0)*
 
 Ce phénomène local est bien évidemment exactement le même au niveau global, la
 fin de cycle étant à ce niveau là le moment où l'ensemble du secteur bancaire a
@@ -119,9 +117,7 @@ taux de croissance global de la monnaie.
     :align: center
     :width: 450px
 
-    *c) Force de remboursement du crédit arbitrairement émis et alloué*
-    *(Luc Fievet TRM 2.0)*
-
+    *c) Force de remboursement du crédit arbitrairement émis et alloué (Luc Fievet TRM 2.0)*
 
 Ainsi quelle que soit la valeur créée dans l'économie d'un système monétaire
 centralisé, le bénéfice revient toujours aux émetteurs asymétriques de crédits
@@ -146,9 +142,7 @@ un risque véritable de perte sans que l'économie en soit globalement affectée
     :width: 450px
 
     *Faillite forcée par assèchement monétaire progressif,*
-    *et captation de toute la valeur par le centre d'émission*
-    *(Luc Fievet TRM 2.0)*
-
+    *et captation de toute la valeur par le centre d'émission (Luc Fievet TRM 2.0)*
 
 Vérification expérimentale
 ==========================
@@ -188,7 +182,6 @@ Pour M3 € nous obtenons alors ceci :
 
     *Ecart type sur 12 mois de la croissance de M3 € 1998 - 2010*
 
-
 Il y a donc une accaparation de la monnaie créée arbitrairement sur des flux
 monétaires identifiés par les acteurs de ces expansions à résonance, au
 détriment de tout le reste de l'économie.
@@ -212,6 +205,5 @@ des autres acteurs économiques.
     :width: 450px
 
     *Ecart type sur 12 mois de la croissance de M3 $ 1958 - 2010*
-
 
 

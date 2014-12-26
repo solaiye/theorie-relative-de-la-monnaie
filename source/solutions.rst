@@ -155,12 +155,8 @@ et cohérentes d'encadrement.
     :align: center
     :width: 450px
 
-    *(Luc Fievet TRM 2.0)*
-
-    | *En vert sont marquées les naissances, en rouge les décès des individus,*
-    | *l'axe vertical étant le temps*
-
-
+    *En vert sont marquées les naissances, en rouge les décès des individus,*
+    *l'axe vertical étant le temps (Luc Fievet TRM 2.0)*
 
 b) Optimisation et espérance de vie
 ===================================
@@ -181,13 +177,10 @@ passage d'une coordonnée de temps à la suivante de tous ceux qui restent en vi
     :align: center
     :width: 450px
 
-    *En vert les générations vivantes à « t »*
-
-    | *On doit voir et comprendre sur ce schéma*
-    | *la hauteur temporelle d'existence « ev »*
-    | *et son centre de symétrie « ev/2 »*
-    |
-
+    *En vert les générations vivantes à « t ».*
+    *On doit voir et comprendre sur ce schéma*
+    *la hauteur temporelle d'existence « ev »*
+    *et son centre de symétrie « ev/2 »*
 
 Pour se donner une analogie, cela peut faire penser à une fontaine qui semble
 toujours la même vue de loin bien que ses gouttes d'eau disparaissent de proche
@@ -201,7 +194,6 @@ de vie » en parcourant l'ensemble du jet d'eau, qui lui semble immuable.
     :width: 450px
 
     *Fontaine (wikimedia)*
-
 
 Une fois cette observation comprise et intégrée avec les résultats précédents,
 nous pouvons donc poser comme relation fondamentale que la création de la masse
@@ -266,14 +258,11 @@ aussi des congés.
     :align: center
     :width: 450px
 
-    *Notez la génération ici marquée en bleu*
-
-    | *Elle ne représente plus que 1/ev*
-    | *de l'ensemble des vivants, a participé à la création monétaire*
-    | *de la génération précédente pour M(t) durant son existence*
-    | *alors que la masse monétaire en vigueur est M(t+ev)*
-    |
-
+    *La génération marquée ici en bleu*
+    *ne représente plus que 1/ev*
+    *de l'ensemble des vivants, a participé à la création monétaire*
+    *de la génération précédente pour M(t) durant son existence*
+    *alors que la masse monétaire en vigueur est M(t+ev)*
 
 On pourra remarquer que la monnaie étant quantitative sous sa forme utile,
 l'aspect continu n'étant qu'apparent (cf. l'analogie de la fontaine), le
@@ -290,12 +279,9 @@ valeur quantitative et valeur relative.
     :align: center
     :width: 450px
 
-    *Au bout de 80 unités de temps...*
-
-    | *la génération précédente représentée par 1 à t = 0*
-    | *ne représentera plus que 1/80ème de la monnaie existante*
-    |
-
+    *Au bout de 80 unités de temps,*
+    *la génération précédente représentée par 1 à t = 0*
+    *ne représentera plus que 1/80ème de la monnaie existante*
 
 Conclusion
 ==========
@@ -338,13 +324,10 @@ une fonction qui varie très peu).
     :width: 450px
 
     *Valeurs acceptables (en bleu) du % du dividende universel*
-
-    | *en fonction de l'espérance de vie*
-    | *En dessous de la zone coloriée*
-    | *un dividende trop faible aura tendance à favoriser les sortants,*
-    | *tandis qu'au dessus un dividende trop élevé*
-    | *aura tendance à favoriser les entrants*
-    |
-
+    *en fonction de l'espérance de vie*
+    *En dessous de la zone coloriée*
+    *un dividende trop faible aura tendance à favoriser les sortants,*
+    *tandis qu'au dessus un dividende trop élevé*
+    *aura tendance à favoriser les entrants*
 
 Ces résultats concluent notre développement théorique principal.

@@ -115,11 +115,15 @@ la hauteur de la densité de la masse monétaire.
     :align: center
     :width: 450px
 
-    *Evolution selon un rapport Mb/Ma stable via la monétisation temporelle. Seule la quantité monétaire des échanges augmente et maintient stable la vitesse de circulation (Luc Fievet TRM 2.0)*
-
+    *Evolution selon un rapport Mb/Ma stable via la monétisation temporelle.*
+    *Seule la quantité monétaire des échanges augmente*
+    *et maintient stable la vitesse de circulation (Luc Fievet TRM 2.0)*
 
 .. figure:: images/comment_comparer_2.png
     :align: center
     :width: 450px
 
-    *Evolution selon un rapport Ma/Na stable via la monétisation spatiale. La quantité monétaire par citoyen monétisé (nouveaux citoyens monétisés = deuxième cercle) reste stable (Luc Fievet TRM 2.0)*
+    *Evolution selon un rapport Ma/Na stable via la monétisation spatiale.*
+    *La quantité monétaire par citoyen monétisé*
+    *(nouveaux citoyens monétisés = deuxième cercle) reste stable (Luc Fievet TRM 2.0)*
+

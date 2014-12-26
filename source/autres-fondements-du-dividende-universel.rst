@@ -90,11 +90,11 @@ avantage, et leur permet à tout moment d'acheter ou de copier toute innovation
 par création de fausse monnaie momentanée.
 
 Le Dividende Universel est une création monétaire neutre et symétrique dans
-l'espace et le temps, qui rend à la monnaie son sens premier : un Crédit Mutuel
-entre Citoyens, versé non pas en une fois, mais progressivement, tout le long de
+l'espace et le temps, qui rend à la monnaie son sens premier : *un Crédit Mutuel*
+*entre Citoyens*, versé non pas en une fois, mais progressivement, tout le long de
 la vie, et de façon relative à la richesse mesurable (Proportionnelle à la masse
 monétaire / Citoyen), sans léser aucun individu présent ou à venir quel que soit
-son âge. 
+son âge.
 
 Le Dividende Universel joue alors non seulement un rôle neutre quant à
 l'investissement via la croissance de la masse monétaire répartie entre tous les
@@ -165,12 +165,12 @@ Des sites internet et des blogs ont repris ou cité les idées de la TRM et
 apportent d'autres interprétations compatibles et très pertinentes du Dividende
 Universel :
 
-* http://revenudebase.info/ 
-* http://www.tetedequenelle.fr 
-* http://blog.rom1v.com 
-* http://aymericpontier.blogspot.com 
-* http://blog.tcrouzet.com 
-* http://changaco.net/ 
+* http://revenudebase.info/
+* http://www.tetedequenelle.fr
+* http://blog.rom1v.com
+* http://aymericpontier.blogspot.com
+* http://blog.tcrouzet.com
+* http://changaco.net/
 
 Par ailleurs l'article wikipédia sur « l'allocation universelle » regorge
 d'information, y compris sur les expériences (toutes réussies) des zones

@@ -60,11 +60,7 @@ bas dans l'autre uniquement à cause de la densité monétaire ainsi distribuée
     :align: center
     :width: 450px
 
-    *Variations spatiales du champ de valeur*
-
-    | *(Luc Fievet TRM 2.0)*
-    |
-
+    *Variations spatiales du champ de valeur (Luc Fievet TRM 2.0)*
 
 *NB : Yoland Bresson définit le champ de valeur comme*
 
@@ -102,7 +98,6 @@ centralisée dévaluera lentement la monnaie disponible dans le reste de la zone
 
     *(Luc Fievet TRM 2.0)*
 
-
 Le terme « monnaie-dette » est insuffisant pour comprendre le mécanisme, parce
 que la dette émise n'est en fait jamais vraiment remboursée, seuls les intérêts
 sont en général payés assurant une rente perpétuelle à l'émetteur
@@ -138,14 +133,10 @@ monnaies à émission asymétrique.
     :width: 450px
 
     *Le SEL est « plat » initialement,*
-
-    | *sa densité de création monétaire est spatialement équilibrée.*
-    | *Elle ne le sera pas temporellement s'il utilise*
-    | *un crédit mutuel fixe donc créé une seule fois*
-    | *à l'origine de son axe de temps économique*
-    | *(Luc Fievet TRM 2.0)*
-    |
-
+    *sa densité de création monétaire est spatialement équilibrée.*
+    *Elle ne le sera pas temporellement s'il utilise*
+    *un crédit mutuel fixe donc créé une seule fois*
+    *à l'origine de son axe de temps économique (Luc Fievet TRM 2.0)*
 
 Le champ de valeur de la production non monétisée
 =================================================
@@ -192,14 +183,10 @@ d'établir un lien monétaire communautaire, et qui se déploient rapidement.
     :width: 450px
 
     *La production non-monétisée*
-
-    | *peut-être tout à fait énorme en terme de valeur*
-    | *et arbitrairement ignorée d'un centre arbitraire*
-    | *d'émission d'une « monnaie dette » qui ne monétise que ce qu'il connaît,*
-    | *niant ainsi la deuxième liberté économique.*
-    | *(Luc Fievet TRM 2.0)*
-    |
-
+    *peut-être tout à fait énorme en terme de valeur*
+    *et arbitrairement ignorée d'un centre arbitraire*
+    *d'émission d'une « monnaie dette » qui ne monétise que ce qu'il connaît,*
+    *niant ainsi la deuxième liberté économique. (Luc Fievet TRM 2.0)*
 
 Cependant, pour compenser ce triste constat, sans doute temporaire, on peut
 remarquer que les grandes communautés créées autour d'activités ludiques comme
@@ -243,10 +230,7 @@ productives.
     :align: center
     :width: 450px
 
-    *Champ de valeurs fluctuant, sans point central*
-
-    | *(Luc Fievet TRM 2.0)*
-    |
+    *Champ de valeurs fluctuant, sans point central (Luc Fievet TRM 2.0)*
 
 Il n'y a pas dans ce type d'économie de point central de création de monnaie, ce
 qui rend tout projet, toute production, et tout circuit économique autonome

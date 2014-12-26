@@ -15,8 +15,8 @@
             <div class="span4 right"><div>
     <a href="index.html">sommaire</a> |
     {%- if prev %}
-    <a 
-        href="{{ prev.link|e }}" 
+    <a
+        href="{{ prev.link|e }}"
         title="{{ _('previous chapter') }}"
         >précédent</a>
     {%- endif %}
@@ -24,8 +24,8 @@
     |
     {%- endif %}
     {%- if next %}
-    <a 
-        href="{{ next.link|e }}" 
+    <a
+        href="{{ next.link|e }}"
         title="{{ _('next chapter') }}"
         >suivant</a>
     {%- endif %}
@@ -41,8 +41,6 @@
     <h1>{{ docstitle }}</h1>
 
     <span>© Stéphane Laborde 2012 (GNU Public Licence V3)</span>
-
-    <p style="color: red; text-align: center;">Attention, la conversion du <a href="http://www.creationmonetaire.info/2011/06/theorie-relative-de-la-monnaie-20.html">livre</a> au format <a href="http://fr.wikipedia.org/wiki/ReStructuredText">ReStructuredText</a>/<a href="http://fr.wikipedia.org/wiki/Sphinx_%28g%C3%A9n%C3%A9rateur_de_documentation%29">Sphinx</a> n'est pas totalement fini !</p>
 </div>
 {%- endif %}
             {% block body %} {% endblock %}
@@ -62,7 +60,7 @@ Hyphenator.config({
     minwordlength : 4,
     defaultlanguage: 'fr'
 });
-Hyphenator.run(); 
+Hyphenator.run();
 </script>
 
 <div class="container footer">

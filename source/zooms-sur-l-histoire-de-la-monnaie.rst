@@ -21,8 +21,11 @@ monétaire par ceux qui avaient accès aux stocks de cette valeur de référence
 ceci expliquant sans doute que des stocks aussi importants soient parvenus
 jusqu'à nous.
 
-[image]
+.. figure:: images/zoom_histoire_1.png
+    :align: center
+    :width: 450px
 
+    *Haches en Jade du néolithique (Wikimedia)*
 
 Les monnaies métalliques, premières monnaies limitant l'inflation
 =================================================================
@@ -50,7 +53,11 @@ l'émission n'est pas au cœur des valeurs fondamentales.
 L'expansion de l'Empire Romain s'accompagne d'expansion monétaire régulièrement
 « dévaluée » au profit d'un émetteur central : Rome.
 
-[image]
+.. figure:: images/zoom_histoire_2.png
+    :align: center
+    :width: 450px
+
+    *Solidus, 327 ap JC (Wikimedia)*
 
 Denier, Sesterce, Aureus, Antoninien, Valérien, Argenteus, Solidus, se
 succèdent. Composés de  bronze, cuivre, argent et or en fonction des conquêtes
@@ -65,7 +72,11 @@ lentement dévaluée par l'émetteur central qui met de moins en moins de métal
 précieux dans ses pièces, n'ayant évidemment pas accès à des ressources
 infinies.
 
-[image]
+.. figure:: images/zoom_histoire_3.png
+    :align: center
+    :width: 450px
+
+    *Région aurifère de Las Medulas exploitée par Rome du Ier au IIIe siècle ap JC (Wikimedia)*
 
 Le solidus, basé sur une quantité d'or fixe n'est pas abandonné par perte de
 valeur, mais par rareté. Ce n'est pas sa valeur qui lui fait perdre son statut
@@ -88,7 +99,11 @@ d'échange parce que l'expansion économique accompagne sa transformation, alors
 ce qui est « perdu » unitairement est « gagné » globalement. Il restera à savoir
 d'où vient le surplus constaté.
 
-[image]
+.. figure:: images/zoom_histoire_4.png
+    :align: center
+    :width: 450px
+
+    *Sesterce de trajan 105 ap JC (Wikimedia)*
 
 La bulle Espagnole d'or et d'argent
 ===================================
@@ -104,7 +119,7 @@ et l'Europe » :
 « Les deux grandes prises de guerre faites dans l'Empire aztèque et surtout dans
 l'Empire Inca rapportèrent d'importantes sommes d'argent à la couronne d'Espagne
 et aux conquistadores. La rançon de l’empereur inca Atahualpa représente selon
-Pierre Chaunu un demi-siècle de production de métaux précieux en Europe. 
+Pierre Chaunu un demi-siècle de production de métaux précieux en Europe.
 
 Les mines rapporteront encore plus que les butins de guerre : d'abord par les
 quelques sources d'or à Cuba au début du XVIe siècle, puis les très grandes
@@ -133,14 +148,22 @@ s'est diffusée dans l'économie (estimée ici selon Hamilton à cinq fois plus)
 aurait fait monter le prix d'un facteur 5 à production et consommation
 constante.
 
-[image]
+.. figure:: images/zoom_histoire_5.png
+    :align: center
+    :width: 450px
+
+    *Le conquistador Francisco Pizarro (Wikimedia)*
 
 En supposant une stabilité relative de la production des biens et des services
 entre ces deux dates, on serait en droit de prétendre que le coût de la
 production de blé a baissé d'un facteur 5 tandis que l'injection de 5 fois plus
 de monnaie en a donc stabilisé le prix facial.
 
-[image]
+.. figure:: images/zoom_histoire_6.png
+    :align: center
+    :width: 450px
+
+    *Inflation d'or et d'argent suite à la conquête Espagnole (Luc Fievet TRM 2.0)*
 
 Ce raccourci ne tient pas compte des changements de comportement économique, de
 l'augmentation du nombre d'individus (qui réduit la part de monnaie / personne)
@@ -161,8 +184,11 @@ mathématique. Comment cette monnaie sera-t-elle alors gérée ? C'est la confia
 dans l'éthique de l'outil d'échange qui assurera l'adhésion des Citoyens à la
 monnaie proposée.
 
-[image]
+.. figure:: images/zoom_histoire_7.png
+    :align: center
+    :width: 450px
 
+    *Reales en argent (Wikimedia)*
 
 L'effondrement à éviter : thésaurisation et déflation
 =====================================================
@@ -222,7 +248,11 @@ progressivement la densité monétaire partout, en réparant lentement mais
 progressivement et sans à-coups, les fuites inévitables via les excès de
 thésaurisation ou les investissements extérieurs à la zone économique concernée.
 
-[image]
+.. figure:: images/zoom_histoire_8.png
+    :align: center
+    :width: 450px
+
+    *Un exemple de thésaurisation et d'investissement avec fuite (Luc Fievet TRM 2.0)*
 
 Enfin, un parallèle avec la physique n'est pas sans intérêt. On sait depuis les
 théories énergétiques que le mouvement perpétuel est impossible. Le mouvement
@@ -243,7 +273,7 @@ machines à mouvements perpétuels.
 Penser qu'une quantité de monnaie fixe serait un gage de la stabilité de la
 « valeur » de cette monnaie, c'est ne pas comprendre la Relativité de la mesure
 individuelle de la valeur, et ne pas tenir compte non plus du simple fait
-expérimental, qui démontre tout le long de l'histoire de la monnaie depuis 10 000 
+expérimental, qui démontre tout le long de l'histoire de la monnaie depuis 10 000
 ans, que d'une façon forcée ou consciemment acceptée l'expansion des masses
 monétaires est inévitable. En comprenant ce phénomène on transformera les
 changements cycliques de rattrapage brutalement vécus, souvent sources de
@@ -255,7 +285,11 @@ difficilement contestable, et surtout assurant toujours les libertés
 John Locke 1632 - 1704
 ======================
 
-[image]
+.. figure:: images/zoom_histoire_9.png
+    :align: center
+    :width: 450px
+
+    *John Locke (wikimedia)*
 
 John Locke, philosophe précurseur des lumières met des limites et tempère le
 droit de propriété par la « clause lockéenne » qui déclare que l'on ne peut
@@ -266,7 +300,11 @@ suffisamment et en assez bonne qualité pour autrui.
 Les monnaies fiduciaires, premières monnaies expansionnistes
 ============================================================
 
-[image]
+.. figure:: images/zoom_histoire_10.png
+    :align: center
+    :width: 450px
+
+    *Caricature du système de Law (Wikimedia)*
 
 Au XVIIIème siècle le « système de law » du nom de l'écossais « Jonh Law » est
 officiellement mis en place au sein d'une proto-banque centrale en France. Law
@@ -353,13 +391,13 @@ Thomas Paine 1737 – 1809
 Thomas Paine, révolutionnaire Américain, puis Français, déclare dans « les
 droits de l'Homme » publiés en 1792 l'assertion suivante :
 
-"Ceux qui ont quitté ce monde et ceux qui n'existent pas encore sont à la plus
-grande distance les uns des autres que l'imagination humaine puisse concevoir :
-quelle possibilité d'obligation peut-il donc y avoir entre eux ? Quelle règle ou
-quel principe peut-on poser pour que deux êtres imaginaires dont l'un a cessé
-d'être et l'autre n'existe pas encore, et qui ne peuvent jamais se rencontrer
-dans ce monde, l'un soit autorisé à maîtriser l'autre jusqu'à la consommation
-des siècles ?"
+*"Ceux qui ont quitté ce monde et ceux qui n'existent pas encore sont à la plus*
+*grande distance les uns des autres que l'imagination humaine puisse concevoir :*
+*quelle possibilité d'obligation peut-il donc y avoir entre eux ? Quelle règle ou*
+*quel principe peut-on poser pour que deux êtres imaginaires dont l'un a cessé*
+*d'être et l'autre n'existe pas encore, et qui ne peuvent jamais se rencontrer*
+*dans ce monde, l'un soit autorisé à maîtriser l'autre jusqu'à la consommation*
+*des siècles ?"*
 
 En 1795 trois ans après « les droits de l'Homme » Thomas Paine, alors député
 Français, publie « Agrarian Justice » dans lequel il déclare qu'il ne peut y
@@ -367,8 +405,11 @@ avoir de citoyens sans revenu et que chaque citoyen devant être représenté, i
 doit bénéficier d'un revenu universel de base lui permettant son existence
 politique.
 
-[image]
+.. figure:: images/zoom_histoire_11.png
+    :align: center
+    :width: 450px
 
+    *Thomas Paine (wikimedia)*
 
 Invention du Levier Bancaire réglementé
 =======================================
@@ -431,8 +472,11 @@ le reste de l'économie qui s'effondre et conduit à des désordres sociaux et
 politiques d'envergure historique. 1929 était la dernière crise de taille
 internationale basée sur une valeur de référence fixe.
 
-[image]
+.. figure:: images/zoom_histoire_12.png
+    :align: center
+    :width: 450px
 
+    *Charles Ponzi, inventeur de la pyramide du même nom (Wikimedia)*
 
 Clifford Hugh Douglas 1879 – 1952
 =================================
@@ -442,8 +486,11 @@ pour la première fois on voit l'approche d'un « dividende monétaire » qui 
 démontrée comme essentielle pour assurer l'équilibre de la monnaie et la
 correction du biais des intérêts liés aux dettes.
 
-[image]
+.. figure:: images/zoom_histoire_13.png
+    :align: center
+    :width: 450px
 
+    *Clifford Hugh Douglas (wikimedia)*
 
 L'instabilité de la valeur de référence
 =======================================
@@ -456,7 +503,12 @@ devant une demande excessive soutenue par l'expansion monétaire comme le montre
 ce graphique du prix en dollar de « l'étalon » qui n'en était déjà plus vraiment
 un.
 
-[image]
+.. figure:: images/zoom_histoire_14.png
+    :align: center
+    :width: 450px
+
+    *Evolution du prix de l'or en $ jusqu'en 1971*
+
 
 C'est ainsi que dès 1967 le prix de l'or commence à lâcher prise.
 L'impossibilité de fournir la valeur de référence à prix fixe au sein d'une
@@ -488,7 +540,7 @@ producteurs éloignés du centre.
 
 Il y a toujours dans ce système un effet de levier profitant à l'émetteur
 asymétrique de monnaie qui crée de la monnaie par du crédit arbitraire « gagé »,
-en cas de faillite de l'emprunteu, par un taux de par exemple 8 % de réserve...
+en cas de faillite de l'emprunteur, par un taux de par exemple 8 % de réserve...
 constituée de … la même monnaie ! Ce changement est une manne pour le secteur
 financier, puisque ce type de réserve étant manipulable aisément, on peut
 toujours, dans les cas de crises, trouver des solutions, qui quoique éthiquement
@@ -508,13 +560,13 @@ Comment marche ce système de réserves fractionnaires du point de vue de
 l'économie ? Ce système crée des cycles artificiels, au bénéfice des émetteurs
 asymétriques :
 
-Étape 1 : le système financier se consolide, et sur la base de ses "fonds
-propres" va pouvoir émettre de la dette « € » à intérêts qui vient "irriguer
+**Étape 1 :** le système financier se consolide, et sur la base de ses "fonds
+propres" va pouvoir émettre de la dette **« € »** à intérêts qui vient "irriguer
 l'économie" par un "effet de levier". Étape qui peut être longue et s'étaler sur
 10 ou 20 ans, la Banque Centrale assurant un contrôle de cette « spoliation
 réglementaire », à un taux suffisamment faible pour être supportable.
 
-Étape 2 : le système financier "se paye" par l'intérêt « I » de la dette ainsi
+**Étape 2 :** le système financier "se paye" par l'intérêt **« I »** de la dette ainsi
 émise (publique et privée). Les intérêts, et éventuellement le nominal des
 dettes, alimentent le "trou" ainsi constitué. Sauf que la dette émise n'a aucune
 raison de "revenir" à l'émetteur, puisque ayant dûment payé ceci ou cela, elle
@@ -522,7 +574,7 @@ se trouve en très grande partie thésaurisée par des épargnants, ou se retrou
 circulante au sein de micro-systèmes autonomes qui s'en servent à juste titre de
 moyen d'échange. Cette étape peut elle aussi durer de 10 à 20 ans...
 
-Étape 3 : du fait de l'impossibilité de retour de la dette émise avec les
+**Étape 3 :** du fait de l'impossibilité de retour de la dette émise avec les
 intérêts, le système financier, sur la base des faillites ainsi provoquées, se
 retrouve avec un bilan totalement instable, et en situation de faillite lui-même
 (il est quand même censé équilibrer son bilan). Il s'effondre sur lui-même. Il y
@@ -541,20 +593,27 @@ cette valeur sera vampirisée inéluctablement par l'émetteur asymétrique, lui
 assurant un « business modèle » absolu et infaillible, valable en tout point de
 l'espace-temps.
 
-[image]
+.. figure:: images/zoom_histoire_15.png
+    :align: center
+    :width: 450px
 
+    *Trois étapes d'émission de l'« argent dette » (Luc Fievet TRM 2.0)*
 
 Yoland Bresson, né en 1942
 ==========================
 
-[image]
+.. figure:: images/zoom_histoire_16.png
+    :align: center
+    :width: 450px
+
+    *Yoland Bresson en 2012 (wikimedia)*
 
 Dans « l'après salariat » publié en 1984 l'économiste Français Yoland Bresson
-déclare : 
+déclare :
 
-« Il faut que la collectivité, par le biais de l'État, alloue périodiquement à
-tout citoyen économique, sans autre considération que celle de son existence,
-l'équivalent monétaire de la valeur de l'unité de temps ».
+*« Il faut que la collectivité, par le biais de l'État, alloue périodiquement à*
+*tout citoyen économique, sans autre considération que celle de son existence,*
+*l'équivalent monétaire de la valeur de l'unité de temps ».*
 
 Yoland Bresson démontre un lien entre temps d'existence et valeur et calcule sur
 des considérations liées au PIB une valeur relative d'un revenu de base (qu'il
@@ -620,8 +679,11 @@ abondantes ?
 Graphique historique
 ====================
 
-[image]
+.. figure:: images/zoom_histoire_17.png
+    :align: center
+    :width: 450px
 
+    *Les différentes formes monétaires depuis 12 000 ans*
 
 Le Dividende Universel en application
 =====================================
@@ -660,7 +722,18 @@ comparable de 450 € / mois, les citoyens des autres pays récemment associés 
 monnaie commune n'en ont pas, et ont parfois des salaires minimum inférieurs à
 ce montant.
 
-[image]
+.. figure:: images/zoom_histoire_18.png
+    :align: center
+    :width: 450px
+
+    *Evolution en France en 2011, du revenu net perçu*
+    *(zones bleue + orange = RSA + complément net.*
+    *Les zones jaune, vert et rouge sont les taxes)*
+    *en fonction du chiffre d'affaire individuel total*
+    *ou salaire complet (abscisses = salaire complet).*
+    *Entre 600 € et 2200 € / mois de CA,*
+    *le Citoyen gagne toujours la même chose,*
+    *environ 1050 € / mois. (http://www.creationmonetaire.info « Le revenu de base en France »)*
 
 Dans ces conditions la production quitte les pays à haut revenu minimum pour
 aller vers ceux où il est bien plus bas voire inexistant, créant une forte
