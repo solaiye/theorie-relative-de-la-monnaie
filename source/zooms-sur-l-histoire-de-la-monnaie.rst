@@ -541,6 +541,7 @@ producteurs éloignés du centre.
 Il y a toujours dans ce système un effet de levier profitant à l'émetteur
 asymétrique de monnaie qui crée de la monnaie par du crédit arbitraire « gagé »,
 en cas de faillite de l'emprunteur, par un taux de par exemple 8 % de réserve...
+en cas de faillite de l'emprunteu, par un taux de par exemple 8 % de réserve...
 constituée de … la même monnaie ! Ce changement est une manne pour le secteur
 financier, puisque ce type de réserve étant manipulable aisément, on peut
 toujours, dans les cas de crises, trouver des solutions, qui quoique éthiquement

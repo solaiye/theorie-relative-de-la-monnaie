@@ -17,7 +17,6 @@ avec 10 000 milliards d'euros et 330 millions de citoyens le Dividende Universel
 optimisé serait alors compris entre :
 
 .. math::
-    :encoding: unicode
 
    DU = \frac{10 000 000 / 330 * 5,48\%}{12} = 138 € / mois / citoyen
 

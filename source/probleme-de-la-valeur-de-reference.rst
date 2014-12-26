@@ -18,26 +18,26 @@ n'est d'aucune utilité dans une zone économique pseudo-isolée,
 elle n'a d'autre rôle fondamental que de quantifier les échanges,
 ce qui est très avantageusement remplacé par une mesure purement mathématique.
 
-Certains tenants de la valeur de référence objectent qu'au moins avec cette valeur
-il est difficile de tricher quant à la création monétaire,
-puisqu'il faut apporter la valeur matérielle.
-Ceci est faux car l'histoire a montré que bien que gagée sur une valeur de référence,
-la monnaie n'en a pas moins subi des poussées inflationnistes
-ou déflationnistes et provoqué des faillites et des crises économiques par non respect
-de cette « preuve » matérielle. Ce n'est donc pas une question de gage,
-mais des problèmes de transparence, de confiance, autant que d'éthique
-et de respect de l'équité, qui font le fondement de la confiance dans la monnaie commune.
+Certains tenants de la valeur de référence objectent qu'au moins avec cette
+valeur il est difficile de tricher quant à la création monétaire, puisqu'il faut
+apporter la valeur matérielle. Ceci est faux car l'histoire a montré que bien
+que gagée sur une valeur de référence, la monnaie n'en a pas moins subi des
+poussées inflationnistes ou déflationnistes et provoqué des faillites et des
+crises économiques par non respect de cette « preuve » matérielle. Ce n'est donc
+pas une question de gage, mais des problèmes de transparence, de confiance,
+autant que d'éthique et de respect de l'équité, qui font le fondement de la
+confiance dans la monnaie commune.
 
 Par ailleurs, la valeur de référence n'est pas productible partout dans l'espace
-et encore moins dans le temps en fonction de sa rareté et de son épuisement,
-ce qui implique des périodes d'afflux et de raretés monétaires,
-un phénomène qui ne remplit pas les conditions de symétrie temporelle
-de la création monétaire quant aux générations futures.
-La génération qui décide d'adopter une monnaie de cette nature,
-le fait au détriment des générations suivantes, qui se verront imposer une monnaie
-devenue rare et possédée essentiellement par les premiers entrants
-ou leurs héritiers directs. C'est un facteur qui bafoue la liberté des hommes futurs profondément
-en bloquant leurs possibilités d'accéder aux ressources de produire et d' échanger « dans la monnaie ».
+et encore moins dans le temps en fonction de sa rareté et de son épuisement, ce
+qui implique des périodes d'afflux et de raretés monétaires, un phénomène qui ne
+remplit pas les conditions de symétrie temporelle de la création monétaire quant
+aux générations futures. La génération qui décide d'adopter une monnaie de cette
+nature, le fait au détriment des générations suivantes, qui se verront imposer
+une monnaie devenue rare et possédée essentiellement par les premiers entrants
+ou leurs héritiers directs. C'est un facteur qui bafoue la liberté des Hommes
+futurs profondément en bloquant leurs possibilités d'accéder aux ressources de
+produire et d'échanger « dans la monnaie ».
 
 Il existe quantité de preuves directes que les valeurs économiques
 ne sont pas jugées pareillement entre générations successives.
@@ -55,12 +55,12 @@ alors qu'ils sont déjà pour l'essentiel parmi nous
 et manifestent déjà leur volonté de transformer l'économie
 selon leur propre point de vue.
 
-Autre exemple pris sur le passé : Quand on voit la valeur relative de l'or,
-on constate sans aucune ambiguïté possible que, pour la génération des années 1980,
-il ne faisait pas de doute que ce métal était une valeur importante.
-Pourtant en 2010, et bien qu'en valeur faciale l'or ait battu ses records historiques
-rapporté à la totalité de la monnaie en circulation,
-il pèse bien moins dans l'économie quoique restant une valeur toujours échangée.
+Autre exemple pris sur le passé : quand on voit la valeur relative de l'or, on
+constate sans aucune ambiguïté possible que, pour la génération des années 1980,
+il ne faisait pas de doute que ce métal était une valeur importante. Pourtant en
+2010, et bien qu'en valeur faciale l'or ait battu ses records historiques
+rapporté à la totalité de la monnaie en circulation, il pèse bien moins dans
+l'économie quoique restant une valeur toujours échangée.
 
 Cela ne signifie pas que cette valeur spécifique ne puisse pas évoluer
 de nouveau vers de tels sommets relatifs, mais bien qu'elle évolue
@@ -79,11 +79,10 @@ qu'en 1971 l'étalon-or ait été abandonné au profit d'une monnaie totalement 
 dont la croissance globale est contrôlée par une Banque Centrale
 et par un ensemble de règles restreignant la capacité des Banques privées à émettre des crédits.
 
-Toutefois, le système de « l'argent-dette » bien qu'étant un pas en avant
-par rapport à un système à valeur de référence,
-reste biaisé par l'octroi de crédits centralisés sur des volumes
-et des valeurs arbitraires au détriment d'une large part
-de la population présente et à venir.
+Toutefois, le système de « l'argent-dette » bien qu'étant un pas en avant par
+rapport à un système à valeur de référence, reste biaisé par l'octroi de crédits
+centralisés sur des volumes et des valeurs arbitraires au détriment d'une large
+part de la population présente et à venir.
 
 .. plot:: pyplots/gold_price_m3.py
 

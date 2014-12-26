@@ -70,7 +70,6 @@ communiquée et certainement non-dense.
     :align: center
     :width: 450px
 
-
 Cette création monétaire bénéficie essentiellement aux États et aux grandes
 entreprises quand bien même ils produisent le plus souvent avec des processus
 dépassés et extrêmement coûteux, des valeurs désuètes et sans intérêt pour 90%

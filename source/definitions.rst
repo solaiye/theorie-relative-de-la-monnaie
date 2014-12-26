@@ -81,12 +81,12 @@ ainsi si X considère que Vx=Vy, il se peut que Y considère que Vy >> Vx,
 et ne s'en porte pas moins bien. Par ailleurs Z qui observerait cet échange
 pourrait tout à fait juger selon son propre référentiel que Vx et Vy n'ont pas de valeur.
 
-Rappelons ici combien les hommes ne sont fondamentalement pas d'accord
-tout le long de leur histoire sur la valeur respective de leurs biens.
-Aussi l'égalité des valeurs échangées n'est pas un critère économique indépendant de l'observateur,
-ce qui se constate aussi par les actions de dons ou de taxations sans retours,
-et donc non symétriques, où l'égalité des valeurs échangées n'est pas respectée
-en fonction du point de vue.
+Rappelons ici combien les Hommes ne sont fondamentalement pas d'accord tout le
+long de leur histoire sur la valeur respective de leurs biens. Aussi l'égalité
+des valeurs échangées n'est pas un critère économique indépendant de
+l'observateur, ce qui se constate aussi par les actions de dons ou de taxations
+sans retours, et donc non symétriques, où l'égalité des valeurs échangées n'est
+pas respectée en fonction du point de vue.
 
 C'est pour des besoins d'universalité de la mesure de valeur,
 que les individus s'accordent sur une mesure commune d'échange qu'ils appellent monnaie.
@@ -105,10 +105,11 @@ Ces cas d'ignorance de la nature de la monnaie utilisée le plus souvent de faç
 constituent une violation du droit contractuel de base en économie,
 qui suppose l'acceptation des parties impliquées quant au type d'échange proposé.
 
-On peut sans hésiter déclarer que l'imposition d'usage d'une monnaie non contractuelle
-(ne faisant pas l'objet d'une acceptation volontaire)
-constitue un acte contraire aux droits de l'homme de disposer de sa vie pour sa part économique
-et une violation des principes constitutionnels de liberté et d'égalité.
+On peut sans hésiter déclarer que l'imposition d'usage d'une monnaie non
+contractuelle (ne faisant pas l'objet d'une acceptation volontaire) constitue un
+acte contraire aux droits de l'Homme de disposer de sa vie pour sa part
+économique et une violation des principes constitutionnels de liberté et
+d'égalité.
 
 Et donc à minima dans une démocratie réelle, la monnaie officielle ne peut être réellement acceptable
 que si elle fait l'objet d'une élaboration démocratique dans sa définition,

@@ -40,11 +40,10 @@ Une démonstration algorithmique éclaire le fait qu'une monnaie dette
 | *B = système bancaire*
 | *H = les hommes*
 
-Les intérêt dus par H à B sont de 5%/an.
-En (1) s'effectue l'émission d'une nouvelle « dette »,
-consituant donc la « monnaie » par B qui crédite H.
-En (2) les 5 % sont remboursés, puis *éventuellement* dépensés en (3)
-et c'est ensuite la boucle sans fin.
+Les intérêt dus par H à B sont de 5 % / an. En (1) s'effectue l'émission d'une
+nouvelle « dette », consituant donc la « monnaie » par B qui crédite H. En (2)
+les 5 % sont remboursés, puis éventuellement dépensés en (3) et c'est ensuite la
+boucle sans fin.
 
 | *(1) B : -100 | +100 => H +100 | -100*
 | *(2) B : -100 | +105 => H +95 | - 100*
@@ -59,29 +58,28 @@ n'a donc aucun intérêt (c'est le mot!) à ce que H rembourse véritablement ce
 dette. Il appellera alors « rembourser » le seul fait de lui payer cette rente
 éternelle.
 
-**Choix 2** : Si B par contre ne dépense pas les 5 % par an mais les
-stocke en sautant l'étape (3) (ou n'en dépense qu'une fraction pour stocker l'essentiel),
-alors il y a véritablement intérêt manquant dans l'économie.
-H se voit de plus en plus endetté et au bout de 20 boucles on se retrouve à la situation suivante :
+**Choix 2** : si B par contre ne dépense pas les 5 % par an mais les  stocke en
+sautant l'étape (3) (ou n'en dépense qu'une fraction pour stocker l'essentiel),
+alors il y a véritablement intérêt manquant dans l'économie. H se voit de plus
+en plus endetté et au bout de 20 boucles on se retrouve à la situation suivante
+:
 
 *B : -100 | + 200 => H +000 | -100*
 
-A ce moment là (H) ne pourra plus rembourser lors du cycle suivant.
-Il fait faillite , défaut, ou une négociation a lieu.
-B est alors muni d'un stock énorme de monnaie, il bénéfice
-d'un pouvoir d'achat démultiplié sur une économie en déflation
-(car pendant tout ce temps l'économie aura subi la raréfaction
-progressive de la monnaie circulante). Il achète alors
-tout ce qu'il estime comme étant la base économique
-du prochain cycle au meilleur prix.
+À ce moment là (H) ne pourra plus rembourser lors du cycle suivant. Il fait
+faillite , défaut, ou une négociation a lieu. B est alors muni d'un stock énorme
+de monnaie, il bénéfice d'un pouvoir d'achat démultiplié sur une économie en
+déflation (car pendant tout ce temps l'économie aura subi la raréfaction
+progressive de la monnaie circulante). Il achète alors tout ce qu'il estime
+comme étant la base économique du prochain cycle au meilleur prix.
 
-Puis le cycle recommencera sur la base d'une nouvelle génération d'hommes.
-B recrée suffisamment de monnaie pour son propre bénéfice,
-qu'il prêtera, à un niveau de création suffisamment élevé
-pour rendre l'ancienne masse monétaire négligeable.
-On ne part en effet jamais de 0 en (1), mais sur une masse monétaire
-pré-existante, qui sera par exemple de 1 pour 100 créés unilatéralement
-sur de fausses prémisses, un pseudo-contrat dont les termes ne sont pas donnés.
+Puis le cycle recommencera sur la base d'une nouvelle génération d'Hommes. B
+recrée suffisamment de monnaie pour son propre bénéfice, qu'il prêtera, à un
+niveau de création suffisamment élevé pour rendre l'ancienne masse monétaire
+négligeable. On ne part en effet jamais de 0 en (1), mais sur une masse
+monétaire pré-existante, qui sera par exemple de 1 pour 100 créés
+unilatéralement sur de fausses prémisses, un pseudo-contrat dont les termes ne
+sont pas donnés.
 
 Tout ceci n'est possible que parce que H ignore un mécanisme
 qu'on ne lui dit pas. Si de plus ce mécanisme s'effectue
@@ -100,20 +98,19 @@ non seulement le mécanisme serait plus respectueux de la logique qu'il prétend
 mais la prise de conscience individuelle du phénomène s'accélérerait.
 
 Ainsi il est tout de même édifiant que lorsqu'il s'agit de protéger des marques
-le droit soit intraitable mais que lorsqu'il s'agit de la contrefaçon
-concernant l'outil d'échange universel on accepterait le fait
-qu'un groupe d'entreprises privées appelle du même sigle monétaire
-ce qui est sa propre émission de « dettes » comme si elles en partageaient
-la marque et qu'on utilise cette même marque, avec le même sigle,
-pour ce qui concerne l'émission de dettes au titre de la communauté politique.
-Imaginons-nous qu'une boisson puisse être nommée Coca Cola en étant produite
-indifféremment par General Motors ou Pepsi Cola et que l'Etat lui-même utilise
-le sigle Cocal Cola pour émettre une autre boisson encore et l'utilise
-comme référence pour assurer la comptabilité des échanges économiques.
-Quelle communauté politique accepterait cela ? C'est bien pourtant exactement
-ce que cette confusion a produit concernant la monnaie commune.
-Il ne faut alors pas s'étonner du chaos final dans lequel cette fausse logique,
-ce principe inacceptable, peut amener les hommes.
+le droit soit intraitable mais que lorsqu'il s'agit de la contrefaçon concernant
+l'outil d'échange universel on accepterait le fait qu'un groupe d'entreprises
+privées appelle du même sigle monétaire ce qui est sa propre émission de
+« dettes » comme si elles en partageaient la marque et qu'on utilise cette même
+marque, avec le même sigle, pour ce qui concerne l'émission de dettes au titre
+de la communauté politique. Imaginons-nous qu'une boisson puisse être nommée
+Coca-Cola en étant produite indifféremment par General Motors ou Pepsi Cola et
+que l'État lui-même utilise le sigle Cocal Cola pour émettre une autre boisson
+encore et l'utilise comme référence pour assurer la comptabilité des échanges
+économiques. Quelle communauté politique accepterait cela ? C'est bien pourtant
+exactement ce que cette confusion a produit concernant la monnaie commune. Il ne
+faut alors pas s'étonner du chaos final dans lequel cette fausse logique, ce
+principe inacceptable, peut amener les hommes.
 
 
 Conclusion
