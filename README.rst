@@ -23,16 +23,16 @@ Generate HTML version :
 
 ::
 
-    $ make html
+    $ make html SPHINXOPTS="-t html"
 
 Generate PDF version :
 
 ::
 
-    $ make latexpdf
+    $ make latexpdf SPHINXOPTS="-t latex"
 
 Generate EPUB version :
 
 ::
 
-    $ make epub
+    $ make epub SPHINXOPTS="-t epub"
