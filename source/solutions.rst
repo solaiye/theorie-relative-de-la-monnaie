@@ -254,15 +254,29 @@ fondamentale du fait des données expérimentales qui donnent à l'année solair
 rythme économique fondamental du fait notamment des récoltes annuelles, mais
 aussi des congés.
 
-.. figure:: images/solutions_5.png
-    :align: center
-    :width: 450px
+.. only:: not latex
 
-    *La génération marquée ici en bleu*
-    *ne représente plus que 1/ev*
-    *de l'ensemble des vivants, a participé à la création monétaire*
-    *de la génération précédente pour M(t) durant son existence*
-    *alors que la masse monétaire en vigueur est M(t+ev)*
+    .. figure:: images/solutions_5.png
+        :align: center
+        :width: 450px
+
+        *La génération marquée ici en bleu*
+        *ne représente plus que 1/ev*
+        *de l'ensemble des vivants, a participé à la création monétaire*
+        *de la génération précédente pour M(t) durant son existence*
+        *alors que la masse monétaire en vigueur est M(t+ev)*
+
+.. only:: latex
+
+    .. figure:: images/solutions_5.png
+        :align: center
+        :scale: 80
+
+        *La génération marquée ici en bleu*
+        *ne représente plus que 1/ev*
+        *de l'ensemble des vivants, a participé à la création monétaire*
+        *de la génération précédente pour M(t) durant son existence*
+        *alors que la masse monétaire en vigueur est M(t+ev)*
 
 On pourra remarquer que la monnaie étant quantitative sous sa forme utile,
 l'aspect continu n'étant qu'apparent (cf. l'analogie de la fontaine), le

@@ -45,7 +45,6 @@ html:
 	$(SPHINXBUILD) -vv -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
-	if [ -f build/latex/TheorieRelative.pdf ];then cp build/latex/TheorieRelative.pdf build/html/; fi
 
 dirhtml:
 	$(SPHINXBUILD) -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml

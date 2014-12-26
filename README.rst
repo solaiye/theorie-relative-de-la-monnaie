@@ -8,6 +8,7 @@ Install
     $ sudo apt-get install python-pip
     $ sudo apt-get install python-dev
     $ sudo apt-get install libfreetype6-dev
+    $ sudo apt-get install texlive texlive-lang-french texlive-latex-extra
 
     $ sudo pip install virtualenv
     $ virtualenv -p /usr/bin/python2.7 venv

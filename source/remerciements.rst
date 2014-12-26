@@ -20,8 +20,18 @@ sur la TRM dans le projet « Open-UDC » http://www.openudc.org
 Les graphiques de Luc Fievet sont accessibles sur
 http://wiki.creationmonetaire.info
 
-.. figure:: images/remerciements_1.png
-    :align: center
-    :width: 450px
+.. only:: not latex
 
-    *Couverture de la TRM 1.0 revue par Luc Fievet*
+    .. figure:: images/remerciements_1.png
+        :align: center
+        :width: 450px
+
+        *Couverture de la TRM 1.0 revue par Luc Fievet*
+
+.. only:: latex
+
+    .. figure:: images/remerciements_1.png
+        :align: center
+        :scale: 80
+
+        *Couverture de la TRM 1.0 revue par Luc Fievet*
