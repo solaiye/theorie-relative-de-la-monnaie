@@ -68,7 +68,7 @@ concerne que ses acteurs, et n'est stable ni dans le temps, ni dans l'espace
     |
 
 
-Si tant est que la monnaie est créée de façon asymétrique, non dense, la valeur
+Si  tant est que la monnaie est créée de façon asymétrique, non dense, la valeur
 se stocke ou s'échange alors massivement dans une autre partie de l'économie
 sans être monétisée (cas des creux), ou bien la création d'une nouvelle monnaie
 locale devient nécessaire (création de SEL).

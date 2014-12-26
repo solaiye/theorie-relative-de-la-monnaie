@@ -25,7 +25,9 @@ essentiellement en la prise de conscience du Revenu de Base comme socle de
 toute activité économique libre basée sur l'individu souverain, prenant
 toute sa part dans le système monétaire.
 
-[image]
+.. image:: images/comment_installer_1.png
+    :align: center
+    :width: 450px
 
 
 Approche progressive, le cas Européen
@@ -53,13 +55,21 @@ Le revenu minimum constaté en France ou en Allemagne est environ en moyenne de
 moins si par ailleurs le citoyen s'aventure à monétiser une activité déclarée).
 
 Si la zone euro déclarait brutalement ce niveau de DU pour les 330 millions de
-citoyens, cela reviendrait à un taux de 18 % de la masse monétaire, qui, à DU
+citoyens, cela reviendrait
+
+.. image:: images/comment_installer_2.png
+    :align: center
+    :width: 450px
+
+à un taux de 18 % de la masse monétaire, qui, à DU
 fixe, atteindrait le taux de croissance optimal de 5 % de la masse monétaire en
 15 ans.
 
 Le DU lui même suivrait alors cette évolution :
 
-[image]
+.. image:: images/comment_installer_3.png
+    :align: center
+    :width: 450px
 
 On pourrait objecter que cette évolution serait brusque, créant des distorsions
 économiques violentes et soudaines, les pays qui dans la zone sont privés de DU
@@ -95,7 +105,9 @@ question de fixation d'un objectif spatio-temporel défini, associé à la
 reconnaissance de l'égalité entre les citoyens d'une même zone monétaire devant
 la mesure de toute valeur, et donc devant la création monétaire.
 
-[image]
+.. image:: images/comment_installer_4.png
+    :align: center
+    :width: 450px
 
 Réflexion sur le prêt à intérêts
 ================================
@@ -168,7 +180,7 @@ Cela signifie que dans une économie à Dividende Universel les représentants d
 la collectivité, pour financer des projets collectifs par l'impôt doivent faire
 leur estimation en se basant sur le nombre d'individus gérés, et connaissant le
 facteur de croissance monétaire « c » n'en prenne au maximum qu'une fraction
-globale la plus faible possible « f *c ». Pour le reste l'État devrait se
+globale la plus faible possible « f ``*`` c ». Pour le reste l'État devrait se
 financer par la vente libre des biens et services qu'il produit, et ne pas
 s'endetter au-delà du raisonnable étant donné le flux normal de revenus qu'il
 est censé obtenir.

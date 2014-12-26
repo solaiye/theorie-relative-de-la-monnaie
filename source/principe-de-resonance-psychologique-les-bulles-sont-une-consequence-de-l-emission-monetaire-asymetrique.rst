@@ -14,16 +14,21 @@ survalorisation et vente), les perdants étant les derniers acheteurs de la
 valeur avant la chute inévitable.
 
 Nous sommes donc dans le cadre de l'émission monétaire asymétrique sur un
-principe de résonance psychologique fondamental que nous pouvons résumer par :
+*principe de résonance psychologique* fondamental que nous pouvons résumer par :
 
-« L'économie est en attente de visibilité sur la politique monétaire, laquelle
-attend une visibilité sur l'économie »
+*« L'économie est en attente de visibilité sur la politique monétaire, laquelle*
+*attend une visibilité sur l'économie »*
 
 Principe à la base des phénomènes de bulles et de crises systémiques par
 construction, des systèmes monétaires qui ne comprennent pas le principe de
 relativité.
 
-[image]
+.. figure:: images/principe_resonance_1.png
+    :align: center
+    :width: 450px
+
+    *Évolution temporelle de pseudo « valeurs » par émission arbitraire de « monnaie dette »*
+
 
 Développement théorique
 =======================
@@ -68,7 +73,12 @@ distorsion du champ en sa faveur, crédits et intérêts lui étant « dûs »
 Initialement La valeur « monte » brusquement sous l'effet de l'injection locale
 de crédits.
 
-[image]
+.. figure:: images/principe_resonance_2.png
+    :align: center
+    :width: 450px
+
+    *a) Fonds propres initiaux (Luc Fievet TRM 2.0)*
+
 
 c) L'émetteur de crédits arbitraires cesse son injection, soit parce qu'il
 crédite une autre valeur de son choix, soit parce qu'il arrive en « haut de
@@ -88,7 +98,14 @@ où non seulement les derniers acheteurs se retrouvent avec une dette supérieur
 chargé d'une dette produite mécaniquement par un remboursement total dû (capital
 + intérêts) supérieur à la croissance locale de la monnaie.
 
-[image]
+.. figure:: images/principe_resonance_3.png
+    :align: center
+    :width: 450px
+
+    *b) L'émetteur de crédits par effet de levier crée de la monnaie supplémentaire*
+    *qui alimente un producteur arbitrairement sélectionné.*
+    *(Luc Fievet TRM 2.0)*
+
 
 Ce phénomène local est bien évidemment exactement le même au niveau global, la
 fin de cycle étant à ce niveau là le moment où l'ensemble du secteur bancaire a
@@ -98,7 +115,13 @@ légalement le droit de le faire. C'est alors l'ensemble total de la zone
 économique qui se trouve piégée devant une force de remboursement supérieure au
 taux de croissance global de la monnaie.
 
-[image]
+.. figure:: images/principe_resonance_4.png
+    :align: center
+    :width: 450px
+
+    *c) Force de remboursement du crédit arbitrairement émis et alloué*
+    *(Luc Fievet TRM 2.0)*
+
 
 Ainsi quelle que soit la valeur créée dans l'économie d'un système monétaire
 centralisé, le bénéfice revient toujours aux émetteurs asymétriques de crédits
@@ -118,7 +141,13 @@ monétaire, donc sans être réalisé au détriment du reste de l'économie, et 
 un risque véritable de perte sans que l'économie en soit globalement affectée
 (de la monnaie accumulée puis investie n'est la dette de personne).
 
-[image]
+.. figure:: images/principe_resonance_5.png
+    :align: center
+    :width: 450px
+
+    *Faillite forcée par assèchement monétaire progressif,*
+    *et captation de toute la valeur par le centre d'émission*
+    *(Luc Fievet TRM 2.0)*
 
 
 Vérification expérimentale
@@ -153,7 +182,12 @@ monnaie.
 
 Pour M3 € nous obtenons alors ceci :
 
-[image]
+.. figure:: images/principe_resonance_6.png
+    :align: center
+    :width: 450px
+
+    *Ecart type sur 12 mois de la croissance de M3 € 1998 - 2010*
+
 
 Il y a donc une accaparation de la monnaie créée arbitrairement sur des flux
 monétaires identifiés par les acteurs de ces expansions à résonance, au
@@ -173,6 +207,11 @@ progressif des biens économiques avec cette monnaie.
 Le centre d'émission joue donc, par construction, contre l'intérêt de la somme
 des autres acteurs économiques.
 
-[image]
+.. figure:: images/principe_resonance_7.png
+    :align: center
+    :width: 450px
+
+    *Ecart type sur 12 mois de la croissance de M3 $ 1958 - 2010*
+
 
 

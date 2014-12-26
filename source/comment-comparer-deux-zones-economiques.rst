@@ -51,15 +51,17 @@ d'aucune sorte d'arbitraire, et est parfaitement mesurable.
 Application numérique :
 =======================
 
-math::
+.. math::
 
-   Ua (USA) = 15000/0,31 = 48387 $/citoyen
+   Ua (USA) = 15000/0,31 = 48387 \$ /citoyen
 
-   Ub (Europe) = 10000/0,330 = 30303 €/citoyen
+.. math::
 
-Taux de change relatif T (€ / $) = 1,60 $/€
+   Ub (Europe) = 10000/0,330 = 30303 € /citoyen
 
-Entre 2008 et 2010 le taux de change constaté sur les marchés oscillait entre 1,30 $/€ et 1,60 $/€.
+Taux de change relatif **T (€ / $) = 1,60 $/€**
+
+Entre 2008 et 2010 le taux de change constaté sur les marchés oscillait entre **1,30 $/€ et 1,60 $/€**.
 
 Mais même si le résultat constaté est proche de la valeur fondamentale théorique
 applicable en Théorie Relative de la Monnaie, il y a deux facteurs dont il faut
@@ -109,6 +111,15 @@ pour les USA et l'Europe. Or le rattrapage temporel en Europe et aux USA
 nécessite la mise en place d'un Dividende Universel sur lequel faire jouer jouer
 la hauteur de la densité de la masse monétaire.
 
-[image]
+.. figure:: images/comment_comparer_1.png
+    :align: center
+    :width: 450px
 
-[image]
+    *Evolution selon un rapport Mb/Ma stable via la monétisation temporelle. Seule la quantité monétaire des échanges augmente et maintient stable la vitesse de circulation (Luc Fievet TRM 2.0)*
+
+
+.. figure:: images/comment_comparer_2.png
+    :align: center
+    :width: 450px
+
+    *Evolution selon un rapport Ma/Na stable via la monétisation spatiale. La quantité monétaire par citoyen monétisé (nouveaux citoyens monétisés = deuxième cercle) reste stable (Luc Fievet TRM 2.0)*

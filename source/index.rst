@@ -19,10 +19,10 @@ Sommaire
    masse-monetaire-et-relativite.rst
    champ-de-valeur.rst
    sur-la-theorie-quantitative-de-la-monnaie.rst
-..   principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst
+   principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst
    comment-comparer-deux-zones-economiques.rst
    comment-installer-une-monnaie-a-dividende-universel.rst
-   zooms-sur-l-histoire-de-la-monnaie.rst
+..   zooms-sur-l-histoire-de-la-monnaie.rst
    autres-fondements-du-dividende-universel.rst
    licence-et-versionning.rst
    sources.rst
