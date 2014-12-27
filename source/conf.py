@@ -250,3 +250,16 @@ texinfo_documents = [
 
 # How to display URL addresses: 'footnote', 'no', or 'inline'.
 #texinfo_show_urls = 'footnote'
+
+# -- Options for Epub output -------------------------------------------
+epub_author = u'Stéphane Laborde'
+epub_publisher = u'Stéphane Laborde'
+#epub_scheme = 'UUID'
+#epub_identifier = '68538075-d11e-11e2-a29e-001e8ca67578'
+#epub_uid = epub_identifier
+#epub_cover = ('', 'epub-cover-RS.html')
+#epub_tocdepth = 2
+#epub_tocdup = False
+#epub_exclude_files = ['_static/opensearch.xml', '_static/doctools.js',
+#'_static/jquery.js', '_static/searchtools.js', '_static/underscore.js',
+#'_static/basic.css', 'search.html', '_static/websupport.js']
