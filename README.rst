@@ -28,6 +28,7 @@ Install
 * Fix math formulas too small on epub :
 
 ::
+
     in file : project/venv/lib/python2.7/site-packages/matplotlib-1.4.2-py2.7-linux-x86_64.egg/matplotlib/sphinxext/mathmpl.py
 
     find        : dpi=100
