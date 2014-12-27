@@ -16,6 +16,24 @@ Install
     $ pip install -r requirements.txt
     $ pip install matplotlib
 
+* Fix bug in mathplotlib sphinx extension :
+
+::
+
+    in file : project/venv/lib/python2.7/site-packages/matplotlib-1.4.2-py2.7-linux-x86_64.egg/matplotlib/sphinxext/mathmpl.py
+
+    find line (70) : name = 'math-%s' % md5(latex.encode()).hexdigest()[-10:]
+    replace by :     name = 'math-%s' % md5(latex.encode('utf-8')).hexdigest()[-10:]
+
+* Fix math formulas too small on epub :
+
+::
+    in file : project/venv/lib/python2.7/site-packages/matplotlib-1.4.2-py2.7-linux-x86_64.egg/matplotlib/sphinxext/mathmpl.py
+
+    find        : dpi=100
+    replace by  : dpi=200 or more
+
+
 Generate HTML, PDF and EPUB version
 =====================================
 

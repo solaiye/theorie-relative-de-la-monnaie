@@ -1,7 +1,7 @@
 {%- extends "basic/layout.html" %}
 {%- block htmltitle %}
   {{ super() }}
-  <link media="screen" href="{{ pathto('_static/bootstrap.css', 1) }}" type= "text/css" rel="stylesheet" />
+  <link media="screen" href="{{ pathto('static/bootstrap.css', 1) }}" type= "text/css" rel="stylesheet" />
 {% endblock %}
 {% block relbar1 %}{% endblock %}
 {% block relbar2 %}{% endblock %}
@@ -52,8 +52,8 @@
 <!--
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 -->
-<script src="_static/Hyphenator.js" type="text/javascript" charset="utf-8"></script>
-<script src="_static/fr.js" type="text/javascript" charset="utf-8"></script>
+<script src="static/Hyphenator.js" type="text/javascript" charset="utf-8"></script>
+<script src="static/fr.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript" charset="utf-8">
 Hyphenator.config({
     displaytogglebox : true,
