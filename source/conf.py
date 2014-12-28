@@ -257,7 +257,8 @@ epub_publisher = u'Stéphane Laborde'
 #epub_scheme = 'UUID'
 #epub_identifier = '68538075-d11e-11e2-a29e-001e8ca67578'
 #epub_uid = epub_identifier
-#epub_cover = ('', 'epub-cover-RS.html')
+# for Kobo reader, the cover image name must be "cover.jpg"
+epub_cover = ('_static/cover.jpg', 'epub-cover.html')
 #epub_tocdepth = 2
 #epub_tocdup = False
 #epub_exclude_files = ['_static/opensearch.xml', '_static/doctools.js',
