@@ -35,7 +35,7 @@ Install
     replace by  : dpi=200 or more
 
 
-Generate all format (copy pdf and epub in html folder)
+Generate all (copy pdf and epub in html folder)
 ======================================================
 
 ::
