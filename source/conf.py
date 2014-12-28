@@ -204,7 +204,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'TheorieRelative.tex', u'Théorie Relative de la Monnaie',
+  ('index', 'TheorieRelativedelaMonnaie.tex', u'Théorie Relative de la Monnaie',
    u'Stéphane Laborde', 'manual'),
 ]
 
@@ -263,6 +263,7 @@ texinfo_documents = [
 #texinfo_show_urls = 'footnote'
 
 # -- Options for Epub output -------------------------------------------
+epub_basename = 'TheorieRelativedelaMonnaie'
 epub_theme = 'epub'
 epub_author = u'Stéphane Laborde'
 epub_publisher = u'Stéphane Laborde'

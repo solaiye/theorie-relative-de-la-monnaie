@@ -35,10 +35,17 @@ Install
     replace by  : dpi=200 or more
 
 
-Generate HTML, PDF and EPUB version
-=====================================
+Generate all format (copy pdf and epub in html folder)
+======================================================
 
-Generate HTML version (BUILD IS VERY UGLY, configuration broken to improve the EPUB format) :
+::
+
+    $ ./build_all.sh
+
+Generate HTML, PDF and EPUB version
+===================================
+
+Generate HTML version :
 
 ::
 
