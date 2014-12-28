@@ -85,5 +85,6 @@ centralisés sur des volumes et des valeurs arbitraires au détriment d'une larg
 part de la population présente et à venir.
 
 .. plot:: pyplots/gold_price_m3.py
+    :width: 100%
 
 *Evolution du ratio « once d'or ($) / Masse Monétaire M3 USA ($) » de 1958 à 2010*

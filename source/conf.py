@@ -95,12 +95,23 @@ pygments_style = 'sphinx'
 # A list of ignored prefixes for module index sorting.
 #modindex_common_prefix = []
 
+# -- Options for PLOT blocks ---------------------------------------------------
+
+# display links to image file
+plot_html_show_formats = False
+
+# formats to create (format, dpi)
+plot_html_formats = [('png', 120)]
+
+# include source link
+plot_include_source = False
+plot_html_show_source_link = False
 
 # -- Options for HTML output ---------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'trm'
+html_theme = 'html'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -129,7 +140,7 @@ html_title = u"Théorie Relative de la Monnaie v2.718"
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['themes/trm/static']
+html_static_path = ['themes/html/static']
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
@@ -156,7 +167,7 @@ html_static_path = ['themes/trm/static']
 #html_split_index = False
 
 # If true, links to the reST sources are added to the pages.
-#html_show_sourcelink = True
+html_show_sourcelink = False
 
 # If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
 html_show_sphinx = False
@@ -252,6 +263,7 @@ texinfo_documents = [
 #texinfo_show_urls = 'footnote'
 
 # -- Options for Epub output -------------------------------------------
+epub_theme = 'epub'
 epub_author = u'Stéphane Laborde'
 epub_publisher = u'Stéphane Laborde'
 #epub_scheme = 'UUID'
@@ -261,6 +273,6 @@ epub_publisher = u'Stéphane Laborde'
 epub_cover = ('_static/cover.jpg', 'epub-cover.html')
 #epub_tocdepth = 2
 #epub_tocdup = False
-#epub_exclude_files = ['_static/opensearch.xml', '_static/doctools.js',
-#'_static/jquery.js', '_static/searchtools.js', '_static/underscore.js',
-#'_static/basic.css', 'search.html', '_static/websupport.js']
+epub_exclude_files = ['_static/opensearch.xml', '_static/doctools.js',
+'_static/jquery.js', '_static/searchtools.js', '_static/underscore.js',
+'_static/basic.css', 'search.html', '_static/websupport.js']

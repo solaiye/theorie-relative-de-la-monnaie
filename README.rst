@@ -38,7 +38,7 @@ Install
 Generate HTML, PDF and EPUB version
 =====================================
 
-Generate HTML version :
+Generate HTML version (BUILD IS VERY UGLY, configuration broken to improve the EPUB format) :
 
 ::
 

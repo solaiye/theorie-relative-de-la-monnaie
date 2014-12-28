@@ -25,6 +25,11 @@ img {
     max-width: 100%;
 }
 
+img.align-center {
+    margin: 20px auto;
+    display: block;
+}
+
 /* -- relbar ---------------------------------------------------------------- */
 
 div.related {
