@@ -28,3 +28,4 @@ Sommaire
     sources.rst
     remerciements.rst
     precedentes-publications.rst
+    appendice-1.rst

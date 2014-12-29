@@ -277,3 +277,4 @@ epub_cover = ('_static/cover.jpg', 'epub-cover.html')
 epub_exclude_files = ['_static/opensearch.xml', '_static/doctools.js',
 '_static/jquery.js', '_static/searchtools.js', '_static/underscore.js',
 '_static/basic.css', 'search.html', '_static/websupport.js']
+epub_use_index = False
