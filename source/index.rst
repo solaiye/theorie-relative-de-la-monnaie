@@ -29,3 +29,6 @@ Sommaire
     remerciements.rst
     precedentes-publications.rst
     appendice-1.rst
+    appendice-2.rst
+
+*TRM multi-formats par Vincent Texier, d'après un projet de Stéphane Klein.*

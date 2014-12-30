@@ -198,7 +198,16 @@ latex_elements = {
 #'pointsize': '10pt',
 
 # Additional stuff for the LaTeX preamble.
-#'preamble': '',
+'preamble': """\usepackage{longtable,geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[babel]{csquotes}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{empheq}
+""",
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
@@ -228,6 +237,8 @@ latex_documents = [
 # If false, no module index is generated.
 #latex_domain_indices = True
 
+# add files required for latex
+#latex_additional_files = []
 
 # -- Options for manual page output --------------------------------------------
 
