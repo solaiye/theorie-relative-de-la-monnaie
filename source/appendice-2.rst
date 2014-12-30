@@ -133,10 +133,9 @@ qui ne soit la même pour tout individu participant de cette monnaie
 pour un instant "t" donné, et cette production relative est indépendante du temps.
 
 .. math::
+    :label: eq1
 
     \frac{d^{2} \left( \frac{M}{N} \right) }{dt \, dx}=0 \, \, \, \, ainsi \,  que \, \, \, \, \frac{d \left( \frac{M}{N} \right) }{\left( \frac{M}{N} \right)}=c \, dt
-
-(eq. 1)
 
 Pour la suite et par soucis de concision nous omettrons la différentielle de temps "dt",
 d'autant que dt = 1 lors de la transformation en calculs discrets.
@@ -145,10 +144,9 @@ On en déduit, en nous plaçant sous hypothèse de continuité et dérivabilité
 (voir à ce sujet le chapitre "Variations de N et calcul du DU") :
 
 .. math::
+    :label: eq2
 
     \left( \frac{M}{N} \right) (t)=\left( \frac{M}{N} \right) (t_{0}) \, e^{ct}
-
-(eq. 2)
 
 Par ailleurs les individus ayant une durée de vie limitée "ev",
 la production instantanée (dérivée) étant établie comme invariante,
@@ -162,34 +160,31 @@ les vivants doivent avoir co-produit leur propre pleine part relative de monnaie
 
 
 .. math::
+    :label: eq3
 
-     \frac{\left( \frac{M}{N} \right)(t)}{\left( \frac{M}{N} \right)(t+\frac{ev}{2})}=e^{-c \left( \frac{ev}{2} \right)}
-
-(eq. 3)
+    \frac{\left( \frac{M}{N} \right)(t)}{\left( \frac{M}{N} \right)(t+\frac{ev}{2})}=e^{-c \left( \frac{ev}{2} \right)}
 
 Ce principe symétrique entre ceux qui s'en vont
 et ceux qui arrivent établit un centre de symétrie de convergence
 au point :math:`\left( \frac{ev}{2} \right)` où ceux qui arrivent
 à ce point représentent une proportion de :math:`\frac{1 \, an}{\left(\frac{ev}{2}\right)}`
-de ceux qui s'en vont, pour une autre expression voir aussi (14) :
+de ceux qui s'en vont, pour une autre expression voir aussi :eq:`eq14` :
 
 .. math::
+    :label: eq4
 
-     \frac{\left( \frac{M}{N} \right)(t)}{\left( \frac{M}{N} \right)(t+\frac{ev}{2})} = \frac{1 \, an}{\left( \frac{ev}{2} \right)}
+    \frac{\left( \frac{M}{N} \right)(t)}{\left( \frac{M}{N} \right)(t+\frac{ev}{2})} = \frac{1 \, an}{\left( \frac{ev}{2} \right)}
 
-(eq. 4)
-
-D'où il s'ensuit de (1) et (4) que nous obtenons un taux symétrique
+D'où il s'ensuit de :eq:`eq1` et :eq:`eq4` que nous obtenons un taux symétrique
 où la moyenne :math:`\left( \frac{M}{N} \right)` est atteinte pour tout individu,
 à :math:`\frac{1 \, an}{\left(\frac{ev}{2}\right)}` près,
 au point :math:`\frac{1 \, an}{\left(\frac{ev}{2}\right)}` de sa participation
 à la monnaie libre ainsi établie, quelle que soit l'époque considérée.
 
 .. math::
+    :label: eq5
 
-     c_{sym}=\frac{\ln(\frac{ev}{2})}{(\frac{ev}{2})}
-
-(eq. 5)
+    c_{sym}=\frac{\ln(\frac{ev}{2})}{(\frac{ev}{2})}
 
 Les taux "c" inférieurs à :math:`c_{sym}` établiront une métrique
 favorisant les individus plus âgés, tandis que les taux supérieurs
@@ -199,18 +194,16 @@ Ce taux de convergence a une limite basse :math:`c_{min}` obtenue
 pour une convergence atteinte en fin d'espérance de vie moyenne :
 
 .. math::
+    :label: eq6
 
-     c_{min}=\frac{\ln(ev)}{ev}
-
-(eq. 6)
+    c_{min}=\frac{\ln(ev)}{ev}
 
 Application numérique pour la France ayant une espérance de vie de 80 ans en 2014 :
 
 .. math::
+    :label: eq7
 
-     c_{sym}=\frac{\ln(40)}{40}=9,22 \% /an \,\,\,\, et \,\,\,\, c_{min}=\frac{\ln(80)}{80}=5,48 \% /an
-
-(eq. 7)
+    c_{sym}=\frac{\ln(40)}{40}=9,22 \% /an \,\,\,\, et \,\,\,\, c_{min}=\frac{\ln(80)}{80}=5,48 \% /an
 
 Quantitatif
 ===========
@@ -233,19 +226,17 @@ Correspondant aux unités monétaires co-créée par les individus
 pour l'unité de temps annuelle "t", et qui sera donc de la forme :
 
 .. math::
+    :label: eq8
 
-     DU=c \left( \frac{M}{N} \right)
-
-(eq. 8)
+    DU=c \left( \frac{M}{N} \right)
 
 Et Q(t) la somme des unités monétaires co-produite par un individu
 entre les instants :math:`t_{0}` date initiale de sa participation à la métrique et t :
 
 .. math::
+    :label: eq9
 
-     Q(t-t_{0})=\int_{t_{0}}^t DU(t) \, dt = \left( \frac{M}{N} \right)(t_{0}) \, e^{ct} \left(1 - e^{-c(t-t_{0})} \right)
-
-(eq. 9)
+    Q(t-t_{0})=\int_{t_{0}}^t DU(t) \, dt = \left( \frac{M}{N} \right)(t_{0}) \, e^{ct} \left(1 - e^{-c(t-t_{0})} \right)
 
 Ce qui nous donne graphiquement :
 
@@ -259,10 +250,9 @@ Etant donné ce qui précède nous avons aussi l'expression relative de la monna
 de référence de la métrique économique globale sous la forme immuable dans l'espace-temps :
 
 .. math::
+    :label: eq10
 
     \frac{M}{N}=\frac{1}{c} DU
-
-(eq. 10)
 
 Et
 
@@ -276,10 +266,9 @@ Appelons maintenant :math:`R=\frac{Q}{DU}` le nombre d'unités relatives
 co-produites par un individu entre :math:`t_{0}` et t :
 
 .. math::
+    :label: eq11
 
     R(t-t_{0})=\frac{\int_{t_{0}}^t DU(t) \, dt}{DU(t)}=\frac{1}{c}(1-e^{-c(t-t_{0})})
-
-(eq. 11)
 
 Ce qui nous donne graphiquement :
 
@@ -290,35 +279,32 @@ Dans le référentiel relatif la part de monnaie co-produite par tout individu
 participant de cette métrique converge asymptotiquement et invariablement (dans l'espace-temps) vers :
 
 .. math::
+    :label: eq12
 
     \lim_{t \to {+\infty}} R(t-t_{0}) = \frac{1}{c}
-
-(eq. 12)
 
 Et plus particulièrement pour :math:`t=t_{0}+\frac{ev}{2}` avec :math:`c=\frac{\ln \left( \frac{ev}{2} \right) }{ \left( \frac{ev}{2} \right) }` :
 
 .. math::
+    :label: eq13
 
     R \left( \frac{ev}{2} \right)=\frac{1}{c} \left(1 - e^{-c\frac{ev}{2}} \right) = \frac{1}{c} \left(1 - \frac{1}{\left(\frac{ev}{2}\right)} \right)
 
-(eq. 13)
-
-Etant donnés (10), (11) et (13) , nous pouvons exprimer la condition fondamentale (4) sous la forme :
+Etant donnés :eq:`eq10`, :eq:`eq11` et :eq:`eq13` , nous pouvons exprimer la condition fondamentale :eq:`eq4` sous la forme :
 
 .. math::
+    :label: eq14
 
     \frac{\int_{t_{0}}^{t_{0}+\frac{ev}{2}} DU(t) \, dt}{\left( \frac{M}{N}\right) (t_{0}+\frac{ev}{2})}=\left(1 - \frac{1}{\left(\frac{ev}{2}\right)} \right)
 
-(eq. 14)
-
-Que nous pouvons donc exprimer selon (14) par :
+Que nous pouvons donc exprimer selon :eq:`eq14` par :
 
 "La somme des DU produite par un individu, participant d'une monnaie libre,
 pendant :math:`\left(\frac{ev}{2}\right)` converge vers la masse monétaire moyenne
 à :math:`\frac{1 \, an}{\left(\frac{ev}{2}\right)}` près, quel que soit cet individu
 et quelle que soit l'époque considérée."
 
-Ou encore selon (13) par :
+Ou encore selon :eq:`eq13` par :
 
 "La somme des DU relatifs produite par un individu, participant d'une monnaie libre,
 pendant :math:`\left(\frac{ev}{2}\right)` converge vers :math:`\frac{1}{c}` à
@@ -362,10 +348,9 @@ Et nous avons :
 Et donc en factorisant nous obtenons finalement la forme relative :
 
 .. math::
+    :label: eq15
 
     R_s(t)=\frac{1}{c}\left[ 1-e^{-c(t-t_{0})}\left( 1-cR_s(t_{0}) \right) \right]
-
-(eq. 15)
 
 Où nous voyons directement que si :math:`R_s(t_{0})=\frac{1}{c}`
 ce qui est équivalent à :math:`{Q_s(t_{0})}=\left( \frac{M}{N} \right) (t_{0})`,
@@ -456,7 +441,7 @@ Variations de N et calcul du DU
 Etant donné ce qui précède il faut garder à l'esprit que c'est la convergence
 de demie vie qui est l'objectif atteint par une monnaie libre,
 les nouveaux entrants remplaçant les morts (voir à ce propos les formes
-(4) et (14) concernant la condition temporelle valable pour tout individu).
+:eq:`eq4` et :eq:`eq14` concernant la condition temporelle valable pour tout individu).
 
 Il ne s'agit pas, en cherchant une méthode de calcul pratique du DU de procéder
 à une estimation en ne regardant que le calcul différentiel local.
@@ -474,7 +459,7 @@ et deviendrait extrêmement bas vis à vis des participants initiaux, peu nombre
 et qui posséderaient dans ce cas une part monétaire extrêmement forte
 par rapport aux nouveaux entrants, sans rapport avec le DU calculé.
 
-Autrement dit, de façon plus mathématique, les équations fondamentales (1) et (4)
+Autrement dit, de façon plus mathématique, les équations fondamentales :eq:`eq1` et :eq:`eq4`
 exprimées dans l'analyse de la forme d'une monnaie libre,
 n'ont de solutions identifiées que pour :math:`\left(\frac{M}{N}\right)`
 continue et dérivable (ou quasi-continue et quasi-dérivable),
@@ -534,10 +519,9 @@ un calcul pratique simple du DU, faisant apparaître une forme quantitative
 et une autre relative, s'adaptant de façon souple aux variations de N :
 
 .. math::
+    :label: eq16
 
     DU(t+dt) = Max \left[ DU(t);c\,\frac{M(t)}{N(t+dt)} \right]
-
-(eq. 16)
 
 Notamment on reconnaît que pour N stable, la forme convergera rapidement
 vers son expression relative fondamentale (ce qui est absolument nécessaire) :
@@ -570,4 +554,3 @@ il convient de simuler des N(t) quelconques, et de tester alors les différentes
 tout à gardant à l'esprit qu'il s'agit pour ce faire, d'y placer des individus de durée de vie limitée,
 en simulant des opérations sur des durées plus grandes que ev, et d'évaluer si pour l'ensemble
 de ces individus les principes fondamentaux sont bien respectés, à peu près tout le temps.
-

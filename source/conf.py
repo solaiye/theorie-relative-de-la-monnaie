@@ -27,7 +27,7 @@ import sys, os
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = [
     'sphinx.ext.mathjax',
-    'matplotlib.sphinxext.mathmpl',
+    'sphinx.ext.pngmath',
     'matplotlib.sphinxext.only_directives',
     'matplotlib.sphinxext.plot_directive',
     'IPython.sphinxext.ipython_directive',
@@ -94,6 +94,19 @@ pygments_style = 'sphinx'
 
 # A list of ignored prefixes for module index sorting.
 #modindex_common_prefix = []
+
+# -- Options for pngmath ---------------------------------------------------
+
+# ad options to command dvipng (increase darkness, increase dpi resolution)
+pngmath_dvipng_args = ['-gamma', '1.5', '-D', '200']
+
+# handle better the baseline for inline math
+pngmath_use_preview = True
+
+# add latex headers
+# fixme: add package eurosym for the \euro command (euro sign) but get only "e"...
+pngmath_latex_preamble = """\usepackage{eurosym}
+"""
 
 # -- Options for PLOT blocks ---------------------------------------------------
 
