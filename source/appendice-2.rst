@@ -18,10 +18,10 @@ Il ne s'agit donc pas de possibilités non-réfléchies.
 
 Les TRM définit 4 libertés économiques qui forment le fondement général de son approche et qui sont :
 
-* La liberté de choix de son système monétaire
-* La liberté d'utiliser les ressources
-* La liberté d'estimation et de production de toute valeur économique
-* La liberté d'échanger, comptabiliser afficher ses prix "dans la monnaie"
+1. La liberté de choix de son système monétaire
+2. La liberté d'utiliser les ressources
+3. La liberté d'estimation et de production de toute valeur économique
+4. La liberté d'échanger, comptabiliser afficher ses prix "dans la monnaie"
 
 La liberté 3 établit notamment le principe de relativité comme essence de son approche.
 
@@ -136,6 +136,7 @@ pour un instant "t" donné, et cette production relative est indépendante du te
 
     \frac{d^{2} \left( \frac{M}{N} \right) }{dt \, dx}=0 \, \, \, \, ainsi \,  que \, \, \, \, \frac{d \left( \frac{M}{N} \right) }{\left( \frac{M}{N} \right)}=c \, dt
 
+(eq. 1)
 
 Pour la suite et par soucis de concision nous omettrons la différentielle de temps "dt",
 d'autant que dt = 1 lors de la transformation en calculs discrets.
@@ -146,6 +147,8 @@ On en déduit, en nous plaçant sous hypothèse de continuité et dérivabilité
 .. math::
 
     \left( \frac{M}{N} \right) (t)=\left( \frac{M}{N} \right) (t_{0}) \, e^{ct}
+
+(eq. 2)
 
 Par ailleurs les individus ayant une durée de vie limitée "ev",
 la production instantanée (dérivée) étant établie comme invariante,
@@ -162,6 +165,8 @@ les vivants doivent avoir co-produit leur propre pleine part relative de monnaie
 
      \frac{\left( \frac{M}{N} \right)(t)}{\left( \frac{M}{N} \right)(t+\frac{ev}{2})}=e^{-c \left( \frac{ev}{2} \right)}
 
+(eq. 3)
+
 Ce principe symétrique entre ceux qui s'en vont
 et ceux qui arrivent établit un centre de symétrie de convergence
 au point :math:`\left( \frac{ev}{2} \right)` où ceux qui arrivent
@@ -172,6 +177,8 @@ de ceux qui s'en vont, pour une autre expression voir aussi (14) :
 
      \frac{\left( \frac{M}{N} \right)(t)}{\left( \frac{M}{N} \right)(t+\frac{ev}{2})} = \frac{1 \, an}{\left( \frac{ev}{2} \right)}
 
+(eq. 4)
+
 D'où il s'ensuit de (1) et (4) que nous obtenons un taux symétrique
 où la moyenne :math:`\left( \frac{M}{N} \right)` est atteinte pour tout individu,
 à :math:`\frac{1 \, an}{\left(\frac{ev}{2}\right)}` près,
@@ -181,6 +188,8 @@ au point :math:`\frac{1 \, an}{\left(\frac{ev}{2}\right)}` de sa participation
 .. math::
 
      c_{sym}=\frac{\ln(\frac{ev}{2})}{(\frac{ev}{2})}
+
+(eq. 5)
 
 Les taux "c" inférieurs à :math:`c_{sym}` établiront une métrique
 favorisant les individus plus âgés, tandis que les taux supérieurs
@@ -193,11 +202,15 @@ pour une convergence atteinte en fin d'espérance de vie moyenne :
 
      c_{min}=\frac{\ln(ev)}{ev}
 
+(eq. 6)
+
 Application numérique pour la France ayant une espérance de vie de 80 ans en 2014 :
 
 .. math::
 
      c_{sym}=\frac{\ln(40)}{40}=9,22 \% /an \,\,\,\, et \,\,\,\, c_{min}=\frac{\ln(80)}{80}=5,48 \% /an
+
+(eq. 7)
 
 Quantitatif
 ===========
@@ -223,12 +236,16 @@ pour l'unité de temps annuelle "t", et qui sera donc de la forme :
 
      DU=c \left( \frac{M}{N} \right)
 
+(eq. 8)
+
 Et Q(t) la somme des unités monétaires co-produite par un individu
 entre les instants :math:`t_{0}` date initiale de sa participation à la métrique et t :
 
 .. math::
 
      Q(t-t_{0})=\int_{t_{0}}^t DU(t) \, dt = \left( \frac{M}{N} \right)(t_{0}) \, e^{ct} \left(1 - e^{-c(t-t_{0})} \right)
+
+(eq. 9)
 
 Ce qui nous donne graphiquement :
 
@@ -245,6 +262,8 @@ de référence de la métrique économique globale sous la forme immuable dans l
 
     \frac{M}{N}=\frac{1}{c} DU
 
+(eq. 10)
+
 Et
 
 .. math::
@@ -260,6 +279,8 @@ co-produites par un individu entre :math:`t_{0}` et t :
 
     R(t-t_{0})=\frac{\int_{t_{0}}^t DU(t) \, dt}{DU(t)}=\frac{1}{c}(1-e^{-c(t-t_{0})})
 
+(eq. 11)
+
 Ce qui nous donne graphiquement :
 
 .. plot:: pyplots/appendice-2_2.py
@@ -270,7 +291,9 @@ participant de cette métrique converge asymptotiquement et invariablement (dans
 
 .. math::
 
-    \lim\limits_{t \to {+\infty}} R(t-t_{0}) = \frac{1}{c}
+    \lim_{t \to {+\infty}} R(t-t_{0}) = \frac{1}{c}
+
+(eq. 12)
 
 Et plus particulièrement pour :math:`t=t_{0}+\frac{ev}{2}` avec :math:`c=\frac{\ln \left( \frac{ev}{2} \right) }{ \left( \frac{ev}{2} \right) }` :
 
@@ -278,11 +301,15 @@ Et plus particulièrement pour :math:`t=t_{0}+\frac{ev}{2}` avec :math:`c=\frac{
 
     R \left( \frac{ev}{2} \right)=\frac{1}{c} \left(1 - e^{-c\frac{ev}{2}} \right) = \frac{1}{c} \left(1 - \frac{1}{\left(\frac{ev}{2}\right)} \right)
 
+(eq. 13)
+
 Etant donnés (10), (11) et (13) , nous pouvons exprimer la condition fondamentale (4) sous la forme :
 
 .. math::
 
     \frac{\int_{t_{0}}^{t_{0}+\frac{ev}{2}} DU(t) \, dt}{\left( \frac{M}{N}\right) (t_{0}+\frac{ev}{2})}=\left(1 - \frac{1}{\left(\frac{ev}{2}\right)} \right)
+
+(eq. 14)
 
 Que nous pouvons donc exprimer selon (14) par :
 
@@ -337,6 +364,8 @@ Et donc en factorisant nous obtenons finalement la forme relative :
 .. math::
 
     R_s(t)=\frac{1}{c}\left[ 1-e^{-c(t-t_{0})}\left( 1-cR_s(t_{0}) \right) \right]
+
+(eq. 15)
 
 Où nous voyons directement que si :math:`R_s(t_{0})=\frac{1}{c}`
 ce qui est équivalent à :math:`{Q_s(t_{0})}=\left( \frac{M}{N} \right) (t_{0})`,
@@ -507,6 +536,8 @@ et une autre relative, s'adaptant de façon souple aux variations de N :
 .. math::
 
     DU(t+dt) = Max \left[ DU(t);c\,\frac{M(t)}{N(t+dt)} \right]
+
+(eq. 16)
 
 Notamment on reconnaît que pour N stable, la forme convergera rapidement
 vers son expression relative fondamentale (ce qui est absolument nécessaire) :
