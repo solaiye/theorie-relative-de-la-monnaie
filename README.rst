@@ -45,3 +45,9 @@ Generate EPUB version :
 ::
 
     $ make epub SPHINXOPTS="-t epub"
+
+
+Download generated files
+========================
+
+You can just download files from the `latest release <https://github.com/vtexier/theorie-relative-de-la-monnaie/releases>`_
