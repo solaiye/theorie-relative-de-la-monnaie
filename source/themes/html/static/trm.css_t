@@ -117,6 +117,7 @@ DIV.figure {
     text-align: center;
 }
 
+/* mathmpl center */
 IMG.align-center {
     margin: 20px auto;
     display: block;
@@ -125,4 +126,14 @@ IMG.align-center {
 IMG.center {
     margin: 20px auto;
     display: block;
+}
+
+/* pngmath center */
+div.math {
+    text-align: center;
+}
+
+/* pngmath equation reference */
+span.eqno {
+    float: right;
 }
