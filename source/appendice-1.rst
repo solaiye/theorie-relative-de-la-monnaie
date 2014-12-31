@@ -1,9 +1,6 @@
-===========
-Appendice 1
-===========
-
-Commentaires sur les quatre libertés économiques
-================================================
+==============================================================
+Appendice 1 : Commentaires sur les quatre libertés économiques
+==============================================================
 
 La Théorie Relative de la Monnaie (TRM) est fondée sur les quatre libertés économiques dont
 elle décrit le sens. Par ces commentaires j'ai souhaité en approfondir la compréhension, pour qui
