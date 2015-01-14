@@ -95,6 +95,11 @@ pygments_style = 'sphinx'
 # A list of ignored prefixes for module index sorting.
 #modindex_common_prefix = []
 
+# -- options for translation
+
+locale_dirs = ['locale/']   # path is example but recommended.
+gettext_compact = False     # optional.
+
 # -- Options for pngmath ---------------------------------------------------
 
 # ad options to command dvipng (increase darkness, increase dpi resolution)

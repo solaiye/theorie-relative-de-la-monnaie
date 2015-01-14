@@ -1,0 +1,70 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Théorie Relative de la Monnaie 2.718\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-13 20:46+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/sources.rst:3
+msgid "Sources"
+msgstr ""
+
+#: ../../source/sources.rst:0
+msgid "Théorie : Blog « Création Monétaire »"
+msgstr ""
+
+#: ../../source/sources.rst:0
+msgid "http://www.creationmonetaire.info"
+msgstr ""
+
+#: ../../source/sources.rst:0
+msgid "Histoire, données : L'encyclopédie libre Wikipédia"
+msgstr ""
+
+#: ../../source/sources.rst:0
+msgid "http://www.wikipedia.org"
+msgstr ""
+
+#: ../../source/sources.rst:0
+msgid "Données Euro : Banque Centrale Européenne"
+msgstr ""
+
+#: ../../source/sources.rst:0
+msgid "http://www.ecb.int"
+msgstr ""
+
+#: ../../source/sources.rst:0
+msgid "Données monétaires USA"
+msgstr ""
+
+#: ../../source/sources.rst:0
+msgid "http://www.shadowstats.com"
+msgstr ""
+
+#: ../../source/sources.rst:0
+msgid "Yoland Bresson, économiste fondateur de l'AIRE"
+msgstr ""
+
+#: ../../source/sources.rst:0
+msgid "http://www.revenudexistence.org"
+msgstr ""
+
+#: ../../source/sources.rst:0
+msgid "Olivier Auber et la « perspective numérique »"
+msgstr ""
+
+#: ../../source/sources.rst:0
+msgid "http://perspective-numerique.net"
+msgstr ""
+
+#: ../../source/sources.rst:0
+msgid ""
+"Les images de la TRM sont toutes soit de Luc Fievet (libre) de wikimédia "
+"(Creative Common) ou directement de l'auteur (Creative Common)."
+msgstr ""
