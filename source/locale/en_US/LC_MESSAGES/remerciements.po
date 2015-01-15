@@ -1,0 +1,51 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Théorie Relative de la Monnaie 2.718\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-15 20:40+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/remerciements.rst:3
+msgid "Remerciements"
+msgstr ""
+
+#: ../../source/remerciements.rst:5
+msgid ""
+"Je tiens à remercier pour leurs relectures, corrections, conseils, ou leurs "
+"réflexions inspirantes : Yoland Bresson, Olivier Auber, Thierry Crouzet, "
+"Gérard Foucher, Marie Bérenger, Pierre Teisserenc, et Philippe Scoffoni, "
+"ainsi que tous ceux qui directement ou indirectement ont permis "
+"l'élaboration de cette version 2.718 de la TRM."
+msgstr ""
+
+#: ../../source/remerciements.rst:11
+msgid ""
+"Un remerciement particulier à Luc Fievet, producteur de l'émission de radio "
+"libre « symbiose », graphiste à ses heures et qui a produit pour la version "
+"2.0 de magnifiques graphiques illustratifs sous licence GNU GPL v.3 et "
+"toujours présents dans cette version 2.718, réalisés avec le logiciel libre "
+"Blender."
+msgstr ""
+
+#: ../../source/remerciements.rst:16
+msgid ""
+"Une pensée spéciale à Jean-Jacques Brucker et Canercandan, développeurs de "
+"logiciels libres, qui développent une implémentation de monnaie libre se "
+"basant sur la TRM dans le projet « Open-UDC » http://www.openudc.org"
+msgstr ""
+
+#: ../../source/remerciements.rst:20
+msgid ""
+"Les graphiques de Luc Fievet sont accessibles sur "
+"http://wiki.creationmonetaire.info"
+msgstr ""
+
+#: ../../source/remerciements.rst:29
+msgid "*Couverture de la TRM 1.0 revue par Luc Fievet*"
+msgstr ""

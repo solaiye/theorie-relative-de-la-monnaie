@@ -1,0 +1,134 @@
+[main]
+host = https://www.transifex.com
+type = PO
+
+[french-to-english.introduction-de-la-version-1_0]
+file_filter = source/locale/<lang>/LC_MESSAGES/introduction-de-la-version-1.0.po
+source_file = build/locale/introduction-de-la-version-1.0.pot
+source_lang = fr
+
+[french-to-english.champ-de-valeur]
+file_filter = source/locale/<lang>/LC_MESSAGES/champ-de-valeur.po
+source_file = build/locale/champ-de-valeur.pot
+source_lang = fr
+
+[french-to-english.precedentes-publications]
+file_filter = source/locale/<lang>/LC_MESSAGES/precedentes-publications.po
+source_file = build/locale/precedentes-publications.pot
+source_lang = fr
+
+[french-to-english.autres-fondements-du-dividende-universel]
+file_filter = source/locale/<lang>/LC_MESSAGES/autres-fondements-du-dividende-universel.po
+source_file = build/locale/autres-fondements-du-dividende-universel.pot
+source_lang = fr
+
+[french-to-english.principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique]
+file_filter = source/locale/<lang>/LC_MESSAGES/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.po
+source_file = build/locale/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.pot
+source_lang = fr
+
+[french-to-english.preface-de-la-version-1_0-par-Yoland-Bresson]
+file_filter = source/locale/<lang>/LC_MESSAGES/preface-de-la-version-1.0-par-Yoland-Bresson.po
+source_file = build/locale/preface-de-la-version-1.0-par-Yoland-Bresson.pot
+source_lang = fr
+
+[french-to-english.masse-monetaire-et-relativite]
+file_filter = source/locale/<lang>/LC_MESSAGES/masse-monetaire-et-relativite.po
+source_file = build/locale/masse-monetaire-et-relativite.pot
+source_lang = fr
+
+[french-to-english.appendice-2]
+file_filter = source/locale/<lang>/LC_MESSAGES/appendice-2.po
+source_file = build/locale/appendice-2.pot
+source_lang = fr
+
+[french-to-english.comment-installer-une-monnaie-a-dividende-universel]
+file_filter = source/locale/<lang>/LC_MESSAGES/comment-installer-une-monnaie-a-dividende-universel.po
+source_file = build/locale/comment-installer-une-monnaie-a-dividende-universel.pot
+source_lang = fr
+
+[french-to-english.probleme-de-la-valeur-de-reference]
+file_filter = source/locale/<lang>/LC_MESSAGES/probleme-de-la-valeur-de-reference.po
+source_file = build/locale/probleme-de-la-valeur-de-reference.pot
+source_lang = fr
+
+[french-to-english.probleme-des-trois-producteurs]
+file_filter = source/locale/<lang>/LC_MESSAGES/probleme-des-trois-producteurs.po
+source_file = build/locale/probleme-des-trois-producteurs.pot
+source_lang = fr
+
+[french-to-english.sur-la-theorie-quantitative-de-la-monnaie]
+file_filter = source/locale/<lang>/LC_MESSAGES/sur-la-theorie-quantitative-de-la-monnaie.po
+source_file = build/locale/sur-la-theorie-quantitative-de-la-monnaie.pot
+source_lang = fr
+
+[french-to-english.index]
+file_filter = source/locale/<lang>/LC_MESSAGES/index.po
+source_file = build/locale/index.pot
+source_lang = fr
+
+[french-to-english.solutions]
+file_filter = source/locale/<lang>/LC_MESSAGES/solutions.po
+source_file = build/locale/solutions.pot
+source_lang = fr
+
+[french-to-english.comment-comparer-deux-zones-economiques]
+file_filter = source/locale/<lang>/LC_MESSAGES/comment-comparer-deux-zones-economiques.po
+source_file = build/locale/comment-comparer-deux-zones-economiques.pot
+source_lang = fr
+
+[french-to-english.licence-et-versionning]
+file_filter = source/locale/<lang>/LC_MESSAGES/licence-et-versionning.po
+source_file = build/locale/licence-et-versionning.pot
+source_lang = fr
+
+[french-to-english.considerations-generales]
+file_filter = source/locale/<lang>/LC_MESSAGES/considerations-generales.po
+source_file = build/locale/considerations-generales.pot
+source_lang = fr
+
+[french-to-english.introduction-de-la-version-2_718]
+file_filter = source/locale/<lang>/LC_MESSAGES/introduction-de-la-version-2.718.po
+source_file = build/locale/introduction-de-la-version-2.718.pot
+source_lang = fr
+
+[french-to-english.zooms-sur-l-histoire-de-la-monnaie]
+file_filter = source/locale/<lang>/LC_MESSAGES/zooms-sur-l-histoire-de-la-monnaie.po
+source_file = build/locale/zooms-sur-l-histoire-de-la-monnaie.pot
+source_lang = fr
+
+[french-to-english.remerciements]
+file_filter = source/locale/<lang>/LC_MESSAGES/remerciements.po
+source_file = build/locale/remerciements.pot
+source_lang = fr
+
+[french-to-english.appendice-1]
+file_filter = source/locale/<lang>/LC_MESSAGES/appendice-1.po
+source_file = build/locale/appendice-1.pot
+source_lang = fr
+
+[french-to-english.sources]
+file_filter = source/locale/<lang>/LC_MESSAGES/sources.po
+source_file = build/locale/sources.pot
+source_lang = fr
+
+[french-to-english.conseils-de-lecture-version-2_718]
+file_filter = source/locale/<lang>/LC_MESSAGES/conseils-de-lecture-version-2.718.po
+source_file = build/locale/conseils-de-lecture-version-2.718.pot
+source_lang = fr
+
+[french-to-english.definitions]
+file_filter = source/locale/<lang>/LC_MESSAGES/definitions.po
+source_file = build/locale/definitions.pot
+source_lang = fr
+
+[french-to-english.probleme-de-la-monnaie-dette]
+file_filter = source/locale/<lang>/LC_MESSAGES/probleme-de-la-monnaie-dette.po
+source_file = build/locale/probleme-de-la-monnaie-dette.pot
+source_lang = fr
+
+[french-to-english.formalisaton]
+file_filter = source/locale/<lang>/LC_MESSAGES/formalisaton.po
+source_file = build/locale/formalisaton.pot
+source_lang = fr
+

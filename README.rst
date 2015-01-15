@@ -51,3 +51,60 @@ Download generated files
 ========================
 
 You can just download files from the `latest release <https://github.com/vtexier/theorie-relative-de-la-monnaie/releases>`_
+
+
+Translation in english
+======================
+
+::
+
+    $ sudo pip install sphinx-intl
+    $ pip install transifex-client
+
+Generate pot files in build/locale
+
+::
+
+    $ make gettext
+
+Generate po files in source/locale
+(use english (United-States) with label en_US)
+
+::
+
+    $ sphinx-intl update -p build/locale -d source/locale/ -l en_US
+
+Add pot files index in .tx/config
+
+::
+
+    $ sphinx-intl update-txconfig-resources --pot-dir build/locale --locale-dir source/locale --transifex-project-name french-to-english
+
+Replace "en" language by "fr" in .tx/config
+
+::
+
+    source_lang = fr
+
+Send the pot source files to the transifex server
+
+::
+
+    $ tx push -s
+
+Get a translated po file
+Add -f to force
+
+::
+
+    tx pull -l en_US -r french-to-english.index
+
+Create mo files
+
+::
+
+    sphinx-intl build --locale-dir source/locale
+
+Generate translated html document :
+
+make html SPHINXOPTS="-t html -D language='en_US'"
