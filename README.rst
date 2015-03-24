@@ -3,21 +3,18 @@ Install
 
 - Dependencies:
 
-  - On Ubuntu:
-
 ::
 
+    # Ubuntu 
     $ sudo apt-get install python-pip
     $ sudo apt-get install python-dev
     $ sudo apt-get install libfreetype6-dev
     $ sudo apt-get install texlive texlive-lang-french texlive-latex-extra
     $ sudo apt-get install dvipng
 
-
-  - On Fedora:
-
 ::
 
+    # Fedora
     $ su -c 'yum install python-pip python-devel freetype-devel texlive texlive-latex dvipng'
 
 - Install:
