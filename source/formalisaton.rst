@@ -26,7 +26,7 @@ Il s'agit donc aussi d'appliquer le 1er article des Droits de l'Homme
 quant à l'égalité devant le droit entre les individus,
 pour l'appliquer non seulement au code qui va régir la monnaie commune,
 mais aussi à la mesure relative de toute valeur, qui est aussi la compréhension
-de la liberté de choix de l'individu vis à vis de la valeur, au niveau de sa production,
+de la liberté de choix de l'individu vis-à-vis de la valeur, au niveau de sa production,
 autant que de son échange.
 
 Autrement dit *« aucun individu ne doit être privilégié quant au jugement et la mesure de toute valeur »*.
@@ -43,7 +43,7 @@ a) Liberté
 ----------
 
 La liberté se définit comme étant un principe symétrique :
-non-nuisance vis à vis de soi-même et d'autrui.
+non-nuisance vis-à-vis de soi-même et d'autrui.
 
 
 b) Valeur

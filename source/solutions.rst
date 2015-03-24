@@ -112,7 +112,7 @@ stable et répartie symétriquement entre l'ensemble des acteurs présents et à
 venir. Ces solutions à Dividende Universel assurent le respect du principe de
 relativité. La densité de la monnaie est assurée en tout temps et en tout point,
 évitant ainsi les extrêmes de sécheresses monétaires (sources de déflation),
-autant que les extrêmes de d'excès de monétisation (sources de bulles locales ou
+autant que les extrêmes de l'excès de monétisation (sources de bulles locales ou
 d'hyperinflation).
 
 La monnaie est créée de façon continue en cohérence avec le remplacement continu
@@ -128,7 +128,7 @@ qui change la nature de la définition de la monnaie. Il s'agit donc d'éviter
 l'erreur fondamentale de considérer l'ensemble des acteurs en tant que quantité
 « permanente ». Comprendre qu'il s'agit d'un flux d'individus en continuel
 renouvellement, et que dans ce flux il n'y a aucune raison de privilégier aucun
-d'entre eux vis à vis de la création monétaire dans l'ensemble de l'espace-temps
+d'entre eux vis-à-vis de la création monétaire dans l'ensemble de l'espace-temps
 économique ainsi déterminé.
 
 .. figure:: images/solutions_1.png
@@ -198,7 +198,7 @@ de vie » en parcourant l'ensemble du jet d'eau, qui lui semble immuable.
 Une fois cette observation comprise et intégrée avec les résultats précédents,
 nous pouvons donc poser comme relation fondamentale que la création de la masse
 monétaire durant toute l'espérance de vie passée ne doit être représentée à
-« t » vis à vis de la masse monétaire existante que par la petite fraction des
+« t » vis-à-vis de la masse monétaire existante que par la petite fraction des
 individus de cette génération presque totalement disparue mais encore présente
 dans la hauteur temporelle en proportion de 1/ev.
 

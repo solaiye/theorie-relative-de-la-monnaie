@@ -19,7 +19,7 @@ de l'étude économique. Qu'est-ce qui la caractérise ?
 
 * L'espace où l'accord monétaire est manifeste
 
-* Le temps, c'est à dire, l'espérance de vie moyenne des individus qui y vivent et y meurent.
+* Le temps, c'est-à-dire, l'espérance de vie moyenne des individus qui y vivent et y meurent.
 
 * La production individuelle ou collective (entrepreneuriale) de biens et de services
 
@@ -57,7 +57,7 @@ Zone économique pseudo-isolée
 =============================
 
 Une zone économique est dite pseudo-isolée quand, pour une durée de temps donnée,
-on peut considérer qu'elle vit de façon autonome ou quasi-autonome vis à vis de l'extérieur.
+on peut considérer qu'elle vit de façon autonome ou quasi-autonome vis-à-vis de l'extérieur.
 Ce peut-être le cas d'économies sur des îles encore autonomes,
 où la subsistance des individus est assurée par une production alimentaire suffisante
 (ce qui est là aussi tout à fait relatif,  on peut par exemple étudier le cas de certains ascètes),

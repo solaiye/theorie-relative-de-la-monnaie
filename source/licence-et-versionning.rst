@@ -11,7 +11,7 @@ Vous êtes libres de copier, distribuer, citer, modifier, vendre ce texte, ainsi
 que de créer des versions alternatives. Vous devez signaler cette même liberté
 pour les parties de la TRM que vous aurez reprises et publiées.
 
-Vous avez une information complète sur la GPL en Français sur Wikipedia à
+Vous avez une information complète sur la GPL en Français sur Wikipédia à
 l'adresse
 
 `http://fr.wikipedia.org/wiki/Licence_publique_générale_GNU`

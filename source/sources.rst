@@ -13,7 +13,7 @@ Sources
     Données Euro : Banque Centrale Européenne
     http://www.ecb.int
 
-    Données monétaires USA
+    Données monétaires des États-Unis
     http://www.shadowstats.com
 
     Yoland Bresson, économiste fondateur de l'AIRE

@@ -33,14 +33,14 @@ relativité.
 Développement théorique
 =======================
 
-Supposons qu'une valeur spécifique dVs = Pf * dCf soit en croissance (dVs > 0).
+Supposons qu'une valeur spécifique dVs = Pf × dCf soit en croissance (dVs > 0).
 L'émetteur de crédits va alimenter la production et l'achat de cette valeur en
 nouveaux crédits dMf pour en tirer un bénéfice, en proportion de cette valeur,
 et selon donc, pour cette valeur spécifique :
 
 .. math::
 
-   dJx = dMx - Px * dCx > 0
+   dJx = dMx - Px × dCx > 0
 
 Cette « croissance » atteint un maximum limité soit par le contrôle de la
 quantité globale d'expansion monétaire par les autorités, soit par la saturation
@@ -156,7 +156,7 @@ de monnaie à résonance.
 
 Pour voir cet effet sur des données expérimentales, nous allons calculer l'écart
 type sur une moyenne à 12 mois, de la croissance des masses monétaires M3 en
-Europe et USA. L'écart type en mathématiques statistiques, représente les effets
+Europe et États-Unis. L'écart type en mathématiques statistiques, représente les effets
 d'écart par rapport à la moyenne, ce qui permet de très bien visualiser un effet
 de résonance.
 

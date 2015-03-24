@@ -29,7 +29,7 @@ qui établit que tout être humain définit un référentiel légitime
 pour estimer et produire tout type de valeur économique,
 connue ou inconnue par autrui.
 
-Autrement dit il n'y a pas de valeur économique absolue,
+Autrement dit, il n'y a pas de valeur économique absolue,
 pas d'être humain qui soit légitimement en mesure de définir
 ce qui est valeur ou non-valeur pour les autres êtres humains,
 ni dans l'espace (entre êtres humains présents),
@@ -53,7 +53,7 @@ puisqu'ils sont de durée de vie moyenne limitée "ev" (espérance de vie moyenn
 et se renouvellent dans le temps, les nouveaux nés remplaçant les morts.
 
 Cette dimension est une donnée finie de l'espace-temps économique étudié par la TRM où,
-pour tout temps t considéré, l'ensemble des hommes est renouvelé à la date t+ev.
+pour tout temps t considéré, l'ensemble des hommes est renouvelé à la date t + ev.
 
 Nous appelons par la suite "espace" l'ensemble des individus pour une date donnée "t",
 et "temps" le phénomène de succession du remplacement de ces individus dans le temps.
@@ -242,7 +242,7 @@ Ce qui nous donne graphiquement :
 Relatif
 =======
 
-Etant donné ce qui précède nous avons aussi l'expression relative de la monnaie
+Étant donné ce qui précède nous avons aussi l'expression relative de la monnaie
 de référence de la métrique économique globale sous la forme immuable dans l'espace-temps :
 
 .. math::
@@ -286,7 +286,7 @@ Et plus particulièrement pour :math:`t=t_{0}+\frac{ev}{2}` avec :math:`c=\frac{
 
     R \left( \frac{ev}{2} \right)=\frac{1}{c} \left(1 - e^{-c\frac{ev}{2}} \right) = \frac{1}{c} \left(1 - \frac{1}{\left(\frac{ev}{2}\right)} \right)
 
-Etant donnés :eq:`eq10`, :eq:`eq11` et :eq:`eq13` , nous pouvons exprimer la condition fondamentale :eq:`eq4` sous la forme :
+Étant donnés :eq:`eq10`, :eq:`eq11` et :eq:`eq13` , nous pouvons exprimer la condition fondamentale :eq:`eq4` sous la forme :
 
 .. math::
     :label: eq14
@@ -366,8 +366,8 @@ les trois évolutions suivantes dans le référentiel relatif :
 
 Une évolution qui n'est valide que dans le cas particulier étudié ici.
 
-Les 4 référentiels
-==================
+Les quatre référentiels
+=======================
 
 Nous avons vu précédemment deux référentiels de mesure quantitatif et relatif,
 dont la loi de transformation est donnée par :
@@ -403,7 +403,7 @@ ce choix étant purement individuel :
 Variations pour un individu pseudo-autonome
 ===========================================
 
-Etudions ici la variation d'un compte monétaire pour un individu pseudo-autonome.
+Étudions ici la variation d'un compte monétaire pour un individu pseudo-autonome.
 Tout d'abord en quantitatif :
 
 .. math::
@@ -434,7 +434,7 @@ ceci n'impactant en rien la monnaie libre établie.
 Variations de N et calcul du DU
 ===============================
 
-Etant donné ce qui précède il faut garder à l'esprit que c'est la convergence
+Étant donné ce qui précède il faut garder à l'esprit que c'est la convergence
 de demie vie qui est l'objectif atteint par une monnaie libre,
 les nouveaux entrants remplaçant les morts (voir à ce propos les formes
 :eq:`eq4` et :eq:`eq14` concernant la condition temporelle valable pour tout individu).
@@ -451,7 +451,7 @@ en prenant en considération des cas extrêmes, comme celui du cas de forte haus
 du nombre de participants d'une monnaie libre (équivalente à une pseudo-initialisation de monnaie),
 où le DU calculé en relatif ( :math:`DU(t)=c\left(\frac{M}{N}\right)(t)` )
 subira une forte discontinuité, détruisant la continuité de la progression,
-et deviendrait extrêmement bas vis à vis des participants initiaux, peu nombreux,
+et deviendrait extrêmement bas vis-à-vis des participants initiaux, peu nombreux,
 et qui posséderaient dans ce cas une part monétaire extrêmement forte
 par rapport aux nouveaux entrants, sans rapport avec le DU calculé.
 
@@ -479,7 +479,7 @@ de la variation de N sous la forme :math:`dN(t)=\alpha N(t)`
 ou encore :math:`N(t+dt)=N(t)+dN(t)=(1+\alpha)N(t)`
 et nous prenons une approximations pour M conforme à :math:`M(t+dt) \approx (1+c) M(t)`.
 
-A noter que :math:`\alpha` doit être entendu comme étant en général "petit"
+À noter que :math:`\alpha` doit être entendu comme étant en général "petit"
 sur des durées de l'ordre de :math:`\left( \frac{ev}{2} \right)`,
 et même devant c. En effet sur la base expérimentale de la France,
 entre 1950 et 1990 la population a varié de 41 à 56 millions,
@@ -541,7 +541,7 @@ On peut en résumer le fonctionnement ainsi :
 à une proportion relative c de la masse monétaire."
 
 D'autres formes sont bien entendu possibles étant donnée l'incertitude sur N(t),
-les formes les plus simples étant les meilleures...
+les formes les plus simples étant les meilleures…
 
 De façon générale, pour s'assurer de la pertinence de cette forme,
 et éventuellement la comparer avec d'autres, comme la triviale mais dangereuse forme théorique,

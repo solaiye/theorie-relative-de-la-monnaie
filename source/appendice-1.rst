@@ -36,8 +36,8 @@ points de compréhension essentiels concernant la causalité, il ne peut pas s'e
 véritablement compris les résultats et conclusions qui participent de sa nature.
 
 **Liberté :** La liberté est établie comme tout ce que peut réaliser l'individu conformément à la
-non-nuisance vis à vis des autres individus vivants et futurs. Cette non-nuisance peut-être définie
-ou comprise en un endroit(x,y,z,t) précis de l'espace-temps et n'en a pas moins des propriétés
+non-nuisance vis-à-vis des autres individus vivants et futurs. Cette non-nuisance peut-être définie
+ou comprise en un endroit (x, y, z, t) précis de l'espace-temps et n'en a pas moins des propriétés
 d'évolution ou de révolution.
 
 Il ne faut donc pas comprendre ici la liberté comme étant définie de façon absolue, ce qui
@@ -60,15 +60,15 @@ déjà choisi. Aussi il peut arriver qu'un relativiste fasse indifféremment ré
 économiques ou bien seulement aux trois libertés selon les cas. D'où le nombre spécifique 0
 accolé à cette première liberté.
 
-Le choix est ici extensible à la possibilité de la modification. Cela signifie donc que non-
-seulement l'individu peut choisir d'utiliser et d'adopter un système monétaire indépendant, et donc
+Le choix est ici extensible à la possibilité de la modification. Cela signifie donc que non-seulement
+l'individu peut choisir d'utiliser et d'adopter un système monétaire indépendant, et donc
 de se référer aux principes édictés par cet autre système monétaire, mais peut aussi agir pour
 faire évoluer le système monétaire qu'il utilise, conformément aux règles ou aux principes
 généraux qui permettent cette évolution.
 
 Il s'agit donc d'une double possibilité en terme de modification de l'existant, ou de changement.
 C'est très comparables à la vie d'un code de programme informatique, qui évolue de versions en
-versions, ou bien qui « forke », c'est à dire qui se voit copié et modifié par d'autres dans une autre
+versions, ou bien qui « forke », c'est-à-dire qui se voit copié et modifié par d'autres dans une autre
 direction, ou bien encore de l'adoption d'un tout autre modèle de programme ayant évolué
 indépendamment dès son origine.
 
@@ -98,10 +98,10 @@ conditions que leurs prédécesseurs, et où la compensation pour cette appropri
 uns sur l'espace de vie des autres n'existe pas.
 
 C'est typiquement le cas des latifundios, des sociétés de type féodal, des monarchies absolues
-ou quasi-absolues, ou encore des régimes communistes ou quasi-communistes où c'est l'Etat
+ou quasi-absolues, ou encore des régimes communistes ou quasi-communistes où c'est l'État
 même qui joue le rôle du privateur de la première liberté économique, ou encore des régimes
-corporatistes où ce sont des groupes d'intérêts privés ou des alliances Etat-privés qui jouent
-ensemble ce rôle de privateur de liberté, vis à vis des individus ne faisant pas partie de ces
+corporatistes où ce sont des groupes d'intérêts privés ou des alliances État-privés qui jouent
+ensemble ce rôle de privateur de liberté, vis-à-vis des individus ne faisant pas partie de ces
 groupements.
 
 La mécanique qui aboutit à la négation de la liberté 1 peut tout à fait ne pas se voir dans
@@ -153,15 +153,15 @@ Cela ne préjuge d'ailleurs pas d'une fin de ce processus de transformation des 
 ne préjuge pas non plus d'une pertinence a-priori plus précise ou moins précise entre ces modèles
 de concepts. Cela n'est qu'un fait dû à l'expérience et au choix individuel, qui est vérifié dans
 l'étendue de l'espace-temps de l'ensemble des vies passées. Il n'y a donc là non-plus aucun
-jugement de valeur a-priori à tenir par défaut pour caractériser cette liberté.
+jugement de valeur a priori à tenir par défaut pour caractériser cette liberté.
 
-Economiquement donc, pour ce qui concerne la possibilité d'une monnaie libre, ce principe
+Économiquement donc, pour ce qui concerne la possibilité d'une monnaie libre, ce principe
 aboutit au fait qu'aucune base autre que les individus eux-mêmes ne peut être cohérente avec
 cette liberté, ou principe de relativité.
 
 Cette monnaie tenant lieu de compte, le crédit mutuel symétrique défini sur la base des
 individus mêmes est la classe de solutions générales. Dans cette classe de solutions générales, la
-prise en compte de l'individu dans l'espace-temps, c'est à dire de son espérance de vie « ev »
+prise en compte de l'individu dans l'espace-temps, c'est-à-dire de son espérance de vie « ev »
 moyenne permet d'établir le contrat monétaire commun symétrique dans l'espace-temps entre tous
 les individus, aboutissant ainsi aux sous classes de solutions compatibles qui sont donc ces
 systèmes monétaires à dividende universel dont les croissances relatives sont proches de ln(ev/2)/
@@ -181,7 +181,7 @@ choisie, ils n'exercent pas cette liberté. On notera toutefois qu'ici la libert
 choix des individus de ne point l'exercer restant possible, la situation serait différente du cas où
 cette liberté serait bafouée par des forces de coercitions.
 
-Il n'est pas bien difficile en réalité d'exercer la troisième liberté. Etant donnés des prix, comptes,
+Il n'est pas bien difficile en réalité d'exercer la troisième liberté. Étant donnés des prix, comptes,
 calculs, affichés dans une unité monétaire donnée, il est très simple, connaissant le prix de la
 monnaie choisie dans l'unité monétaire affichée (le taux de change, qui n'est qu'un prix comme un
 autre), de faire la transformation.
@@ -197,9 +197,9 @@ faux d'un point de vue relativiste. D'un point de vue relativiste la monnaie est
 vais expliquer ce point afin qu'il soit très clair dans l'esprit du lecteur.
 
 Le principe de relativité implique qu'il n'y a aucune mesure absolue. Pour commencer prenons
-l'exemple concernant la vitesse d'un objet en physique. La vitesse V0 d'un objet sera perçue
-différemment selon l'observateur 1 qui aura une vitesse relative V1 ou que l'observateur 2 aura
-une vitesse relative V2 par rapport à l'objet. Chacun comprend aisément parce qu'il en a fait
+l'exemple concernant la vitesse d'un objet en physique. La vitesse V₀ d'un objet sera perçue
+différemment selon l'observateur 1 qui aura une vitesse relative V₁ ou que l'observateur 2 aura
+une vitesse relative V₂ par rapport à l'objet. Chacun comprend aisément parce qu'il en a fait
 l'expérience qu'il voit le train immobile s'il est dedans, ou en mouvement s'il est sur le quai, ou bien
 encore à une autre vitesse s'il est lui-même dans un autre train.
 
@@ -207,7 +207,7 @@ Le référentiel choisi décide donc de tout ce qui est mesuré. Et nous avons l
 donc nous pouvons choisir le référentiel qui nous convient.
 
 Si nous comptons donc en « nombre de Dividende Universels » et non plus en simples
-« nombres quantitatifs », nous choisissons une unité relative de monnaie, conforme au système
+« nombres quantitatifs », nous choisissons une unité relative de monnaie, conforme au système
 monétaire choisi. Et ce « nombre de Dividendes Universels » est parfaitement fini, dépendant
 uniquement du nombre d'individus (ce qui est conforme au fondement). Donc bien que selon le
 référentiel quantitatif (vue du train depuis le quai) l'expansion semble un fait indéniable, selon
@@ -216,8 +216,8 @@ masse monétaire ne bouge absolument pas.
 
 Un dividende global étant par exemple de 5 % de la masse monétaire, il est évident qu'il ne
 peut y avoir en tout et pour tout à un instant « t » qu'une limite globale de 20 dividendes dans la
-masse monétaire elle-même (20 x 5 % = 100 %). Si l'on fait référence aux N individus de la zone
-monétaire on comptera un dividende individuel de 5 %/N et donc une limite de 20xN dividendes
+masse monétaire elle-même (20 × 5 % = 100 %). Si l'on fait référence aux N individus de la zone
+monétaire on comptera un dividende individuel de 5 % / N et donc une limite de 20 × N dividendes
 individuels en tout et pour tout dans la masse monétaire, donc un nombre d'unités fixes pour une
 population stable qui se renouvelle dans le temps.
 

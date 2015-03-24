@@ -6,25 +6,25 @@ La définition générale du champ de valeur permet de retrouver des résultats 
 
 .. math::
 
-   dJx = dMx - Px * dCx + dMfx - Pfx * Cfx
+   dJx = dMx - Px × dCx + dMfx - Pfx × Cfx
 
 Dans le cas d'une économie pseudo-isolée en équilibre e  à création monétaire locale nulle, nous avons alors :
 
 .. math::
 
-   0 = dMfx - Pfx * Cfx
+   0 = dMfx - Pfx × Cfx
 
 Ou encore :
 
 .. math::
 
-   dMfx = Pfx * Cfx
+   dMfx = Pfx × Cfx
 
 Le long d'une ligne d'échange circulaire, nous avons donc en faisant un tour complet, pendant un temps t :
 
 .. math::
 
-   \int^t_0 \sum^n_{k=1}{dMfk} = \int^t_0 \sum^n_{k=1}{Pfx * Cfx}
+   \int^t_0 \sum^n_{k=1}{dMfk} = \int^t_0 \sum^n_{k=1}{Pfx × Cfx}
 
 Ce qui, sous contrainte de production inchangée, de stabilité des prix, et pour
 un temps suffisamment court où la production est semblable et où les producteurs
