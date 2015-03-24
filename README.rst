@@ -2,9 +2,11 @@ Install
 =======
 
 - Dependencies:
+
   - On Ubuntu:
 
 ::
+
     $ sudo apt-get install python-pip
     $ sudo apt-get install python-dev
     $ sudo apt-get install libfreetype6-dev
@@ -14,11 +16,13 @@ Install
   - On Fedora:
 
 ::
+
     $ su -c 'yum install python-pip python-devel freetype-devel texlive texlive-latex dvipng'
 
 - Install
 
 ::
+
     $ sudo pip install virtualenv
     $ virtualenv -p /usr/bin/python2.7 venv
     $ source venv/bin/activate
