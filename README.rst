@@ -1,8 +1,8 @@
 Install
 =======
 
-* Dependencies:
-** On Ubuntu:
+- Dependencies:
+  - On Ubuntu:
 
 ::
     $ sudo apt-get install python-pip
@@ -11,12 +11,12 @@ Install
     $ sudo apt-get install texlive texlive-lang-french texlive-latex-extra
     $ sudo apt-get install dvipng
 
-** On Fedora:
+  - On Fedora:
 
 ::
     $ su -c 'yum install python-pip python-devel freetype-devel texlive texlive-latex dvipng'
 
-* Install
+- Install
 
 ::
     $ sudo pip install virtualenv
