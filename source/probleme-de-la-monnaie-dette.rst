@@ -40,8 +40,8 @@ Une démonstration algorithmique éclaire le fait qu'une monnaie dette
 | *B = système bancaire*
 | *H = les hommes*
 
-Les intérêt dus par H à B sont de 5 % / an. En (1) s'effectue l'émission d'une
-nouvelle « dette », consituant donc la « monnaie » par B qui crédite H. En (2)
+Les intérêts dus par H à B sont de 5 % / an. En (1) s'effectue l'émission d'une
+nouvelle « dette », constituant donc la « monnaie » par B qui crédite H. En (2)
 les 5 % sont remboursés, puis éventuellement dépensés en (3) et c'est ensuite la
 boucle sans fin.
 
