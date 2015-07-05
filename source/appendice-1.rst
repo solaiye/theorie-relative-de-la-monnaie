@@ -197,9 +197,9 @@ faux d'un point de vue relativiste. D'un point de vue relativiste la monnaie est
 vais expliquer ce point afin qu'il soit très clair dans l'esprit du lecteur.
 
 Le principe de relativité implique qu'il n'y a aucune mesure absolue. Pour commencer prenons
-l'exemple concernant la vitesse d'un objet en physique. La vitesse V₀ d'un objet sera perçue
-différemment selon l'observateur 1 qui aura une vitesse relative V₁ ou que l'observateur 2 aura
-une vitesse relative V₂ par rapport à l'objet. Chacun comprend aisément parce qu'il en a fait
+l'exemple concernant la vitesse d'un objet en physique. La vitesse :math:`V_0` d'un objet sera perçue
+différemment selon l'observateur 1 qui aura une vitesse relative :math:`V_1` ou que l'observateur 2 aura
+une vitesse relative :math:`V_2` par rapport à l'objet. Chacun comprend aisément parce qu'il en a fait
 l'expérience qu'il voit le train immobile s'il est dedans, ou en mouvement s'il est sur le quai, ou bien
 encore à une autre vitesse s'il est lui-même dans un autre train.
 
