@@ -67,7 +67,7 @@ en plus endetté et au bout de 20 boucles on se retrouve à la situation suivant
 *B : -100 | + 200 => H +000 | -100*
 
 À ce moment là (H) ne pourra plus rembourser lors du cycle suivant. Il fait
-faillite , défaut, ou une négociation a lieu. B est alors muni d'un stock énorme
+faillite, défaut, ou une négociation a lieu. B est alors muni d'un stock énorme
 de monnaie, il bénéfice d'un pouvoir d'achat démultiplié sur une économie en
 déflation (car pendant tout ce temps l'économie aura subi la raréfaction
 progressive de la monnaie circulante). Il achète alors tout ce qu'il estime
@@ -136,7 +136,7 @@ ni devant la monnaie accumulée suite aux échanges).
 
 Il convient ici de comprendre la distinction qu'il y a entre
 la création monétaire par une « dette » envers un centre arbitraire,
-c'est à dire le fait que certains acteurs spatialement ou temporellement situés
+c'est-à-dire le fait que certains acteurs spatialement ou temporellement situés
 aient le privilège exclusif d'émettre la monnaie, créant une asymétrie
 par rapport aux autres acteurs de l'économie présents et futurs
 et la dette que l'on contracte envers un détenteur de monnaie pré-existante.

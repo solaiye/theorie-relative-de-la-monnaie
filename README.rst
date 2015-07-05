@@ -1,7 +1,7 @@
 Install
 =======
 
-* On Ubuntu :
+- Ubuntu:
 
 ::
 
@@ -14,8 +14,16 @@ Install
     $ sudo pip install virtualenv
     $ virtualenv -p /usr/bin/python2.7 venv
     $ source venv/bin/activate
-    $ pip install -r requirements.txt
+    $ pip install -r /path/to/theorie-relative-de-la-monnaie/requirements.txt
     $ pip install matplotlib
+
+- Fedora:
+
+::
+
+    $ sudo dnf install python-pip python-devel freetype-devel \
+      texlive texlive-latex dvipng python-matplotlib numpy \
+      python-numpydoc ipython python-sphinx python-ipython-sphinx
 
 
 Generate all (copy pdf and epub in html folder)
