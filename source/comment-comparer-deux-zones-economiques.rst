@@ -53,7 +53,7 @@ Application numérique :
 
 .. math::
 
-   Ua (États-Unis) = 15000/0,31 = 48387 \$ /citoyen
+   Ua (\text{États-Unis}) = 15000/0,31 = 48387 \$ /citoyen
 
 .. math::
 
