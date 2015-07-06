@@ -15,7 +15,8 @@ dans cette version 2.718, réalisés avec le logiciel libre Blender.
 
 Une pensée spéciale à Jean-Jacques Brucker et Canercandan, développeurs de
 logiciels libres, qui développent une implémentation de monnaie libre se basant
-sur la TRM dans le projet « Open-UDC » http://www.openudc.org
+sur la TRM dans le projet « Open-UDC » http://www.openudc.org ainsi qu'aux contributeurs
+du projet « uCoin » http://ucoin.io/.
 
 Les graphiques de Luc Fievet sont accessibles sur
 http://wiki.creationmonetaire.info
