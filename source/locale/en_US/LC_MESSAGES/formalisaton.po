@@ -41,19 +41,6 @@ msgid ""
 "l'est pas »*."
 msgstr ""
 
-#: ../../source/formalisaton.rst:22
-msgid ""
-"Dans l'économie, tout couple observateur / référentiel est un individu au "
-"sein de sa zone monétaire et les principes doivent être valables et de même "
-"forme, quelle que soit la position spatio-temporelle envisagée. Il s'agit "
-"donc aussi d'appliquer le 1er article des Droits de l'Homme quant à "
-"l'égalité devant le droit entre les individus, pour l'appliquer non "
-"seulement au code qui va régir la monnaie commune, mais aussi à la mesure "
-"relative de toute valeur, qui est aussi la compréhension de la liberté de "
-"choix de l'individu vis à vis de la valeur, au niveau de sa production, "
-"autant que de son échange."
-msgstr ""
-
 #: ../../source/formalisaton.rst:32
 msgid ""
 "Autrement dit *« aucun individu ne doit être privilégié quant au jugement et"
@@ -74,12 +61,6 @@ msgstr ""
 
 #: ../../source/formalisaton.rst:43
 msgid "a) Liberté"
-msgstr ""
-
-#: ../../source/formalisaton.rst:45
-msgid ""
-"La liberté se définit comme étant un principe symétrique : non-nuisance vis "
-"à vis de soi-même et d'autrui."
 msgstr ""
 
 #: ../../source/formalisaton.rst:50
@@ -342,3 +323,39 @@ msgstr ""
 #: ../../source/formalisaton.rst:210
 msgid "Liberté de productions"
 msgstr ""
+
+#: ../../source/formalisaton.rst:22
+msgid ""
+"Dans l'économie, tout couple observateur / référentiel est un individu au "
+"sein de sa zone monétaire et les principes doivent être valables et de même "
+"forme, quelle que soit la position spatio-temporelle envisagée. Il s'agit "
+"donc aussi d'appliquer le 1er article des Droits de l'Homme quant à "
+"l'égalité devant le droit entre les individus, pour l'appliquer non "
+"seulement au code qui va régir la monnaie commune, mais aussi à la mesure "
+"relative de toute valeur, qui est aussi la compréhension de la liberté de "
+"choix de l'individu vis-à-vis de la valeur, au niveau de sa production, "
+"autant que de son échange."
+msgstr ""
+
+#: ../../source/formalisaton.rst:45
+msgid ""
+"La liberté se définit comme étant un principe symétrique : non-nuisance "
+"vis-à-vis de soi-même et d'autrui."
+msgstr ""
+
+#~ msgid ""
+#~ "Dans l'économie, tout couple observateur / référentiel est un individu au "
+#~ "sein de sa zone monétaire et les principes doivent être valables et de même "
+#~ "forme, quelle que soit la position spatio-temporelle envisagée. Il s'agit "
+#~ "donc aussi d'appliquer le 1er article des Droits de l'Homme quant à "
+#~ "l'égalité devant le droit entre les individus, pour l'appliquer non "
+#~ "seulement au code qui va régir la monnaie commune, mais aussi à la mesure "
+#~ "relative de toute valeur, qui est aussi la compréhension de la liberté de "
+#~ "choix de l'individu vis à vis de la valeur, au niveau de sa production, "
+#~ "autant que de son échange."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "La liberté se définit comme étant un principe symétrique : non-nuisance vis "
+#~ "à vis de soi-même et d'autrui."
+#~ msgstr ""

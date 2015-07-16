@@ -40,10 +40,6 @@ msgid "http://www.ecb.int"
 msgstr ""
 
 #: ../../source/sources.rst:0
-msgid "Données monétaires USA"
-msgstr ""
-
-#: ../../source/sources.rst:0
 msgid "http://www.shadowstats.com"
 msgstr ""
 
@@ -68,3 +64,10 @@ msgid ""
 "Les images de la TRM sont toutes soit de Luc Fievet (libre) de wikimédia "
 "(Creative Common) ou directement de l'auteur (Creative Common)."
 msgstr ""
+
+#: ../../source/sources.rst:0
+msgid "Données monétaires des États-Unis"
+msgstr ""
+
+#~ msgid "Données monétaires USA"
+#~ msgstr ""

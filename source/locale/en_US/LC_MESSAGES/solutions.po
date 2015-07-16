@@ -145,17 +145,6 @@ msgid ""
 "vaut :"
 msgstr ""
 
-#: ../../source/solutions.rst:110
-msgid ""
-"Autrement dit : la croissance « c » de la masse monétaire « M » est "
-"relativement stable et répartie symétriquement entre l'ensemble des acteurs "
-"présents et à venir. Ces solutions à Dividende Universel assurent le respect"
-" du principe de relativité. La densité de la monnaie est assurée en tout "
-"temps et en tout point, évitant ainsi les extrêmes de sécheresses monétaires"
-" (sources de déflation), autant que les extrêmes de d'excès de monétisation "
-"(sources de bulles locales ou d'hyperinflation)."
-msgstr ""
-
 #: ../../source/solutions.rst:118
 msgid ""
 "La monnaie est créée de façon continue en cohérence avec le remplacement "
@@ -164,18 +153,6 @@ msgid ""
 "l'instant « t » quel que soit « t », ce qui est la seule façon de ne pas "
 "léser les acteurs économiques tant présents que futurs, que l'on peut aussi "
 "nommer « flux des individus »."
-msgstr ""
-
-#: ../../source/solutions.rst:125
-msgid ""
-"C'est donc bien le facteur d'espace-temps, et plus exactement la dimension "
-"temporelle, (générationnelle), liée à la durée limitée de la vie des "
-"individus, qui change la nature de la définition de la monnaie. Il s'agit "
-"donc d'éviter l'erreur fondamentale de considérer l'ensemble des acteurs en "
-"tant que quantité « permanente ». Comprendre qu'il s'agit d'un flux "
-"d'individus en continuel renouvellement, et que dans ce flux il n'y a aucune"
-" raison de privilégier aucun d'entre eux vis à vis de la création monétaire "
-"dans l'ensemble de l'espace-temps économique ainsi déterminé."
 msgstr ""
 
 #: ../../source/solutions.rst:138
@@ -252,17 +229,6 @@ msgstr ""
 
 #: ../../source/solutions.rst:196
 msgid "*Fontaine (wikimedia)*"
-msgstr ""
-
-#: ../../source/solutions.rst:198
-msgid ""
-"Une fois cette observation comprise et intégrée avec les résultats "
-"précédents, nous pouvons donc poser comme relation fondamentale que la "
-"création de la masse monétaire durant toute l'espérance de vie passée ne "
-"doit être représentée à « t » vis à vis de la masse monétaire existante que "
-"par la petite fraction des individus de cette génération presque totalement "
-"disparue mais encore présente dans la hauteur temporelle en proportion de "
-"1/ev."
 msgstr ""
 
 #: ../../source/solutions.rst:205
@@ -406,3 +372,68 @@ msgstr ""
 #: ../../source/solutions.rst:347
 msgid "Ces résultats concluent notre développement théorique principal."
 msgstr ""
+
+#: ../../source/solutions.rst:110
+msgid ""
+"Autrement dit : la croissance « c » de la masse monétaire « M » est "
+"relativement stable et répartie symétriquement entre l'ensemble des acteurs "
+"présents et à venir. Ces solutions à Dividende Universel assurent le respect"
+" du principe de relativité. La densité de la monnaie est assurée en tout "
+"temps et en tout point, évitant ainsi les extrêmes de sécheresses monétaires"
+" (sources de déflation), autant que les extrêmes de l'excès de monétisation "
+"(sources de bulles locales ou d'hyperinflation)."
+msgstr ""
+
+#: ../../source/solutions.rst:125
+msgid ""
+"C'est donc bien le facteur d'espace-temps, et plus exactement la dimension "
+"temporelle, (générationnelle), liée à la durée limitée de la vie des "
+"individus, qui change la nature de la définition de la monnaie. Il s'agit "
+"donc d'éviter l'erreur fondamentale de considérer l'ensemble des acteurs en "
+"tant que quantité « permanente ». Comprendre qu'il s'agit d'un flux "
+"d'individus en continuel renouvellement, et que dans ce flux il n'y a aucune"
+" raison de privilégier aucun d'entre eux vis-à-vis de la création monétaire "
+"dans l'ensemble de l'espace-temps économique ainsi déterminé."
+msgstr ""
+
+#: ../../source/solutions.rst:198
+msgid ""
+"Une fois cette observation comprise et intégrée avec les résultats "
+"précédents, nous pouvons donc poser comme relation fondamentale que la "
+"création de la masse monétaire durant toute l'espérance de vie passée ne "
+"doit être représentée à « t » vis-à-vis de la masse monétaire existante que "
+"par la petite fraction des individus de cette génération presque totalement "
+"disparue mais encore présente dans la hauteur temporelle en proportion de "
+"1/ev."
+msgstr ""
+
+#~ msgid ""
+#~ "Autrement dit : la croissance « c » de la masse monétaire « M » est "
+#~ "relativement stable et répartie symétriquement entre l'ensemble des acteurs "
+#~ "présents et à venir. Ces solutions à Dividende Universel assurent le respect"
+#~ " du principe de relativité. La densité de la monnaie est assurée en tout "
+#~ "temps et en tout point, évitant ainsi les extrêmes de sécheresses monétaires"
+#~ " (sources de déflation), autant que les extrêmes de d'excès de monétisation "
+#~ "(sources de bulles locales ou d'hyperinflation)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "C'est donc bien le facteur d'espace-temps, et plus exactement la dimension "
+#~ "temporelle, (générationnelle), liée à la durée limitée de la vie des "
+#~ "individus, qui change la nature de la définition de la monnaie. Il s'agit "
+#~ "donc d'éviter l'erreur fondamentale de considérer l'ensemble des acteurs en "
+#~ "tant que quantité « permanente ». Comprendre qu'il s'agit d'un flux "
+#~ "d'individus en continuel renouvellement, et que dans ce flux il n'y a aucune"
+#~ " raison de privilégier aucun d'entre eux vis à vis de la création monétaire "
+#~ "dans l'ensemble de l'espace-temps économique ainsi déterminé."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Une fois cette observation comprise et intégrée avec les résultats "
+#~ "précédents, nous pouvons donc poser comme relation fondamentale que la "
+#~ "création de la masse monétaire durant toute l'espérance de vie passée ne "
+#~ "doit être représentée à « t » vis à vis de la masse monétaire existante que "
+#~ "par la petite fraction des individus de cette génération presque totalement "
+#~ "disparue mais encore présente dans la hauteur temporelle en proportion de "
+#~ "1/ev."
+#~ msgstr ""

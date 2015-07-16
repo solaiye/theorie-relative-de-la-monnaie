@@ -30,12 +30,6 @@ msgid ""
 " liberté pour les parties de la TRM que vous aurez reprises et publiées."
 msgstr ""
 
-#: ../../source/licence-et-versionning.rst:14
-msgid ""
-"Vous avez une information complète sur la GPL en Français sur Wikipedia à "
-"l'adresse"
-msgstr ""
-
 #: ../../source/licence-et-versionning.rst:17
 msgid "`http://fr.wikipedia.org/wiki/Licence_publique_générale_GNU`"
 msgstr ""
@@ -58,3 +52,14 @@ msgid ""
 "Si vous souhaitez faire un don à l'auteur, ou en faire l'achat numérique, "
 "papier ou autre, vous aurez  ces possibilités sur ce même site."
 msgstr ""
+
+#: ../../source/licence-et-versionning.rst:14
+msgid ""
+"Vous avez une information complète sur la GPL en Français sur Wikipédia à "
+"l'adresse"
+msgstr ""
+
+#~ msgid ""
+#~ "Vous avez une information complète sur la GPL en Français sur Wikipedia à "
+#~ "l'adresse"
+#~ msgstr ""

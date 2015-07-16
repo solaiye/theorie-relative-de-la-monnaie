@@ -78,14 +78,6 @@ msgid ""
 "s'accorder sur la stabilité de leur outil d'échange circulaire."
 msgstr ""
 
-#: ../../source/probleme-des-trois-producteurs.rst:50
-msgid ""
-"Aussi comme nous le allons le démontrer dans ce qui suit, et pour être "
-"cohérent avec nos fondements, seule une quantification purement mathématique"
-" des échanges, indépendante de tout bien ou service de référence est "
-"acceptable par les acteurs du problème des trois producteurs."
-msgstr ""
-
 #: ../../source/probleme-des-trois-producteurs.rst:56
 msgid ""
 "Ce résultat n'enlève en rien de la valeur à la monnaie, puisque quoique "
@@ -107,3 +99,18 @@ msgid ""
 "envisagées et les soucis qu'elles posent avant d'aborder la solution "
 "relativiste proprement dite."
 msgstr ""
+
+#: ../../source/probleme-des-trois-producteurs.rst:50
+msgid ""
+"Aussi comme nous allons le démontrer dans ce qui suit, et pour être cohérent"
+" avec nos fondements, seule une quantification purement mathématique des "
+"échanges, indépendante de tout bien ou service de référence est acceptable "
+"par les acteurs du problème des trois producteurs."
+msgstr ""
+
+#~ msgid ""
+#~ "Aussi comme nous le allons le démontrer dans ce qui suit, et pour être "
+#~ "cohérent avec nos fondements, seule une quantification purement mathématique"
+#~ " des échanges, indépendante de tout bien ou service de référence est "
+#~ "acceptable par les acteurs du problème des trois producteurs."
+#~ msgstr ""

@@ -861,15 +861,6 @@ msgid ""
 "monétaire concernée."
 msgstr ""
 
-#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:642
-msgid ""
-"2007 – 2010 représente la fin du dernier cycle d'expansion monétaire 1971 – "
-"2010, qui a vu successivement des règles privées s'imposer tant aux USA "
-"qu'en Europe décidées au sein d'un groupement « d'experts », nommées  « Bâle"
-" I » puis « Bâle II » et « Bâle III » en cours de négociation, censées « "
-"réguler les Banques »."
-msgstr ""
-
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:648
 msgid ""
 "Cela reviendrait à essayer de transformer le Minitel alors qu'internet "
@@ -938,16 +929,6 @@ msgid ""
 "Le Dividende Universel a déjà été mis en pratique récemment sous différentes"
 " formes, et différents noms comme « revenu d'existence », « revenu permanent"
 " », « allocation universelle » etc..."
-msgstr ""
-
-#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:696
-msgid ""
-"On trouve des exemples de mise en oeuvre en Alaska, dans une expérience "
-"locale en Namibie, au sein de SEL comme le SCEC en Italie, ou encore au "
-"Brésil. Il existe des groupements qui font la promotion d'un revenu "
-"individuel symétrique comme l'association internationale du BIEN (Basic "
-"Income Exchange Network), ainsi que l'AIRE (Association pour l'Instauration "
-"d'un Revenu d'Existence) en France présidée par l'économiste Yoland Bresson."
 msgstr ""
 
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:703
@@ -1044,10 +1025,6 @@ msgstr ""
 msgid "UD (0) = 100 UDC"
 msgstr ""
 
-#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:771
-msgid "UD (n+1) = MAX { UD(n) ; Pud x M(n)/N(n) }"
-msgstr ""
-
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:773
 msgid ""
 "Où « n » est le mois précédent. UD(n) est le Dividende Universel du dernier "
@@ -1062,3 +1039,47 @@ msgid ""
 "et est remonté si la croissance de la masse monétaire par membre (M(n)/N(n))"
 " devient inférieure au minimum « Pud »."
 msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:642
+msgid ""
+"2007 – 2010 représente la fin du dernier cycle d'expansion monétaire 1971 – "
+"2010, qui a vu successivement des règles privées s'imposer tant aux États-"
+"Unis qu'en Europe décidées au sein d'un groupement « d'experts », nommées  «"
+" Bâle I » puis « Bâle II » et « Bâle III » en cours de négociation, censées "
+"« réguler les Banques »."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:696
+msgid ""
+"On trouve des exemples de mise en œuvre en Alaska, dans une expérience "
+"locale en Namibie, au sein de SEL comme le SCEC en Italie, ou encore au "
+"Brésil. Il existe des groupements qui font la promotion d'un revenu "
+"individuel symétrique comme l'association internationale du BIEN (Basic "
+"Income Exchange Network), ainsi que l'AIRE (Association pour l'Instauration "
+"d'un Revenu d'Existence) en France qui fut présidée par l'économiste Yoland "
+"Bresson."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:771
+msgid "UD (n+1) = MAX { UD(n) ; Pud × M(n)/N(n) }"
+msgstr ""
+
+#~ msgid ""
+#~ "2007 – 2010 représente la fin du dernier cycle d'expansion monétaire 1971 – "
+#~ "2010, qui a vu successivement des règles privées s'imposer tant aux USA "
+#~ "qu'en Europe décidées au sein d'un groupement « d'experts », nommées  « Bâle"
+#~ " I » puis « Bâle II » et « Bâle III » en cours de négociation, censées « "
+#~ "réguler les Banques »."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "On trouve des exemples de mise en oeuvre en Alaska, dans une expérience "
+#~ "locale en Namibie, au sein de SEL comme le SCEC en Italie, ou encore au "
+#~ "Brésil. Il existe des groupements qui font la promotion d'un revenu "
+#~ "individuel symétrique comme l'association internationale du BIEN (Basic "
+#~ "Income Exchange Network), ainsi que l'AIRE (Association pour l'Instauration "
+#~ "d'un Revenu d'Existence) en France présidée par l'économiste Yoland Bresson."
+#~ msgstr ""
+
+#~ msgid "UD (n+1) = MAX { UD(n) ; Pud x M(n)/N(n) }"
+#~ msgstr ""

@@ -72,14 +72,6 @@ msgstr ""
 msgid "*H = les hommes*"
 msgstr ""
 
-#: ../../source/probleme-de-la-monnaie-dette.rst:43
-msgid ""
-"Les intérêt dus par H à B sont de 5 % / an. En (1) s'effectue l'émission "
-"d'une nouvelle « dette », consituant donc la « monnaie » par B qui crédite "
-"H. En (2) les 5 % sont remboursés, puis éventuellement dépensés en (3) et "
-"c'est ensuite la boucle sans fin."
-msgstr ""
-
 #: ../../source/probleme-de-la-monnaie-dette.rst:48
 msgid "*(1) B : -100 | +100 => H +100 | -100*"
 msgstr ""
@@ -121,17 +113,6 @@ msgstr ""
 
 #: ../../source/probleme-de-la-monnaie-dette.rst:67
 msgid "*B : -100 | + 200 => H +000 | -100*"
-msgstr ""
-
-#: ../../source/probleme-de-la-monnaie-dette.rst:69
-msgid ""
-"À ce moment là (H) ne pourra plus rembourser lors du cycle suivant. Il fait "
-"faillite , défaut, ou une négociation a lieu. B est alors muni d'un stock "
-"énorme de monnaie, il bénéfice d'un pouvoir d'achat démultiplié sur une "
-"économie en déflation (car pendant tout ce temps l'économie aura subi la "
-"raréfaction progressive de la monnaie circulante). Il achète alors tout ce "
-"qu'il estime comme étant la base économique du prochain cycle au meilleur "
-"prix."
 msgstr ""
 
 #: ../../source/probleme-de-la-monnaie-dette.rst:76
@@ -218,13 +199,59 @@ msgid ""
 "échanges)."
 msgstr ""
 
+#: ../../source/probleme-de-la-monnaie-dette.rst:43
+msgid ""
+"Les intérêts dus par H à B sont de 5 % / an. En (1) s'effectue l'émission "
+"d'une nouvelle « dette », constituant donc la « monnaie » par B qui crédite "
+"H. En (2) les 5 % sont remboursés, puis éventuellement dépensés en (3) et "
+"c'est ensuite la boucle sans fin."
+msgstr ""
+
+#: ../../source/probleme-de-la-monnaie-dette.rst:69
+msgid ""
+"À ce moment là (H) ne pourra plus rembourser lors du cycle suivant. Il fait "
+"faillite, défaut, ou une négociation a lieu. B est alors muni d'un stock "
+"énorme de monnaie, il bénéfice d'un pouvoir d'achat démultiplié sur une "
+"économie en déflation (car pendant tout ce temps l'économie aura subi la "
+"raréfaction progressive de la monnaie circulante). Il achète alors tout ce "
+"qu'il estime comme étant la base économique du prochain cycle au meilleur "
+"prix."
+msgstr ""
+
 #: ../../source/probleme-de-la-monnaie-dette.rst:137
 msgid ""
 "Il convient ici de comprendre la distinction qu'il y a entre la création "
-"monétaire par une « dette » envers un centre arbitraire, c'est à dire le "
+"monétaire par une « dette » envers un centre arbitraire, c'est-à-dire le "
 "fait que certains acteurs spatialement ou temporellement situés aient le "
 "privilège exclusif d'émettre la monnaie, créant une asymétrie par rapport "
 "aux autres acteurs de l'économie présents et futurs et la dette que l'on "
 "contracte envers un détenteur de monnaie pré-existante. C'est bien le "
 "premier point qui est ici dénoncé."
 msgstr ""
+
+#~ msgid ""
+#~ "Les intérêt dus par H à B sont de 5 % / an. En (1) s'effectue l'émission "
+#~ "d'une nouvelle « dette », consituant donc la « monnaie » par B qui crédite "
+#~ "H. En (2) les 5 % sont remboursés, puis éventuellement dépensés en (3) et "
+#~ "c'est ensuite la boucle sans fin."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "À ce moment là (H) ne pourra plus rembourser lors du cycle suivant. Il fait "
+#~ "faillite , défaut, ou une négociation a lieu. B est alors muni d'un stock "
+#~ "énorme de monnaie, il bénéfice d'un pouvoir d'achat démultiplié sur une "
+#~ "économie en déflation (car pendant tout ce temps l'économie aura subi la "
+#~ "raréfaction progressive de la monnaie circulante). Il achète alors tout ce "
+#~ "qu'il estime comme étant la base économique du prochain cycle au meilleur "
+#~ "prix."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Il convient ici de comprendre la distinction qu'il y a entre la création "
+#~ "monétaire par une « dette » envers un centre arbitraire, c'est à dire le "
+#~ "fait que certains acteurs spatialement ou temporellement situés aient le "
+#~ "privilège exclusif d'émettre la monnaie, créant une asymétrie par rapport "
+#~ "aux autres acteurs de l'économie présents et futurs et la dette que l'on "
+#~ "contracte envers un détenteur de monnaie pré-existante. C'est bien le "
+#~ "premier point qui est ici dénoncé."
+#~ msgstr ""

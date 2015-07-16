@@ -138,6 +138,11 @@ msgstr ""
 
 #: ../../source/probleme-de-la-valeur-de-reference.rst:90
 msgid ""
-"*Evolution du ratio « once d'or ($) / Masse Monétaire M3 USA ($) » de 1958 à"
-" 2010*"
+"*Evolution du ratio « once d'or ($) / Masse Monétaire M3 États-Unis ($) » de"
+" 1958 à 2010*"
 msgstr ""
+
+#~ msgid ""
+#~ "*Evolution du ratio « once d'or ($) / Masse Monétaire M3 USA ($) » de 1958 à"
+#~ " 2010*"
+#~ msgstr ""

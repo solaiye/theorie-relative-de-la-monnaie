@@ -64,14 +64,6 @@ msgstr ""
 msgid "Développement théorique"
 msgstr ""
 
-#: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:36
-msgid ""
-"Supposons qu'une valeur spécifique dVs = Pf * dCf soit en croissance (dVs > "
-"0). L'émetteur de crédits va alimenter la production et l'achat de cette "
-"valeur en nouveaux crédits dMf pour en tirer un bénéfice, en proportion de "
-"cette valeur, et selon donc, pour cette valeur spécifique :"
-msgstr ""
-
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:45
 msgid ""
 "Cette « croissance » atteint un maximum limité soit par le contrôle de la "
@@ -221,15 +213,6 @@ msgid ""
 "sur-alimenté par une création de monnaie à résonance."
 msgstr ""
 
-#: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:157
-msgid ""
-"Pour voir cet effet sur des données expérimentales, nous allons calculer "
-"l'écart type sur une moyenne à 12 mois, de la croissance des masses "
-"monétaires M3 en Europe et USA. L'écart type en mathématiques statistiques, "
-"représente les effets d'écart par rapport à la moyenne, ce qui permet de "
-"très bien visualiser un effet de résonance."
-msgstr ""
-
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:167
 msgid ""
 "Nous percevons alors très clairement que les expansions et les crises sont "
@@ -286,3 +269,35 @@ msgstr ""
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:207
 msgid "*Ecart type sur 12 mois de la croissance de M3 $ 1958 - 2010*"
 msgstr ""
+
+#: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:36
+msgid ""
+"Supposons qu'une valeur spécifique dVs = Pf × dCf soit en croissance (dVs > "
+"0). L'émetteur de crédits va alimenter la production et l'achat de cette "
+"valeur en nouveaux crédits dMf pour en tirer un bénéfice, en proportion de "
+"cette valeur, et selon donc, pour cette valeur spécifique :"
+msgstr ""
+
+#: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:157
+msgid ""
+"Pour voir cet effet sur des données expérimentales, nous allons calculer "
+"l'écart type sur une moyenne à 12 mois, de la croissance des masses "
+"monétaires M3 en Europe et États-Unis. L'écart type en mathématiques "
+"statistiques, représente les effets d'écart par rapport à la moyenne, ce qui"
+" permet de très bien visualiser un effet de résonance."
+msgstr ""
+
+#~ msgid ""
+#~ "Supposons qu'une valeur spécifique dVs = Pf * dCf soit en croissance (dVs > "
+#~ "0). L'émetteur de crédits va alimenter la production et l'achat de cette "
+#~ "valeur en nouveaux crédits dMf pour en tirer un bénéfice, en proportion de "
+#~ "cette valeur, et selon donc, pour cette valeur spécifique :"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Pour voir cet effet sur des données expérimentales, nous allons calculer "
+#~ "l'écart type sur une moyenne à 12 mois, de la croissance des masses "
+#~ "monétaires M3 en Europe et USA. L'écart type en mathématiques statistiques, "
+#~ "représente les effets d'écart par rapport à la moyenne, ce qui permet de "
+#~ "très bien visualiser un effet de résonance."
+#~ msgstr ""
