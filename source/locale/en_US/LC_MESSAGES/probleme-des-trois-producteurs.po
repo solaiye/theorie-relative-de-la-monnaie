@@ -1,20 +1,31 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Stéphane Laborde
+# This file is distributed under the same license as the Théorie Relative de la Monnaie package.
 # 
+# Translators:
+# Smyds <cesar.proute@gmail.com>, 2015
+# Nathanaël Leprette, 2015
+# Vincent Texier, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Théorie Relative de la Monnaie 2.718\n"
+"Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-15 20:40+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2015-07-16 10:25+0200\n"
+"PO-Revision-Date: 2015-07-16 08:55+0000\n"
+"Last-Translator: Vincent Texier\n"
+"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# dd6c343e3aa54af6966aabcad1d9d23a
 #: ../../source/probleme-des-trois-producteurs.rst:3
 msgid "Problème des trois producteurs"
-msgstr ""
+msgstr "Three producers problem"
 
+# beebe3e9d79448609abf8f6ec830636a
 #: ../../source/probleme-des-trois-producteurs.rst:5
 msgid ""
 "La nécessité de définir une monnaie commune étant admise au sein de la "
@@ -22,17 +33,20 @@ msgid ""
 "qu'il peuvent juger comme étant de la valeur ou pas, il reste un problème "
 "fondamental de définition de cette monnaie. Il se réduit à la résolution du "
 "problème spatio-temporel des trois producteurs que voici :"
-msgstr ""
+msgstr "The necessity of defining a common currency being given inside the community of individuals, despite their fundamental disagreements regarding what constitutes value, there remains a fundamental problem for the definition of this currency. It can be reduced to solving the following spacial-temporal three producers problem : "
 
+# 86c8867816b84c6ab8d3a2dcbbfa80a6
 #: ../../source/probleme-des-trois-producteurs.rst:12
 msgid "X, Y, et Z, produisent respectivement des valeurs Vx Vy et Vz."
-msgstr ""
+msgstr "X, Y and Z respectively produce values Vx, Vy and Vz"
 
+# 2a387a9c35054660b18c43860f016a15
 #: ../../source/probleme-des-trois-producteurs.rst:14
 msgid ""
 "X souhaite obtenir Vy, Y souhaite obtenir Vz, et Z souhaite obtenir Vx."
-msgstr ""
+msgstr "X wants Vy, Y wants Vz, and Z wants Vx."
 
+# 5cd8f22fa1414e42b29688738f61b428
 #: ../../source/probleme-des-trois-producteurs.rst:16
 msgid ""
 "On le voit immédiatement, les échanges ne peuvent pas se faire "
@@ -42,8 +56,9 @@ msgid ""
 "commune. C'est bien là le point fondamental, qui implique que la monnaie "
 "devra être définie sur une base indépendante des valeurs produites par "
 "chacun."
-msgstr ""
+msgstr "We can see that the exchanges cannot be bilateral, but must be circular. Furthermore as it's perfectly possible that X grants no value to Vz, Y to Vx, and Z to Vy (relativity principle), none of the goods and services produced can be used as a common metric. This is the fundamental argument that implies that the currency must be defined on a basis independent of the values produces by each individual."
 
+# 061ecc51504e4d10a9d123542d68fd5c
 #: ../../source/probleme-des-trois-producteurs.rst:23
 msgid ""
 "Le problème existe aussi dans le temps où, les individus, les productions, "
@@ -52,23 +67,26 @@ msgid ""
 "pas moins nécessaire d'avoir, à tout instant, la possibilité d'échanger de "
 "façon convenable la production des uns et des autres, afin de satisfaire "
 "leurs besoins évolutifs respectifs."
-msgstr ""
+msgstr "The problem also exists in time, where individuals, products, services and needs will evolve in nature and will progressively be replaced or disappear. It is not less necessary for individuals to be able at all times to trade appropriately each other's production in order to satisfy their respective changing needs."
 
+# 28153dcaba8c4df58c1cd4470376c563
 #: ../../source/probleme-des-trois-producteurs.rst:35
 msgid ""
 "*Pour une petite unité de temps « dt »* *les individus X Y et Z co-"
 "existent,* *produisent et échangent des valeurs stables. (Luc Fievet TRM "
 "2.0)*"
-msgstr ""
+msgstr "*For a small time unit « dt »* *the individuals X Y and Z coexist,* *produce and exchange stable values. (Luc Fievet RMT 2.0)*"
 
+# e7103d624bc74d788705b01ce63c165e
 #: ../../source/probleme-des-trois-producteurs.rst:39
 msgid ""
 "Donc, non seulement *« dans l'espace »* (pour un temps d'évolution court "
 "«dt») les valeurs ne sont pas communément reconnues par les producteurs et "
 "font pourtant l'objet d'échanges circulaires, mais *« dans le temps »* les "
 "individus et les valeurs produites changent du tout au tout."
-msgstr ""
+msgstr "So, not only \"in space\" (for a short evolution time \"dt\") values are not commonly recognized by productors and are the object of circular exchanges, but \"in time\" individuals and produced values change completely."
 
+# 9dcc82cbf4fe4b988b72caed1e923966
 #: ../../source/probleme-des-trois-producteurs.rst:44
 msgid ""
 "Il n'en reste pas moins, que pour un temps suffisamment court, on constate "
@@ -76,8 +94,18 @@ msgid ""
 "économiques, dont la monnaie que nous voulons définir, qui permet aux "
 "producteurs présents à tout instant, et au moins pour ce temps court, de "
 "s'accorder sur la stabilité de leur outil d'échange circulaire."
-msgstr ""
+msgstr "Nevertheless, for a short time, we observe a certain stability. So, there is a continuous evolution of economical parameters, including the money we want to define, which allow the present producers at any moment, and at least for this short period of time, to agree on the stability of this circular exchange tool."
 
+# e91f09b671a54d628e2b964043f2bcac
+#: ../../source/probleme-des-trois-producteurs.rst:50
+msgid ""
+"Aussi comme nous allons le démontrer dans ce qui suit, et pour être cohérent"
+" avec nos fondements, seule une quantification purement mathématique des "
+"échanges, indépendante de tout bien ou service de référence est acceptable "
+"par les acteurs du problème des trois producteurs."
+msgstr "Also, as we shall demonstrate in what follows, and to be coherent with our fundamentals, only a purely mathematical quantification of exchanges, independant of all references, goods and services, is acceptable for our actors of the problem of the three producers."
+
+# 74897483b90144f8b5ee708c7bc413b0
 #: ../../source/probleme-des-trois-producteurs.rst:56
 msgid ""
 "Ce résultat n'enlève en rien de la valeur à la monnaie, puisque quoique "
@@ -85,32 +113,19 @@ msgid ""
 "potentiel d'achat qu'elle recèle demeurera donc limité par les prix au delà "
 "desquels les producteurs ne pourraient pas échanger leurs productions par "
 "manque de monnaie."
-msgstr ""
+msgstr "This result doesn't reduce the value of the money because it's total quantity, although purely mathematic, is limited in all instant. The purchase potential of this money is limited by the prices beyond which the producers would not be able to exchange their productions because of a lack of money."
 
+# d37db7c6594e41fb877ec02c74df857e
 #: ../../source/probleme-des-trois-producteurs.rst:67
 msgid ""
 "*Le problème des trois producteurs se complique* *lorsqu'au bout d'un temps "
 "suffisamment long ils sont morts et remplacés (Luc Fievet TRM 2.0)*"
-msgstr ""
+msgstr "*The problem of the three producers get more complicated* *when after some time, they die and they are replaced. (Luc Fievet TRM 2.0)*"
 
+# ccd21f34e378461e970a508b148d8684
 #: ../../source/probleme-des-trois-producteurs.rst:70
 msgid ""
 "Le problème est posé, nous allons maintenant balayer les solutions "
 "envisagées et les soucis qu'elles posent avant d'aborder la solution "
 "relativiste proprement dite."
-msgstr ""
-
-#: ../../source/probleme-des-trois-producteurs.rst:50
-msgid ""
-"Aussi comme nous allons le démontrer dans ce qui suit, et pour être cohérent"
-" avec nos fondements, seule une quantification purement mathématique des "
-"échanges, indépendante de tout bien ou service de référence est acceptable "
-"par les acteurs du problème des trois producteurs."
-msgstr ""
-
-#~ msgid ""
-#~ "Aussi comme nous le allons le démontrer dans ce qui suit, et pour être "
-#~ "cohérent avec nos fondements, seule une quantification purement mathématique"
-#~ " des échanges, indépendante de tout bien ou service de référence est "
-#~ "acceptable par les acteurs du problème des trois producteurs."
-#~ msgstr ""
+msgstr "The problem being posed, we are going now to browse and analyse some solution that we considered, before talking about the relativist solution."

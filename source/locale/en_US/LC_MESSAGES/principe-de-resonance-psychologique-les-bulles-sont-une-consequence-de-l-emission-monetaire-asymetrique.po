@@ -1,22 +1,30 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Stéphane Laborde
+# This file is distributed under the same license as the Théorie Relative de la Monnaie package.
 # 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Théorie Relative de la Monnaie 2.718\n"
+"Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-15 20:40+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2015-07-16 10:25+0200\n"
+"PO-Revision-Date: 2015-07-16 08:40+0000\n"
+"Last-Translator: Vincent Texier\n"
+"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# f9c76998770e48fd9231a756aa9a4b2d
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:3
 msgid ""
 "Principe de résonance psychologique. Les bulles sont une conséquence de "
 "l'émission monétaire asymétrique"
 msgstr ""
 
+# c191b49071074a058b7a6bd22a4bac16
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:5
 msgid ""
 "L'émetteur de monnaie asymétrique a donc sa propre vision de la valeur, qui "
@@ -24,6 +32,7 @@ msgid ""
 "économique."
 msgstr ""
 
+# 3efe4b9cfd2c4165a0f020db10d02f65
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:9
 msgid ""
 "Ce faisant, il aura donc tendance à privilégier ce qu'il croit être une "
@@ -34,6 +43,7 @@ msgid ""
 "la valeur avant la chute inévitable."
 msgstr ""
 
+# 51ce8bd3874b4d529486c163b91014cd
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:16
 msgid ""
 "Nous sommes donc dans le cadre de l'émission monétaire asymétrique sur un "
@@ -41,12 +51,14 @@ msgid ""
 "par :"
 msgstr ""
 
+# c6c9486100be45389d561bddcf9a3b8d
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:19
 msgid ""
 "*« L'économie est en attente de visibilité sur la politique monétaire, "
 "laquelle* *attend une visibilité sur l'économie »*"
 msgstr ""
 
+# 45770846c92b46ea9ff9774597bb4b01
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:22
 msgid ""
 "Principe à la base des phénomènes de bulles et de crises systémiques par "
@@ -54,16 +66,28 @@ msgid ""
 "relativité."
 msgstr ""
 
+# 7a32f37c66884edbaf057485bb601376
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:30
 msgid ""
 "*Évolution temporelle de pseudo « valeurs » par émission arbitraire de « "
 "monnaie dette »*"
 msgstr ""
 
+# 968bb4f37cea403283a12162861d928a
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:34
 msgid "Développement théorique"
 msgstr ""
 
+# 0139b4902b274483a6b30ccdc9fac9a6
+#: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:36
+msgid ""
+"Supposons qu'une valeur spécifique dVs = Pf × dCf soit en croissance (dVs > "
+"0). L'émetteur de crédits va alimenter la production et l'achat de cette "
+"valeur en nouveaux crédits dMf pour en tirer un bénéfice, en proportion de "
+"cette valeur, et selon donc, pour cette valeur spécifique :"
+msgstr ""
+
+# ce3fac589b584408937fe9a4faf51b1d
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:45
 msgid ""
 "Cette « croissance » atteint un maximum limité soit par le contrôle de la "
@@ -74,6 +98,7 @@ msgid ""
 "non solvable."
 msgstr ""
 
+# ebd38f6e08f34e9fbe52d857b93d92fa
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:51
 msgid ""
 "Surgit alors un problème de remboursement des crédits alloués à l'émetteur, "
@@ -85,6 +110,7 @@ msgid ""
 "sont privés unilatéralement de leur part de l'outil monétaire nécessaire."
 msgstr ""
 
+# ddd29ff00af9483b8809e2a820e594f1
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:59
 msgid ""
 "Il faut bien comprendre dans le champ de valeur l'endettement des « derniers"
@@ -96,12 +122,14 @@ msgid ""
 " bulle dans le champ de valeur sur un exemple."
 msgstr ""
 
+# 4434f5e82d2c41fc8ae274d512ab7c77
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:67
 msgid ""
 "a) Une valeur monétisée est identifiée par l'émetteur de crédits arbitraires"
 " muni de fonds propres"
 msgstr ""
 
+# 747efe098eb740d693b6ef9c2a6d627b
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:70
 msgid ""
 "b) L'émetteur de crédits arbitraires alloue alors des lignes de crédits au "
@@ -111,10 +139,12 @@ msgid ""
 "locale de crédits."
 msgstr ""
 
+# bd6cead97e40451ba5451dab163871e9
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:80
 msgid "*a) Fonds propres initiaux (Luc Fievet TRM 2.0)*"
 msgstr ""
 
+# ed427ab1bdf04172a27eabe042d20b29
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:83
 msgid ""
 "c) L'émetteur de crédits arbitraires cesse son injection, soit parce qu'il "
@@ -128,6 +158,7 @@ msgid ""
 "nourrir de l'injection de nouveaux crédits."
 msgstr ""
 
+# 1f461d3744b9479c8847077a1bee53b8
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:93
 msgid ""
 "d) Il reste en fin de « cycle » un émetteur de crédits arbitraires qui a « "
@@ -140,6 +171,7 @@ msgid ""
 " de la monnaie."
 msgstr ""
 
+# 77d6b11b6cc04f428f4b24d594c5fa01
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:105
 msgid ""
 "*b) L'émetteur de crédits par effet de levier crée de la monnaie "
@@ -147,6 +179,7 @@ msgid ""
 " Fievet TRM 2.0)*"
 msgstr ""
 
+# e051413ca28a4115a8b5a7e6136d4ae9
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:108
 msgid ""
 "Ce phénomène local est bien évidemment exactement le même au niveau global, "
@@ -158,12 +191,14 @@ msgid ""
 " de remboursement supérieure au taux de croissance global de la monnaie."
 msgstr ""
 
+# 21bc378515f94e83998837e393231b2c
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:120
 msgid ""
 "*c) Force de remboursement du crédit arbitrairement émis et alloué (Luc "
 "Fievet TRM 2.0)*"
 msgstr ""
 
+# a63267e9997a447db7c3f67c5aaf0d56
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:122
 msgid ""
 "Ainsi quelle que soit la valeur créée dans l'économie d'un système monétaire"
@@ -174,6 +209,7 @@ msgid ""
 "paralysée."
 msgstr ""
 
+# 80358e533ef949b59f626c194f6306be
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:128
 msgid ""
 "Ce modèle asymétrique s'avère être un système où, à risque minimum on "
@@ -182,6 +218,7 @@ msgid ""
 "forcée) pour les producteurs"
 msgstr ""
 
+# fedef6cae6e241bd9cf7f263681b698b
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:133
 msgid ""
 "Ceci est fondamentalement différent de l'investissement avec de la monnaie "
@@ -193,16 +230,19 @@ msgid ""
 "de personne)."
 msgstr ""
 
+# 5a53cf82cf7846ba9fef44bea78f2076
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:144
 msgid ""
 "*Faillite forcée par assèchement monétaire progressif,* *et captation de "
 "toute la valeur par le centre d'émission (Luc Fievet TRM 2.0)*"
 msgstr ""
 
+# 7950741667314e70be08593e096053b4
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:148
 msgid "Vérification expérimentale"
 msgstr ""
 
+# 016f8b5809ea45bf920bab68fd7334f7
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:150
 msgid ""
 "Le raisonnement théorique peut se vérifier en étudiant les bulles globales "
@@ -213,6 +253,17 @@ msgid ""
 "sur-alimenté par une création de monnaie à résonance."
 msgstr ""
 
+# bb61599a723c4e869b1ad83bea2cfb9a
+#: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:157
+msgid ""
+"Pour voir cet effet sur des données expérimentales, nous allons calculer "
+"l'écart type sur une moyenne à 12 mois, de la croissance des masses "
+"monétaires M3 en Europe et États-Unis. L'écart type en mathématiques "
+"statistiques, représente les effets d'écart par rapport à la moyenne, ce qui"
+" permet de très bien visualiser un effet de résonance."
+msgstr ""
+
+# c316876942634501834b30b20ec747d4
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:167
 msgid ""
 "Nous percevons alors très clairement que les expansions et les crises sont "
@@ -221,6 +272,7 @@ msgid ""
 "2008."
 msgstr ""
 
+# 044d9e1743fa44d38c891c4b6f8198cd
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:171
 msgid ""
 "Et pour M3 US$, sur une période plus longue encore, nous obtenons des "
@@ -230,14 +282,17 @@ msgid ""
 "de monnaie."
 msgstr ""
 
+# b15b2316a42e4d719ea489bdfbac7453
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:177
 msgid "Pour M3 € nous obtenons alors ceci :"
 msgstr ""
 
+# 08e28251e86e4d92a7e0ac81a083e22e
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:183
 msgid "*Ecart type sur 12 mois de la croissance de M3 € 1998 - 2010*"
 msgstr ""
 
+# d415d3ecbee54633acbd52edcfc044c5
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:185
 msgid ""
 "Il y a donc une accaparation de la monnaie créée arbitrairement sur des flux"
@@ -245,6 +300,7 @@ msgid ""
 "détriment de tout le reste de l'économie."
 msgstr ""
 
+# d59a596b27ea490cae24242e1eaae325
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:189
 msgid ""
 "Non seulement le reste de l'économie est exclu de cette création monétaire "
@@ -260,44 +316,14 @@ msgid ""
 " avec cette monnaie."
 msgstr ""
 
+# 7c97a357bfca436190c55f326657b9b6
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:200
 msgid ""
 "Le centre d'émission joue donc, par construction, contre l'intérêt de la "
 "somme des autres acteurs économiques."
 msgstr ""
 
+# 1419d3d331e941d4a743c318dbf42773
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:207
 msgid "*Ecart type sur 12 mois de la croissance de M3 $ 1958 - 2010*"
 msgstr ""
-
-#: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:36
-msgid ""
-"Supposons qu'une valeur spécifique dVs = Pf × dCf soit en croissance (dVs > "
-"0). L'émetteur de crédits va alimenter la production et l'achat de cette "
-"valeur en nouveaux crédits dMf pour en tirer un bénéfice, en proportion de "
-"cette valeur, et selon donc, pour cette valeur spécifique :"
-msgstr ""
-
-#: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:157
-msgid ""
-"Pour voir cet effet sur des données expérimentales, nous allons calculer "
-"l'écart type sur une moyenne à 12 mois, de la croissance des masses "
-"monétaires M3 en Europe et États-Unis. L'écart type en mathématiques "
-"statistiques, représente les effets d'écart par rapport à la moyenne, ce qui"
-" permet de très bien visualiser un effet de résonance."
-msgstr ""
-
-#~ msgid ""
-#~ "Supposons qu'une valeur spécifique dVs = Pf * dCf soit en croissance (dVs > "
-#~ "0). L'émetteur de crédits va alimenter la production et l'achat de cette "
-#~ "valeur en nouveaux crédits dMf pour en tirer un bénéfice, en proportion de "
-#~ "cette valeur, et selon donc, pour cette valeur spécifique :"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Pour voir cet effet sur des données expérimentales, nous allons calculer "
-#~ "l'écart type sur une moyenne à 12 mois, de la croissance des masses "
-#~ "monétaires M3 en Europe et USA. L'écart type en mathématiques statistiques, "
-#~ "représente les effets d'écart par rapport à la moyenne, ce qui permet de "
-#~ "très bien visualiser un effet de résonance."
-#~ msgstr ""

@@ -1,20 +1,28 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Stéphane Laborde
+# This file is distributed under the same license as the Théorie Relative de la Monnaie package.
 # 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Théorie Relative de la Monnaie 2.718\n"
+"Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-15 20:40+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2015-07-16 10:25+0200\n"
+"PO-Revision-Date: 2015-07-16 08:41+0000\n"
+"Last-Translator: Vincent Texier\n"
+"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# bc46928602ae48309868d33bcc5c6826
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:3
 msgid "Zooms sur l'histoire de la monnaie"
 msgstr ""
 
+# d0478593a507448786ae977e842ea077
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:5
 msgid ""
 "Dans ce chapitre, des périodes monétaires historiques et consécutives sont "
@@ -22,12 +30,14 @@ msgid ""
 "point de vue « absolu »."
 msgstr ""
 
+# c0bf0bc9af5b49e8833e17e77713a7ca
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:10
 msgid ""
 "Les monnaies néolithiques, premières monnaies denses à inflation "
 "incontrôlable"
 msgstr ""
 
+# ec2a7ecad83d403dad40308bbfe7784e
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:12
 msgid ""
 "Dès le néolithique on retrouve des équivalents de comptabilisation des "
@@ -38,6 +48,7 @@ msgid ""
 "échanges sur la base d'une valeur de référence."
 msgstr ""
 
+# 517cca8620a64228b51b88087186aaaf
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:19
 msgid ""
 "On avait déjà avec ce type de comptabilité la possibilité d'une inflation "
@@ -46,14 +57,17 @@ msgid ""
 " parvenus jusqu'à nous."
 msgstr ""
 
+# 3b9a5e2797da4efcb97da9e0710b5386
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:28
 msgid "*Haches en Jade du néolithique (Wikimedia)*"
 msgstr ""
 
+# ed842da0f603405a9d23048179c6cf30
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:31
 msgid "Les monnaies métalliques, premières monnaies limitant l'inflation"
 msgstr ""
 
+# be3101be31014f0faecbd83b2935d48b
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:33
 msgid ""
 "Le troc étant insuffisant pour permettre les échanges, et les premières "
@@ -64,6 +78,7 @@ msgid ""
 "centrale."
 msgstr ""
 
+# c478a9a8509a4b36b2a7c02759b2b08d
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:39
 msgid ""
 "C'est ainsi que l'or, l'argent, le bronze et le cuivre vont être utilisés "
@@ -72,10 +87,12 @@ msgid ""
 "développement des monnaies fiduciaires."
 msgstr ""
 
+# 12cc7bc5b62049f19418858658fdba4a
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:46
 msgid "Empire Romain"
 msgstr ""
 
+# 01f6ed9f86d545f0a75210813868158f
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:48
 msgid ""
 "Pas d'empire sans expansion monétaire ! L'universalité d'usage de la monnaie"
@@ -84,16 +101,19 @@ msgid ""
 " l'émission n'est pas au cœur des valeurs fondamentales."
 msgstr ""
 
+# 60b7e23888534f6b932ab6825b463605
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:53
 msgid ""
 "L'expansion de l'Empire Romain s'accompagne d'expansion monétaire "
 "régulièrement « dévaluée » au profit d'un émetteur central : Rome."
 msgstr ""
 
+# 147bda4b7b28428882dfde93cfbed306
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:60
 msgid "*Solidus, 327 ap JC (Wikimedia)*"
 msgstr ""
 
+# 5ee267f0eb774cea966d7171d09cd5d0
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:62
 msgid ""
 "Denier, Sesterce, Aureus, Antoninien, Valérien, Argenteus, Solidus, se "
@@ -104,6 +124,7 @@ msgid ""
 "le IIIe siècle les Romains ont extrait environ 1 500 tonnes d'or."
 msgstr ""
 
+# 7a0fb779ebd34fce86882123a0f28863
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:69
 msgid ""
 "Chacune de ces monnaies est émise à l'occasion d'une expansion de l'Empire, "
@@ -113,12 +134,14 @@ msgid ""
 "ressources infinies."
 msgstr ""
 
+# f9e76220ddf24765b29ee5165f2f0e00
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:79
 msgid ""
 "*Région aurifère de Las Medulas exploitée par Rome du Ier au IIIe siècle ap "
 "JC (Wikimedia)*"
 msgstr ""
 
+# 7c5fac23d2934ce7a4a6c08864ae1428
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:81
 msgid ""
 "Le solidus, basé sur une quantité d'or fixe n'est pas abandonné par perte de"
@@ -127,6 +150,7 @@ msgid ""
 "universalité comme intermédiaire d'échange qui ne peut pas être assurée."
 msgstr ""
 
+# 633f1ebc4acf464183cf4fcb703b4ac0
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:86
 msgid ""
 "Déjà on peut commencer à réfléchir au fait que bien que l'unité monétaire se"
@@ -138,6 +162,7 @@ msgid ""
 "expansion globale qui accompagne l'évolution économique."
 msgstr ""
 
+# 2db44d2729fe4e01be6559364d9a9f5b
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:94
 msgid ""
 "On peut résumer cela par le fait que 1 est bien plus petit par rapport à 1 "
@@ -149,14 +174,17 @@ msgid ""
 "globalement. Il restera à savoir d'où vient le surplus constaté."
 msgstr ""
 
+# 8a9f9fa4748347fea4249158004b6726
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:106
 msgid "*Sesterce de trajan 105 ap JC (Wikimedia)*"
 msgstr ""
 
+# 136d12a2985147839a51b7d1d0829d86
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:109
 msgid "La bulle Espagnole d'or et d'argent"
 msgstr ""
 
+# 76ec2ce6b94e45fdaf116b00b0a6e6d2
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:111
 msgid ""
 "Malgré leur nature limitée a priori, l'or et l'argent n'ont pas échappé à "
@@ -165,12 +193,14 @@ msgid ""
 "bouleverser les flux monétaires en Europe."
 msgstr ""
 
+# fc51a9418bef4057b65c6ef7ac7ac8ee
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:116
 msgid ""
 "Ainsi d'après Wikipédia dans « Relations économiques entre l'Amérique "
 "Espagnole et l'Europe » :"
 msgstr ""
 
+# 4957a012599941a38d56ddea2369dcb5
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:119
 msgid ""
 "« Les deux grandes prises de guerre faites dans l'Empire aztèque et surtout "
@@ -180,6 +210,7 @@ msgid ""
 "précieux en Europe."
 msgstr ""
 
+# 15879a5ed45a4f639e0fad823c2acd6d
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:124
 msgid ""
 "Les mines rapporteront encore plus que les butins de guerre : d'abord par "
@@ -189,12 +220,14 @@ msgid ""
 " en compagnie des mines d'or du Brésil portugais (Minas Gerais)."
 msgstr ""
 
+# 867f847d1c544568ba37cfd03fb96cf4
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:130
 msgid ""
 "C'est au cours des XVIIe et XVIIIe siècle que la production et l'arrivage de"
 " métaux précieux en Europe ont été les plus importants. »"
 msgstr ""
 
+# 8dfb0a7e1a374fbe91f5f0f440aa671f
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:133
 msgid ""
 "Or que constatons-nous ? Les métaux précieux perdent de la valeur au fil des"
@@ -203,6 +236,7 @@ msgid ""
 "d'achat de blé que le stock de 3 milliards en 1800."
 msgstr ""
 
+# 9765bef1b1a441dc9064a4d7877c5ad3
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:138
 msgid ""
 "L'ajout de monnaie dans l'économie fait baisser la valeur de la monnaie. Ce "
@@ -219,10 +253,12 @@ msgid ""
 "production et consommation constante."
 msgstr ""
 
+# 768520440aa34f2b850cba63b85745f1
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:155
 msgid "*Le conquistador Francisco Pizarro (Wikimedia)*"
 msgstr ""
 
+# 4bf90e9a104e467e982d535472b1bfef
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:157
 msgid ""
 "En supposant une stabilité relative de la production des biens et des "
@@ -231,12 +267,14 @@ msgid ""
 "fois plus de monnaie en a donc stabilisé le prix facial."
 msgstr ""
 
+# d37e633a678c42f880d952e56f091b89
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:166
 msgid ""
 "*Inflation d'or et d'argent suite à la conquête Espagnole (Luc Fievet TRM "
 "2.0)*"
 msgstr ""
 
+# 3369b2cee0a94dac93a0dbc0bdc77d92
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:168
 msgid ""
 "Ce raccourci ne tient pas compte des changements de comportement économique,"
@@ -251,6 +289,7 @@ msgid ""
 "toutes choses égales par ailleurs.."
 msgstr ""
 
+# 057dad0ca70d4c53acefcc68d2d70fb1
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:178
 msgid ""
 "Cette remarque historique permet de comprendre que non seulement l'or et "
@@ -263,14 +302,17 @@ msgid ""
 "l'adhésion des Citoyens à la monnaie proposée."
 msgstr ""
 
+# 3dd1da31c4134281bfb1acb3e26a8edf
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:191
 msgid "*Reales en argent (Wikimedia)*"
 msgstr ""
 
+# d0513833390d4eaa9419a093e7c6d5e5
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:194
 msgid "L'effondrement à éviter : thésaurisation et déflation"
 msgstr ""
 
+# 581406f6d8b14e49901a5edd2b60721c
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:196
 msgid ""
 "Étant donné son rôle monétaire grandissant l'or et l'argent métal allaient "
@@ -282,6 +324,7 @@ msgid ""
 "impossible ce genre de mouvements de fonds sur le long terme."
 msgstr ""
 
+# cb91ec97a9d04e06a4260d757875bad2
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:204
 msgid ""
 "Il faut bien comprendre que le phénomène de prêt est déjà en soi un "
@@ -294,6 +337,7 @@ msgid ""
 " l'énergie dans un système isolé pour qu'il poursuive son mouvement ?"
 msgstr ""
 
+# d5b3e9157d684d92b59067442a59bad9
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:213
 msgid ""
 "Nous avons un phénomène de dissipation de la monnaie. Non seulement la "
@@ -303,6 +347,7 @@ msgid ""
 "ou à endiguer le mécanisme pour deux raisons :"
 msgstr ""
 
+# 2521a74710f54a71808fea1c6b0a72f9
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:219
 msgid ""
 "Si l'épargne constituée est réinjectée sous forme de prêts à intérêts, le "
@@ -315,6 +360,7 @@ msgid ""
 " biens, prend mécaniquement possession de tout le circuit économique."
 msgstr ""
 
+# 0dac8fb60f6245ad913be8cb1af9b868
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:228
 msgid ""
 "Si l'épargne constituée va s'investir dans un autre circuit autonome "
@@ -328,6 +374,7 @@ msgid ""
 "différentiel."
 msgstr ""
 
+# 3cf66468a4c942128d30214b3639c1c4
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:237
 msgid ""
 "Or ce mécanisme déflationniste local est d'autant plus marqué dans une "
@@ -338,6 +385,7 @@ msgid ""
 "libres quant à la mesure de toute valeur."
 msgstr ""
 
+# 68f5a57ed21a43e98d678961a79f94d3
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:244
 msgid ""
 "La monnaie en croissance faible mais dense encourage l'investissement et "
@@ -349,12 +397,14 @@ msgid ""
 "concernée."
 msgstr ""
 
+# 53ec363cc5c74ad5a0b7cb048bbcd9ce
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:255
 msgid ""
 "*Un exemple de thésaurisation et d'investissement avec fuite (Luc Fievet TRM"
 " 2.0)*"
 msgstr ""
 
+# 15b51408e61342479be3b908093afc76
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:257
 msgid ""
 "Enfin, un parallèle avec la physique n'est pas sans intérêt. On sait depuis "
@@ -366,6 +416,7 @@ msgid ""
 "injecter une énergie supplémentaire pour maintenir un système en mouvement."
 msgstr ""
 
+# d3db557882434ed0b143dde10be11ca2
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:265
 msgid ""
 "Pour l'anecdote, Albert Einstein a déclaré que lorsqu'il travaillait sur sa "
@@ -377,6 +428,7 @@ msgid ""
 "prétendaient établir des machines à mouvements perpétuels."
 msgstr ""
 
+# d3d0f6b72efe495fb688fe465fd6c2ee
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:273
 msgid ""
 "Penser qu'une quantité de monnaie fixe serait un gage de la stabilité de la "
@@ -392,14 +444,17 @@ msgid ""
 " assurant toujours les libertés économiques."
 msgstr ""
 
+# 5f0bd7f0ac264389bd64d3dbc30a83ab
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:286
 msgid "John Locke 1632 - 1704"
 msgstr ""
 
+# 533924b651954853864245c946122a24
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:292
 msgid "*John Locke (wikimedia)*"
 msgstr ""
 
+# 0fd471dfcd0d43dfb9e36881e11202a8
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:294
 msgid ""
 "John Locke, philosophe précurseur des lumières met des limites et tempère le"
@@ -408,14 +463,17 @@ msgid ""
 "suffisamment et en assez bonne qualité pour autrui."
 msgstr ""
 
+# 13893e1ce85b400787c59728649af569
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:301
 msgid "Les monnaies fiduciaires, premières monnaies expansionnistes"
 msgstr ""
 
+# 697a789272d040f2a72cdbf4d1cb6d5f
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:307
 msgid "*Caricature du système de Law (Wikimedia)*"
 msgstr ""
 
+# 489df94146354f05b8c3b01fe49529e4
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:309
 msgid ""
 "Au XVIIIème siècle le « système de law » du nom de l'écossais « Jonh Law » "
@@ -425,6 +483,7 @@ msgid ""
 "donne le feu vert pour la mise en place du système."
 msgstr ""
 
+# 2b1fd91bd21c4103ac6aa76fdca9a9e5
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:315
 msgid ""
 "La monnaie fiduciaire commence à faire évoluer la monnaie vers une perte de "
@@ -434,10 +493,12 @@ msgid ""
 "par la Banque émettrice."
 msgstr ""
 
+# 56e9dd7a2514485e80e60bd7eb474060
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:322
 msgid "Premières Pyramides fiduciaires à création centralisée"
 msgstr ""
 
+# 174db6db9ce84fe680a7718a726281c4
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:324
 msgid ""
 "Les premières Banques émettrices de monnaie fiduciaire basent la confiance "
@@ -448,12 +509,14 @@ msgid ""
 "mesure que la monnaie devient dense dans l'économie."
 msgstr ""
 
+# 82d0c58d1ae34061946c8a0c44091542
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:331
 msgid ""
 "Toutefois deux causes fondamentales créent l'effondrement de ces pyramides "
 "expansionnistes."
 msgstr ""
 
+# 2935405fdcc443ee90634b9642944b22
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:334
 msgid ""
 "Tout d'abord on ne peut indéfiniment prétendre gager de façon fixe une "
@@ -467,6 +530,7 @@ msgid ""
 "noter qu'au temps « t » la valeur de référence échangeable sera de :"
 msgstr ""
 
+# 2c9c8557209c4d38b4938feaaf9c38f5
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:348
 msgid ""
 "Par exemple pour une croissance annoncée des billets émis de 5 % / an, il "
@@ -474,6 +538,7 @@ msgid ""
 "valeur de référence gagée par ce billet pour l'année « a » en cours est de :"
 msgstr ""
 
+# 7fedf2f1be8b48ef9a514b93823ee5b9
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:356
 msgid ""
 "La quantité de la valeur de référence échangeable diminuerait alors de "
@@ -483,6 +548,7 @@ msgid ""
 "mais il serait exact."
 msgstr ""
 
+# b5a6805cf16a49e1be8abd2a529b0fa1
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:362
 msgid ""
 "La deuxième cause est la perte de confiance dans le gage fixé . Les billets "
@@ -492,6 +558,7 @@ msgid ""
 "plus de monnaie, puis encore plus, jusqu'au jour où la confiance chute."
 msgstr ""
 
+# 6f9e1b765e5f4b64a0b8cbce4f40108d
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:368
 msgid ""
 "Les acteurs de l'économie s'étonnent de trouver autant de gages de la valeur"
@@ -503,6 +570,7 @@ msgid ""
 " la somme des gages émis, les clients sont floués, et c'est la faillite."
 msgstr ""
 
+# 6332cd640d744c239cbe57ea7cb16e70
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:376
 msgid ""
 "C'est le principe même de la pyramide de Ponzi qui est décrit ici où ce sont"
@@ -514,6 +582,7 @@ msgid ""
 " non plus en tant que gage."
 msgstr ""
 
+# c0df39c66a89405282822fc64bc51293
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:383
 msgid ""
 "Le phénomène de la pyramide de Ponzi qui consiste à faire payer les derniers"
@@ -522,16 +591,19 @@ msgid ""
 "bénéfice des émetteurs centraux de monnaie."
 msgstr ""
 
+# 82bdbc1496824b79a73aedfd0476cbc0
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:389
 msgid "Thomas Paine 1737 – 1809"
 msgstr ""
 
+# d3f7e8374fc345f38edc14b434aac511
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:391
 msgid ""
 "Thomas Paine, révolutionnaire Américain, puis Français, déclare dans « les "
 "droits de l'Homme » publiés en 1792 l'assertion suivante :"
 msgstr ""
 
+# 9c65e2859f8147b89afa9ee62182769f
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:394
 msgid ""
 "*\"Ceux qui ont quitté ce monde et ceux qui n'existent pas encore sont à la "
@@ -543,6 +615,7 @@ msgid ""
 "maîtriser l'autre jusqu'à la consommation* *des siècles ?\"*"
 msgstr ""
 
+# 67171a71d59b488285ad3060a08c7b85
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:402
 msgid ""
 "En 1795 trois ans après « les droits de l'Homme » Thomas Paine, alors député"
@@ -552,14 +625,17 @@ msgid ""
 "son existence politique."
 msgstr ""
 
+# f59d198a246442198d0ae84cf3216a23
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:412
 msgid "*Thomas Paine (wikimedia)*"
 msgstr ""
 
+# b09f818e075a4851ad0f30a0458f3f9f
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:415
 msgid "Invention du Levier Bancaire réglementé"
 msgstr ""
 
+# 1693929286124685bc6c399dc5feb819
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:417
 msgid ""
 "Malgré les échecs répétés des premières Banques Centrales, l'idée de la "
@@ -571,6 +647,7 @@ msgid ""
 "côtés positifs du système."
 msgstr ""
 
+# e2464fc37e4b4cc7bc4096b84e663853
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:424
 msgid ""
 "On a donc trouvé une parade : le levier bancaire limité. Le Banquier s'est "
@@ -583,6 +660,7 @@ msgid ""
 "restait valable dans le système... Uniquement pendant un temps plus long !"
 msgstr ""
 
+# 66e06b05ddf4478494393b42dfd53366
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:433
 msgid ""
 "Ce système toujours asymétrique n'empêche en rien la perte de confiance, et "
@@ -594,6 +672,7 @@ msgid ""
 "permettant de payer dettes + intérêts."
 msgstr ""
 
+# 6ffe05ac3b184a2fae45f4a5ba05e86e
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:441
 msgid ""
 "La valeur de référence garantie par la monnaie ne peut pas être respecté par"
@@ -606,6 +685,7 @@ msgid ""
 " elle est la condition nécessaire d'une expansion souple dans le temps."
 msgstr ""
 
+# d4b12575790e4e7c9fb0c8438235853e
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:450
 msgid ""
 "En jouant sur ces deux aspects complémentaires que sont l'expansion et la "
@@ -619,6 +699,7 @@ msgid ""
 "successives."
 msgstr ""
 
+# adb98ebe7cd24f4e9fc3e0917593ad5d
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:459
 msgid ""
 "Les producteurs éloignés du centre d'émission monétaire, ne comprenant pas "
@@ -628,6 +709,7 @@ msgid ""
 "sur leur propre activité."
 msgstr ""
 
+# 9f0205aa80554e1d8597a889ff5137e0
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:465
 msgid ""
 "Quand ils s'en rendent compte, et souhaitent tous en même temps récupérer la"
@@ -642,14 +724,17 @@ msgid ""
 "une valeur de référence fixe."
 msgstr ""
 
+# 23c4a37e798b4a2186b8d8d279ff17e6
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:479
 msgid "*Charles Ponzi, inventeur de la pyramide du même nom (Wikimedia)*"
 msgstr ""
 
+# 895619db4ec24ece9b41355d260b6bff
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:482
 msgid "Clifford Hugh Douglas 1879 – 1952"
 msgstr ""
 
+# 5eeb86e387ba4b228d2ee92ca4465f28
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:484
 msgid ""
 "Clifford Hugh Douglas, ingénieur Britannique publie en 1924 « social credit "
@@ -658,14 +743,17 @@ msgid ""
 "et la correction du biais des intérêts liés aux dettes."
 msgstr ""
 
+# 731035500112427daca6133b7436669b
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:493
 msgid "*Clifford Hugh Douglas (wikimedia)*"
 msgstr ""
 
+# 05e36b95cdc34aa4b68690dfbf4aafaf
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:496
 msgid "L'instabilité de la valeur de référence"
 msgstr ""
 
+# 8a0c33788bad4633b76c64b9cfa703ff
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:498
 msgid ""
 "De 1946 à 1971 l'étalon-or continue d'être utilisé, mais en étant plus "
@@ -677,10 +765,12 @@ msgid ""
 "qui n'en était déjà plus vraiment un."
 msgstr ""
 
+# 6eb600677b184dccab341b5b3b56468e
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:510
 msgid "*Evolution du prix de l'or en $ jusqu'en 1971*"
 msgstr ""
 
+# 6b35217673cb46a395863a775f562996
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:513
 msgid ""
 "C'est ainsi que dès 1967 le prix de l'or commence à lâcher prise. "
@@ -689,6 +779,7 @@ msgid ""
 "monnaie augmente. C'est un phénomène purement mécanique."
 msgstr ""
 
+# d6c6a1e756ca45e2baf4c6b4acb4a5f4
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:518
 msgid ""
 "De la même façon constater en 2010 une croissance de 7 % / an sur 10 ans de "
@@ -700,10 +791,12 @@ msgid ""
 "totalement contradictoires."
 msgstr ""
 
+# 25be50e3abaa47d2b753aa9479bb38b9
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:527
 msgid "Abandon complet de l'étalon or, les réserves fractionnaires"
 msgstr ""
 
+# 3a3afee9eb7d42a19396107122d4d211
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:529
 msgid ""
 "Actant l'inutilité et l'impossibilité de tenir un étalon via une valeur de "
@@ -714,6 +807,7 @@ msgid ""
 "une bulle historique qui a vu un sommet en 1980."
 msgstr ""
 
+# 64482a4b9fff431a8fe5f707b25a68b7
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:536
 msgid ""
 "Le système des réserves fractionnaires ne résout toujours pas le problème de"
@@ -722,6 +816,7 @@ msgid ""
 "producteurs éloignés du centre."
 msgstr ""
 
+# 0d00388a94e344b7b0b62982c3bfbfb5
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:541
 msgid ""
 "Il y a toujours dans ce système un effet de levier profitant à l'émetteur "
@@ -735,6 +830,7 @@ msgid ""
 "faillites brutales, et donc évitent une part des désordres antérieurs."
 msgstr ""
 
+# dca07ae2390849c89e0859a5486b266a
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:551
 msgid ""
 "On peut comparer le système monétaire encore actif en 2010 à l'ancien réseau"
@@ -748,6 +844,7 @@ msgid ""
 "spéciale d'une autorité centrale."
 msgstr ""
 
+# 273b1285cd3c4db48eac07d2885872dc
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:560
 msgid ""
 "Comment marche ce système de réserves fractionnaires du point de vue de "
@@ -755,6 +852,7 @@ msgid ""
 "émetteurs asymétriques :"
 msgstr ""
 
+# 2dbe1e7c014d424ab7afb2afdc13aff4
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:564
 msgid ""
 "**Étape 1 :** le système financier se consolide, et sur la base de ses "
@@ -765,6 +863,7 @@ msgid ""
 "faible pour être supportable."
 msgstr ""
 
+# 5d18df1510294bfe814e4718ec8220fd
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:570
 msgid ""
 "**Étape 2 :** le système financier \"se paye\" par l'intérêt **« I »** de la"
@@ -777,6 +876,7 @@ msgid ""
 "peut elle aussi durer de 10 à 20 ans..."
 msgstr ""
 
+# 36f4d7b1198e4980816960af2ba55078
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:578
 msgid ""
 "**Étape 3 :** du fait de l'impossibilité de retour de la dette émise avec "
@@ -793,6 +893,7 @@ msgid ""
 "signifie aucunement une valeur « absolue », qui n'existe pas)."
 msgstr ""
 
+# ac58f2012eb244da8be92a5b7e6d35b4
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:591
 msgid ""
 "Le résultat pour les producteurs, est que, quelle que soit la valeur créée "
@@ -802,24 +903,29 @@ msgid ""
 "valable en tout point de l'espace-temps."
 msgstr ""
 
+# 57d29ba27edd46f6be2e01468e9814dd
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:601
 msgid "*Trois étapes d'émission de l'« argent dette » (Luc Fievet TRM 2.0)*"
 msgstr ""
 
+# fdcb611d6a9e416a835de8dea15ac509
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:604
 msgid "Yoland Bresson, né en 1942"
 msgstr ""
 
+# b0eb3e16dffe47219a26c4274787ba40
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:610
 msgid "*Yoland Bresson en 2012 (wikimedia)*"
 msgstr ""
 
+# 30c1b75bb7c249e188d986cd10c73d5e
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:612
 msgid ""
 "Dans « l'après salariat » publié en 1984 l'économiste Français Yoland "
 "Bresson déclare :"
 msgstr ""
 
+# 74e3593b34e546259996f545d73306c9
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:615
 msgid ""
 "*« Il faut que la collectivité, par le biais de l'État, alloue "
@@ -828,6 +934,7 @@ msgid ""
 "temps ».*"
 msgstr ""
 
+# e7d899017e6f430dafe2fce95abfe231
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:619
 msgid ""
 "Yoland Bresson démontre un lien entre temps d'existence et valeur et calcule"
@@ -836,10 +943,12 @@ msgid ""
 " celle déduite par l'approche purement monétaire et relativiste de la TRM."
 msgstr ""
 
+# b64b81c825174bdda97cff2d33b75c55
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:626
 msgid "2010 et après : Bâle III, ou des monnaies symétriques ?"
 msgstr ""
 
+# f016329c41d64888943242026e835080
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:628
 msgid ""
 "Le cycle étant long, la captation de valeur se faisant sur un rythme "
@@ -850,6 +959,7 @@ msgid ""
 "des réseaux informatiques et des protocoles de télécommunication ?"
 msgstr ""
 
+# 092c6ae96f5c47bb9780270f20cf1beb
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:635
 msgid ""
 "Nous sommes donc bien dans l'exploitation de l'ignorance quant à la "
@@ -861,12 +971,24 @@ msgid ""
 "monétaire concernée."
 msgstr ""
 
+# 335b0d4580c84bfbaaf3752ee511b3d4
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:642
+msgid ""
+"2007 – 2010 représente la fin du dernier cycle d'expansion monétaire 1971 – "
+"2010, qui a vu successivement des règles privées s'imposer tant aux États-"
+"Unis qu'en Europe décidées au sein d'un groupement « d'experts », nommées  «"
+" Bâle I » puis « Bâle II » et « Bâle III » en cours de négociation, censées "
+"« réguler les Banques »."
+msgstr ""
+
+# 6dedb2b083c94078b6e463bcd391c99f
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:648
 msgid ""
 "Cela reviendrait à essayer de transformer le Minitel alors qu'internet "
 "s'impose."
 msgstr ""
 
+# 4615699e014b43a7bafe163a67ec8745
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:650
 msgid ""
 "Or que se passe-t-il en 2010 ? Une explosion des monnaies complémentaires "
@@ -880,6 +1002,7 @@ msgid ""
 "transactions est stocké sur l'ensemble du réseau dans un mode chiffré."
 msgstr ""
 
+# b10585e078fd495fa2108476e84243b4
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:660
 msgid ""
 "Le projet BitCoin est cependant plombé par une non compatibilité "
@@ -890,6 +1013,7 @@ msgid ""
 " masse monétaire maximum, les derniers entrants n'y auront plus accès."
 msgstr ""
 
+# 58531b4ad08d40e98f83ff6aec879303
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:667
 msgid ""
 "De plus il y a tout de même un biais spatial. La symétrie n'est pas basée "
@@ -899,12 +1023,14 @@ msgid ""
 "monétaire, s'agissant d'un système ouvert."
 msgstr ""
 
+# 0f8fd64cbbfc479d86c835606a22ff66
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:673
 msgid ""
 "On peut s'attendre donc à ce que la « pyramide temporelle des Bitcoins » "
 "s'effondre tôt ou tard."
 msgstr ""
 
+# 2ae42544241b4114b763fe5746811c81
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:676
 msgid ""
 "Que reste-t-il des ruées vers l'or à part des villes fantômes ? Tandis "
@@ -912,18 +1038,22 @@ msgid ""
 "des récoltes abondantes ?"
 msgstr ""
 
+# 36673e0f38aa4acf8591c8b4a35fa34e
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:681
 msgid "Graphique historique"
 msgstr ""
 
+# 15ffe33759d9468899d1beb4bc3866e4
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:687
 msgid "*Les différentes formes monétaires depuis 12 000 ans*"
 msgstr ""
 
+# 4cbd1c4365e0408a89eefc039db47bb1
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:690
 msgid "Le Dividende Universel en application"
 msgstr ""
 
+# 2edd35307744493a98a947cc88447500
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:692
 msgid ""
 "Le Dividende Universel a déjà été mis en pratique récemment sous différentes"
@@ -931,6 +1061,19 @@ msgid ""
 " », « allocation universelle » etc..."
 msgstr ""
 
+# a4c9c9de5df444edb60b575c8749e742
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:696
+msgid ""
+"On trouve des exemples de mise en œuvre en Alaska, dans une expérience "
+"locale en Namibie, au sein de SEL comme le SCEC en Italie, ou encore au "
+"Brésil. Il existe des groupements qui font la promotion d'un revenu "
+"individuel symétrique comme l'association internationale du BIEN (Basic "
+"Income Exchange Network), ainsi que l'AIRE (Association pour l'Instauration "
+"d'un Revenu d'Existence) en France qui fut présidée par l'économiste Yoland "
+"Bresson."
+msgstr ""
+
+# 391409ab64cc404d8aeef04e30f5dd3c
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:703
 msgid ""
 "Mais mieux encore, l'Europe est déjà quasiment installée dans un système où "
@@ -945,6 +1088,7 @@ msgid ""
 "productions, soit à ne pas déclarer les échanges (ou les deux)."
 msgstr ""
 
+# 6e396916f43c4b39ad5d5fe5ec78c72b
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:714
 msgid ""
 "C'est en fait l'ensemble des pays de l'OCDE qui propose un revenu minimum, "
@@ -954,6 +1098,7 @@ msgid ""
 "individus comme les associés inconditionnels de la nation."
 msgstr ""
 
+# 01f64f50dddf42818a70eb1bd231668e
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:720
 msgid ""
 "Le problème essentiel de la zone Euro est la forte disparité du revenu "
@@ -963,6 +1108,7 @@ msgid ""
 "minimum inférieurs à ce montant."
 msgstr ""
 
+# 19037adcd2684e76ba7e2ce5bfda3965
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:730
 msgid ""
 "*Evolution en France en 2011, du revenu net perçu* *(zones bleue + orange = "
@@ -973,6 +1119,7 @@ msgid ""
 "(http://www.creationmonetaire.info « Le revenu de base en France »)*"
 msgstr ""
 
+# 044b02390ac5486dad3896770e2492ab
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:739
 msgid ""
 "Dans ces conditions la production quitte les pays à haut revenu minimum pour"
@@ -981,6 +1128,7 @@ msgid ""
 "l'objectif affiché d'un marché libre et non faussé."
 msgstr ""
 
+# 5c346e0d2a8b4d3291c1b29732b0175e
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:744
 msgid ""
 "Une monnaie commune n'est compatible avec les Droits de l'Homme que si son "
@@ -994,10 +1142,12 @@ msgid ""
 "»)."
 msgstr ""
 
+# c1f65858fb2c463eb5320dffcf1cbf54
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:754
 msgid "Le projet libre Open-UDC"
 msgstr ""
 
+# 80456f0839674351848808d4be3a7597
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:756
 msgid ""
 "Le projet Open-UDC (pour « Universal Dividend Currency ») est un projet de "
@@ -1005,6 +1155,7 @@ msgid ""
 " libre à Dividende Universel."
 msgstr ""
 
+# 49a546c71bb5422cb77cffc956973f90
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:760
 msgid ""
 "Initié en 2011 il est accessible sur http://www.open-udc.org , et consiste à"
@@ -1013,6 +1164,7 @@ msgid ""
 "associée à des règles et processus de contrôle ouverts et démocratiques."
 msgstr ""
 
+# d33b79b94a0549148664c8169c443691
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:765
 msgid ""
 "Outre une base démocratique initiale, le projet a réduit le calcul du "
@@ -1021,10 +1173,17 @@ msgid ""
 "s'inspirer de la TRM :"
 msgstr ""
 
+# 5388ce14fc114d87a5e1c8fcd824931e
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:770
 msgid "UD (0) = 100 UDC"
 msgstr ""
 
+# 3af9a1bfc6f945f7a9601841a69ddb3d
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:771
+msgid "UD (n+1) = MAX { UD(n) ; Pud × M(n)/N(n) }"
+msgstr ""
+
+# 0c71f12aaec249d5bfb5fbc90791a8ba
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:773
 msgid ""
 "Où « n » est le mois précédent. UD(n) est le Dividende Universel du dernier "
@@ -1033,53 +1192,10 @@ msgid ""
 "de membres de la communauté monétaire."
 msgstr ""
 
+# d63b1a9105bd429d9c8cbedd20f4f164
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:778
 msgid ""
 "Le Dividende Universel en unités monétaire et donc fixe, ne baisse jamais, "
 "et est remonté si la croissance de la masse monétaire par membre (M(n)/N(n))"
 " devient inférieure au minimum « Pud »."
 msgstr ""
-
-#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:642
-msgid ""
-"2007 – 2010 représente la fin du dernier cycle d'expansion monétaire 1971 – "
-"2010, qui a vu successivement des règles privées s'imposer tant aux États-"
-"Unis qu'en Europe décidées au sein d'un groupement « d'experts », nommées  «"
-" Bâle I » puis « Bâle II » et « Bâle III » en cours de négociation, censées "
-"« réguler les Banques »."
-msgstr ""
-
-#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:696
-msgid ""
-"On trouve des exemples de mise en œuvre en Alaska, dans une expérience "
-"locale en Namibie, au sein de SEL comme le SCEC en Italie, ou encore au "
-"Brésil. Il existe des groupements qui font la promotion d'un revenu "
-"individuel symétrique comme l'association internationale du BIEN (Basic "
-"Income Exchange Network), ainsi que l'AIRE (Association pour l'Instauration "
-"d'un Revenu d'Existence) en France qui fut présidée par l'économiste Yoland "
-"Bresson."
-msgstr ""
-
-#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:771
-msgid "UD (n+1) = MAX { UD(n) ; Pud × M(n)/N(n) }"
-msgstr ""
-
-#~ msgid ""
-#~ "2007 – 2010 représente la fin du dernier cycle d'expansion monétaire 1971 – "
-#~ "2010, qui a vu successivement des règles privées s'imposer tant aux USA "
-#~ "qu'en Europe décidées au sein d'un groupement « d'experts », nommées  « Bâle"
-#~ " I » puis « Bâle II » et « Bâle III » en cours de négociation, censées « "
-#~ "réguler les Banques »."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "On trouve des exemples de mise en oeuvre en Alaska, dans une expérience "
-#~ "locale en Namibie, au sein de SEL comme le SCEC en Italie, ou encore au "
-#~ "Brésil. Il existe des groupements qui font la promotion d'un revenu "
-#~ "individuel symétrique comme l'association internationale du BIEN (Basic "
-#~ "Income Exchange Network), ainsi que l'AIRE (Association pour l'Instauration "
-#~ "d'un Revenu d'Existence) en France présidée par l'économiste Yoland Bresson."
-#~ msgstr ""
-
-#~ msgid "UD (n+1) = MAX { UD(n) ; Pud x M(n)/N(n) }"
-#~ msgstr ""

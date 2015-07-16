@@ -1,20 +1,29 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Stéphane Laborde
+# This file is distributed under the same license as the Théorie Relative de la Monnaie package.
 # 
+# Translators:
+# Moul <ma.azimi@laposte.net>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Théorie Relative de la Monnaie 2.718\n"
+"Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-15 20:40+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2015-07-16 10:25+0200\n"
+"PO-Revision-Date: 2015-01-16 23:57+0000\n"
+"Last-Translator: Moul <ma.azimi@laposte.net>\n"
+"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# 09271113dde44ceaaebd711216cd6aae
 #: ../../source/remerciements.rst:3
 msgid "Remerciements"
-msgstr ""
+msgstr "Thanks"
 
+# ec3766a664af4c70b16991dcba8432e3
 #: ../../source/remerciements.rst:5
 msgid ""
 "Je tiens à remercier pour leurs relectures, corrections, conseils, ou leurs "
@@ -22,8 +31,9 @@ msgid ""
 "Gérard Foucher, Marie Bérenger, Pierre Teisserenc, et Philippe Scoffoni, "
 "ainsi que tous ceux qui directement ou indirectement ont permis "
 "l'élaboration de cette version 2.718 de la TRM."
-msgstr ""
+msgstr "I want to thank for re-reading, corrections, advice, or inspiring reflections: Yoland Bresson, Olivier Auber, Thierry Crouzet, Gérard Foucher, Marie Bérenger, Pierre Teisserenc, and Philippe Scoffoni, as well as all those which directly or indirectly permits the elaboration of RMT version 2.718."
 
+# 3a2089a98bfb4780a1602230ca36c608
 #: ../../source/remerciements.rst:11
 msgid ""
 "Un remerciement particulier à Luc Fievet, producteur de l'émission de radio "
@@ -31,21 +41,24 @@ msgid ""
 "2.0 de magnifiques graphiques illustratifs sous licence GNU GPL v.3 et "
 "toujours présents dans cette version 2.718, réalisés avec le logiciel libre "
 "Blender."
-msgstr ""
+msgstr "A particular thank to Luc Fievet, producer of \"Symbiose\", a free radio show. Graphic artist in his spare time and which produce wonderful illustrative graphics with the free software Blender, published under GNU GPL v.3 license for version 2.0 and are already existing in this version 2.718."
 
+# d443f1ef016a4154a1d4d0e4526bdd23
 #: ../../source/remerciements.rst:16
 msgid ""
 "Une pensée spéciale à Jean-Jacques Brucker et Canercandan, développeurs de "
 "logiciels libres, qui développent une implémentation de monnaie libre se "
 "basant sur la TRM dans le projet « Open-UDC » http://www.openudc.org"
-msgstr ""
+msgstr "A special thought to Jean-Jacques Brucker and Canercandan, developers of free softwares, which develops an implementation of a free money, RMT based in the project \"Open-UDC\" http://www.openudc.org"
 
+# 6d7b07c8100747f5b8a566b123dc4a93
 #: ../../source/remerciements.rst:20
 msgid ""
 "Les graphiques de Luc Fievet sont accessibles sur "
 "http://wiki.creationmonetaire.info"
-msgstr ""
+msgstr "Luc Fievet's graphics are accessible on http://wiki.creationmonetaire.info"
 
+# de944e96fd634f61b963057f632aeb3b
 #: ../../source/remerciements.rst:29
 msgid "*Couverture de la TRM 1.0 revue par Luc Fievet*"
-msgstr ""
+msgstr "*RMT 1.0 cover review by Luc Fievet*"

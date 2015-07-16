@@ -1,20 +1,28 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Stéphane Laborde
+# This file is distributed under the same license as the Théorie Relative de la Monnaie package.
 # 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Théorie Relative de la Monnaie 2.718\n"
+"Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-15 20:40+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2015-07-16 10:25+0200\n"
+"PO-Revision-Date: 2015-01-14 19:57+0000\n"
+"Last-Translator: Vincent Texier\n"
+"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# 1f9c6ba8c36942acba1b604c6bfcc85b
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:3
 msgid "Sur la Théorie Quantitative de la Monnaie"
 msgstr ""
 
+# 4b9d0759fc6c4092a9cf99068650f091
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:5
 msgid ""
 "La définition générale du champ de valeur permet de retrouver des résultats "
@@ -22,22 +30,26 @@ msgid ""
 " champ de valeur :"
 msgstr ""
 
+# 0a960a9cd7f743cc9aad85c647570abd
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:11
 msgid ""
 "Dans le cas d'une économie pseudo-isolée en équilibre e  à création "
 "monétaire locale nulle, nous avons alors :"
 msgstr ""
 
+# bafbfff0b14f430999e9af3ef7792628
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:17
 msgid "Ou encore :"
 msgstr ""
 
+# f586b0b052bd4dcd86675daa69e015f2
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:23
 msgid ""
 "Le long d'une ligne d'échange circulaire, nous avons donc en faisant un tour"
 " complet, pendant un temps t :"
 msgstr ""
 
+# 456d9fe058e24305b7db8a4c85c3525a
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:29
 msgid ""
 "Ce qui, sous contrainte de production inchangée, de stabilité des prix, et "
@@ -46,16 +58,19 @@ msgid ""
 "résultat de la théorie quantitative de la monnaie :"
 msgstr ""
 
+# 93ae43b0615847dfbc512d76941b769e
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:38
 msgid "Où V = t = nombre de cycles complets d'échanges monétisés."
 msgstr ""
 
+# 5aa0ea3fa8124c04bb6d6faf3e971c6c
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:44
 msgid ""
 "*Lignes circulaires des échanges de valeurs et de monnaie (Luc Fievet TRM "
 "2.0)*"
 msgstr ""
 
+# d835ec2e87494559b3a040de85d5e5ec
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:46
 msgid ""
 "Qui est donc une égalité ne concernant que des quantités intégrales "
@@ -65,6 +80,7 @@ msgid ""
 "monétaires sont négligeables."
 msgstr ""
 
+# e374ab409ef84c1bbe218989696c5c7a
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:51
 msgid ""
 "Le biais d'une vision uniquement globale, est la non-relativité de la mesure"
@@ -74,12 +90,14 @@ msgid ""
 "l'espace (selon d'autres individus)."
 msgstr ""
 
+# 8149cdf89c224431baad13c91b3993f7
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:61
 msgid ""
 "*SEL et valeurs non monétisées dans la monnaie « dette » centrale (Luc "
 "Fievet TRM 2.0)*"
 msgstr ""
 
+# b76f2e62ca624b80a56fcd14ecc9143d
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:63
 msgid ""
 "Si  tant est que la monnaie est créée de façon asymétrique, non dense, la "
@@ -88,6 +106,7 @@ msgid ""
 "nouvelle monnaie locale devient nécessaire (création de SEL)."
 msgstr ""
 
+# 78dfea5cac8148bd853f4877a9312b7d
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:68
 msgid ""
 "S'agissant d'un phénomène d'accumulation, la sortie de cette impasse peut se"
@@ -97,6 +116,7 @@ msgid ""
 "l'économie."
 msgstr ""
 
+# e698808cef4d43828ebeb5cbdecf1300
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:73
 msgid ""
 "Comme on l'a vu dans les calculs du Dividende Universel optimal, on peut "
@@ -107,6 +127,7 @@ msgid ""
 "à suspicion quant à leur changements ultérieurs."
 msgstr ""
 
+# 09638f3563eb47a7ad32208b735cf7e1
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:80
 msgid ""
 "Il s'agit d'une inversion totale du paradigme en cours en 2010 ! Au lieu "
@@ -120,24 +141,29 @@ msgid ""
 " individuelle."
 msgstr ""
 
+# 76e656ef4479484ba7cd9d2712a6f2aa
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:89
 msgid ""
 "Si donc on reprend les axiomes de la Théorie Quantitative de la Monnaie, qui"
 " définit la monnaie comme :"
 msgstr ""
 
+# cc18630bbe8847d3a61ca9a1ac0e7d77
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:92
 msgid "Unité de compte"
 msgstr ""
 
+# 805871e2471d4d6095046df8ff3fe90f
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:93
 msgid "Intermédiaire d'Échange"
 msgstr ""
 
+# 3a94047cd20b4cbbb1f1baa0ec966dca
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:94
 msgid "Réserve de Valeur"
 msgstr ""
 
+# 8f35b57ecca44e62a1f876f2b643854f
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:96
 msgid ""
 "Le paradigme de la TRM qui elle la définit selon les quatre libertés de "
@@ -151,6 +177,7 @@ msgid ""
 "stable que via une émission stable."
 msgstr ""
 
+# faca9099f00046da949783e6554b2833
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:106
 msgid ""
 "C'est la preuve expérimentale historique qui valide la TRM contre la TQM. "

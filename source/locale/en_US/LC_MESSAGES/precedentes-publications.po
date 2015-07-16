@@ -1,28 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Stéphane Laborde
+# This file is distributed under the same license as the Théorie Relative de la Monnaie package.
 # 
+# Translators:
+# Moul <ma.azimi@laposte.net>, 2015
+# Vincent Texier, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Théorie Relative de la Monnaie 2.718\n"
+"Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-15 20:40+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2015-07-16 10:25+0200\n"
+"PO-Revision-Date: 2015-01-16 23:52+0000\n"
+"Last-Translator: Moul <ma.azimi@laposte.net>\n"
+"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# 111c683de81f467f80a02257bf33949a
 #: ../../source/precedentes-publications.rst:3
 msgid "Précédentes publications"
-msgstr ""
+msgstr " Previous editions"
 
+# 55483cb05b1a4af99fda01d1fa09819c
 #: ../../source/precedentes-publications.rst:5
 msgid "TRM 1.0 : novembre 2010"
-msgstr ""
+msgstr "RMT 1.0: november 2010"
 
+# 8287ff6af8474fdeb07bd73146be8c71
 #: ../../source/precedentes-publications.rst:6
 msgid "TRM 2.0 : juin 2011"
-msgstr ""
+msgstr "RMT 2.0: june 2011"
 
+# b0fa6ae189ab4aa195332200f5ca0e83
 #: ../../source/precedentes-publications.rst:7
 msgid "TRM 2.718 : novembre 2012"
-msgstr ""
+msgstr "RMT 2.718: november 2012"

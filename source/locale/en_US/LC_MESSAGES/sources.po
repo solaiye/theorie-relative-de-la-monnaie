@@ -1,73 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Stéphane Laborde
+# This file is distributed under the same license as the Théorie Relative de la Monnaie package.
 # 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Théorie Relative de la Monnaie 2.718\n"
+"Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-15 20:40+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2015-07-16 10:25+0200\n"
+"PO-Revision-Date: 2015-07-16 08:41+0000\n"
+"Last-Translator: Vincent Texier\n"
+"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# a7b5bb1b080b4106b91175b33774c01f
 #: ../../source/sources.rst:3
 msgid "Sources"
 msgstr ""
 
+# 070cf25064bd4e60918fe73377fc11ec
 #: ../../source/sources.rst:0
 msgid "Théorie : Blog « Création Monétaire »"
 msgstr ""
 
+# 2572c391738c47ab80287522ecb39f5c
 #: ../../source/sources.rst:0
 msgid "http://www.creationmonetaire.info"
 msgstr ""
 
+# a7b6f4e7b9fc48c1a6c2a008f59c8532
 #: ../../source/sources.rst:0
 msgid "Histoire, données : L'encyclopédie libre Wikipédia"
 msgstr ""
 
+# 3bbee9a36e5e422fa9c47e5dd5240eb6
 #: ../../source/sources.rst:0
 msgid "http://www.wikipedia.org"
 msgstr ""
 
+# e976304319bf44b1857e383edbb7b69f
 #: ../../source/sources.rst:0
 msgid "Données Euro : Banque Centrale Européenne"
 msgstr ""
 
+# c799492c08a84a66bd7256f94cdff02f
 #: ../../source/sources.rst:0
 msgid "http://www.ecb.int"
 msgstr ""
 
+# 34c3b038a6cf4dc8bf00dedeee4f62a1
+#: ../../source/sources.rst:0
+msgid "Données monétaires des États-Unis"
+msgstr ""
+
+# 4489afd444524cdbb131988548bdfcd1
 #: ../../source/sources.rst:0
 msgid "http://www.shadowstats.com"
 msgstr ""
 
+# c17eef1390d0484cb447d0f89c2ec6d8
 #: ../../source/sources.rst:0
 msgid "Yoland Bresson, économiste fondateur de l'AIRE"
 msgstr ""
 
+# ee06af8df8b04681a65cffbe76efa363
 #: ../../source/sources.rst:0
 msgid "http://www.revenudexistence.org"
 msgstr ""
 
+# 919bce19eac64773bb5408ec8ac6447e
 #: ../../source/sources.rst:0
 msgid "Olivier Auber et la « perspective numérique »"
 msgstr ""
 
+# 0ec2a461c79043cab62ca48e5d9de3f3
 #: ../../source/sources.rst:0
 msgid "http://perspective-numerique.net"
 msgstr ""
 
+# 7336095f948147cab1c9ce7a650dfe61
 #: ../../source/sources.rst:0
 msgid ""
 "Les images de la TRM sont toutes soit de Luc Fievet (libre) de wikimédia "
 "(Creative Common) ou directement de l'auteur (Creative Common)."
 msgstr ""
-
-#: ../../source/sources.rst:0
-msgid "Données monétaires des États-Unis"
-msgstr ""
-
-#~ msgid "Données monétaires USA"
-#~ msgstr ""

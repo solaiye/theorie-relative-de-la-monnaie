@@ -1,20 +1,29 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Stéphane Laborde
+# This file is distributed under the same license as the Théorie Relative de la Monnaie package.
 # 
+# Translators:
+# Moul <ma.azimi@laposte.net>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Théorie Relative de la Monnaie 2.718\n"
+"Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-15 20:40+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2015-07-16 10:25+0200\n"
+"PO-Revision-Date: 2015-01-17 14:34+0000\n"
+"Last-Translator: Moul <ma.azimi@laposte.net>\n"
+"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# b331c718d8464e1ea6bfe4b15d56849e
 #: ../../source/introduction-de-la-version-1.0.rst:3
 msgid "Introduction de la version 1.0"
-msgstr ""
+msgstr "Introduction to version 1.0"
 
+# d7f878d34eab49a58f13e05542ad3308
 #: ../../source/introduction-de-la-version-1.0.rst:5
 msgid ""
 "C'est mon expérience de 20 ans d'activités économiques qui est passée du "
@@ -23,8 +32,9 @@ msgid ""
 "m'a poussé à m'intéresser à la monnaie. Jusqu'alors, il ne m'était pas "
 "apparu que les problèmes sociaux et économiques pouvaient être liés à la "
 "nature même de ce code qui régit pourtant toutes les activités d'échange."
-msgstr ""
+msgstr "That's my economic activities experience of 20 years which went from volunteering to entrepreneurship passing to wage earners, in a deeply crisis system, which had seen his paroxysmal peak in 2007, which pushed me to be interested to money. Hitherto, it doesn't appear me that socials and economics issues could be linked to code's nature which governs however the whole exchange activities."
 
+# f4492b2987f24e399a9e6e4fd412c56b
 #: ../../source/introduction-de-la-version-1.0.rst:12
 msgid ""
 "Les modèles appliqués par le monde financier reposent sur des préjugés quant"
@@ -32,24 +42,27 @@ msgid ""
 "développements théoriques de la mécanique quantique, non pas pour la "
 "structure de la monnaie, mais pour l'estimation des risques "
 "d'investissement."
-msgstr ""
+msgstr "Models applied by financial world are based on prejudices about the value's nature, and are in 2010 highly influenced by theoretical developments of quantum mechanics, not for money structure, but to estimate risks' investment."
 
+# 1cc0442503e54df5bb8b82e8f7cf554c
 #: ../../source/introduction-de-la-version-1.0.rst:18
 msgid ""
 "Or, et c'est sans doute là l'apport principal de la Théorie Relative de la "
 "Monnaie, il faut prendre conscience des enjeux de la mondialisation qui "
 "amène des milliards de personnes à développer des échanges monétisés, ainsi "
 "que des déséquilibres historiques des échanges intercontinentaux."
-msgstr ""
+msgstr "But, and it is without doubt there the contribution of Relative Money Theory, we must realize globalization issues which leads billions of people to develops monetized exchanges, as historical imbalances of intercontinental exchanges."
 
+# f2cb9e8ae8b4404881ccb112388ffa04
 #: ../../source/introduction-de-la-version-1.0.rst:23
 msgid ""
 "Mais pour pour cette échelle globale, ce sont les idées liées non pas à la "
 "mécanique quantique, mais à la Relativité, qui sont les plus pertinentes "
 "pour espérer comprendre ce qui ne fonctionne pas et tenter d'apporter les "
 "mutations nécessaires."
-msgstr ""
+msgstr "But for that global scale, this are linked ideas not to quantum mechanics, but to Relativity, which are the most relevant to hope understand which doesn't works and try brings necessaries mutations."
 
+# d8a925116d1e46408a7818ffe3b266d4
 #: ../../source/introduction-de-la-version-1.0.rst:27
 msgid ""
 "Une analyse fondée sur l'expérience économique directe, associée à une étude"
@@ -57,8 +70,9 @@ msgid ""
 "dernier reposait sur des concepts pré-relativistes et sur une profonde "
 "asymétrie, qui font des centres d'émission monétaire des anomalies sources "
 "de biais."
-msgstr ""
+msgstr "A direct economic experience based analysis, associated to the mechanisms study of the actual monetary system, made me understand that this latter were based on pre-relativists concepts and on a deeply asymmetry, which made monetary emissions centers anomalies sources of angles."
 
+# dad8ba6cbc064cf0bfc6535361133826
 #: ../../source/introduction-de-la-version-1.0.rst:32
 msgid ""
 "Le sujet de ce livre est donc non pas de définir le système monétaire tel "
@@ -66,8 +80,9 @@ msgid ""
 " l'espace-temps, et que j'appelle aussi « monnaie relative » en ce qu'elle "
 "ne peut se définir que relativement à tout repère de mesure indépendant : "
 "celui lié à tout individu citoyen de la zone économique concernée."
-msgstr ""
+msgstr "The book's subject _aim_ is not to define the monetary system as it exist, but to define what would be an equitable money in the space-time, and which I also called \"relative money\" in that it can't be define only relatively to every independent measure coordinate system: that linked to all citizen of a concern economic zone."
 
+# 4d690ad732fe41599136ef5f96e61f9b
 #: ../../source/introduction-de-la-version-1.0.rst:38
 msgid ""
 "Nous verrons que c'est la notion fondamentale d'un champ de valeur en "
@@ -79,16 +94,18 @@ msgid ""
 "(qui est un principe de symétrie), mais permet également d'interpréter les "
 "phénomènes économiques historiques avec un nouveau point de vue, de nouveaux"
 " concepts, et donc une nouvelle interprétation causale."
-msgstr ""
+msgstr "We will see that this is the fundamental notion of a field of value in expansion which allows understand the economic evolution under a global angle, and which forces us to define money, not only by encompassing economy as it is here and now, but also as it will be for future generations. This approach implies not only to redefine the monetary system in agreement with the relativity principle (which is a principle of symmetry), but also allows to interpret historical economic phenomenon with a new point of view, of new concepts, and therefore a new causal interpretation."
 
+# 0b847a0a6b2942b08137e4ebd9617ad3
 #: ../../source/introduction-de-la-version-1.0.rst:47
 msgid ""
 "Je finirai cette introduction en affirmant la très grande surprise "
 "intérieure que j'ai ressentie à la découverte du Dividende Universel comme "
 "paradigme central de la monnaie relativiste. Je n'y étais réellement pas "
 "préparé au commencement de cette réflexion."
-msgstr ""
+msgstr "I will finish this introduction by saying the very great inside surprise which I felt when I discovered the Universal Dividend as a central paradigm of relativist money. I wasn't really prepared to the beginning of that reflection."
 
+# 7a1645be680a4aeb99fce03b71bf8810
 #: ../../source/introduction-de-la-version-1.0.rst:51
 msgid ""
 "Mais ensuite, et j'y reviendrai, mon étonnement fut plus grand encore quand "
@@ -98,8 +115,9 @@ msgid ""
 "on retrouve exactement les mêmes mises en rapport des mesures globales et "
 "locales. Je n'ai donc eu aucun mal à les traduire dans mon propre "
 "référentiel théorique pour les comprendre."
-msgstr ""
+msgstr "But then, I will return, my astonishment were even greater when I discovered Yoland Bresson's \"time value\" works. Even if differentials equations he proposes differ on its form than those I established to describe the same notion of value field, we exactly found the same related settings of global measures and locals ones. I didn't struggle to translate them in to my own theoretical reference to understand them."
 
+# 6a92258de4af4875bb64271e85a233a7
 #: ../../source/introduction-de-la-version-1.0.rst:59
 msgid ""
 "Alors que la démarche de Yoland Bresson partait d'une théorisation des "
@@ -108,18 +126,20 @@ msgid ""
 "résultat similaire n'ont fait que conforter ma conviction de la très grande "
 "pertinence de ce résultat, et c'est pourquoi je lui ai demandé de rédiger la"
 " préface de la Théorie Relative de la Monnaie."
-msgstr ""
+msgstr "Whereas Yoland Bresson's process went from an economics exchanges theorization, and that mine went from a relativist money theory, the fact that both approaches lead to a similar result have only to consolidate my conviction of his large result's relevance, and that's why I told him to write the preface of Relative Money Theory."
 
+# 8c014cc8504d479caf6f0ffd0fc55419
 #: ../../source/introduction-de-la-version-1.0.rst:65
 msgid ""
 "J'ai voulu synthétiser l'essentiel des conclusions auxquelles j'ai abouti, "
 "et que j'ai abondamment illustrées par ailleurs sur le site "
 "http://www.creationmonetaire.info."
-msgstr ""
+msgstr "I desired synthesize the conclusions' essential which I lead to, and I furthermore profusely illustrated on the web site http://www.creationmonetaire.info."
 
+# 959258762057493784a4859aee37c156
 #: ../../source/introduction-de-la-version-1.0.rst:68
 msgid ""
 "Je souhaite que la théorie relative de la monnaie permette d'aider à établir"
 " une économie la plus équitable possible, et qui soit bénéfique à l'ensemble"
 " de ses acteurs présents et à venir."
-msgstr ""
+msgstr "I would like the relative money theory permit help to establish the most equitable possible economy, and it would be beneficial to the whole persons presents and future."

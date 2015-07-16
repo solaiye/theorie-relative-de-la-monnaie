@@ -1,24 +1,36 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Stéphane Laborde
+# This file is distributed under the same license as the Théorie Relative de la Monnaie package.
 # 
+# Translators:
+# Moul <ma.azimi@laposte.net>, 2015
+# Nathanaël Leprette, 2015
+# Vincent Texier, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Théorie Relative de la Monnaie 2.718\n"
+"Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-15 20:40+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2015-07-16 10:25+0200\n"
+"PO-Revision-Date: 2015-07-16 08:51+0000\n"
+"Last-Translator: Vincent Texier\n"
+"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# 8935f7d9a031417d8aeb10a552838205
 #: ../../source/champ-de-valeur.rst:3
 msgid "Champ de valeur"
-msgstr ""
+msgstr "Value fields"
 
+# 7b832497f87b45f793ac6e6b122cb4ec
 #: ../../source/champ-de-valeur.rst:6
 msgid "Équation fondamentale du champ de valeur"
-msgstr ""
+msgstr "Fundamental equation of the value field"
 
+# b06c4e98d72f42d184b0ba95c12d20f5
 #: ../../source/champ-de-valeur.rst:8
 msgid ""
 "Au regard de ce qui a été précédemment établi, nous avons en tout point « x "
@@ -26,30 +38,44 @@ msgid ""
 " prix Px, ainsi qu'un flux de production entrante ou sortante (positive ou "
 "négative) Cfx associée à un prix Pfx, ainsi qu'une monnaie créée en X dMx et"
 " un flux de monnaie entrante ou sortante (positive ou négative) dMfx."
-msgstr ""
+msgstr "Under what has been previously established, we have on every point \"x\" of economic space and to a \"t\" time, a production Cx, associated to a price Px, thus a flow of incoming or outgoing production (positive or negative) Cfx associated to a price Pfx, together with a created monney on X dMx and a flow of incoming or outgoing money (positive or negative) dMfx."
 
+# 6595b7fea9f740508bd07dddef1b7b3f
 #: ../../source/champ-de-valeur.rst:14
 msgid ""
 "Dans le cas où la monnaie représente très exactement la valeur produite et "
 "échangée nous avons :"
-msgstr ""
+msgstr "In the case where money represents exactly the produced or exchanged value we have:"
 
+# 6ebcd4ee70b34a9c8db865c7db89869e
 #: ../../source/champ-de-valeur.rst:21
 msgid ""
 "Mais comme par ailleurs cette égalité n'est que très exceptionnellement "
 "réalisée lors d'échanges ou de productions immédiats, nous appelons J le "
 "champ généralement non nul, défini en tout point « x » de l'espace-temps "
 "économique, par :"
-msgstr ""
+msgstr "As otherwise this equality is not exceptionally executed during immediate exchanges or productions, we called J the field generally nonzero, defined on every point \"x\" of the economic space-time, by:"
 
+# ae5c466defa34d2c9ae09f52ddf9ad9a
+#: ../../source/champ-de-valeur.rst:27
+msgid ""
+"dMx représente donc ici le Dividende Universel, Px × dCx le potentiel de "
+"valeur individuel (la part d'innovation économique de chaque individu), "
+"tandis que dMfx représente le flux local de la masse monétaire totale "
+"préexistante, et Pfx × Cfx le flux local des échanges (positif s'il "
+"augmente, négatif s'il diminue)."
+msgstr "dMx represents Universal Dividend, Px × dCx the potential of individual value (the innovation economy part of each individual), while that dMfx represents the local flow of whole preexisting monetary mass, and Pfd × Cfx the local flow of exchanges (positive if increase, negative if it decrease)."
+
+# cdb0c39cbb2a4a89af0cdfdab4b9561e
 #: ../../source/champ-de-valeur.rst:32
 msgid ""
 "Le champ de valeur différentiel est dynamique, évolue dans le temps, et "
 "mesure donc en chaque point de l'espace économique, le différentiel de "
 "monnaie et de valeur créées par l'individu « x », ajouté à la part de "
 "monnaie et de valeur globale circulante au point « x »."
-msgstr ""
+msgstr "The differential value field is dynamic, evolve in time, and measure on each point of the economic space, the differential of money and of value created by individuals \"x\", added to the part of money and the global value circulating to \"x\" point."
 
+# e1717bf678e143ccb43704f4d514428b
 #: ../../source/champ-de-valeur.rst:37
 msgid ""
 "Le champ résultant de son intégration « J(t) » montrera donc des bosses "
@@ -58,16 +84,18 @@ msgid ""
 "inversement des creux là où la valeur potentielle locale de la production "
 "excèdera la quantité de monnaie présente (qui peut être négative dans le cas"
 " d'une émission de dette...)."
-msgstr ""
+msgstr "The field of it's integration \"J(t)\" will show positive bump where money is abundant compared to the local potential worth of the effective production of goods and services. On the other hand, it will show hollow where the local potential worth of production exceed the quantity of money present. This quantity can be negative if there is emission of debt."
 
+# 863f6d34ad5741b096b7a4044158f9d9
 #: ../../source/champ-de-valeur.rst:44
 msgid ""
 "Exemple de champ pour une zone économique comprenant une zone d'excès "
 "monétaire représenté par une bosse, et une zone où il y a une production de "
 "valeur associée à une rareté monétaire représentée par un creux, le reste de"
 " la zone étant équilibré."
-msgstr ""
+msgstr "Example of a field of an economic zone that include a zone where money is in excess represented by a bump, and a zone where  there is a production of worth handicapped by a monetary scarcity represented by a hollow, the rest oj the are being balanced. "
 
+# 5ae1fe1be8a74ccc97934b56046cbd64
 #: ../../source/champ-de-valeur.rst:49
 msgid ""
 "Étant donné que la valeur est relative à l'observateur qui la mesure, (aux "
@@ -75,24 +103,28 @@ msgid ""
 "potentielle locale de la production » et non pas de valeur au sens absolu "
 "qui serait quelque chose de reconnu par tous les acteurs de l'économie, ce "
 "qui n'a pas de sens en théorie relative de la monnaie."
-msgstr ""
+msgstr "Economic worth is relative to the observer who is measuring it, (to the actors who are exchanging it), so we should talk about \"local potential worth of production\" rather than \"absolute value\" that would be recognized by all the actors of economy. That doesn't make any sense regarding to the \"Relative Theory of Money\"."
 
+# ad026c70ab7d4fe7b5f78d48a6de2cc6
 #: ../../source/champ-de-valeur.rst:55
 msgid ""
 "Pour peu que ces deux zones soient pseudo-isolées au sein de la zone "
 "économique, et produisent les mêmes biens et services, on aura des prix "
 "élevés dans l'une et bas dans l'autre uniquement à cause de la densité "
 "monétaire ainsi distribuée."
-msgstr ""
+msgstr "If these two are are slightly isolated among the economic zone, and produce the same goods and services, there will be high prices in one and low prices in the other, only because of this distribution of money density inside this economic zone."
 
+# 5842606d3349465e9a195ab5f1ab49f3
 #: ../../source/champ-de-valeur.rst:63
 msgid "*Variations spatiales du champ de valeur (Luc Fievet TRM 2.0)*"
-msgstr ""
+msgstr "*Spatial variations of worth field (Luc Fievet RTM 2.0)*"
 
+# 160f3291afeb4c608330fa9e6ff20594
 #: ../../source/champ-de-valeur.rst:65
 msgid "*NB : Yoland Bresson définit le champ de valeur comme*"
-msgstr ""
+msgstr "*NB : Yoland Bresson define the worth field like*"
 
+# 4e884ab49e39419b8a3fcc65d54ae2c5
 #: ../../source/champ-de-valeur.rst:71
 msgid ""
 "*où K représente l'étalon temps (le Dividende Universel),* *M la masse "
@@ -102,19 +134,22 @@ msgid ""
 "local et du global* *dans une équation différentielle. Je distingue par "
 "ailleurs,* *dans un souci de précision la part de production et de monnaie* "
 "*créée localement et celle qui est échangée.*"
-msgstr ""
+msgstr "*where k represent the time standard (the Universal Dividend),* *M the money supply, P the production and C the economic exchanges.* *The worth field is then without any dimension.* *Both definitions are very close, because they are based on the same  values,* *and both taking in account the local and global* *inside a differential equation. I distinguish,* *in order to be more precise, the production and the money * *created locally and the one exchanged.*"
 
+# 20882d4ba3484f509ab8c0e1b1b31849
 #: ../../source/champ-de-valeur.rst:82
 msgid "Le champ de valeur de l'argent dette"
-msgstr ""
+msgstr "The worth field of money debt."
 
+# 005bb5c693a846b8b6a9ed8a15ed3f44
 #: ../../source/champ-de-valeur.rst:84
 msgid ""
 "Cette définition du champ de valeur permet de se représenter l'évolution des"
 " économies à mécanisme d'argent-dette. Le centre d'émission bancaire émet de"
 " la monnaie-dette qui se diffuse ensuite sur les bords."
-msgstr ""
+msgstr "This definition of the worth field help us to picture the evolution of economies based on the money debt system. The banking emitting centre creates some debt money that will, then, diffuse little buy little inside the economic zone till the edges of it."
 
+# 4094dfa674914cc29bce90bfc17a5960
 #: ../../source/champ-de-valeur.rst:88
 msgid ""
 "L'émission initiale de dette se fait pour un premier cercle de bénéficiaires"
@@ -124,20 +159,23 @@ msgid ""
 "façon abrupte et centralisée dévaluera lentement la monnaie disponible dans "
 "le reste de la zone économique au fur et à mesure de sa diffusion dans "
 "l'espace économique."
-msgstr ""
+msgstr "The initial issue of debt is profitable to a first circle of economic actors such as banks, states (big consumer of money debt),  and big enterprises. These actors consume most of this unilateral creation of credit. This sudden and centralised money issue will slowly depreciate the existing money available in the rest of the economic zone at the same time it diffuses into it."
 
+# ce312b1d1a1f42bfb70dfa086ad68d79
 #: ../../source/champ-de-valeur.rst:99
 msgid "*(Luc Fievet TRM 2.0)*"
-msgstr ""
+msgstr "*(Luc Fievet RTM 2.0)*"
 
+# 340356bd8bde479dbdb4651878661ca4
 #: ../../source/champ-de-valeur.rst:101
 msgid ""
 "Le terme « monnaie-dette » est insuffisant pour comprendre le mécanisme, "
 "parce que la dette émise n'est en fait jamais vraiment remboursée, seuls les"
 " intérêts sont en général payés assurant une rente perpétuelle à l'émetteur "
 "monopolistique."
-msgstr ""
+msgstr "The name \"money debt\" is not enough to understand the mechanism because the debt issued is indeed never paid back. Only interest are generally paid which secure a perpetual unearned income to the monopolistic issuer."
 
+# 3930633984e949be9996942dab0c2fc1
 #: ../../source/champ-de-valeur.rst:106
 msgid ""
 "Ce système monétaire centralisé et asymétrique doit sa perpétuation à son "
@@ -148,10 +186,12 @@ msgid ""
 "assujetti au pouvoir monétaire."
 msgstr ""
 
+# 400aee7cedeb42e58470de04b1904c70
 #: ../../source/champ-de-valeur.rst:114
 msgid "Le champ de valeur d'un système d'échange local « SEL »"
 msgstr ""
 
+# d7645fee329843f8bf4008049a934d1e
 #: ../../source/champ-de-valeur.rst:116
 msgid ""
 "Les SEL se développent lors des crises monétaires cycliques, du fait de "
@@ -162,6 +202,7 @@ msgid ""
 " de la monnaie centrale."
 msgstr ""
 
+# f444ea095e1a44e1b349bdaf91cd5909
 #: ../../source/champ-de-valeur.rst:123
 msgid ""
 "Les SEL se créent la plupart du temps sur un modèle symétrique de crédit "
@@ -173,6 +214,7 @@ msgid ""
 "densité intrinsèque aux monnaies à émission asymétrique."
 msgstr ""
 
+# 6cdd5efb62e6469dbb4d43b8159aaa98
 #: ../../source/champ-de-valeur.rst:135
 msgid ""
 "*Le SEL est « plat » initialement,* *sa densité de création monétaire est "
@@ -181,10 +223,24 @@ msgid ""
 "temps économique (Luc Fievet TRM 2.0)*"
 msgstr ""
 
+# 7b1a5cda36804493bf6aef985b81ec38
 #: ../../source/champ-de-valeur.rst:142
 msgid "Le champ de valeur de la production non monétisée"
 msgstr ""
 
+# 627784e3f44540668da013b2da7a7d2a
+#: ../../source/champ-de-valeur.rst:144
+msgid ""
+"La production non monétisée, par absence totale de monnaie centrale ou "
+"locale, apparaît dans le champ de valeur comme un creux : (monnaie = 0) – "
+"valeur < 0. C'est le cas de toute la production troquée, donnée, produite "
+"sans échanges marchands, dont font partie l'essentiel de la production des "
+"logiciels libres, des œuvres libres de droits, de tous les services "
+"bénévoles, qui bénéficient dans une  une part non négligeable à l'économie "
+"monétisée."
+msgstr ""
+
+# d8db0ae55cae4bde8c8734737be69a37
 #: ../../source/champ-de-valeur.rst:151
 msgid ""
 "On peut se demander pourquoi des producteurs donnent leurs productions sans "
@@ -195,6 +251,7 @@ msgid ""
 "communauté."
 msgstr ""
 
+# c64b641ef2f64232a3f35674e83019ea
 #: ../../source/champ-de-valeur.rst:157
 msgid ""
 "La valeur de ce type de production dépasse d'un facteur d'échelle "
@@ -205,6 +262,7 @@ msgid ""
 " protocoles, serveurs, logiciels, base de données..."
 msgstr ""
 
+# 6b9eff7d43274731ad47f2c5b7049f79
 #: ../../source/champ-de-valeur.rst:164
 msgid ""
 "La Science elle-même fait l'objet le plus souvent de découvertes libres de "
@@ -219,6 +277,19 @@ msgid ""
 " termes économiques « habituels »..."
 msgstr ""
 
+# c0f59b86553240a09162c32c49bf3392
+#: ../../source/champ-de-valeur.rst:174
+msgid ""
+"Il semble que les producteurs de logiciels et d'œuvres libres n'aient pas "
+"encore pris la peine d'intégrer l'outil monétaire au sein de leur "
+"communauté, ce qui est un mystère, bien que la révélation du mystère "
+"monétaire ne soit pas aisée, elle est typiquement de l'ordre de "
+"l'algorithmique et du jeu, domaines maîtrisés par cette communauté. Pourtant"
+" il existe déjà des logiciels permettant d'établir un lien monétaire "
+"communautaire, et qui se déploient rapidement."
+msgstr ""
+
+# 2ebd8bf1b2c840b8ab059cace8b34269
 #: ../../source/champ-de-valeur.rst:185
 msgid ""
 "*La production non-monétisée* *peut-être tout à fait énorme en terme de "
@@ -227,6 +298,7 @@ msgid ""
 "deuxième liberté économique. (Luc Fievet TRM 2.0)*"
 msgstr ""
 
+# 0e1ef1b4809e4bbfbb2130d914cae455
 #: ../../source/champ-de-valeur.rst:191
 msgid ""
 "Cependant, pour compenser ce triste constat, sans doute temporaire, on peut "
@@ -240,124 +312,7 @@ msgid ""
 "la valeur se révèle, et non pas l'inverse."
 msgstr ""
 
-#: ../../source/champ-de-valeur.rst:212
-msgid ""
-"L'énorme valeur non monétisée a pour fonction d'appeler à une énorme "
-"création monétaire, qui dépasse de très loin la somme des anciennes valeurs "
-"sur lesquelles circulent la monnaie pré-existante. Ceci est la base "
-"productive des poussées inflationnistes historiques : la création violente d"
-"'argent-dette dans le but pour ses émetteurs de s'accaparer frauduleusement "
-"de la nouvelle valeur de remplacement économique."
-msgstr ""
-
-#: ../../source/champ-de-valeur.rst:220
-msgid "Le champ de valeur d'une économie à Dividende Universel"
-msgstr ""
-
-#: ../../source/champ-de-valeur.rst:222
-msgid ""
-"Une économie à Dividende Universel égalise la création monétaire. Cela "
-"n'empêche en rien l'apparition de creux et de bosses, mais cela les rend "
-"partout possibles, sans aucun point central, et surtout suscitant une "
-"circulation de la monnaie dans toute la zone économique par sa structure "
-"intrinsèquement dense, qui limite les points et les durées d'accumulation "
-"tant monétaires que productives."
-msgstr ""
-
-#: ../../source/champ-de-valeur.rst:233
-msgid "*Champ de valeurs fluctuant, sans point central (Luc Fievet TRM 2.0)*"
-msgstr ""
-
-#: ../../source/champ-de-valeur.rst:235
-msgid ""
-"Il n'y a pas dans ce type d'économie de point central de création de "
-"monnaie, ce qui rend tout projet, toute production, et tout circuit "
-"économique autonome directement monétisable partout et en tout temps."
-msgstr ""
-
-#: ../../source/champ-de-valeur.rst:239
-msgid ""
-"Dans un champ monétaire d'argent-dette, loin d'un centre d'émission, on "
-"retrouvera ce type de structure, mais à une échelle trop faible par rapport "
-"aux distorsions centrales, ce qui la fera apparaître comme plate (à "
-"distorsion négligeable) vu depuis le centre. Le problème est alors la force "
-"d'attraction de la fausse dette centrale (et vraie création monétaire "
-"asymétrique et frauduleuse) qui provoque une lutte incessante pour s'en "
-"libérer."
-msgstr ""
-
-#: ../../source/champ-de-valeur.rst:247
-msgid "Les forces en jeu"
-msgstr ""
-
-#: ../../source/champ-de-valeur.rst:249
-msgid ""
-"Le champ de valeur a tendance à osciller autour de son point d'équilibre. "
-"Aussi un creux aura tendance à augmenter jusqu'à attirer la monnaie "
-"existante, et si elle n'est pas suffisante, à susciter la création monétaire"
-" (jusqu'à susciter la création d'une monnaie complémentaire locale). De la "
-"même façon la monnaie aura tendance à s'accumuler jusqu'à susciter l'achat "
-"de valeurs non monétaires. Creux et bosses sont donc comme deux masses "
-"s'attirant l'une l'autre. Ce phénomène peut être vu à toutes les échelles de"
-" mesure, de l'individu à la zone économique dans son ensemble, et le "
-"processus de comblement des creux par les bosses est inéluctable, qu'il soit"
-" continu ou discret, rapide ou lent, pacifique ou violent."
-msgstr ""
-
-#: ../../source/champ-de-valeur.rst:260
-msgid ""
-"Dans un système central d'argent-dette l'accumulation centralisée de monnaie"
-" ou de production se fait jusqu'à un point de rupture où la force "
-"d'attraction du surplus excessif de monnaie face au surplus excessif de "
-"production non monétisée déclenche un mouvement brutal. Soit en général "
-"l'hyperinflation des prix de la production sous-monétisée pendant trop "
-"longtemps, qui se développe avec un afflux de monnaie libérée depuis le "
-"centre, ou bien des mouvements d'arrêt de production par absence de monnaie "
-"ou de contre-partie pendant trop longtemps, ce qui peut mener à des crises "
-"sociales d'envergure historique, des révolutions ou des guerres."
-msgstr ""
-
-#: ../../source/champ-de-valeur.rst:270
-msgid ""
-"Le système de création monétaire choisi (ou imposé) détermine donc le type "
-"de développement économique qui s'en suivra ainsi que la forme spatio-"
-"temporelle du champ de valeur : une fluctuation continue sans interruption "
-"pour un système à Dividende Universel, et des pyramides de monnaie centrale "
-"à effondrement cycliques (bulles monétaires, appelées encore bulles "
-"spéculatives) pour les systèmes à émission asymétrique."
-msgstr ""
-
-#: ../../source/champ-de-valeur.rst:27
-msgid ""
-"dMx représente donc ici le Dividende Universel, Px × dCx le potentiel de "
-"valeur individuel (la part d'innovation économique de chaque individu), "
-"tandis que dMfx représente le flux local de la masse monétaire totale "
-"préexistante, et Pfx × Cfx le flux local des échanges (positif s'il "
-"augmente, négatif s'il diminue)."
-msgstr ""
-
-#: ../../source/champ-de-valeur.rst:144
-msgid ""
-"La production non monétisée, par absence totale de monnaie centrale ou "
-"locale, apparaît dans le champ de valeur comme un creux : (monnaie = 0) – "
-"valeur < 0. C'est le cas de toute la production troquée, donnée, produite "
-"sans échanges marchands, dont font partie l'essentiel de la production des "
-"logiciels libres, des œuvres libres de droits, de tous les services "
-"bénévoles, qui bénéficient dans une  une part non négligeable à l'économie "
-"monétisée."
-msgstr ""
-
-#: ../../source/champ-de-valeur.rst:174
-msgid ""
-"Il semble que les producteurs de logiciels et d'œuvres libres n'aient pas "
-"encore pris la peine d'intégrer l'outil monétaire au sein de leur "
-"communauté, ce qui est un mystère, bien que la révélation du mystère "
-"monétaire ne soit pas aisée, elle est typiquement de l'ordre de "
-"l'algorithmique et du jeu, domaines maîtrisés par cette communauté. Pourtant"
-" il existe déjà des logiciels permettant d'établir un lien monétaire "
-"communautaire, et qui se déploient rapidement."
-msgstr ""
-
+# 8cc838f90b6c4f3ab00d354636600c8d
 #: ../../source/champ-de-valeur.rst:200
 msgid ""
 "C'est donc parce qu'il n'y a pas encore de monnaie circulante au sein de la "
@@ -373,44 +328,99 @@ msgid ""
 "le futur, et jamais le futur sur la base d'un Dividende sur le passé."
 msgstr ""
 
-#~ msgid ""
-#~ "dMx représente donc ici le Dividende Universel, Px*dCx le potentiel de "
-#~ "valeur individuel (la part d'innovation économique de chaque individu), "
-#~ "tandis que dMfx représente le flux local de la masse monétaire totale "
-#~ "préexistante, et Pfx*Cfx le flux local des échanges (positif s'il augmente, "
-#~ "négatif s'il diminue)."
-#~ msgstr ""
+# 5ba9e2f69df144018efd4fc901f8b3dc
+#: ../../source/champ-de-valeur.rst:212
+msgid ""
+"L'énorme valeur non monétisée a pour fonction d'appeler à une énorme "
+"création monétaire, qui dépasse de très loin la somme des anciennes valeurs "
+"sur lesquelles circulent la monnaie pré-existante. Ceci est la base "
+"productive des poussées inflationnistes historiques : la création violente d"
+"'argent-dette dans le but pour ses émetteurs de s'accaparer frauduleusement "
+"de la nouvelle valeur de remplacement économique."
+msgstr ""
 
-#~ msgid ""
-#~ "La production non monétisée, par absence totale de monnaie centrale ou "
-#~ "locale, apparaît dans le champ de valeur comme un creux : (monnaie = 0) – "
-#~ "valeur < 0. C'est le cas de toute la production troquée, donnée, produite "
-#~ "sans échanges marchands, dont font partie l'essentiel de la production des "
-#~ "logiciels libres, des oeuvres libres de droits, de tous les services "
-#~ "bénévoles, qui bénéficient dans une  une part non négligeable à l'économie "
-#~ "monétisée."
-#~ msgstr ""
+# a173c3208f9b402ebed905815459a893
+#: ../../source/champ-de-valeur.rst:220
+msgid "Le champ de valeur d'une économie à Dividende Universel"
+msgstr ""
 
-#~ msgid ""
-#~ "Il semble que les producteurs de logiciels et d'oeuvres libres n'aient pas "
-#~ "encore pris la peine d'intégrer l'outil monétaire au sein de leur "
-#~ "communauté, ce qui est un mystère, bien que la révélation du mystère "
-#~ "monétaire ne soit pas aisée, elle est typiquement de l'ordre de "
-#~ "l'algorithmique et du jeu, domaines maîtrisés par cette communauté. Pourtant"
-#~ " il existe déjà des logiciels permettant d'établir un lien monétaire "
-#~ "communautaire, et qui se déploient rapidement."
-#~ msgstr ""
+# 15b567c4258a49be86f8c7556964f3d8
+#: ../../source/champ-de-valeur.rst:222
+msgid ""
+"Une économie à Dividende Universel égalise la création monétaire. Cela "
+"n'empêche en rien l'apparition de creux et de bosses, mais cela les rend "
+"partout possibles, sans aucun point central, et surtout suscitant une "
+"circulation de la monnaie dans toute la zone économique par sa structure "
+"intrinsèquement dense, qui limite les points et les durées d'accumulation "
+"tant monétaires que productives."
+msgstr ""
 
-#~ msgid ""
-#~ "C'est donc parce qu'il n'y a pas encore de monnaie circulante au sein de la "
-#~ "communauté créant des valeurs libres de droit, que la valeur de ces oeuvres "
-#~ "libres n'est pas actée. Tandis que la création d'une monnaie au sein d'une "
-#~ "communauté de jeu fait spontanément jaillir une valeur mesurable. La monnaie"
-#~ " est donc non seulement un outil d'échange mais un outil de mesure "
-#~ "participatif. On ne peut pas mesurer de valeur économique dans une zone "
-#~ "privée de monnaie. C'est une grande incompréhension de ce mécanisme qui fait"
-#~ " diriger des politiques économiques sur des données comme le PIB, qui ne "
-#~ "mesure que ce qui est déjà monétairement irrigué, créant des effets de "
-#~ "bulles et de résonance, et ne finançant que le passé à base de créances sur "
-#~ "le futur, et jamais le futur sur la base d'un Dividende sur le passé."
-#~ msgstr ""
+# aa1f1d903cd24a62859634f119b2eca9
+#: ../../source/champ-de-valeur.rst:233
+msgid "*Champ de valeurs fluctuant, sans point central (Luc Fievet TRM 2.0)*"
+msgstr ""
+
+# f55d815a98cc46d2974343b508b2a9c9
+#: ../../source/champ-de-valeur.rst:235
+msgid ""
+"Il n'y a pas dans ce type d'économie de point central de création de "
+"monnaie, ce qui rend tout projet, toute production, et tout circuit "
+"économique autonome directement monétisable partout et en tout temps."
+msgstr ""
+
+# 59e0d81a337e4144be3523bc6449a17e
+#: ../../source/champ-de-valeur.rst:239
+msgid ""
+"Dans un champ monétaire d'argent-dette, loin d'un centre d'émission, on "
+"retrouvera ce type de structure, mais à une échelle trop faible par rapport "
+"aux distorsions centrales, ce qui la fera apparaître comme plate (à "
+"distorsion négligeable) vu depuis le centre. Le problème est alors la force "
+"d'attraction de la fausse dette centrale (et vraie création monétaire "
+"asymétrique et frauduleuse) qui provoque une lutte incessante pour s'en "
+"libérer."
+msgstr ""
+
+# 565082f0737b494ab7e258024d7325fa
+#: ../../source/champ-de-valeur.rst:247
+msgid "Les forces en jeu"
+msgstr ""
+
+# 3e4d5876ef0f4574ac09a2d10e038e43
+#: ../../source/champ-de-valeur.rst:249
+msgid ""
+"Le champ de valeur a tendance à osciller autour de son point d'équilibre. "
+"Aussi un creux aura tendance à augmenter jusqu'à attirer la monnaie "
+"existante, et si elle n'est pas suffisante, à susciter la création monétaire"
+" (jusqu'à susciter la création d'une monnaie complémentaire locale). De la "
+"même façon la monnaie aura tendance à s'accumuler jusqu'à susciter l'achat "
+"de valeurs non monétaires. Creux et bosses sont donc comme deux masses "
+"s'attirant l'une l'autre. Ce phénomène peut être vu à toutes les échelles de"
+" mesure, de l'individu à la zone économique dans son ensemble, et le "
+"processus de comblement des creux par les bosses est inéluctable, qu'il soit"
+" continu ou discret, rapide ou lent, pacifique ou violent."
+msgstr ""
+
+# d15004ce8b1f4305a3dbd01cca8f7875
+#: ../../source/champ-de-valeur.rst:260
+msgid ""
+"Dans un système central d'argent-dette l'accumulation centralisée de monnaie"
+" ou de production se fait jusqu'à un point de rupture où la force "
+"d'attraction du surplus excessif de monnaie face au surplus excessif de "
+"production non monétisée déclenche un mouvement brutal. Soit en général "
+"l'hyperinflation des prix de la production sous-monétisée pendant trop "
+"longtemps, qui se développe avec un afflux de monnaie libérée depuis le "
+"centre, ou bien des mouvements d'arrêt de production par absence de monnaie "
+"ou de contre-partie pendant trop longtemps, ce qui peut mener à des crises "
+"sociales d'envergure historique, des révolutions ou des guerres."
+msgstr ""
+
+# 10e86a0e40f04544b0113390cb93823f
+#: ../../source/champ-de-valeur.rst:270
+msgid ""
+"Le système de création monétaire choisi (ou imposé) détermine donc le type "
+"de développement économique qui s'en suivra ainsi que la forme spatio-"
+"temporelle du champ de valeur : une fluctuation continue sans interruption "
+"pour un système à Dividende Universel, et des pyramides de monnaie centrale "
+"à effondrement cycliques (bulles monétaires, appelées encore bulles "
+"spéculatives) pour les systèmes à émission asymétrique."
+msgstr ""

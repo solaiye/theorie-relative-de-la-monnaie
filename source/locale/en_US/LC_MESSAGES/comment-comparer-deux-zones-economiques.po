@@ -1,20 +1,28 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Stéphane Laborde
+# This file is distributed under the same license as the Théorie Relative de la Monnaie package.
 # 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Théorie Relative de la Monnaie 2.718\n"
+"Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-15 20:40+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2015-07-16 10:25+0200\n"
+"PO-Revision-Date: 2015-07-16 08:41+0000\n"
+"Last-Translator: Vincent Texier\n"
+"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# ff691b6f37d74486b5fcad518264ea48
 #: ../../source/comment-comparer-deux-zones-economiques.rst:3
 msgid "Comment comparer deux zones économiques ?"
 msgstr ""
 
+# 9fdad658ce8f4ac0b5fc7e4d874bb319
 #: ../../source/comment-comparer-deux-zones-economiques.rst:5
 msgid ""
 "Les définitions que nous venons de voir concernant la masse monétaire, sa "
@@ -23,6 +31,7 @@ msgid ""
 "économiques qui utilisent deux monnaies différentes."
 msgstr ""
 
+# eb2f82c58456443f819b63fe5baffbb9
 #: ../../source/comment-comparer-deux-zones-economiques.rst:10
 msgid ""
 "Soient deux zones économiques A et B créditées chacune d'une masse monétaire"
@@ -30,6 +39,7 @@ msgid ""
 "de citoyens respectifs Na et Nb ayant accès à la monnaie commune."
 msgstr ""
 
+# 381c6fc192624f49955789f3c51826b6
 #: ../../source/comment-comparer-deux-zones-economiques.rst:14
 msgid ""
 "L'application du principe de relativité nous invite à définir la mesure "
@@ -37,14 +47,17 @@ msgid ""
 "sur la base de la densité monétaire moyenne de chacune des zones."
 msgstr ""
 
+# 392e8aa88adb4f07b37318761d2cff91
 #: ../../source/comment-comparer-deux-zones-economiques.rst:18
 msgid "Pour A :"
 msgstr ""
 
+# d555798fedce444eb2d85618da253056
 #: ../../source/comment-comparer-deux-zones-economiques.rst:24
 msgid "et pour B :"
 msgstr ""
 
+# e6daf318f7f74b049ef6cd39f8e4d5c4
 #: ../../source/comment-comparer-deux-zones-economiques.rst:30
 msgid ""
 "Le taux de change instantané T(a/b) des monnaies, qui représente le ratio de"
@@ -52,12 +65,14 @@ msgid ""
 " Qb de la zone B est tel que :"
 msgstr ""
 
+# b4e563b1b89546af9c505f29f7030e59
 #: ../../source/comment-comparer-deux-zones-economiques.rst:38
 msgid ""
 "Avec dans le cadre du principe de relativité une valeur fondamentale, qui "
 "est :"
 msgstr ""
 
+# 7bfd8dd01b03415cb7fb9c8fec1d211b
 #: ../../source/comment-comparer-deux-zones-economiques.rst:44
 msgid ""
 "Ce résultat fondamental diffère des outils communs avec lesquels on mesure "
@@ -69,20 +84,24 @@ msgid ""
 "mesurable."
 msgstr ""
 
+# e7f87271417f4e2f928317215ee4a005
 #: ../../source/comment-comparer-deux-zones-economiques.rst:52
 msgid "Application numérique :"
 msgstr ""
 
+# 4e21c76268a348e388a71dcc20283ade
 #: ../../source/comment-comparer-deux-zones-economiques.rst:62
 msgid "Taux de change relatif **T (€ / $) = 1,60 $/€**"
 msgstr ""
 
+# a91a25a369684a599542bbf5d9d51b12
 #: ../../source/comment-comparer-deux-zones-economiques.rst:64
 msgid ""
 "Entre 2008 et 2010 le taux de change constaté sur les marchés oscillait "
 "entre **1,30 $/€ et 1,60 $/€**."
 msgstr ""
 
+# 1513abe558d3473fbd78a883b4140436
 #: ../../source/comment-comparer-deux-zones-economiques.rst:66
 msgid ""
 "Mais même si le résultat constaté est proche de la valeur fondamentale "
@@ -93,6 +112,7 @@ msgid ""
 " donnent des estimations."
 msgstr ""
 
+# aba87b633f5b43e2a2a0104316cda86e
 #: ../../source/comment-comparer-deux-zones-economiques.rst:73
 msgid ""
 "Par ailleurs, et ce n'est pas le point le moins important, nous ne sommes "
@@ -103,6 +123,7 @@ msgid ""
 "économique forte à long terme selon l'importance de ces distorsions)."
 msgstr ""
 
+# 18923e2af45d4cff82fef3083869b21f
 #: ../../source/comment-comparer-deux-zones-economiques.rst:80
 msgid ""
 "On voit par ailleurs le rôle que joue la population quant au taux de change "
@@ -114,6 +135,7 @@ msgid ""
 "rattrapage spatial."
 msgstr ""
 
+# cceeed06e77d407cad8686c61b69447d
 #: ../../source/comment-comparer-deux-zones-economiques.rst:87
 msgid ""
 "Nous comprenons là le problème Chinois en 2010. Puisque une faible partie "
@@ -125,6 +147,7 @@ msgid ""
 "monétisés."
 msgstr ""
 
+# f16208619c2e438288fe37a1a484b5f4
 #: ../../source/comment-comparer-deux-zones-economiques.rst:94
 msgid ""
 "Par contre du fait du rapport Na/Nb qui sera, en fin de monétisation "
@@ -134,20 +157,7 @@ msgid ""
 " valeur de change fondamentale de sa monnaie."
 msgstr ""
 
-#: ../../source/comment-comparer-deux-zones-economiques.rst:118
-msgid ""
-"*Evolution selon un rapport Mb/Ma stable via la monétisation temporelle.* "
-"*Seule la quantité monétaire des échanges augmente* *et maintient stable la "
-"vitesse de circulation (Luc Fievet TRM 2.0)*"
-msgstr ""
-
-#: ../../source/comment-comparer-deux-zones-economiques.rst:126
-msgid ""
-"*Evolution selon un rapport Ma/Na stable via la monétisation spatiale.* *La "
-"quantité monétaire par citoyen monétisé* *(nouveaux citoyens monétisés = "
-"deuxième cercle) reste stable (Luc Fievet TRM 2.0)*"
-msgstr ""
-
+# 7f0c53a6608f4b29be38b782a1a4c3fc
 #: ../../source/comment-comparer-deux-zones-economiques.rst:100
 msgid ""
 "L'évolution des rapports de change pour l'Europe et les États-Unis, qui sont"
@@ -158,6 +168,7 @@ msgid ""
 "Mb/Ma."
 msgstr ""
 
+# 82a0dad888944cc494dd3653647fb645
 #: ../../source/comment-comparer-deux-zones-economiques.rst:106
 msgid ""
 "Nous sommes donc ici en face de deux politiques d'expansion de rattrapage "
@@ -170,20 +181,18 @@ msgid ""
 " la masse monétaire."
 msgstr ""
 
-#~ msgid ""
-#~ "L'évolution des rapports de change pour l'Europe et les USA, qui sont pour "
-#~ "leur part déjà bien plus fortement monétisés dans l'espace (Nb ne croîtra "
-#~ "pas beaucoup), dépendra alors non pas de l'expansion monétaire de la Chine "
-#~ "si celle-ci est essentiellement spatiale, mais de leur propre politique de "
-#~ "croissance monétaire dans le temps, pour jouer sur le rapport Mb/Ma."
-#~ msgstr ""
+# 533ac78100e240a3ba262497a73418fc
+#: ../../source/comment-comparer-deux-zones-economiques.rst:118
+msgid ""
+"*Evolution selon un rapport Mb/Ma stable via la monétisation temporelle.* "
+"*Seule la quantité monétaire des échanges augmente* *et maintient stable la "
+"vitesse de circulation (Luc Fievet TRM 2.0)*"
+msgstr ""
 
-#~ msgid ""
-#~ "Nous sommes donc ici en face de deux politiques d'expansion de rattrapage "
-#~ "vis à vis de l'équilibre nécessaire, dans deux dimensions complémentaires : "
-#~ "spatiale du côté Chinois (il ne faudrait pas non plus oublier le problème "
-#~ "similaire qui se pose aux 1 200 millions d'Indiens sous-monétisés eux "
-#~ "aussi), et temporelle pour les USA et l'Europe. Or le rattrapage temporel en"
-#~ " Europe et aux USA nécessite la mise en place d'un Dividende Universel sur "
-#~ "lequel faire jouer jouer la hauteur de la densité de la masse monétaire."
-#~ msgstr ""
+# cf8db43e65a7401a9e31fed31d07d2d9
+#: ../../source/comment-comparer-deux-zones-economiques.rst:126
+msgid ""
+"*Evolution selon un rapport Ma/Na stable via la monétisation spatiale.* *La "
+"quantité monétaire par citoyen monétisé* *(nouveaux citoyens monétisés = "
+"deuxième cercle) reste stable (Luc Fievet TRM 2.0)*"
+msgstr ""

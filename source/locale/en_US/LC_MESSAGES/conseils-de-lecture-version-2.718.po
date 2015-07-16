@@ -1,20 +1,28 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Stéphane Laborde
+# This file is distributed under the same license as the Théorie Relative de la Monnaie package.
 # 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Théorie Relative de la Monnaie 2.718\n"
+"Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-15 20:40+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2015-07-16 10:25+0200\n"
+"PO-Revision-Date: 2015-01-14 19:57+0000\n"
+"Last-Translator: Vincent Texier\n"
+"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# d96fb13a03a64f9fa599ef14a9dea3e1
 #: ../../source/conseils-de-lecture-version-2.718.rst:3
 msgid "Conseils de lecture version 2.718"
 msgstr ""
 
+# adb381dac77743b38212b629abcdab82
 #: ../../source/conseils-de-lecture-version-2.718.rst:5
 msgid ""
 "Comme une version 2.718 vient avec les retours de la 2.0, je précise que les"
@@ -24,6 +32,7 @@ msgid ""
 "lecture dans l'ordre établi."
 msgstr ""
 
+# 717312dc6bbc4e578fbff2f58c9ff11d
 #: ../../source/conseils-de-lecture-version-2.718.rst:11
 msgid ""
 "Mais pour les autres, il peut être profitable de commencer d'abord par la "
@@ -34,6 +43,7 @@ msgid ""
 "une appréciation de l'ordre de grandeur des phénomènes qui sont traités ici."
 msgstr ""
 
+# 1fc6de0d92fa45919cdc76e1d68690de
 #: ../../source/conseils-de-lecture-version-2.718.rst:17
 msgid ""
 "On parle ici d'Espace et de Temps, et des phénomènes qui s'y déroulent sur "

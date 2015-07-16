@@ -1,20 +1,28 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Stéphane Laborde
+# This file is distributed under the same license as the Théorie Relative de la Monnaie package.
 # 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Théorie Relative de la Monnaie 2.718\n"
+"Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-15 20:40+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2015-07-16 10:25+0200\n"
+"PO-Revision-Date: 2015-01-14 19:57+0000\n"
+"Last-Translator: Vincent Texier\n"
+"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# 4dc678742d0f48608e8de75be39ecd00
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:3
 msgid "Préface de la version 1.0 par Yoland Bresson"
 msgstr ""
 
+# 3340c80b356047ada5eb31e85987b017
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:5
 msgid ""
 "La théorie relative de la monnaie de Stéphane Laborde s’inscrit dans la "
@@ -23,6 +31,7 @@ msgid ""
 " de la discipline : Maurice Allais."
 msgstr ""
 
+# c6ae1612ed8d478da70dd8042c4cf261
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:10
 msgid ""
 "Mais, toute science se construit un langage particulier et je crains que les"
@@ -30,6 +39,7 @@ msgid ""
 "tout l’intérêt de cet apport théorique sans une « traduction »."
 msgstr ""
 
+# 3c3b360ac4604d66bd888b0b1c9fd33f
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:14
 msgid ""
 "Le « Système à Dividende Universel » que propose l’auteur est un système "
@@ -38,6 +48,7 @@ msgid ""
 "une part égale."
 msgstr ""
 
+# dcf821a8f10447cd8ee1eb30f9c352cb
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:19
 msgid ""
 "Nous avons presque tous déjà pratiqué un tel système… en jouant au Monopoly."
@@ -51,6 +62,7 @@ msgid ""
 "choix individuels et les opportunités du hasard."
 msgstr ""
 
+# e796e9e618cf4e4aa5c9a30819d44d29
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:28
 msgid ""
 "Actuellement, dans notre réalité, la répartition de la masse monétaire ne "
@@ -63,6 +75,7 @@ msgid ""
 "monétaire dite M3."
 msgstr ""
 
+# 64c22bbc86d94881a4fbb4ac0e2c878e
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:36
 msgid ""
 "Il faut bien distinguer la masse monétaire, stock de monnaie disponible, "
@@ -74,6 +87,7 @@ msgid ""
 "verrons plus loin."
 msgstr ""
 
+# fe200f57e97d4f8db2f78864bcc888f4
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:43
 msgid ""
 "Dès lors l’auteur cherche à répondre à la question suivante : quelle règle "
@@ -83,6 +97,7 @@ msgid ""
 "uniforme dans l’espace et dans le temps ?"
 msgstr ""
 
+# 114c939f5f604d67b0e04fc6ee3b583b
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:49
 msgid ""
 "Il suppose une population stable en nombre avec une espérance de vie donnée."
@@ -96,6 +111,7 @@ msgid ""
 "est complètement réalisé."
 msgstr ""
 
+# af153de2e98c4850a859815c6bb07434
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:58
 msgid ""
 "La réponse est ce que l’auteur appelle le « Dividende Universel Optimal » : "
@@ -107,6 +123,7 @@ msgid ""
 "facteur c est égal à 5 % environ pour une espérance de vie de 80 ans."
 msgstr ""
 
+# 873f546f65eb4327bd3d43254ed73468
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:67
 msgid ""
 "Comment en déduire la somme inconditionnelle à attribuer non pas en masse "
@@ -115,6 +132,7 @@ msgid ""
 "membre de la communauté et non pour exister ?"
 msgstr ""
 
+# 0c25b33dc4a34857b369813d9ba52d7e
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:72
 msgid ""
 "Si on calcule, comme le fait l’auteur, pour l’Europe, 5 % de la masse M3 "
@@ -125,6 +143,7 @@ msgid ""
 "l’année 2011."
 msgstr ""
 
+# 927fe7185c1341da8ff7992f7a47c835
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:78
 msgid ""
 "Recommencer au 1er janvier 2012, 5 % en plus... et ainsi de suite de telle "
@@ -136,6 +155,7 @@ msgid ""
 "pouvant prêter plus qu’elles n’ont en dépôts."
 msgstr ""
 
+# d949fd06308c4588a830fb5440ff3ebf
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:86
 msgid ""
 "Une telle mise en place correspondrait à un bigbang institutionnel. Une "
@@ -143,10 +163,12 @@ msgid ""
 "instauration moins traumatisante pour nos institutions."
 msgstr ""
 
+# 80df6d4d011543c8b2bdc9cac30df5f1
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:90
 msgid "Comment passer de la masse monétaire au revenu ?"
 msgstr ""
 
+# 12888dc8ad0c40579884bd9db9eb6d56
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:92
 msgid ""
 "Si on divise simplement les 1 515 € par 12 mois, c’est qu’on suppose "
@@ -163,6 +185,7 @@ msgid ""
 "trimestre et à un semestre si le PIB égal 2M3."
 msgstr ""
 
+# 174881ba6ced4504bedcb9a44291e397
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:104
 msgid ""
 "En réalité le PIB est compris entre 2 et 3 M3. Donc les 1 515 € devraient "
@@ -174,6 +197,7 @@ msgid ""
 "régulier issu des échanges en monnaie."
 msgstr ""
 
+# 6e312c043e39441cb24090a22d0efb4a
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:112
 msgid ""
 "Il est remarquable que la théorie de Stéphane Laborde rejoigne celle de la "
@@ -182,6 +206,7 @@ msgid ""
 "temps qui donne aujourd’hui 350€ environs pour la France."
 msgstr ""
 
+# f7e2901166e14331ba20db19f16f0b05
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:117
 msgid ""
 "Ces deux théories, théorie relative de la monnaie et valeur-temps convergent"

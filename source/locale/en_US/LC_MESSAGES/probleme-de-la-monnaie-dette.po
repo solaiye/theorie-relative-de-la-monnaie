@@ -1,20 +1,28 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Stéphane Laborde
+# This file is distributed under the same license as the Théorie Relative de la Monnaie package.
 # 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Théorie Relative de la Monnaie 2.718\n"
+"Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-15 20:40+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2015-07-16 10:25+0200\n"
+"PO-Revision-Date: 2015-07-16 08:41+0000\n"
+"Last-Translator: Vincent Texier\n"
+"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# 9ff4a9228c4e403aaba7fea7ef5c4c76
 #: ../../source/probleme-de-la-monnaie-dette.rst:3
 msgid "Problème de la « monnaie dette »"
 msgstr ""
 
+# bbc6a75cb9f946d6a6ab0d370f1a9522
 #: ../../source/probleme-de-la-monnaie-dette.rst:5
 msgid ""
 "Si on dit que X « s'endette » (bilan négatif) pour créditer Y, qui lui peut "
@@ -22,10 +30,12 @@ msgid ""
 "problème fondamental de symétrie."
 msgstr ""
 
+# 701fc8f711e7494a9d24b6da1dc5d989
 #: ../../source/probleme-de-la-monnaie-dette.rst:10
 msgid "a) La symétrie spatiale n'est pas respectée"
 msgstr ""
 
+# 3593a250540c406db855d0d3fdf4f688
 #: ../../source/probleme-de-la-monnaie-dette.rst:12
 msgid ""
 "si c'est « X » qui possède le droit de s'endetter en premier, selon « Y » et"
@@ -37,10 +47,12 @@ msgid ""
 "échanges entre Y et Z)."
 msgstr ""
 
+# 2a956bd814a74053b92804515c8a89d7
 #: ../../source/probleme-de-la-monnaie-dette.rst:21
 msgid "b) La symétrie temporelle n'est pas respectée"
 msgstr ""
 
+# 8653e60349064488beb1a4bfaddd7606
 #: ../../source/probleme-de-la-monnaie-dette.rst:23
 msgid ""
 "Même en imaginant que X, Y et Z se créditent initialement tous en même temps"
@@ -53,10 +65,12 @@ msgid ""
 "leur point de vue."
 msgstr ""
 
+# 5fec1d1d27104bcdb5a615b1e393c0d8
 #: ../../source/probleme-de-la-monnaie-dette.rst:34
 msgid "c) L'asservissement par l'intérêt manquant"
 msgstr ""
 
+# 34d81b45a66948dfa4479faa6f9c731b
 #: ../../source/probleme-de-la-monnaie-dette.rst:36
 msgid ""
 "Une démonstration algorithmique éclaire le fait qu'une monnaie dette à "
@@ -64,34 +78,51 @@ msgid ""
 "assurer l'asservissement sans fin des uns envers les autres."
 msgstr ""
 
+# 878b6af553d146499fb917a68fb9e5b2
 #: ../../source/probleme-de-la-monnaie-dette.rst:40
 msgid "*B = système bancaire*"
 msgstr ""
 
+# a446fa9ee9f74e7aa4acfccd0546d041
 #: ../../source/probleme-de-la-monnaie-dette.rst:41
 msgid "*H = les hommes*"
 msgstr ""
 
+# 0e20a38015fd430099976986ed41f9e5
+#: ../../source/probleme-de-la-monnaie-dette.rst:43
+msgid ""
+"Les intérêts dus par H à B sont de 5 % / an. En (1) s'effectue l'émission "
+"d'une nouvelle « dette », constituant donc la « monnaie » par B qui crédite "
+"H. En (2) les 5 % sont remboursés, puis éventuellement dépensés en (3) et "
+"c'est ensuite la boucle sans fin."
+msgstr ""
+
+# a158c67e574946f6bd39e420161a4b2b
 #: ../../source/probleme-de-la-monnaie-dette.rst:48
 msgid "*(1) B : -100 | +100 => H +100 | -100*"
 msgstr ""
 
+# 6bb985e90bc94d519be4e79262fa5107
 #: ../../source/probleme-de-la-monnaie-dette.rst:49
 msgid "*(2) B : -100 | +105 => H +95 | - 100*"
 msgstr ""
 
+# 0af9b72b098d4a639df6596cc05597a5
 #: ../../source/probleme-de-la-monnaie-dette.rst:50
 msgid "*(3) B achète pour 5 à H 1 heure de travail*"
 msgstr ""
 
+# 255704892d1b455ab5e3aa0f121b64fa
 #: ../../source/probleme-de-la-monnaie-dette.rst:51
 msgid "*(4) B : -100 | +100 => H +100 | - 100*"
 msgstr ""
 
+# 78c69ecebffe4cfda967e921eeb5fcb9
 #: ../../source/probleme-de-la-monnaie-dette.rst:52
 msgid "*(5) Retour en (2)*"
 msgstr ""
 
+# 528062ec2e6040f9808b0f9cefd28342
 #: ../../source/probleme-de-la-monnaie-dette.rst:54
 msgid ""
 "**Choix 1** : boucle infinie. H est infiniment asservi à B qui gagne 5 % / "
@@ -102,6 +133,7 @@ msgid ""
 "seul fait de lui payer cette rente éternelle."
 msgstr ""
 
+# 2df7ca4a358a4d558c89fed25e8d2997
 #: ../../source/probleme-de-la-monnaie-dette.rst:61
 msgid ""
 "**Choix 2** : si B par contre ne dépense pas les 5 % par an mais les  stocke"
@@ -111,10 +143,24 @@ msgid ""
 "la situation suivante :"
 msgstr ""
 
+# 654f0ca6df1a4d7db24f8570f3f5dbab
 #: ../../source/probleme-de-la-monnaie-dette.rst:67
 msgid "*B : -100 | + 200 => H +000 | -100*"
 msgstr ""
 
+# 77cc6a7810cb4b1b981adc1e890aa19f
+#: ../../source/probleme-de-la-monnaie-dette.rst:69
+msgid ""
+"À ce moment là (H) ne pourra plus rembourser lors du cycle suivant. Il fait "
+"faillite, défaut, ou une négociation a lieu. B est alors muni d'un stock "
+"énorme de monnaie, il bénéfice d'un pouvoir d'achat démultiplié sur une "
+"économie en déflation (car pendant tout ce temps l'économie aura subi la "
+"raréfaction progressive de la monnaie circulante). Il achète alors tout ce "
+"qu'il estime comme étant la base économique du prochain cycle au meilleur "
+"prix."
+msgstr ""
+
+# 307996cac6c146129eae1332bb0e4806
 #: ../../source/probleme-de-la-monnaie-dette.rst:76
 msgid ""
 "Puis le cycle recommencera sur la base d'une nouvelle génération d'Hommes. B"
@@ -126,6 +172,7 @@ msgid ""
 "ne sont pas donnés."
 msgstr ""
 
+# b9eaf30043e743309ce1eba8d5b4f4b7
 #: ../../source/probleme-de-la-monnaie-dette.rst:84
 msgid ""
 "Tout ceci n'est possible que parce que H ignore un mécanisme qu'on ne lui "
@@ -134,6 +181,7 @@ msgid ""
 "peut se rendre compte du phénomène subtil que très tard dans sa propre vie."
 msgstr ""
 
+# efc7f3af5ccf4a25a8ce018f1ef00133
 #: ../../source/probleme-de-la-monnaie-dette.rst:90
 msgid ""
 "De plus et ce n'est pas le moindre des points essentiels du phénomène, il "
@@ -148,6 +196,7 @@ msgid ""
 " phénomène s'accélérerait."
 msgstr ""
 
+# 4c45469764dd4024ade2b7b94d97e86c
 #: ../../source/probleme-de-la-monnaie-dette.rst:100
 msgid ""
 "Ainsi il est tout de même édifiant que lorsqu'il s'agit de protéger des "
@@ -167,10 +216,12 @@ msgid ""
 "fausse logique, ce principe inacceptable, peut amener les hommes."
 msgstr ""
 
+# d9adb6c87c49434899cf179cc7651e49
 #: ../../source/probleme-de-la-monnaie-dette.rst:117
 msgid "Conclusion"
 msgstr ""
 
+# f753e1bede1b4779b9567c63adb9b564
 #: ../../source/probleme-de-la-monnaie-dette.rst:119
 msgid ""
 "Cette « solution » n'en est donc pas une. Elle est à bannir, car elle ne "
@@ -178,6 +229,7 @@ msgid ""
 "proposée."
 msgstr ""
 
+# 0a96293f34a34da2b4f2617a6e9b2c1e
 #: ../../source/probleme-de-la-monnaie-dette.rst:123
 msgid ""
 "De plus elle ne fait que profiter d'une confusion qui tend à généraliser la "
@@ -187,6 +239,7 @@ msgid ""
 "être nommées malgré tout par un même sigle comptable."
 msgstr ""
 
+# be635bdfcce244fcadf5a0b938f5ce10
 #: ../../source/probleme-de-la-monnaie-dette.rst:129
 msgid ""
 "En conclusion l'argent « dette » est un système instituant une asymétrie "
@@ -199,25 +252,7 @@ msgid ""
 "échanges)."
 msgstr ""
 
-#: ../../source/probleme-de-la-monnaie-dette.rst:43
-msgid ""
-"Les intérêts dus par H à B sont de 5 % / an. En (1) s'effectue l'émission "
-"d'une nouvelle « dette », constituant donc la « monnaie » par B qui crédite "
-"H. En (2) les 5 % sont remboursés, puis éventuellement dépensés en (3) et "
-"c'est ensuite la boucle sans fin."
-msgstr ""
-
-#: ../../source/probleme-de-la-monnaie-dette.rst:69
-msgid ""
-"À ce moment là (H) ne pourra plus rembourser lors du cycle suivant. Il fait "
-"faillite, défaut, ou une négociation a lieu. B est alors muni d'un stock "
-"énorme de monnaie, il bénéfice d'un pouvoir d'achat démultiplié sur une "
-"économie en déflation (car pendant tout ce temps l'économie aura subi la "
-"raréfaction progressive de la monnaie circulante). Il achète alors tout ce "
-"qu'il estime comme étant la base économique du prochain cycle au meilleur "
-"prix."
-msgstr ""
-
+# f327e95a2115477c90bf23d42053dace
 #: ../../source/probleme-de-la-monnaie-dette.rst:137
 msgid ""
 "Il convient ici de comprendre la distinction qu'il y a entre la création "
@@ -228,30 +263,3 @@ msgid ""
 "contracte envers un détenteur de monnaie pré-existante. C'est bien le "
 "premier point qui est ici dénoncé."
 msgstr ""
-
-#~ msgid ""
-#~ "Les intérêt dus par H à B sont de 5 % / an. En (1) s'effectue l'émission "
-#~ "d'une nouvelle « dette », consituant donc la « monnaie » par B qui crédite "
-#~ "H. En (2) les 5 % sont remboursés, puis éventuellement dépensés en (3) et "
-#~ "c'est ensuite la boucle sans fin."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "À ce moment là (H) ne pourra plus rembourser lors du cycle suivant. Il fait "
-#~ "faillite , défaut, ou une négociation a lieu. B est alors muni d'un stock "
-#~ "énorme de monnaie, il bénéfice d'un pouvoir d'achat démultiplié sur une "
-#~ "économie en déflation (car pendant tout ce temps l'économie aura subi la "
-#~ "raréfaction progressive de la monnaie circulante). Il achète alors tout ce "
-#~ "qu'il estime comme étant la base économique du prochain cycle au meilleur "
-#~ "prix."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Il convient ici de comprendre la distinction qu'il y a entre la création "
-#~ "monétaire par une « dette » envers un centre arbitraire, c'est à dire le "
-#~ "fait que certains acteurs spatialement ou temporellement situés aient le "
-#~ "privilège exclusif d'émettre la monnaie, créant une asymétrie par rapport "
-#~ "aux autres acteurs de l'économie présents et futurs et la dette que l'on "
-#~ "contracte envers un détenteur de monnaie pré-existante. C'est bien le "
-#~ "premier point qui est ici dénoncé."
-#~ msgstr ""

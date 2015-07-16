@@ -1,20 +1,28 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Stéphane Laborde
+# This file is distributed under the same license as the Théorie Relative de la Monnaie package.
 # 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Théorie Relative de la Monnaie 2.718\n"
+"Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-15 20:40+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2015-07-16 10:25+0200\n"
+"PO-Revision-Date: 2015-07-16 08:41+0000\n"
+"Last-Translator: Vincent Texier\n"
+"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# cca5a1967f2d4887a267091a2204da41
 #: ../../source/solutions.rst:3
 msgid "Solutions"
 msgstr ""
 
+# 6734a857e4db46dc89dc68dade104698
 #: ../../source/solutions.rst:5
 msgid ""
 "Une *symétrie spatio-temporelle* (l'application du principe de Relativité) "
@@ -25,20 +33,24 @@ msgid ""
 " la stabilité et un potentiel d'échange non nul."
 msgstr ""
 
+# 96a98a15987542ac908f1aa165fc428e
 #: ../../source/solutions.rst:12
 msgid "Est-ce seulement possible ? Oui !"
 msgstr ""
 
+# 409611ffa7604848a425be939e041e38
 #: ../../source/solutions.rst:14
 msgid ""
 "Comme nous allons le voir, non seulement les classes de solutions sont "
 "parfaitement déterminées mais on peut trouver une solution optimisée."
 msgstr ""
 
+# d4fcbbde08f04e779b886ce34047ca63
 #: ../../source/solutions.rst:19
 msgid "a) Classes de solutions"
 msgstr ""
 
+# 2fa9d965886044d08ed1192e85843a6e
 #: ../../source/solutions.rst:21
 msgid ""
 "Les solutions de création monétaire respectant les symétries spatio-"
@@ -47,6 +59,7 @@ msgid ""
 "et non liée à une valeur spécifique."
 msgstr ""
 
+# 1d3734855d41459ba7d72843c9953454
 #: ../../source/solutions.rst:26
 msgid ""
 "Les conditions de symétrie et donc de liberté, vont nous permettre d'établir"
@@ -54,10 +67,12 @@ msgid ""
 "des solutions du problème des trois producteurs."
 msgstr ""
 
+# f2b45abb3894473d96a7049e1df5e59d
 #: ../../source/solutions.rst:31
 msgid "Une symétrie spatiale"
 msgstr ""
 
+# f21b2237a0dc4132be0e7f9a965a38dc
 #: ../../source/solutions.rst:33
 msgid ""
 "Aucun référentiel / individu présent à l'instant « t » n'est privilégié "
@@ -65,6 +80,7 @@ msgid ""
 " :"
 msgstr ""
 
+# 3fc292c5e6404722ad788f046e5b3959
 #: ../../source/solutions.rst:40
 msgid ""
 "dM représente la variation de monnaie, et dx la dimension spatiale et donc "
@@ -72,6 +88,7 @@ msgid ""
 " d'un individu à un autre."
 msgstr ""
 
+# 76e5da1078b0466db3e5d76f10dc94e5
 #: ../../source/solutions.rst:44
 msgid ""
 "Nous faisons ici référence à une notation et un raisonnement de physicien, "
@@ -79,22 +96,26 @@ msgid ""
 "mathématique :"
 msgstr ""
 
+# b977e8e9b0c24d2198d9f29ded0e8c2e
 #: ../../source/solutions.rst:51
 msgid ""
 "Chacun pourra ainsi mieux comprendre la symétrie spatio-temporelle invoquée "
 "ici selon son référentiel de notation et de raisonnement habituel."
 msgstr ""
 
+# bd59c3e8431449c284904ab4e11a82f0
 #: ../../source/solutions.rst:55
 msgid "Une symétrie temporelle"
 msgstr ""
 
+# 6ab84e8c1a744db3b99414cbe2d58216
 #: ../../source/solutions.rst:57
 msgid ""
 "Toute génération est semblablement établie économiquement pendant toute sa "
 "durée de vie limitée « ev »."
 msgstr ""
 
+# 72c66074b26549c4bdc60136b06ff229
 #: ../../source/solutions.rst:60
 msgid ""
 "Aucune génération n'est à privilégier dans le temps. L'ensemble des "
@@ -104,10 +125,12 @@ msgid ""
 "continue :"
 msgstr ""
 
+# b31cb0e5573b4fd88773064cfb7d968c
 #: ../../source/solutions.rst:69
 msgid "Ou encore en approche discrète (dt = 1 unité de temps) :"
 msgstr ""
 
+# f83cd012f4ac40e29c19d9fb71106627
 #: ../../source/solutions.rst:76
 msgid ""
 "« c » représente donc le rapport relatif ou encore la variation relative de "
@@ -116,6 +139,7 @@ msgid ""
 "notion d'espérance de vie)."
 msgstr ""
 
+# 499bf85b5f504037a7b0373d1f34bce5
 #: ../../source/solutions.rst:81
 msgid ""
 "La quantité relative de monnaie créée doit donc être relativement constante "
@@ -125,6 +149,7 @@ msgid ""
 "de relativité dans tout l'espace-temps considéré."
 msgstr ""
 
+# 033a3b0f621b4941a3eb590f773f8b90
 #: ../../source/solutions.rst:87
 msgid ""
 "Ce qui fait que le problème des trois producteurs est résolu par une seule "
@@ -132,10 +157,12 @@ msgid ""
 "fonctions « puissance ») :"
 msgstr ""
 
+# 1077a0bdacd64ae09d47487bde08a836
 #: ../../source/solutions.rst:95
 msgid "Ce qui s'écrit aussi en puissance de (1+c) sous la forme :"
 msgstr ""
 
+# e53a986eb5244ed096a89e428926f8c4
 #: ../../source/solutions.rst:101
 msgid ""
 "Concrètement cela signifie donc que pour les solutions cohérentes avec les "
@@ -145,6 +172,19 @@ msgid ""
 "vaut :"
 msgstr ""
 
+# 02d1a5d73d34459794d2d30bc7c77cfa
+#: ../../source/solutions.rst:110
+msgid ""
+"Autrement dit : la croissance « c » de la masse monétaire « M » est "
+"relativement stable et répartie symétriquement entre l'ensemble des acteurs "
+"présents et à venir. Ces solutions à Dividende Universel assurent le respect"
+" du principe de relativité. La densité de la monnaie est assurée en tout "
+"temps et en tout point, évitant ainsi les extrêmes de sécheresses monétaires"
+" (sources de déflation), autant que les extrêmes de l'excès de monétisation "
+"(sources de bulles locales ou d'hyperinflation)."
+msgstr ""
+
+# 45a1f6785fc049499c305ae455a32202
 #: ../../source/solutions.rst:118
 msgid ""
 "La monnaie est créée de façon continue en cohérence avec le remplacement "
@@ -155,10 +195,25 @@ msgid ""
 "nommer « flux des individus »."
 msgstr ""
 
+# 3fec1bee2c7049c486ff032c337f8c0c
+#: ../../source/solutions.rst:125
+msgid ""
+"C'est donc bien le facteur d'espace-temps, et plus exactement la dimension "
+"temporelle, (générationnelle), liée à la durée limitée de la vie des "
+"individus, qui change la nature de la définition de la monnaie. Il s'agit "
+"donc d'éviter l'erreur fondamentale de considérer l'ensemble des acteurs en "
+"tant que quantité « permanente ». Comprendre qu'il s'agit d'un flux "
+"d'individus en continuel renouvellement, et que dans ce flux il n'y a aucune"
+" raison de privilégier aucun d'entre eux vis-à-vis de la création monétaire "
+"dans l'ensemble de l'espace-temps économique ainsi déterminé."
+msgstr ""
+
+# f62eb77cc6d14b6991a93d021aa41bff
 #: ../../source/solutions.rst:138
 msgid "*(Luc Fievet TRM 2.0)*"
 msgstr ""
 
+# c80c0d495a374842a14dd198b1b37f26
 #: ../../source/solutions.rst:140
 msgid ""
 "« c » est le facteur de Dividende Universel, il représente bien une part de "
@@ -169,6 +224,7 @@ msgid ""
 "préexistante une valeur stable."
 msgstr ""
 
+# 4d08b02bd8454ad58bff58fc3eaa5701
 #: ../../source/solutions.rst:147
 msgid ""
 "Il serait erroné de comprendre ici que la masse monétaire se devrait d'être "
@@ -179,16 +235,19 @@ msgid ""
 "limites et cohérentes d'encadrement."
 msgstr ""
 
+# 3b8f1c501878437f919439a4c972400f
 #: ../../source/solutions.rst:158
 msgid ""
 "*En vert sont marquées les naissances, en rouge les décès des individus,* "
 "*l'axe vertical étant le temps (Luc Fievet TRM 2.0)*"
 msgstr ""
 
+# 0164c4be68164573abcbd054f935cc87
 #: ../../source/solutions.rst:162
 msgid "b) Optimisation et espérance de vie"
 msgstr ""
 
+# 36655ce35cc448e4bd146d5dfd36dc7d
 #: ../../source/solutions.rst:164
 msgid ""
 "Il est possible de trouver une relation fondamentale entre le Dividende "
@@ -200,6 +259,7 @@ msgid ""
 " naître."
 msgstr ""
 
+# 24e5fa468ad14ec98aee22f11d7e4b65
 #: ../../source/solutions.rst:171
 msgid ""
 "Si l'on imagine maintenant qu'une unité de temps passe, on doit aussi voir "
@@ -209,6 +269,7 @@ msgid ""
 " en vie."
 msgstr ""
 
+# d44f7e3dada247bea2a5fe33021c5872
 #: ../../source/solutions.rst:180
 msgid ""
 "*En vert les générations vivantes à « t ».* *On doit voir et comprendre sur "
@@ -216,6 +277,7 @@ msgid ""
 "symétrie « ev/2 »*"
 msgstr ""
 
+# 6791a4af1a3d41f999ad67f390242784
 #: ../../source/solutions.rst:185
 msgid ""
 "Pour se donner une analogie, cela peut faire penser à une fontaine qui "
@@ -227,36 +289,56 @@ msgid ""
 "qui lui semble immuable."
 msgstr ""
 
+# 2e732fe59ffb43b69a226e96ae9dbcb5
 #: ../../source/solutions.rst:196
 msgid "*Fontaine (wikimedia)*"
 msgstr ""
 
+# c14161c52fd940478e427183462c3311
+#: ../../source/solutions.rst:198
+msgid ""
+"Une fois cette observation comprise et intégrée avec les résultats "
+"précédents, nous pouvons donc poser comme relation fondamentale que la "
+"création de la masse monétaire durant toute l'espérance de vie passée ne "
+"doit être représentée à « t » vis-à-vis de la masse monétaire existante que "
+"par la petite fraction des individus de cette génération presque totalement "
+"disparue mais encore présente dans la hauteur temporelle en proportion de "
+"1/ev."
+msgstr ""
+
+# 13182f0976ef4775b0a6eaa80334b611
 #: ../../source/solutions.rst:205
 msgid "Il nous faut donc établir que :"
 msgstr ""
 
+# 82c73a2a6fe3475d9994e18227600a9d
 #: ../../source/solutions.rst:211
 msgid "Ce qui implique :"
 msgstr ""
 
+# 32be2887acf04130bbc2754f74b2336e
 #: ../../source/solutions.rst:217
 msgid "Ce qui nous donne pour c :"
 msgstr ""
 
+# f1bf86881106423bac74239f91c3d39b
 #: ../../source/solutions.rst:223
 msgid ""
 "« c » étant petit on démontre mathématiquement (développement limité) que "
 "cela peut aussi s'écrire :"
 msgstr ""
 
+# d0530d97402e4e05932592f4065f7fbe
 #: ../../source/solutions.rst:230
 msgid "Ou plus simplement :"
 msgstr ""
 
+# 43bee58cb2284f9698e4bc7c50cb0aef
 #: ../../source/solutions.rst:236
 msgid "Ces trois dernières expressions (E1), (E2) et (E3) étant équivalentes."
 msgstr ""
 
+# 2d792632f397445eb043ce0da2395080
 #: ../../source/solutions.rst:238
 msgid ""
 "Comme nous l'avons remarqué précédemment on ne peut se satisfaire "
@@ -267,6 +349,7 @@ msgid ""
 "accord avec la symétrie centrale :"
 msgstr ""
 
+# 02db1bda54ef43848daab1f27ac1db44
 #: ../../source/solutions.rst:249
 msgid ""
 "À noter que le choix de l'unité de temps pour le calcul n'est pas neutre, "
@@ -278,6 +361,7 @@ msgid ""
 "annuelles, mais aussi des congés."
 msgstr ""
 
+# 4f075a73c74745dda3eabe3190a87449
 #: ../../source/solutions.rst:263
 msgid ""
 "*La génération marquée ici en bleu* *ne représente plus que 1/ev* *de "
@@ -286,6 +370,7 @@ msgid ""
 "monétaire en vigueur est M(t+ev)*"
 msgstr ""
 
+# 2fe809f2bc484be6b4b6456cba72f33c
 #: ../../source/solutions.rst:281
 msgid ""
 "On pourra remarquer que la monnaie étant quantitative sous sa forme utile, "
@@ -300,22 +385,26 @@ msgid ""
 "arbitre perpétuellement entre valeur quantitative et valeur relative."
 msgstr ""
 
+# 63be61827ed94c63a3fe1bfabe85b939
 #: ../../source/solutions.rst:296
 msgid ""
 "*Au bout de 80 unités de temps,* *la génération précédente représentée par 1"
 " à t = 0* *ne représentera plus que 1/80ème de la monnaie existante*"
 msgstr ""
 
+# c4b3a1f9a4f94b428712800558630ca7
 #: ../../source/solutions.rst:301
 msgid "Conclusion"
 msgstr ""
 
+# 97f87184c9274630be93ed5eefe148d1
 #: ../../source/solutions.rst:303
 msgid ""
 "On peut maintenant conclure de façon complète que le résultat fondamental de"
 " la TRM est :"
 msgstr ""
 
+# 2039a22648ec41809798d843ce8f8cf7
 #: ../../source/solutions.rst:306
 msgid ""
 "**Les systèmes monétaires compatibles avec le principe de relativité et "
@@ -325,10 +414,12 @@ msgid ""
 " sous la forme :**"
 msgstr ""
 
+# 9a999dcfbcbd498f9c78e36e8be0662a
 #: ../../source/solutions.rst:315
 msgid "La contraposée est donc aussi un résultat fondamental de la TRM :"
 msgstr ""
 
+# 6d4c965ef18f492cb27e7e4e5386dbce
 #: ../../source/solutions.rst:317
 msgid ""
 "**« Les systèmes monétaires qui n'intègrent pas un dividende universel ne "
@@ -336,6 +427,7 @@ msgid ""
 "libertés économiques »**"
 msgstr ""
 
+# 4b203093dbb3470ba218a798fcf7ca94
 #: ../../source/solutions.rst:320
 msgid ""
 "On pourrait aussi rajouter pour préciser mieux encore qu'un dividende "
@@ -345,6 +437,7 @@ msgid ""
 "serait pas non plus compatible avec la TRM."
 msgstr ""
 
+# 7d395b9d8a354496b27f3875408ce7f9
 #: ../../source/solutions.rst:326
 msgid ""
 "Ce dernier point est fondamental car la tentation est grande pour les "
@@ -354,6 +447,7 @@ msgid ""
 "des insurrections à terme."
 msgstr ""
 
+# 7d98aff9224441769452724fa141bde2
 #: ../../source/solutions.rst:332
 msgid ""
 "On pourra retenir que Le Dividende Universel optimisé est quasi inversement "
@@ -361,6 +455,7 @@ msgid ""
 "étant une fonction qui varie très peu)."
 msgstr ""
 
+# 297e9deb046c4f33908bc175dd172832
 #: ../../source/solutions.rst:340
 msgid ""
 "*Valeurs acceptables (en bleu) du % du dividende universel* *en fonction de "
@@ -369,71 +464,7 @@ msgid ""
 "dividende trop élevé* *aura tendance à favoriser les entrants*"
 msgstr ""
 
+# 588079ca26ca4b078ea54cbe204c61eb
 #: ../../source/solutions.rst:347
 msgid "Ces résultats concluent notre développement théorique principal."
 msgstr ""
-
-#: ../../source/solutions.rst:110
-msgid ""
-"Autrement dit : la croissance « c » de la masse monétaire « M » est "
-"relativement stable et répartie symétriquement entre l'ensemble des acteurs "
-"présents et à venir. Ces solutions à Dividende Universel assurent le respect"
-" du principe de relativité. La densité de la monnaie est assurée en tout "
-"temps et en tout point, évitant ainsi les extrêmes de sécheresses monétaires"
-" (sources de déflation), autant que les extrêmes de l'excès de monétisation "
-"(sources de bulles locales ou d'hyperinflation)."
-msgstr ""
-
-#: ../../source/solutions.rst:125
-msgid ""
-"C'est donc bien le facteur d'espace-temps, et plus exactement la dimension "
-"temporelle, (générationnelle), liée à la durée limitée de la vie des "
-"individus, qui change la nature de la définition de la monnaie. Il s'agit "
-"donc d'éviter l'erreur fondamentale de considérer l'ensemble des acteurs en "
-"tant que quantité « permanente ». Comprendre qu'il s'agit d'un flux "
-"d'individus en continuel renouvellement, et que dans ce flux il n'y a aucune"
-" raison de privilégier aucun d'entre eux vis-à-vis de la création monétaire "
-"dans l'ensemble de l'espace-temps économique ainsi déterminé."
-msgstr ""
-
-#: ../../source/solutions.rst:198
-msgid ""
-"Une fois cette observation comprise et intégrée avec les résultats "
-"précédents, nous pouvons donc poser comme relation fondamentale que la "
-"création de la masse monétaire durant toute l'espérance de vie passée ne "
-"doit être représentée à « t » vis-à-vis de la masse monétaire existante que "
-"par la petite fraction des individus de cette génération presque totalement "
-"disparue mais encore présente dans la hauteur temporelle en proportion de "
-"1/ev."
-msgstr ""
-
-#~ msgid ""
-#~ "Autrement dit : la croissance « c » de la masse monétaire « M » est "
-#~ "relativement stable et répartie symétriquement entre l'ensemble des acteurs "
-#~ "présents et à venir. Ces solutions à Dividende Universel assurent le respect"
-#~ " du principe de relativité. La densité de la monnaie est assurée en tout "
-#~ "temps et en tout point, évitant ainsi les extrêmes de sécheresses monétaires"
-#~ " (sources de déflation), autant que les extrêmes de d'excès de monétisation "
-#~ "(sources de bulles locales ou d'hyperinflation)."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "C'est donc bien le facteur d'espace-temps, et plus exactement la dimension "
-#~ "temporelle, (générationnelle), liée à la durée limitée de la vie des "
-#~ "individus, qui change la nature de la définition de la monnaie. Il s'agit "
-#~ "donc d'éviter l'erreur fondamentale de considérer l'ensemble des acteurs en "
-#~ "tant que quantité « permanente ». Comprendre qu'il s'agit d'un flux "
-#~ "d'individus en continuel renouvellement, et que dans ce flux il n'y a aucune"
-#~ " raison de privilégier aucun d'entre eux vis à vis de la création monétaire "
-#~ "dans l'ensemble de l'espace-temps économique ainsi déterminé."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Une fois cette observation comprise et intégrée avec les résultats "
-#~ "précédents, nous pouvons donc poser comme relation fondamentale que la "
-#~ "création de la masse monétaire durant toute l'espérance de vie passée ne "
-#~ "doit être représentée à « t » vis à vis de la masse monétaire existante que "
-#~ "par la petite fraction des individus de cette génération presque totalement "
-#~ "disparue mais encore présente dans la hauteur temporelle en proportion de "
-#~ "1/ev."
-#~ msgstr ""

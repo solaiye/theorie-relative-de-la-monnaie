@@ -1,39 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Stéphane Laborde
+# This file is distributed under the same license as the Théorie Relative de la Monnaie package.
 # 
+# Translators:
+# Moul <ma.azimi@laposte.net>, 2015
+# Vincent Texier, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Théorie Relative de la Monnaie 2.718\n"
+"Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-15 20:40+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2015-07-16 10:25+0200\n"
+"PO-Revision-Date: 2015-07-16 08:53+0000\n"
+"Last-Translator: Vincent Texier\n"
+"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# 773a84ecd899439494c7d88ff8a3aab0
 #: ../../source/licence-et-versionning.rst:3
 msgid "Licence et Versionning"
-msgstr ""
+msgstr "License and Versionning"
 
+# 0ba47cd531d74d64831312fce7e4e13e
 #: ../../source/licence-et-versionning.rst:5
 msgid ""
 "La Théorie Relative de la Monnaie (« TRM ») est éditée comme un logiciel "
 "sous la licence libre GPL v3, parce que considérée comme base possible et "
 "modifiable d'un système logiciel de monnaie libre. Toute conceptualisation "
 "théorique peut-être considérée comme un code."
-msgstr ""
+msgstr "Relative Money Theorie (\"RMT\") is edited as a software under free license GPL v3, because considered as a possible and modifiable base of a software system of free money. All theoretical conception can be considered as a source code."
 
+# cb0967f65dfe41b5a46c270e19dd081c
 #: ../../source/licence-et-versionning.rst:10
 msgid ""
 "Vous êtes libres de copier, distribuer, citer, modifier, vendre ce texte, "
 "ainsi que de créer des versions alternatives. Vous devez signaler cette même"
 " liberté pour les parties de la TRM que vous aurez reprises et publiées."
-msgstr ""
+msgstr "You are free to copy, distribute, quote, modify, sell this text, as well as create alternatives versions. You should report that liberty for RMT's parts you recovery and published."
 
+# d5a2293e839746908aa8a52a6690f9c1
+#: ../../source/licence-et-versionning.rst:14
+msgid ""
+"Vous avez une information complète sur la GPL en Français sur Wikipédia à "
+"l'adresse"
+msgstr "You could find more information about GNU GPL license on Wikipedia to the address"
+
+# 2e1b4fc2ffd743b9a99c1b4768fb90ef
 #: ../../source/licence-et-versionning.rst:17
 msgid "`http://fr.wikipedia.org/wiki/Licence_publique_générale_GNU`"
-msgstr ""
+msgstr "https://en.wikipedia.org/wiki/GNU_General_Public_License"
 
+# 19d3a10926c94ddba7eb3607506f7ab2
 #: ../../source/licence-et-versionning.rst:19
 msgid ""
 "Cette version est la 2.718. J'ai voulu proposer une édition sous cette forme"
@@ -41,25 +61,16 @@ msgid ""
 "collaboratif. Vous pouvez contribuer aux futures versions, en proposant des "
 "mises à jour des données présentées ici, des ajouts de points "
 "complémentaires, des graphiques ou toute autre sorte de contribution sur"
-msgstr ""
+msgstr "This version is the 2.718. I wanted suggest an edition under that form to permit RMT improvements and completion, including through a collaborative process. You can contribute to futures versions by suggesting updates of present data, additions of complementary points, graphics or other kinds of contribution on"
 
+# fa4b0579aca34cfebdc725c0975ade3b
 #: ../../source/licence-et-versionning.rst:25
 msgid "http://wiki.creationmonetaire.info"
-msgstr ""
+msgstr "http://wiki.creationmonetaire.info"
 
+# 29f4f2fd79e8408c90b99fad31897418
 #: ../../source/licence-et-versionning.rst:27
 msgid ""
 "Si vous souhaitez faire un don à l'auteur, ou en faire l'achat numérique, "
 "papier ou autre, vous aurez  ces possibilités sur ce même site."
-msgstr ""
-
-#: ../../source/licence-et-versionning.rst:14
-msgid ""
-"Vous avez une information complète sur la GPL en Français sur Wikipédia à "
-"l'adresse"
-msgstr ""
-
-#~ msgid ""
-#~ "Vous avez une information complète sur la GPL en Français sur Wikipedia à "
-#~ "l'adresse"
-#~ msgstr ""
+msgstr "If you wish donate to author, or do numerical purchase, paper or other, you will get those possibilities on the same web site."

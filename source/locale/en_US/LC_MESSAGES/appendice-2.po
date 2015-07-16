@@ -1,135 +1,182 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Stéphane Laborde
+# This file is distributed under the same license as the Théorie Relative de la Monnaie package.
 # 
+# Translators:
+# Moul <ma.azimi@laposte.net>, 2015
+# Vincent Texier, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Théorie Relative de la Monnaie 2.718\n"
+"Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-15 20:40+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2015-07-16 10:25+0200\n"
+"PO-Revision-Date: 2015-07-16 08:49+0000\n"
+"Last-Translator: Vincent Texier\n"
+"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# 24994e9e6e164dceaf60ce46b4c53cd1
 #: ../../source/appendice-2.rst:3
 msgid "Appendice 2 : Un résumé mathématique de la TRM"
-msgstr ""
+msgstr "Appendix 2: A mathematical summary of the RMT"
 
+# c89e0251f2c044e29cd950a27edd957a
 #: ../../source/appendice-2.rst:10
 msgid "Les 4 libertés économiques"
-msgstr ""
+msgstr "The 4 economic freedoms"
 
+# a3d07b34a6f947aa8ae199e43982a6c9
 #: ../../source/appendice-2.rst:12
 msgid ""
 "Pour la TRM la définition de la liberté est \"ce qu'il est possible de "
 "réaliser sans nuire à soi-même et à autrui\". Il ne s'agit donc pas de "
 "possibilités non-réfléchies."
-msgstr ""
+msgstr "According to RMT the definition of freedom is \"what can be achieved without harming oneself and others.\" It is not therefore the result of creative thinking but can be demonstrated publically."
 
+# bb1728c5a7ee4efbab648742c93e5f29
 #: ../../source/appendice-2.rst:15
 msgid ""
 "Les TRM définit 4 libertés économiques qui forment le fondement général de "
 "son approche et qui sont :"
-msgstr ""
+msgstr "RMT define four economic freedoms, which form the basis of his general approach and are:"
 
+# 9ed317e79a434652a4208e0c044dca90
 #: ../../source/appendice-2.rst:17
 msgid "La liberté de choix de son système monétaire"
-msgstr ""
+msgstr "Freedom of choice of currencies and accounting methodologies"
 
+# 829dabb1db38483fa6c5dfa4fce79f46
 #: ../../source/appendice-2.rst:18
 msgid "La liberté d'utiliser les ressources"
-msgstr ""
+msgstr "Freedom to access resources"
 
+# 2b01ff2798b2489ebd608e0a7d1e0c00
 #: ../../source/appendice-2.rst:19
 msgid "La liberté d'estimation et de production de toute valeur économique"
-msgstr ""
+msgstr "Freedom to evaluate and produce any economic value"
 
+# 67d313b7f8a84a7b8dbfd8b7167b7f92
 #: ../../source/appendice-2.rst:20
 msgid "La liberté d'échanger, comptabiliser afficher ses prix \"dans la monnaie\""
-msgstr ""
+msgstr "Freedom to exchange and determine prices"
 
+# 09bc560888d84321bf5df4b3aa2850c9
 #: ../../source/appendice-2.rst:22
 msgid ""
 "La liberté 3 établit notamment le principe de relativité comme essence de "
 "son approche."
-msgstr ""
+msgstr "Freedom 3 including establishes the principle of relativity as the essence of its approach."
 
+# 2c75e8edc59b40c3876ffb47fcc61627
 #: ../../source/appendice-2.rst:25
 msgid "Principe de relativité économique"
-msgstr ""
+msgstr "Principle of economic relativity"
 
+# a74ba30f4d2443e796543f5301d70df8
 #: ../../source/appendice-2.rst:27
 msgid ""
 "La TRM se fonde sur le principe de relativité économique, qui établit que "
 "tout être humain définit un référentiel légitime pour estimer et produire "
 "tout type de valeur économique, connue ou inconnue par autrui."
-msgstr ""
+msgstr "RMT is based on the principle of economic relativity, which states that every human being defines a legitimate frame of reference to estimate and produce any type of economic value, known or unknown by others."
 
+# dac690e2509142a6a5f67612564aafaa
+#: ../../source/appendice-2.rst:32
+msgid ""
+"Autrement dit, il n'y a pas de valeur économique absolue, pas d'être humain "
+"qui soit légitimement en mesure de définir ce qui est valeur ou non-valeur "
+"pour les autres êtres humains, ni dans l'espace (entre êtres humains "
+"présents), ni dans le temps (entre êtres humains distants dans le temps)."
+msgstr "In other words there is no absolute economic value, no human being who is legitimately able to define what is value or non-value for other human beings, nor in space (between present human beings) neither in time (between remote people over time)."
+
+# b5dedbb34e16459495894fcf29bdcdf5
 #: ../../source/appendice-2.rst:39
 msgid "Espace-Temps"
-msgstr ""
+msgstr "Space-Time"
 
+# 2352abe5c1834b84a3d568a543216d84
 #: ../../source/appendice-2.rst:41
 msgid ""
 "L'espace-temps économique est caractérisé essentiellement par les hommes qui"
 " font partie d'une zone économique donnée."
-msgstr ""
+msgstr "Economic space-time is characterized mainly by humans who are part of a particular economic zone."
 
+# 2a6c957a5ecf485897eaec3cbc3d9fc4
 #: ../../source/appendice-2.rst:44
 msgid ""
 "L'expérience de pensée suivante permet de comprendre ce point : si on enlève"
 " d'une zone économique donnée une valeur économique particulière, il restera"
 " toujours une zone économique. Si par contre on y enlève les hommes, alors "
 "il ne reste ni observateur ni acteur de cette zone économique."
-msgstr ""
+msgstr "The following thought experiment helps to understand this point: if we remove from a given economic zone exceptional specific economic value, there will always be an economic zone. Conversely, if we remove humans, then there remains nor observer neither actor in this economic zone."
 
+# c5efc303c2b4475daab486c4139fd598
 #: ../../source/appendice-2.rst:49
 msgid ""
 "C'est donc l'homme qui est le seul fondement invariant de toute économie."
-msgstr ""
+msgstr "This is human who is the only invariant foundation of any economy."
 
+# e9663f3ce91d4b83bd19e3e29ef65682
 #: ../../source/appendice-2.rst:51
 msgid ""
 "Mais les hommes ne sont par ailleurs pas absolus non-plus, puisqu'ils sont "
 "de durée de vie moyenne limitée \"ev\" (espérance de vie moyenne), et se "
 "renouvellent dans le temps, les nouveaux nés remplaçant les morts."
-msgstr ""
+msgstr "However, humans are not absolute also, since they have an limited average lifetime \"ev\" (average life span), and renew in time, new-borns replacing deeds."
 
+# a09c554ef6e7413494f436946cda9254
+#: ../../source/appendice-2.rst:55
+msgid ""
+"Cette dimension est une donnée finie de l'espace-temps économique étudié par"
+" la TRM où, pour tout temps t considéré, l'ensemble des hommes est renouvelé"
+" à la date t + ev."
+msgstr "This dimension is a finite data of economic space-time considered by the RMT where, for all considered time t, all humans are renewed at time t+ev."
+
+# 03b9ba60f14e4285a54a8cd630cf6ea8
 #: ../../source/appendice-2.rst:58
 msgid ""
 "Nous appelons par la suite \"espace\" l'ensemble des individus pour une date"
 " donnée \"t\", et \"temps\" le phénomène de succession du remplacement de "
 "ces individus dans le temps. L'espace-temps doit donc ici être compris "
 "relativement à cette définition."
-msgstr ""
+msgstr "We call later \"space\" the whole individuals for a specific date \"t\", and \"time\" the phenomenon of replacement succession of these individuals over time. The space-time must here be understood in relation to this definition."
 
+# c64a35598e8e4d3cac4336b332555c1c
 #: ../../source/appendice-2.rst:63
 msgid "Monnaie Libre"
-msgstr ""
+msgstr "Free Money"
 
+# 7d7285c6aca84cc19390a005a48378ac
 #: ../../source/appendice-2.rst:65
 msgid ""
 "Une monnaie est une valeur économique de référence qui permet d'établir une "
 "métrique commune, pendant un temps donné et pour une zone monétaire donnée, "
 "permettant une mesure dans la même unité des valeurs et des échanges, "
 "permettant de faciliter la fluidité de l'économie entre acteurs distincts."
-msgstr ""
+msgstr "A money is a reference economic value that establishes a common metric for a given time and a given monetary area, allowing to measure in the same unit some values and trades, and to facilitate the flow of the economy between different actors."
 
+# 39affc15864c49f1abcb768763ea163e
 #: ../../source/appendice-2.rst:70
 msgid ""
 "Précisons que quand bien même les individus ne s'accordent pas sur les "
 "valeurs économiques ni dans l'espace, ni dans le temps, ils utilisent tout "
 "de même une même unité de valorisation individuelle, en rapport avec une "
 "valeur de référence, qui est nommée \"la monnaie\"."
-msgstr ""
+msgstr "Note that even though people do not agree on economic values neither in space nor in time, they still use the same unit of individual valuation, in relation to a reference value, which is named \"money \"."
 
+# ebc720ccbb004767adccb34329855a0f
 #: ../../source/appendice-2.rst:75
 msgid ""
 "Une zone monétaire étant définie par l'ensemble dépendant du temps E(t) "
 "composé des individus I(x,t) qui ont adopté cette même monnaie (une même "
 "zone monétaire peut aussi comporter plusieurs monnaies)."
-msgstr ""
+msgstr "A monetary zone is defined by the set depending on time E(t) consisting of individuals I(x,t) that have adopted this same money (a monetary area may also include several moneys)."
 
+# b032855d893046be884dd9efa9c302fe
 #: ../../source/appendice-2.rst:79
 msgid ""
 "Une monnaie est alors dite \"libre\" s'il s'agit d'une valeur de référence "
@@ -139,23 +186,26 @@ msgid ""
 "être de même forme pour tous) des uns sur les autres, essentiellement pour "
 "ce qui concerne la reconnaissance et la production de toute valeur "
 "économique."
-msgstr ""
+msgstr "A money is then said to be \"free\" if it is a valid reference value for a metric that respects the principle of relativity of all economic value, as well as human space-time defined above, not establishing any arbitrary control (meaning the laws to be of the same form for all) of each other, mainly regarding the recognition and production of any economic value."
 
+# 3a3cfea417c149d192268082a3476c3c
 #: ../../source/appendice-2.rst:87
 msgid ""
 "Pour être qualifiée de libre une monnaie ne peut donc pas reposer sur un "
 "arbitraire de décision quant à ce qui est valeur ou non-valeur, ni se "
 "produire préférentiellement pour certains hommes, dans l'espace ou bien dans"
 " le temps."
-msgstr ""
+msgstr "To be qualified as free a money cannot be based on an arbitrary decision about what is value or non-value, nor preferentially occurs for some human in space or in time."
 
+# 5cf1bd85ae184145802f4d02d045d7fd
 #: ../../source/appendice-2.rst:92
 msgid ""
 "Elle doit être l'unité comptable parce qu'elle est la référence de la "
 "métrique (tout comme en physique relativiste les vitesses sont exprimées en "
 "proportion de la vitesse de la lumière)."
-msgstr ""
+msgstr "It must be the accounting unit because it is the reference of the metric (as in relativistic physics, speeds are in proportion to the speed of light)."
 
+# cb9eebffc3414fcbbfd36288878624ef
 #: ../../source/appendice-2.rst:96
 msgid ""
 "Elle doit être une valeur économique tout de même (tout comme la lumière est"
@@ -163,38 +213,43 @@ msgid ""
 "Mais devant être indépendante des autres valeurs, son coût de production "
 "doit être minimal (la masse de la lumière est nulle, c'est justement ce qui "
 "lui donne son invariance)."
-msgstr ""
+msgstr "It must be an economic value anyway (just as light is a physical object), because we must have an economic metric. But to be independent from other values, its production cost should be minimal (the mass of the light is zero, that is precisely what gives it its invariance)."
 
+# 02f2927a37c747f78fbb34859363cf25
 #: ../../source/appendice-2.rst:103
 msgid ""
 "Il faut donc concilier invariance et finitude pour la valeur, ainsi que coût"
 " de production minimal. L'homme étant le seul fondement invariant, il ne "
 "peut s'agir que d'une valeur purement numérique co-produite par les hommes, "
 "dont la valeur est exprimée relativement à sa propre somme."
-msgstr ""
+msgstr "Therefore it should reconcile invariance and finiteness for the value, and minimal production. Human beings are the only invariant basis, it can be only a purely numerical value co-produced by humans, whose value is expressed relatively to its own sum."
 
+# 8e84418d8c9f4994b1ed4940576b51e9
 #: ../../source/appendice-2.rst:108
 msgid ""
 "Nous appelons :math:`\\left( \\frac{M}{N} \\right) (t)` la monnaie M moyenne"
 " pour les N hommes à durée de vie limitée partie prenante de cette économie "
 "à l'instant \"t\"."
-msgstr ""
+msgstr "We call :math:`\\left( \\frac{M}{N} \\right) (t)` the money M average for the N life-limited humans taking part in this economy at time \"t\"."
 
+# 226397725e2f4a3c9f65185785bb7d7a
 #: ../../source/appendice-2.rst:111
 msgid ""
 "Les hommes devant tous être co-producteurs de cette même valeur économique, "
 "alors qu'ils se remplacent dans le temps, nous devons donc définir une "
 "production de notre valeur de référence M, de même forme pour les individus,"
 " dans l'espace et dans le temps."
-msgstr ""
+msgstr "Humans must all be co-producers of this same economic value, though they replace in time, so we must define a production of our reference value M, with same form for individuals, in space and in time."
 
+# 947a503f6380431e8a6cff6e79c25804
 #: ../../source/appendice-2.rst:116
 msgid ""
 "Nous établissons ainsi une métrique économique dont la valeur de référence "
 "est produite de façon invariante par changement de référentiel (changement "
 "d'individu, quelle que soit l'époque à laquelle il naît, vit et meurt)."
-msgstr ""
+msgstr "We then establish an economic metric whose reference value is generated in an invariant way by a frame of reference change (change of individual, regardless of the time in which he is born, lives and dies)."
 
+# 7e64614a173d4cbbaea26c48fcd59202
 #: ../../source/appendice-2.rst:121
 msgid ""
 "Pour chacun des N individus I(x,t) de la zone monétaire ainsi établie, et "
@@ -202,44 +257,50 @@ msgid ""
 "instantanée (différentielle) d'une monnaie libre, ne peut donc être que la "
 "même dans l'espace (symétrie spatiale), ainsi que la même dans le temps "
 "(symétrie temporelle)."
-msgstr ""
+msgstr "For each of N individuals I(x, t) of the currency area so established, under quasi-stability condition (especially of N), the instant relative production (differential) of a free currency, can only be the same in space (spatial symmetry) as well as the same in time (temporal symmetry)."
 
+# de7761c20b9c4162848fd33196de0319
 #: ../../source/appendice-2.rst:127
 msgid ""
 "Autrement dit, il ne peut donc y avoir de production de monnaie libre qui ne"
 " soit la même pour tout individu participant de cette monnaie pour un "
 "instant \"t\" donné, et cette production relative est indépendante du temps."
-msgstr ""
+msgstr "In other words, it can not be production of free money that is not the same for every individual participant in this money for a given instant \"t\", and this relative production is independent from time."
 
+# 0e3e5d75e02044938125f411c42e531b
 #: ../../source/appendice-2.rst:136
 msgid ""
 "Pour la suite et par soucis de concision nous omettrons la différentielle de"
 " temps \"dt\", d'autant que dt = 1 lors de la transformation en calculs "
 "discrets."
-msgstr ""
+msgstr "For the rest, and for conciseness reasons, we will omit the differential time \"dt\", especially as dt = 1 when transforming into discrete calculations."
 
+# 527604078564493c88a3e8b3ebb7ddfd
 #: ../../source/appendice-2.rst:139
 msgid ""
 "On en déduit, en nous plaçant sous hypothèse de continuité et dérivabilité, "
 "(voir à ce sujet le chapitre \"Variations de N et calcul du DU\") :"
-msgstr ""
+msgstr "We deduce, placing us under assumption of continuity and differentiability, (see the chapter \"Variations of N and calculation of UD\"):"
 
+# 2060732c6fd04f2c8d866ef4dafa7c5b
 #: ../../source/appendice-2.rst:147
 msgid ""
 "Par ailleurs les individus ayant une durée de vie limitée \"ev\", la "
 "production instantanée (dérivée) étant établie comme invariante, la somme "
 "relative individuelle produite pendant une durée de vie ne doit pas non plus"
 " être dépendante du temps."
-msgstr ""
+msgstr "Moreover individuals with limited life \"ev\", instantaneous production (derived) being established as invariant, individual relative sum produced during a life should not be either dependent on time."
 
+# 2813a3825e664de08008a442ae2a198c
 #: ../../source/appendice-2.rst:152
 msgid ""
 "La monnaie de ceux qui s'en vont doit laisser place à la monnaie de ceux qui"
 " vont les remplacer au bout de cette durée. Ce qui est équivalent à dire que"
 " :math:`\\left( \\frac{ev}{2} \\right)` années plus tard, les vivants "
 "doivent avoir co-produit leur propre pleine part relative de monnaie :"
-msgstr ""
+msgstr "The currency of those who go must give way to the currency of those who will replace them at the end of that period. Which is equivalent to saying that :math:`\\left( \\frac{ev}{2} \\right)` years later, the living must have co-produced their own relative full share of currency:"
 
+# 949342be2f744062b548b6b3da2baa30
 #: ../../source/appendice-2.rst:163
 msgid ""
 "Ce principe symétrique entre ceux qui s'en vont et ceux qui arrivent établit"
@@ -247,8 +308,9 @@ msgid ""
 "\\right)` où ceux qui arrivent à ce point représentent une proportion de "
 ":math:`\\frac{1 \\, an}{\\left(\\frac{ev}{2}\\right)}` de ceux qui s'en "
 "vont, pour une autre expression voir aussi :eq:`eq14` :"
-msgstr ""
+msgstr "This symmetrical principle between those who are leaving and those arriving establishes a convergence centre of symmetry at the point :math:`\\left( \\frac{ev}{2} \\right)`, where those who arrive at this point represent a proportion of :math:`\\frac{1 \\, an}{\\left(\\frac{ev}{2}\\right)}` of those who go to see another expression, see also :eq:`eq14`:"
 
+# 533499d9d39c4ae99d9fd9ee7459b56f
 #: ../../source/appendice-2.rst:174
 msgid ""
 "D'où il s'ensuit de :eq:`eq1` et :eq:`eq4` que nous obtenons un taux "
@@ -257,106 +319,140 @@ msgid ""
 " près, au point :math:`\\frac{1 \\, an}{\\left(\\frac{ev}{2}\\right)}` de sa"
 " participation à la monnaie libre ainsi établie, quelle que soit l'époque "
 "considérée."
-msgstr ""
+msgstr "Hence it comes from :eq:`eq1` and :eq:`eq4` that we obtain a symmetric rate where the average :math:`\\left( \\frac{M}{N} \\right)` is reached for any individual, at approximately :math:`\\frac{1 \\, an}{\\left(\\frac{ev}{2}\\right)}`, at point :math:`\\frac{1 \\, an}{\\left(\\frac{ev}{2}\\right)}` of his participation in the free currency so established, whatever the considered period of time."
 
+# 4e75638122b34ef595f46fb7f77b03e7
 #: ../../source/appendice-2.rst:185
 msgid ""
 "Les taux \"c\" inférieurs à :math:`c_{sym}` établiront une métrique "
 "favorisant les individus plus âgés, tandis que les taux supérieurs "
 "favoriseront les individus les plus jeunes."
-msgstr ""
+msgstr "The rates \"c\" below :math:`c_{sym}` establish a metric favouring older individuals, while higher rates will reward younger people."
 
+# 5e78c764a44a4e5783d2d2ac2ab641cd
 #: ../../source/appendice-2.rst:189
 msgid ""
 "Ce taux de convergence a une limite basse :math:`c_{min}` obtenue pour une "
 "convergence atteinte en fin d'espérance de vie moyenne :"
-msgstr ""
+msgstr "This convergence rate has a low limit :math:`c_{min}` obtained for a convergence reached in the end of average life expectancy:"
 
+# 4083b5d66aba467f8a443fdb37be06ed
 #: ../../source/appendice-2.rst:197
 msgid ""
 "Application numérique pour la France ayant une espérance de vie de 80 ans en"
 " 2014 :"
-msgstr ""
+msgstr "Numerical application for France with a life span “ev” of 80 years in 2014:"
 
+# d015e94eb8f44185bba7c00e5a2f8431
 #: ../../source/appendice-2.rst:205
 msgid "Quantitatif"
-msgstr ""
+msgstr "Quantitative"
 
+# 048f01d02e554fe6b720bd909de61077
 #: ../../source/appendice-2.rst:207
 msgid ""
 "Nous appelons Dividende Universel la quantité différentielle invariante à la"
 " date \"t\", que nous pouvons décrire indifféremment sous forme continue ou "
 "discrète (qui sera utile pour établir des approximations d'une mise en "
 "pratique) :"
-msgstr ""
+msgstr "We call Universal Dividend differential invariant quantity at the time \"t\", which we can describe either as continuous or discrete form (which will be useful to establish approximations of practical implementation):"
 
+# 31ff9dd85c7a48e09344ed16b0a52a64
 #: ../../source/appendice-2.rst:215
 msgid "Ou bien :"
-msgstr ""
+msgstr "Or:"
 
+# d744f51bd311448fa0cbb5084eecc883
 #: ../../source/appendice-2.rst:221
 msgid ""
 "Correspondant aux unités monétaires co-créée par les individus pour l'unité "
 "de temps annuelle \"t\", et qui sera donc de la forme :"
-msgstr ""
+msgstr "Corresponding to monetary units co-created by individuals for the annual unit time \"t\", which will be of the form:"
 
+# 380331af69634f15bce19753ea306926
 #: ../../source/appendice-2.rst:229
 msgid ""
 "Et Q(t) la somme des unités monétaires co-produite par un individu entre les"
 " instants :math:`t_{0}` date initiale de sa participation à la métrique et t"
 " :"
-msgstr ""
+msgstr "And Q(t) the sum of monetary units co-produced by an individual between the times :math:`t_{0}` original date of participation to the metric and t:"
 
+# 79d52b1550404f0cb31fd51e5927e5e3
+# 4a49f41658e24ce0b65450d41f2639a8
 #: ../../source/appendice-2.rst:237 ../../source/appendice-2.rst:269
 msgid "Ce qui nous donne graphiquement :"
-msgstr ""
+msgstr "This gives us graphically:"
 
+# 13d84ba60dbe42c08789e657d2cfc5f0
 #: ../../source/appendice-2.rst:243
 msgid "Relatif"
-msgstr ""
+msgstr "Relative"
 
+# 8da387c9cd76416b8a37e7857e0445af
+#: ../../source/appendice-2.rst:245
+msgid ""
+"Étant donné ce qui précède nous avons aussi l'expression relative de la "
+"monnaie de référence de la métrique économique globale sous la forme "
+"immuable dans l'espace-temps :"
+msgstr "Given the above we also have the relative expression of the reference money of the global economic metric under the immutable form in the space-time:"
+
+# 30102d74a3df438d88408860a55d2bec
 #: ../../source/appendice-2.rst:253
 msgid "Et"
-msgstr ""
+msgstr "and"
 
+# f4342b96ccb34e9c973ff8fa6780380f
 #: ../../source/appendice-2.rst:259
 msgid ""
 "Nous pouvons donc aussi transformer notre métrique en relatif sur la base de"
 " l'unité relative \"DU\" ainsi établie. Appelons maintenant "
 ":math:`R=\\frac{Q}{DU}` le nombre d'unités relatives co-produites par un "
 "individu entre :math:`t_{0}` et t :"
-msgstr ""
+msgstr "So we can also transform our metric in relative based on the relative unit \"UD\" so established. Now call :math:`R=\\frac{Q}{DU}` the number of units co-produced by an individual between :math:`t_{0}` and t:"
 
+# 327757f758c6417fa527207b274851f5
 #: ../../source/appendice-2.rst:274
 msgid ""
 "Dans le référentiel relatif la part de monnaie co-produite par tout individu"
 " participant de cette métrique converge asymptotiquement et invariablement "
 "(dans l'espace-temps) vers :"
-msgstr ""
+msgstr "In the relative frame of reference, the part of co-produced money by any individual participant of this metric converges asymptotically and consistently (in space-time) to:"
 
+# 7a75e57daadc4e69a33d26951f6b0838
 #: ../../source/appendice-2.rst:282
 msgid ""
 "Et plus particulièrement pour :math:`t=t_{0}+\\frac{ev}{2}` avec "
 ":math:`c=\\frac{\\ln \\left( \\frac{ev}{2} \\right) }{ \\left( \\frac{ev}{2}"
 " \\right) }` :"
-msgstr ""
+msgstr "And in particular for :math:`t=t_{0}+\\frac{ev}{2}` with :math:`c=\\frac{\\ln \\left( \\frac{ev}{2} \\right) }{ \\left( \\frac{ev}{2} \\right) }`:"
 
+# ed7dac07f9a749e6b04cb23989f8fa97
+#: ../../source/appendice-2.rst:289
+msgid ""
+"Étant donnés :eq:`eq10`, :eq:`eq11` et :eq:`eq13` , nous pouvons exprimer la"
+" condition fondamentale :eq:`eq4` sous la forme :"
+msgstr "Given :eq:`eq10`, :eq:`eq11` and :eq:`eq13` , we can express the fundamental condition :eq:`eq4` in the form:"
+
+# b4ae09da51914387acb7d0c5097e7a44
 #: ../../source/appendice-2.rst:296
 msgid "Que nous pouvons donc exprimer selon :eq:`eq14` par :"
-msgstr ""
+msgstr "So we can express according to :eq:`eq14`:"
 
+# 32623b8f53a9497cb9c830a414dc0ead
 #: ../../source/appendice-2.rst:298
 msgid ""
 "\"La somme des DU produite par un individu, participant d'une monnaie libre,"
 " pendant :math:`\\left(\\frac{ev}{2}\\right)` converge vers la masse "
 "monétaire moyenne à :math:`\\frac{1 \\, an}{\\left(\\frac{ev}{2}\\right)}` "
 "près, quel que soit cet individu et quelle que soit l'époque considérée.\""
-msgstr ""
+msgstr "\"The sum of UD produced by an individual participant in a free currency during :math:`\\left(\\frac{ev}{2}\\right)` converges to the average monetary mass to :math:`\\frac{1 \\, an}{\\left(\\frac{ev}{2}\\right)}` near, whatever the individual and whatever the considered time.\""
 
+# a961eba704e34d89aeff0930c6c0a1f1
 #: ../../source/appendice-2.rst:303
 msgid "Ou encore selon :eq:`eq13` par :"
-msgstr ""
+msgstr "Or according to :eq:`eq13`:"
 
+# dd5b4bcf5d19448b943a6db8f8ddbb26
 #: ../../source/appendice-2.rst:305
 msgid ""
 "\"La somme des DU relatifs produite par un individu, participant d'une "
@@ -364,18 +460,21 @@ msgid ""
 ":math:`\\frac{1}{c}` à :math:`\\frac{1 \\, "
 "an}{\\left(\\frac{ev}{2}\\right)}` près, quel que soit cet individu et "
 "quelle que soit l'époque considérée.\""
-msgstr ""
+msgstr "\"The sum of the relative UD produced by an individual participant in a free currency during  :math:`\\left(\\frac{ev}{2}\\right)` converges to :math:`\\frac{1}{c}` with :math:`\\frac{1 \\, an}{\\left(\\frac{ev}{2}\\right)}` near, whatever the individual and whatever the considered time.\""
 
+# 0f61d383ae4f4aee8fc56652fffeabba
 #: ../../source/appendice-2.rst:310
 msgid ""
 "Graphique relatif de la part monétaire générée par un individu pendant et "
 "après son départ :"
-msgstr ""
+msgstr "Relative graph of monetary part generated by an individual during and after his departure:"
 
+# a832d2ffc4544136abd9dc2e03975a9e
 #: ../../source/appendice-2.rst:316
 msgid "Asymétries initiales"
-msgstr ""
+msgstr "Initial asymmetries"
 
+# 3849174c3c0f4560a04ae087f246eaf3
 #: ../../source/appendice-2.rst:318
 msgid ""
 "Considérons le cas particulier d'un individu démarrant sa présence au sein "
@@ -384,113 +483,146 @@ msgid ""
 "l'extérieur équilibrés (les achats monétaires étant toujours égaux aux "
 "ventes monétaires). Cet individu, nous le nommons pseudo-autonome, verra sa "
 "part de monnaie :math:`Q_s(t)` évoluer comme suit :"
-msgstr ""
+msgstr "Consider the special case of an individual starting its presence in the metric with an initial share of currency (gift, inheritance or any economic exchange) :math:`Q_s(t_{0})` and having balanced exchanges with the outside (the financial purchases being always equal to the monetary sales). This individual, we call pseudo-self, will see its share of currency :math:`Q_s(t)` evolve as follows:"
 
+# cd161d5693c64279ab9b2e548966cdaf
 #: ../../source/appendice-2.rst:326
 msgid "**En quantitatif :**"
-msgstr ""
+msgstr "**In quantitative:**"
 
+# 49c26b10e5284f64bc9866b26a02c736
 #: ../../source/appendice-2.rst:332
 msgid ""
 "**En relatif** appelons :math:`R_s(t)` l'évolution de sa part de monnaie :"
-msgstr ""
+msgstr "**In relative** we call :math:`R_s(t)` the evolution of its money share:"
 
+# e7eb504c91424793b466987c5675134d
 #: ../../source/appendice-2.rst:338
 msgid "Et nous avons :"
-msgstr ""
+msgstr "And we have:"
 
+# b2c30da80eac4a0ca13bb8a4d65d184c
 #: ../../source/appendice-2.rst:344
 msgid "Et donc en factorisant nous obtenons finalement la forme relative :"
-msgstr ""
+msgstr "So we finally get by factoring the relative form:"
 
+# c0c4cf3ae4054817bbcacdaabe8a7652
 #: ../../source/appendice-2.rst:351
 msgid ""
 "Où nous voyons directement que si :math:`R_s(t_{0})=\\frac{1}{c}` ce qui est"
 " équivalent à :math:`{Q_s(t_{0})}=\\left( \\frac{M}{N} \\right) (t_{0})`, "
 "alors, pour tout t on aura l'égalité"
-msgstr ""
+msgstr "Where we see directly that if :math:`R_s(t_{0})=\\frac{1}{c}` which is equivalent to :math:`{Q_s(t_{0})}=\\left( \\frac{M}{N} \\right) (t_{0})`, then for all “t” we have the equality"
 
+# 17a1a04b7ae14969bb6589a5bf423d70
 #: ../../source/appendice-2.rst:359
 msgid ""
 "Maintenant selon les trois cas, :math:`R_s(t=t_{0})<\\frac{1}{c}`, "
 ":math:`R_s(t=t_{0})=\\frac{1}{c}` ou :math:`R_s(t=t_{0})>\\frac{1}{c}`, nous"
 " avons, sous condition d'échanges équilibrés, les trois évolutions suivantes"
 " dans le référentiel relatif :"
-msgstr ""
+msgstr "Now according to the three cases, :math:`R_s(t=t_{0})<\\frac{1}{c}`, :math:`R_s(t=t_{0})=\\frac{1}{c}` or :math:`R_s(t=t_{0})>\\frac{1}{c}`, we have, on condition of balanced exchanges, the following three evolutions in the relative frame of reference:"
 
+# 738f9f03e3e648d5b43c6ac63cadc076
 #: ../../source/appendice-2.rst:367
 msgid "Une évolution qui n'est valide que dans le cas particulier étudié ici."
-msgstr ""
+msgstr "This evolution is valid only in the specific case studied here."
 
+# 7859da53ae404d218b658074c7451675
+#: ../../source/appendice-2.rst:370
+msgid "Les quatre référentiels"
+msgstr "The 4 frames of reference"
+
+# fa95de064cec4fb3b0294b09196dc9f5
 #: ../../source/appendice-2.rst:372
 msgid ""
 "Nous avons vu précédemment deux référentiels de mesure quantitatif et "
 "relatif, dont la loi de transformation est donnée par :"
-msgstr ""
+msgstr "We have seen above two frames of reference of relative and quantitative measures, whose transformation law is given by:"
 
+# 5fe56e43ffd9459cbf4f68bf51b3baee
 #: ../../source/appendice-2.rst:379
 msgid ""
 "Nous pouvons aussi établir le référentiel quantitatif de mesure à somme des "
 "comptes nulle, par la transformation :"
-msgstr ""
+msgstr "We can also establish the quantitative measure frame of reference to sum of zero accounts, by transformation:"
 
+# 4d289928ee834833b1192b3c763ae453
 #: ../../source/appendice-2.rst:386
 msgid "Ou bien encore le référentiel relatif à somme des comptes nuls :"
-msgstr ""
+msgstr "Or the frame of reference on sum of zero accounts:"
 
+# ae09ce47e1f84e49928d98708db2e21f
 #: ../../source/appendice-2.rst:392
 msgid ""
 "Tout individu étant parfaitement en mesure de passer ainsi dans le "
 "référentiel qui lui semble le plus adapté. Un même système monétaire libre "
 "peut donc proposer au moins 4 référentiels distincts pour tout individu en "
 "faisant partie, ce choix étant purement individuel :"
-msgstr ""
+msgstr "Everyone is perfectly able to take the frame of reference that seems most appropriate to him. One free monetary system can provide at least 4 separate frames of reference for any individual part, this choice is purely individual:"
 
+# 2a673aeff5234317ab0c720883abb5c1
 #: ../../source/appendice-2.rst:397
 msgid "Le référentiel quantitatif."
-msgstr ""
+msgstr "The quantitative frame of reference."
 
+# 34eadaf67fe0453f8eb87a6e80974a22
 #: ../../source/appendice-2.rst:398
 msgid "Le référentiel quantitatif à somme nulle."
-msgstr ""
+msgstr "The quantitative frame of reference at sum zero."
 
+# 5ac41b3cd3f7444ab2c83b8ba244eb31
 #: ../../source/appendice-2.rst:399
 msgid "Le référentiel relatif."
-msgstr ""
+msgstr "The relative frame of reference."
 
+# f53b384e71a849df9b8b912f952dbab4
 #: ../../source/appendice-2.rst:400
 msgid "Le référentiel relatif à somme nulle."
-msgstr ""
+msgstr "The relative frame of reference at sum zero."
 
+# ce27dced3e1545e7bc3899d9a0667ff9
 #: ../../source/appendice-2.rst:404
 msgid "Variations pour un individu pseudo-autonome"
-msgstr ""
+msgstr "Variations for a pseudo-autonomous individual"
 
+# 9607bc703e134b9ba5947b1e5868ecc8
+#: ../../source/appendice-2.rst:406
+msgid ""
+"Étudions ici la variation d'un compte monétaire pour un individu pseudo-"
+"autonome. Tout d'abord en quantitatif :"
+msgstr "Let us study here the variation of a monetary account for a pseudo-autonomous individual. First by quantitative:"
+
+# 8886300b8cea411fb1f16d3472a8a18a
 #: ../../source/appendice-2.rst:413
 msgid "Et en relatif :"
-msgstr ""
+msgstr "By relative:"
 
+# b96cfad302154b4a856112951b683146
 #: ../../source/appendice-2.rst:419
 msgid ""
 "Ce qui nous permet d'affirmer les conclusions parfaitement équivalentes (a) "
 "et (b) suivantes :"
-msgstr ""
+msgstr "This allows us to affirm the conclusions completely equivalent (a) and (b):"
 
+# b9fbb01d5ae740d48d8b73a7a7df0189
 #: ../../source/appendice-2.rst:421
 msgid ""
 "**(a)** \"Dans le référentiel quantitatif le compte d'un individu pseudo-"
 "autonome apparaît comme s'il s'y ajoutait un Dividende Universel entre deux "
 "unités de temps.\""
-msgstr ""
+msgstr "**(a)** \"In the quantitative frame of reference the account of a pseudo-autonomous individual appears as if it added a Universal Dividend between two units of time.\""
 
+# 170ad2b7eb9e476da6b2f99433beb9c1
 #: ../../source/appendice-2.rst:424
 msgid ""
 "**(b)** \"Dans le référentiel relatif le compte d'un individu pseudo-"
 "autonome apparaît comme si entre deux unités de temps il s'y ajoutait 1 "
 "Dividende Universel, et que dans le même temps il s'y soustrayait une "
 "proportion égale à c.\""
-msgstr ""
+msgstr "**(b)** \"In the relative frame of reference the account of a pseudo- autonomous individual appears as if between two units of time he added to it 1 Universal Dividend, and at the same time it absolve them a proportion equal to ‘c’ .\""
 
+# 0faf6c5ddd0b4aa5ba08bb0d8d0efa51
 #: ../../source/appendice-2.rst:428
 msgid ""
 "Ayant compris que ces points ne sont qu'apparence, un individu participant "
@@ -499,175 +631,14 @@ msgid ""
 "relatif à somme nulle, ou tout autre référentiel qu'il jugera le plus "
 "conforme à son expérience, ceci n'impactant en rien la monnaie libre "
 "établie."
-msgstr ""
+msgstr "Understanding that these points are only appearance, an individual participant in a free currency chooses the frame of reference of its choice for its monetary accounts, quantitative, relative, quantitative zero-sum, relative zero-sum, or ant other frame of reference it deems most consistent with his experience, this in no way affecting the free currency established."
 
-#: ../../source/appendice-2.rst:651
-msgid "Variations de N et calcul du DU"
-msgstr ""
-
-#: ../../source/appendice-2.rst:658
-msgid ""
-"Il ne s'agit pas, en cherchant une méthode de calcul pratique du DU de "
-"procéder à une estimation en ne regardant que le calcul différentiel local. "
-"Il faut garder à l'esprit le fonctionnement fondamental d'une monnaie libre "
-"qui est aussi d'assurer pour tout homme, durant sa vie, et particulièrement "
-"au centre de symétrie temporelle, en demie vie, la même part relative de "
-"monnaie que ses prédécesseurs et successeurs au même point."
-msgstr ""
-
-#: ../../source/appendice-2.rst:674
-msgid ""
-"Autrement dit, de façon plus mathématique, les équations fondamentales "
-":eq:`eq1` et :eq:`eq4` exprimées dans l'analyse de la forme d'une monnaie "
-"libre, n'ont de solutions identifiées que pour "
-":math:`\\left(\\frac{M}{N}\\right)` continue et dérivable (ou quasi-continue"
-" et quasi-dérivable), qu'il faudra donc approcher au mieux en cas de "
-"variations discontinues."
-msgstr ""
-
-#: ../../source/appendice-2.rst:680
-msgid ""
-"Cette réflexion rejoint la nécessité d'avoir un DU(t=0) non relatif, puisque"
-" pour établir une proportion monétaire, encore faut-il que la monnaie existe"
-" en premier. On comprend sur ce cas qu'il y a alors convergence de phénomène"
-" entre l'initialisation d'une monnaie libre, et la très forte augmentation "
-"du nombre de membres d'une monnaie installée. La solution conforme à la TRM,"
-" devant être indépendante du temps (principe de relativité), on comprend dès"
-" lors que l'on doit se trouver dans ces cas à établir une quantité non-"
-"relative du DU(t), donc une quantité fixe et stable, jusqu'à ce que le "
-"domaine relatif soit atteint."
-msgstr ""
-
-#: ../../source/appendice-2.rst:691
-msgid ""
-"N(t) est inconnu, aussi afin d'évaluer la forme d'une méthode générale de "
-"génération pratique, nous devons établir une méthode des plus simples et des"
-" plus lisibles, que nous pouvons approcher via une modélisation de la "
-"variation de N sous la forme :math:`dN(t)=\\alpha N(t)` ou encore "
-":math:`N(t+dt)=N(t)+dN(t)=(1+\\alpha)N(t)` et nous prenons une "
-"approximations pour M conforme à :math:`M(t+dt) \\approx (1+c) M(t)`."
-msgstr ""
-
-#: ../../source/appendice-2.rst:705
-msgid ""
-"Nous obtenons une approximation de la variation différentielle du Dividende "
-":"
-msgstr ""
-
-#: ../../source/appendice-2.rst:711
-msgid "D'où nous déduisons une première forme :"
-msgstr ""
-
-#: ../../source/appendice-2.rst:717
-msgid ""
-"Ainsi qu'une seconde forme approchée au premier ordre (\"c\" étant petit) :"
-msgstr ""
-
-#: ../../source/appendice-2.rst:723
-msgid ""
-"Une borne minimale simple apparaît pour les :math:`\\alpha` positif, si "
-":math:`\\alpha \\approx c` on a :math:`DU(t+dt) \\approx DU(t)`, et une "
-"autre borne minimale simple apparaît pour les :math:`\\alpha` petits et "
-"négatifs, que nous sommes heureux de retrouver sous cette forme, puisqu'elle"
-" est très proche de la définition : :math:`DU(t) = c \\, "
-"\\frac{M(t)}{N(t)}`."
-msgstr ""
-
-#: ../../source/appendice-2.rst:729
-msgid ""
-"De ces deux bornes minimales révélées par cette approximation nous pouvons "
-"déduire un calcul pratique simple du DU, faisant apparaître une forme "
-"quantitative et une autre relative, s'adaptant de façon souple aux "
-"variations de N :"
-msgstr ""
-
-#: ../../source/appendice-2.rst:738
-msgid ""
-"Notamment on reconnaît que pour N stable, la forme convergera rapidement "
-"vers son expression relative fondamentale (ce qui est absolument nécessaire)"
-" :"
-msgstr ""
-
-#: ../../source/appendice-2.rst:745
-msgid ""
-"Cette forme est notamment extrêmement pratique pour le développement d'une "
-"monnaie libre indépendante partant de zéro, mais aussi de façon équivalente "
-"pour gérer de façon souple les variations imprévisible de N, tout en ayant "
-"une loi invariante dans l'espace et le temps et sans s'éloigner de la forme "
-"fondamentale."
-msgstr ""
-
-#: ../../source/appendice-2.rst:751
-msgid ""
-"En étant simple, facile à comprendre, et rassurante d'un point de vue "
-"quantitatif, cette forme apparaît comme la meilleure qui se puisse trouver."
-msgstr ""
-
-#: ../../source/appendice-2.rst:754
-msgid "On peut en résumer le fonctionnement ainsi :"
-msgstr ""
-
-#: ../../source/appendice-2.rst:756
-msgid ""
-"\"Le DU ne baisse jamais en quantitatif, et il est toujours au minimum égal "
-"à une proportion relative c de la masse monétaire.\""
-msgstr ""
-
-#: ../../source/appendice-2.rst:762
-msgid ""
-"De façon générale, pour s'assurer de la pertinence de cette forme, et "
-"éventuellement la comparer avec d'autres, comme la triviale mais dangereuse "
-"forme théorique, qui n'est que différentielle :math:`DU(t+dt)=(1+c)DU(t)`, "
-"il convient de simuler des N(t) quelconques, et de tester alors les "
-"différentes formes, tout à gardant à l'esprit qu'il s'agit pour ce faire, "
-"d'y placer des individus de durée de vie limitée, en simulant des opérations"
-" sur des durées plus grandes que ev, et d'évaluer si pour l'ensemble de ces "
-"individus les principes fondamentaux sont bien respectés, à peu près tout le"
-" temps."
-msgstr ""
-
-#: ../../source/appendice-2.rst:32
-msgid ""
-"Autrement dit, il n'y a pas de valeur économique absolue, pas d'être humain "
-"qui soit légitimement en mesure de définir ce qui est valeur ou non-valeur "
-"pour les autres êtres humains, ni dans l'espace (entre êtres humains "
-"présents), ni dans le temps (entre êtres humains distants dans le temps)."
-msgstr ""
-
-#: ../../source/appendice-2.rst:55
-msgid ""
-"Cette dimension est une donnée finie de l'espace-temps économique étudié par"
-" la TRM où, pour tout temps t considéré, l'ensemble des hommes est renouvelé"
-" à la date t + ev."
-msgstr ""
-
-#: ../../source/appendice-2.rst:245
-msgid ""
-"Étant donné ce qui précède nous avons aussi l'expression relative de la "
-"monnaie de référence de la métrique économique globale sous la forme "
-"immuable dans l'espace-temps :"
-msgstr ""
-
-#: ../../source/appendice-2.rst:289
-msgid ""
-"Étant donnés :eq:`eq10`, :eq:`eq11` et :eq:`eq13` , nous pouvons exprimer la"
-" condition fondamentale :eq:`eq4` sous la forme :"
-msgstr ""
-
-#: ../../source/appendice-2.rst:370
-msgid "Les quatre référentiels"
-msgstr ""
-
-#: ../../source/appendice-2.rst:406
-msgid ""
-"Étudions ici la variation d'un compte monétaire pour un individu pseudo-"
-"autonome. Tout d'abord en quantitatif :"
-msgstr ""
-
+# 136fe85521df4a5691ad86f36a0279a8
 #: ../../source/appendice-2.rst:436
 msgid "Généralisation et loi de changement de référentiel"
 msgstr ""
 
+# da7661343efc4020a6ad9ac8cb409cf5
 #: ../../source/appendice-2.rst:438
 msgid ""
 "En généralisant le raisonnement précédent, il est possible d'établir sur la "
@@ -681,6 +652,7 @@ msgid ""
 " soustraction monétaire (nommé par la TRM \"quantitatif\")."
 msgstr ""
 
+# 1ed15412124241d28d4e431ccc41db79
 #: ../../source/appendice-2.rst:445
 msgid ""
 "Soit donc une monnaie libre établie dans :math:`[R_{1},c_{1}]` et sa "
@@ -689,16 +661,20 @@ msgid ""
 "\\left(\\frac{M_{2}}{N_{2}}\\right)(0)`."
 msgstr ""
 
+# e93fc0c2884b4d4e83803875e40629a9
 #: ../../source/appendice-2.rst:448
 msgid ""
 "Etant donné que nous étudions un changement de référentiel, notons que pour "
 "tout t : :math:`N_{2}(t)=N_{1}(t)=N(t)`, et par ailleurs :"
 msgstr ""
 
+# 4eda2d97563d4de090669e20cdb289d9
+# 7821b804656b4756a59e627bec18d2a1
 #: ../../source/appendice-2.rst:454 ../../source/appendice-2.rst:498
 msgid "et"
 msgstr ""
 
+# 877c2a398ebe4351976cd56d18e5e3b2
 #: ../../source/appendice-2.rst:460
 msgid ""
 "La loi de transformation de :math:`M_{1}` en :math:`M_{2}` peut se trouver "
@@ -706,10 +682,12 @@ msgid ""
 "le reportant dans :math:`M_{2}`"
 msgstr ""
 
+# 191b43181deb4c87a3e097e8d03aa9bb
 #: ../../source/appendice-2.rst:466
 msgid "D'où l'on déduit la transformation cherchée :"
 msgstr ""
 
+# b6eb6e8cbc864569bfb1d47fcfc3a396
 #: ../../source/appendice-2.rst:473
 msgid ""
 "La transformation étant ainsi établie, s'applique à toute unité monétaire de"
@@ -717,34 +695,41 @@ msgid ""
 "transformation locale entre :math:`R_{1}` et :math:`R_{2}` facilement :"
 msgstr ""
 
+# eaaeb84774d644b1b80c7cff59c122e6
 #: ../../source/appendice-2.rst:479
 msgid ""
 "Et donc in-fine :math:`Q_s(t)_{R_{2}}` s'obtient directement de "
 ":math:`R_{1}` par :"
 msgstr ""
 
+# 922b953fc5d14553bc0bb9898160e788
 #: ../../source/appendice-2.rst:486
 msgid ""
 "Maintenant, calculons la variation entre deux unités de temps d'un compte "
 "pseudo autonome dans :math:`R_{2}` :"
 msgstr ""
 
+# e3489d41067b46e1afe7ebbd95655663
 #: ../../source/appendice-2.rst:492
 msgid "Avec"
 msgstr ""
 
+# b3aae2845e0d479e9b850ba9112163b7
 #: ../../source/appendice-2.rst:504
 msgid "En tenant compte de :eq:`eq16` et :eq:`eq17`, nous obtenons :"
 msgstr ""
 
+# 1e18c0d38b074c30980ff8e44d7bfff7
 #: ../../source/appendice-2.rst:510
 msgid "Ce qui peut aussi s'écrire sous la forme :"
 msgstr ""
 
+# 3e6efbcd0c57412d9809dc3390dd5c2c
 #: ../../source/appendice-2.rst:517
 msgid "Rappelons ici que"
 msgstr ""
 
+# 6b17ed208f8d46cc945b15f003ba2273
 #: ../../source/appendice-2.rst:523
 msgid ""
 "Il apparaît donc dans :math:`R_{2}` que le système monétaire se comporte "
@@ -755,6 +740,7 @@ msgid ""
 ":math:`DU_{R_{2}}`."
 msgstr ""
 
+# e2ec837fd2b64d14b55e2f3259068eb9
 #: ../../source/appendice-2.rst:526
 msgid ""
 "La transformation ainsi connue entre ces référentiels, permet donc à "
@@ -766,12 +752,14 @@ msgid ""
 "quantitative nette."
 msgstr ""
 
+# 146945d55dc94657acf0631d6eb672bb
 #: ../../source/appendice-2.rst:530
 msgid ""
 "A noter aussi que pour le changement dans le référentiel "
 ":math:`[R_{2},c_{2}=0]`, nous obtenons :"
 msgstr ""
 
+# d04cd4c246aa4b6ab2a26278f17be961
 #: ../../source/appendice-2.rst:536
 msgid ""
 "Et étant donné que :math:`c_{2}=0` nous avons "
@@ -780,6 +768,7 @@ msgid ""
 " change pas le calcul des dérivées, et alors nous obtenons :"
 msgstr ""
 
+# e001863e3ee740a49e636e57932ca2a7
 #: ../../source/appendice-2.rst:543
 msgid ""
 "Ce qui est la forme établie au paragraphe 9, il s'agit donc bien au facteur "
@@ -788,6 +777,7 @@ msgid ""
 " la croissance monétaire apparaît comme nulle."
 msgstr ""
 
+# d7a61852ca264825b36a1fc2b521209a
 #: ../../source/appendice-2.rst:546
 msgid ""
 "Nous avons ainsi établi une Loi générale de changement de référentiel où une"
@@ -797,6 +787,7 @@ msgid ""
 "monétaires possédant cette caractéristique."
 msgstr ""
 
+# 4e25d4a0df1349c2a5a595dc59076ccc
 #: ../../source/appendice-2.rst:550
 msgid ""
 "Un autre résultat remarquable est que, si nous appelons :math:`RdB_{R_{2}}` "
@@ -807,16 +798,19 @@ msgid ""
 ":math:`c_{2}` :"
 msgstr ""
 
+# 11a84a6255d7446395ca87b32fcf185d
 #: ../../source/appendice-2.rst:557
 msgid ""
 "Que nous pouvons exprimer comme : \"le nombre de DU dans le référentiel "
 ":math:`R_{1}` est égal au nombre de RdB dans le référentiel :math:`R_{2}`\"."
 msgstr ""
 
+# 8466c25741c841539f4f51890f609f93
 #: ../../source/appendice-2.rst:559
 msgid "Théorème :"
 msgstr ""
 
+# e999cc19e96d489482e731b0279f3e1a
 #: ../../source/appendice-2.rst:561
 msgid ""
 "Il existe donc des référentiels :math:`R_{[C_{x},x]}` où :math:`C_{x}` "
@@ -826,10 +820,12 @@ msgid ""
 " de transformation précédemment établie et d'invariant relativiste :"
 msgstr ""
 
+# f50d219775674c108c87bdc3033a5680
 #: ../../source/appendice-2.rst:570
 msgid "En calculs discrets"
 msgstr ""
 
+# 312e1168922243a2835c35d99a73993b
 #: ../../source/appendice-2.rst:572
 msgid ""
 "La mise en place d'un DU calculé sur une unité de temps discrète, nous "
@@ -839,18 +835,23 @@ msgid ""
 " très précis."
 msgstr ""
 
+# dffe939f0dc04794b0985b80dcc20555
 #: ../../source/appendice-2.rst:575
 msgid "En tranformation discrète, on aura :"
 msgstr ""
 
+# cd98e6a0b51641e9be9f5cb1f2d8ac89
+# ef34aa403f8646bb9dcae5d95363ed8d
 #: ../../source/appendice-2.rst:581 ../../source/appendice-2.rst:593
 msgid "Et donc :"
 msgstr ""
 
+# 74d34548ba3f4b949b495e71f9e43799
 #: ../../source/appendice-2.rst:587
 msgid "Ce qui implique :"
 msgstr ""
 
+# 1eea10cc742948fd9b39879d0d0fcb22
 #: ../../source/appendice-2.rst:600
 msgid ""
 "Maintenant nous allons retrouver le \"taux de taxe\" apparent en fonction "
@@ -859,6 +860,7 @@ msgid ""
 "simple et direct avec les seules données du référentiel fondamental."
 msgstr ""
 
+# bc6544d67e4f49459c4114f84e962cad
 #: ../../source/appendice-2.rst:603
 msgid ""
 "La raison en est qu'en calcul discret plusieurs options sont possibles selon"
@@ -866,10 +868,12 @@ msgid ""
 " les dérivées approchées d'une fonction."
 msgstr ""
 
+# 51bbdd98a7b042d7b8054df6bf2a32b6
 #: ../../source/appendice-2.rst:605
 msgid "Dans :math:`R_{1}` nous avons l'égalité :"
 msgstr ""
 
+# b67e7b1ae2874887b1ff5777eb31d552
 #: ../../source/appendice-2.rst:611
 msgid ""
 "Appliquons la transformation de :math:`{R_{1}}` vers :math:`{R_{2}}` en "
@@ -881,6 +885,7 @@ msgid ""
 "(t+1)}{\\left(\\frac{M_{1}}{N}\\right) (t+1)}\\right]`, nous obtenons :"
 msgstr ""
 
+# 1bd94545ddea44288d30034ea0754f51
 #: ../../source/appendice-2.rst:618
 msgid ""
 "Dans :math:`R_{2}` le taux de croissance monétaire étant :math:`c_{2}` le "
@@ -889,12 +894,14 @@ msgid ""
 "nous retrouvons cette valeur selon le calcul exact :"
 msgstr ""
 
+# 059408996968492cb96a9c3f8b5220dc
 #: ../../source/appendice-2.rst:626
 msgid ""
 "Tous les termes de droite étant déjà calculés par transformation directe "
 "depuis :math:`R_1`."
 msgstr ""
 
+# 692b938064f44600a2e6ee1fff6e75e1
 #: ../../source/appendice-2.rst:628
 msgid ""
 "Nous avons un ratio calculé entre valeurs prises à l'occurrence \"t\" et "
@@ -902,6 +909,7 @@ msgid ""
 "dérivée discrète."
 msgstr ""
 
+# 239209df7d0c4c26a3cf023bd7e83c04
 #: ../../source/appendice-2.rst:630
 msgid ""
 "La présence du facteur :math:`(1+c_2)` n'est pas étonnante puisque c'est le "
@@ -911,6 +919,7 @@ msgid ""
 "entre \"t\" et \"t+1\"."
 msgstr ""
 
+# 5bebadb10b8740f186de8e5ee7e103f0
 #: ../../source/appendice-2.rst:633
 msgid ""
 "Nous avons donc bien ici le calcul instantané de la \"taxe apparente\" dans "
@@ -919,6 +928,7 @@ msgid ""
 "apparente)_{R_{2}}`."
 msgstr ""
 
+# e2953666307e4637afda06aac17d746d
 #: ../../source/appendice-2.rst:636
 msgid ""
 "Enfin, en remarquant que :math:`RdB_{R_{2}} = DU_{R_{2}} + (c_{1}-c_{2})  "
@@ -927,6 +937,7 @@ msgid ""
 "discrète sous la forme :"
 msgstr ""
 
+# 7f848d5828434ffeb6a818c73e2a0df6
 #: ../../source/appendice-2.rst:644
 msgid ""
 "Cette forme reprend le taux de la taxe :math:`(c_1 - c_2)` appliqué au "
@@ -935,6 +946,7 @@ msgid ""
 " par :math:`(1+c_1)`."
 msgstr ""
 
+# 580024ddfd844fd2ab54e2808e9e8f2d
 #: ../../source/appendice-2.rst:647
 msgid ""
 "On remarque immédiatement que lorsque le compte vaut la moyenne, la taxe "
@@ -942,6 +954,12 @@ msgid ""
 "intermédiaire."
 msgstr ""
 
+# ac24d440a8394c968f22119adca53050
+#: ../../source/appendice-2.rst:651
+msgid "Variations de N et calcul du DU"
+msgstr "Variations of N and calculation of UD"
+
+# ccc2b31c75d74561ac74e3161ed8873e
 #: ../../source/appendice-2.rst:653
 msgid ""
 "Étant donné ce qui précède il faut garder à l'esprit que c'est la "
@@ -951,6 +969,18 @@ msgid ""
 " individu)."
 msgstr ""
 
+# 4ef5257c6d78437180418fc9c09090f0
+#: ../../source/appendice-2.rst:658
+msgid ""
+"Il ne s'agit pas, en cherchant une méthode de calcul pratique du DU de "
+"procéder à une estimation en ne regardant que le calcul différentiel local. "
+"Il faut garder à l'esprit le fonctionnement fondamental d'une monnaie libre "
+"qui est aussi d'assurer pour tout homme, durant sa vie, et particulièrement "
+"au centre de symétrie temporelle, en demie vie, la même part relative de "
+"monnaie que ses prédécesseurs et successeurs au même point."
+msgstr "It is not a question, seeking a practical method for calculating the UD, to estimate by looking only at the local differential calculus. Keep in mind the fundamental operation of a free currency which is also to ensure for every human, during its life, especially in the center of time symmetry, in half-life, the same relative part of money as its predecessors and successors to the same point."
+
+# e7bb7c8e96ad45539608e8be72cff2e1
 #: ../../source/appendice-2.rst:665
 msgid ""
 "Notamment on se convaincra par la réflexion de la nécessité d'aborder la "
@@ -964,6 +994,43 @@ msgid ""
 "aux nouveaux entrants, sans rapport avec le DU calculé."
 msgstr ""
 
+# 252de9bb73d24a32a14d9cebfde8e2ce
+#: ../../source/appendice-2.rst:674
+msgid ""
+"Autrement dit, de façon plus mathématique, les équations fondamentales "
+":eq:`eq1` et :eq:`eq4` exprimées dans l'analyse de la forme d'une monnaie "
+"libre, n'ont de solutions identifiées que pour "
+":math:`\\left(\\frac{M}{N}\\right)` continue et dérivable (ou quasi-continue"
+" et quasi-dérivable), qu'il faudra donc approcher au mieux en cas de "
+"variations discontinues."
+msgstr "In other words, more mathematically, the fundamental equations :eq:`eq1` and :eq:`eq4` analysis expressed in the form of a free currency, have no identified solutions only for :math:`\\left(\\frac{M}{N}\\right)` continuous and differentiable (or quasi-continuous and almost differentiable), so it will require to be closed as best as possible in case of discontinuous variations."
+
+# bb5fc44432e745c3b2b0562b025d4a5c
+#: ../../source/appendice-2.rst:680
+msgid ""
+"Cette réflexion rejoint la nécessité d'avoir un DU(t=0) non relatif, puisque"
+" pour établir une proportion monétaire, encore faut-il que la monnaie existe"
+" en premier. On comprend sur ce cas qu'il y a alors convergence de phénomène"
+" entre l'initialisation d'une monnaie libre, et la très forte augmentation "
+"du nombre de membres d'une monnaie installée. La solution conforme à la TRM,"
+" devant être indépendante du temps (principe de relativité), on comprend dès"
+" lors que l'on doit se trouver dans ces cas à établir une quantité non-"
+"relative du DU(t), donc une quantité fixe et stable, jusqu'à ce que le "
+"domaine relatif soit atteint."
+msgstr "This reflection joins the need to have a UD(t = 0) not relative, because to establish a monetary proportion, it is still necessary that the currency exists first. We understand that in this case there will then be the convergence of phenomena between the initialization of a free currency and the huge increase in the number of members of an installed currency. The solution complies with the RMT, needed to be independent of time (principle of relativity), we now understand that we must in these cases establish a non-relative amount of UD(t), so a fixed amount and stable until the relative area is reached."
+
+# c54de4a1f6b54efca87d40f96d7d978d
+#: ../../source/appendice-2.rst:691
+msgid ""
+"N(t) est inconnu, aussi afin d'évaluer la forme d'une méthode générale de "
+"génération pratique, nous devons établir une méthode des plus simples et des"
+" plus lisibles, que nous pouvons approcher via une modélisation de la "
+"variation de N sous la forme :math:`dN(t)=\\alpha N(t)` ou encore "
+":math:`N(t+dt)=N(t)+dN(t)=(1+\\alpha)N(t)` et nous prenons une "
+"approximations pour M conforme à :math:`M(t+dt) \\approx (1+c) M(t)`."
+msgstr "N(t) is unknown, so to assess the form of a general method of practical generation, we need a method simpler and more readable, we can approach via modeling of the variation of N  in the form :math:`dN(t)=\\alpha N(t)` or :math:`N(t+dt)=N(t)+dN(t)=(1+\\alpha)N(t)` and take an approximation for M according to :math:`M(t+dt) \\approx (1+c) M(t)`."
+
+# 3830de6e454a496aba58f3786f2be6b0
 #: ../../source/appendice-2.rst:698
 msgid ""
 "À noter que :math:`\\alpha` doit être entendu comme étant en général "
@@ -974,74 +1041,98 @@ msgid ""
 " tandis que :math:`c=\\frac{ln(40)}{40}=9,22 \\%`/an."
 msgstr ""
 
+# 3ed87ee0baad40228222dd77fe674263
+#: ../../source/appendice-2.rst:705
+msgid ""
+"Nous obtenons une approximation de la variation différentielle du Dividende "
+":"
+msgstr "We get an approximation of the differential variation in Dividend:"
+
+# ffeb1f0b1d0b4884b12ff53aeb1c6b21
+#: ../../source/appendice-2.rst:711
+msgid "D'où nous déduisons une première forme :"
+msgstr "Hence we deduce a first form:"
+
+# cc0a398884d64db39b31b47d09712479
+#: ../../source/appendice-2.rst:717
+msgid ""
+"Ainsi qu'une seconde forme approchée au premier ordre (\"c\" étant petit) :"
+msgstr "And a second form approximated to first order (\"c\" being small):"
+
+# f34544d0ed954f46adb437237570a5d6
+#: ../../source/appendice-2.rst:723
+msgid ""
+"Une borne minimale simple apparaît pour les :math:`\\alpha` positif, si "
+":math:`\\alpha \\approx c` on a :math:`DU(t+dt) \\approx DU(t)`, et une "
+"autre borne minimale simple apparaît pour les :math:`\\alpha` petits et "
+"négatifs, que nous sommes heureux de retrouver sous cette forme, puisqu'elle"
+" est très proche de la définition : :math:`DU(t) = c \\, "
+"\\frac{M(t)}{N(t)}`."
+msgstr "A simple lower bound appears for :math:`\\alpha` positive if  :math:`\\alpha \\approx c` we have :math:`DU(t+dt) \\approx DU(t)`, and another simple lower bound appears for :math:`\\alpha` small and negative, that we are happy to find in this form, since it is very close to the definition: :math:`DU(t) = c \\, \\frac{M(t)}{N(t)}`."
+
+# a2080d02e3254127bb32575d5f261a4b
+#: ../../source/appendice-2.rst:729
+msgid ""
+"De ces deux bornes minimales révélées par cette approximation nous pouvons "
+"déduire un calcul pratique simple du DU, faisant apparaître une forme "
+"quantitative et une autre relative, s'adaptant de façon souple aux "
+"variations de N :"
+msgstr "From these two minimum limits revealed by this approximation we can derive a simple practical calculation of UD, showing a quantitative form and another relative one, adapting flexibly to evolutions in N:"
+
+# af45408a5d3e410983c94d01e0783df9
+#: ../../source/appendice-2.rst:738
+msgid ""
+"Notamment on reconnaît que pour N stable, la forme convergera rapidement "
+"vers son expression relative fondamentale (ce qui est absolument nécessaire)"
+" :"
+msgstr "In particular it is recognized that for N stable, form will quickly converge to its fundamental relative expression (which is absolutely necessary):"
+
+# 2bd5a5c5aac84e22a315600f634c61a5
+#: ../../source/appendice-2.rst:745
+msgid ""
+"Cette forme est notamment extrêmement pratique pour le développement d'une "
+"monnaie libre indépendante partant de zéro, mais aussi de façon équivalente "
+"pour gérer de façon souple les variations imprévisible de N, tout en ayant "
+"une loi invariante dans l'espace et le temps et sans s'éloigner de la forme "
+"fondamentale."
+msgstr "This form is extremely convenient especially for the development of an independent free currency from scratch, but also equivalently to manage flexibly the unpredictable variations of N, while having an invariant distribution in space and time and without going away from the basic form."
+
+# a1a9d8c0ea1e4585aa9eec38488e0d52
+#: ../../source/appendice-2.rst:751
+msgid ""
+"En étant simple, facile à comprendre, et rassurante d'un point de vue "
+"quantitatif, cette forme apparaît comme la meilleure qui se puisse trouver."
+msgstr "Being simple, easy to understand, and reassuring from a quantitative point of view, this form seems the best that can be found."
+
+# 84f3334fde35408aa7bba2c9098692e3
+#: ../../source/appendice-2.rst:754
+msgid "On peut en résumer le fonctionnement ainsi :"
+msgstr "We can summarize the operation as follows:"
+
+# 63828b8cd3284354bac4c2cbb5b3a282
+#: ../../source/appendice-2.rst:756
+msgid ""
+"\"Le DU ne baisse jamais en quantitatif, et il est toujours au minimum égal "
+"à une proportion relative c de la masse monétaire.\""
+msgstr "\"The UD never drops in quantitative and is always at least equal to a relative proportion “c” of the monetary mass.\""
+
+# dde2f4a2712e4bd29d3def9cd7e113e6
 #: ../../source/appendice-2.rst:759
 msgid ""
 "D'autres formes sont bien entendu possibles étant donnée l'incertitude sur "
 "N(t), les formes les plus simples étant les meilleures…"
 msgstr ""
 
-#~ msgid ""
-#~ "Autrement dit il n'y a pas de valeur économique absolue, pas d'être humain "
-#~ "qui soit légitimement en mesure de définir ce qui est valeur ou non-valeur "
-#~ "pour les autres êtres humains, ni dans l'espace (entre êtres humains "
-#~ "présents), ni dans le temps (entre êtres humains distants dans le temps)."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Cette dimension est une donnée finie de l'espace-temps économique étudié par"
-#~ " la TRM où, pour tout temps t considéré, l'ensemble des hommes est renouvelé"
-#~ " à la date t+ev."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Etant donné ce qui précède nous avons aussi l'expression relative de la "
-#~ "monnaie de référence de la métrique économique globale sous la forme "
-#~ "immuable dans l'espace-temps :"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Etant donnés :eq:`eq10`, :eq:`eq11` et :eq:`eq13` , nous pouvons exprimer la"
-#~ " condition fondamentale :eq:`eq4` sous la forme :"
-#~ msgstr ""
-
-#~ msgid "Les 4 référentiels"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Etudions ici la variation d'un compte monétaire pour un individu pseudo-"
-#~ "autonome. Tout d'abord en quantitatif :"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Etant donné ce qui précède il faut garder à l'esprit que c'est la "
-#~ "convergence de demie vie qui est l'objectif atteint par une monnaie libre, "
-#~ "les nouveaux entrants remplaçant les morts (voir à ce propos les formes "
-#~ ":eq:`eq4` et :eq:`eq14` concernant la condition temporelle valable pour tout"
-#~ " individu)."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Notamment on se convaincra par la réflexion de la nécessité d'aborder la "
-#~ "solution pratique en prenant en considération des cas extrêmes, comme celui "
-#~ "du cas de forte hausse du nombre de participants d'une monnaie libre "
-#~ "(équivalente à une pseudo-initialisation de monnaie), où le DU calculé en "
-#~ "relatif ( :math:`DU(t)=c\\left(\\frac{M}{N}\\right)(t)` ) subira une forte "
-#~ "discontinuité, détruisant la continuité de la progression, et deviendrait "
-#~ "extrêmement bas vis à vis des participants initiaux, peu nombreux, et qui "
-#~ "posséderaient dans ce cas une part monétaire extrêmement forte par rapport "
-#~ "aux nouveaux entrants, sans rapport avec le DU calculé."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "A noter que :math:`\\alpha` doit être entendu comme étant en général "
-#~ "\"petit\" sur des durées de l'ordre de :math:`\\left( \\frac{ev}{2} "
-#~ "\\right)`, et même devant c. En effet sur la base expérimentale de la "
-#~ "France, entre 1950 et 1990 la population a varié de 41 à 56 millions, ce qui"
-#~ " correspond à :math:`\\alpha = \\frac{ln(\\frac{56}{41})}{40} = 0,78 \\%`/an"
-#~ " tandis que :math:`c=\\frac{ln(40)}{40}=9,22 \\%`/an."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "D'autres formes sont bien entendu possibles étant donnée l'incertitude sur "
-#~ "N(t), les formes les plus simples étant les meilleures..."
-#~ msgstr ""
+# bdf23c49b3fc428f95eabecea0acdc8e
+#: ../../source/appendice-2.rst:762
+msgid ""
+"De façon générale, pour s'assurer de la pertinence de cette forme, et "
+"éventuellement la comparer avec d'autres, comme la triviale mais dangereuse "
+"forme théorique, qui n'est que différentielle :math:`DU(t+dt)=(1+c)DU(t)`, "
+"il convient de simuler des N(t) quelconques, et de tester alors les "
+"différentes formes, tout à gardant à l'esprit qu'il s'agit pour ce faire, "
+"d'y placer des individus de durée de vie limitée, en simulant des opérations"
+" sur des durées plus grandes que ev, et d'évaluer si pour l'ensemble de ces "
+"individus les principes fondamentaux sont bien respectés, à peu près tout le"
+" temps."
+msgstr "In general, to ensure the relevance of this form, and possibly compare it with others, such as the trivial but dangerous theoretical form, which is only differential :math:`DU(t+dt)=(1+c)DU(t)`, it is necessary to simulate any N(t) and then test different forms, just keeping in mind that it is for this, to place individuals of limited lifetime, simulating operations on larger periods than “ev”, and assess whether for all of these individuals the basic principles are respected, almost all the time."

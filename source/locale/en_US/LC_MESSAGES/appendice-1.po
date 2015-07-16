@@ -1,20 +1,28 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Stéphane Laborde
+# This file is distributed under the same license as the Théorie Relative de la Monnaie package.
 # 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Théorie Relative de la Monnaie 2.718\n"
+"Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-15 20:40+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2015-07-16 10:25+0200\n"
+"PO-Revision-Date: 2015-07-16 08:41+0000\n"
+"Last-Translator: Vincent Texier\n"
+"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# 2446d23f64f74af990522d6a6a5433b8
 #: ../../source/appendice-1.rst:3
 msgid "Appendice 1 : Commentaires sur les quatre libertés économiques"
 msgstr ""
 
+# f137fb1b3c974c2badf4e35b866c47ce
 #: ../../source/appendice-1.rst:5
 msgid ""
 "La Théorie Relative de la Monnaie (TRM) est fondée sur les quatre libertés "
@@ -23,10 +31,12 @@ msgid ""
 "économique et monétaire conformément à elles"
 msgstr ""
 
+# 82c23839a7a64d8b8630c2568dac3804
 #: ../../source/appendice-1.rst:9
 msgid "**Remarques générales :**"
 msgstr ""
 
+# 8fd3f0e357fa499d948b61ff331b55fd
 #: ../../source/appendice-1.rst:11
 msgid ""
 "J'ai pu pu noter depuis la première parution de la TRM en 2010 des propos "
@@ -35,6 +45,7 @@ msgid ""
 "d'un paradigme. Je vais expliquer pourquoi."
 msgstr ""
 
+# db44fc097e70431294956bd083cae84a
 #: ../../source/appendice-1.rst:15
 msgid ""
 "La TRM énonce les 4 libertés économiques dans un espace-temps composé "
@@ -48,6 +59,7 @@ msgid ""
 "qualifiée de distance relative à une monnaie libre."
 msgstr ""
 
+# a8970280eaaa42ad971687361e0f6167
 #: ../../source/appendice-1.rst:23
 msgid ""
 "Il ne s'agit donc absolument pas d'une « proposition », mais d'une "
@@ -58,6 +70,7 @@ msgid ""
 "économiques dans l'espace-temps humain."
 msgstr ""
 
+# 3f475ea7b4574c0fa9fbfe25679e284b
 #: ../../source/appendice-1.rst:29
 msgid ""
 "En éclairant cette perspective, la TRM apporte donc une compréhension de la "
@@ -66,6 +79,7 @@ msgid ""
 "nuisances effectives telles que des guerres, révolutions, ou insurrections."
 msgstr ""
 
+# 7d7025bd5bc942bfb769091c5951da10
 #: ../../source/appendice-1.rst:34
 msgid ""
 "Tant que celui qui étudierait la TRM ne serait pas arrivé à la compréhension"
@@ -74,6 +88,17 @@ msgid ""
 "résultats et conclusions qui participent de sa nature."
 msgstr ""
 
+# 4bf526e2fbd749dbabaee5c95fc0ccbb
+#: ../../source/appendice-1.rst:38
+msgid ""
+"**Liberté :** La liberté est établie comme tout ce que peut réaliser "
+"l'individu conformément à la non-nuisance vis-à-vis des autres individus "
+"vivants et futurs. Cette non-nuisance peut-être définie ou comprise en un "
+"endroit (x, y, z, t) précis de l'espace-temps et n'en a pas moins des "
+"propriétés d'évolution ou de révolution."
+msgstr ""
+
+# 3ccf41b3c98e4d829198ffd831d0227d
 #: ../../source/appendice-1.rst:43
 msgid ""
 "Il ne faut donc pas comprendre ici la liberté comme étant définie de façon "
@@ -82,6 +107,7 @@ msgid ""
 "serait non-définie ce qui est contraire à ce qui vient d'être affirmé."
 msgstr ""
 
+# b1cb3745496247ebaa83fa2282e52b31
 #: ../../source/appendice-1.rst:47
 msgid ""
 "Enfin les libertés relatives à un système monétaire bien que s'exprimant "
@@ -96,11 +122,13 @@ msgid ""
 "ce qui est très différent."
 msgstr ""
 
+# 4e2fb1c8ec9b4a4a95d9ac91c35beb6f
 #: ../../source/appendice-1.rst:55
 msgid ""
 "**Liberté 0 :** *L'individu est libre du choix de son système monétaire.*"
 msgstr ""
 
+# 12ab82ffedcd400ab758515f22c08124
 #: ../../source/appendice-1.rst:57
 msgid ""
 "On peut n'annoncer que les trois libertés économiques suivantes quand on se "
@@ -111,6 +139,29 @@ msgid ""
 "nombre spécifique 0 accolé à cette première liberté."
 msgstr ""
 
+# 69e8c6631f534699ab24c5760d6af738
+#: ../../source/appendice-1.rst:63
+msgid ""
+"Le choix est ici extensible à la possibilité de la modification. Cela "
+"signifie donc que non-seulement l'individu peut choisir d'utiliser et "
+"d'adopter un système monétaire indépendant, et donc de se référer aux "
+"principes édictés par cet autre système monétaire, mais peut aussi agir pour"
+" faire évoluer le système monétaire qu'il utilise, conformément aux règles "
+"ou aux principes généraux qui permettent cette évolution."
+msgstr ""
+
+# 56e04a9e96ae41a1860c3e82a493506c
+#: ../../source/appendice-1.rst:69
+msgid ""
+"Il s'agit donc d'une double possibilité en terme de modification de "
+"l'existant, ou de changement. C'est très comparables à la vie d'un code de "
+"programme informatique, qui évolue de versions en versions, ou bien qui « "
+"forke », c'est-à-dire qui se voit copié et modifié par d'autres dans une "
+"autre direction, ou bien encore de l'adoption d'un tout autre modèle de "
+"programme ayant évolué indépendamment dès son origine."
+msgstr ""
+
+# 20891875ed944dc49f40bd3912c2dc3e
 #: ../../source/appendice-1.rst:75
 msgid ""
 "Cette liberté essentielle se manifeste sous quantité de formes "
@@ -121,10 +172,12 @@ msgid ""
 "référence immatérielle (réserves fractionnaires)."
 msgstr ""
 
+# 31c458d2ac6c4c148a46d2ba5a5ddfbb
 #: ../../source/appendice-1.rst:81
 msgid "**Liberté 1 :** *L'individu est libre d'utiliser les ressources.*"
 msgstr ""
 
+# 09612ade67424d6197368d7e503afa1d
 #: ../../source/appendice-1.rst:83
 msgid ""
 "L'utilisation des ressources doit être conforme à la non-nuisance. Cela "
@@ -135,6 +188,7 @@ msgid ""
 "soient) ne permette pas que les autres individus puissent l'utiliser."
 msgstr ""
 
+# 6281b6c5eea841e9a50c2028c6fa3781
 #: ../../source/appendice-1.rst:89
 msgid ""
 "Bien évidemment on ne parle pas ici des cas qui seraient de facto de l'ordre"
@@ -142,6 +196,7 @@ msgid ""
 "concernant l'utilisation de ressources déjà identifiée comme nuisible."
 msgstr ""
 
+# d2c628365af04cf5a95a6702b5b7ddc2
 #: ../../source/appendice-1.rst:93
 msgid ""
 "Un exemple historique parmi les plus communément compris qui révèle ce "
@@ -153,6 +208,19 @@ msgid ""
 "appropriation excessive des uns sur l'espace de vie des autres n'existe pas."
 msgstr ""
 
+# 75708d26f1564d6189ce6a64d149138a
+#: ../../source/appendice-1.rst:100
+msgid ""
+"C'est typiquement le cas des latifundios, des sociétés de type féodal, des "
+"monarchies absolues ou quasi-absolues, ou encore des régimes communistes ou "
+"quasi-communistes où c'est l'État même qui joue le rôle du privateur de la "
+"première liberté économique, ou encore des régimes corporatistes où ce sont "
+"des groupes d'intérêts privés ou des alliances État-privés qui jouent "
+"ensemble ce rôle de privateur de liberté, vis-à-vis des individus ne faisant"
+" pas partie de ces groupements."
+msgstr ""
+
+# 91eda5092c294fae83ea7a0e0621a9d5
 #: ../../source/appendice-1.rst:107
 msgid ""
 "La mécanique qui aboutit à la négation de la liberté 1 peut tout à fait ne "
@@ -165,10 +233,12 @@ msgid ""
 "gaz jusqu'à faire éclater le récipient qui le contient."
 msgstr ""
 
+# c45c8611d2f44ab9b070e4c1295b7e44
 #: ../../source/appendice-1.rst:114
 msgid "**Liberté 2 :** *L'individu est libre de produire toute valeur.*"
 msgstr ""
 
+# 4090c6122da64529b0e8e6cc8ae12b2c
 #: ../../source/appendice-1.rst:116
 msgid ""
 "Cette liberté est sans doute la plus fondamentale de la TRM, car elle "
@@ -179,6 +249,7 @@ msgid ""
 "implicite aux principes équivalents en physique."
 msgstr ""
 
+# 5617a59050d44c1ca5feb41b1701103b
 #: ../../source/appendice-1.rst:122
 msgid ""
 "Pour qu'il y ait « valeur » il est nécessaire qu'un individu identifie "
@@ -188,6 +259,7 @@ msgid ""
 "fonction d'autres paramètres inexprimables par les autres."
 msgstr ""
 
+# 1e16136a7acb461f8985accc255b281b
 #: ../../source/appendice-1.rst:127
 msgid ""
 "Par ailleurs l'objet peut ne pas exister du tout, hors l'esprit de "
@@ -199,6 +271,7 @@ msgid ""
 "futurs."
 msgstr ""
 
+# 0e241c7d539e432bb1a01800f77a4c44
 #: ../../source/appendice-1.rst:133
 msgid ""
 "Cette constatation relève de la liberté de l'esprit humain d'exprimer un "
@@ -208,6 +281,7 @@ msgid ""
 "prédictives ou descriptives selon le cadre expérimental."
 msgstr ""
 
+# 4a3db5f02b3c40da93b5b9c324380f5c
 #: ../../source/appendice-1.rst:138
 msgid ""
 "La nuisance serait donc ici de penser qu'il serait légitime pour des "
@@ -216,6 +290,7 @@ msgid ""
 "manière des critères valides devant la liberté de conceptualisation."
 msgstr ""
 
+# 53aae59619634b9d84aea19a3fda44ef
 #: ../../source/appendice-1.rst:142
 msgid ""
 "Il s'avère, bien à rebours de cette nuisance de type prosélyte, que "
@@ -225,6 +300,7 @@ msgid ""
 "être adoptée par d'autres individus."
 msgstr ""
 
+# cae61f455dd04df597d4c0369daaa0eb
 #: ../../source/appendice-1.rst:147
 msgid ""
 "Les individus vivants, ou nouveaux entrants dans l'espace de vie, comparent "
@@ -234,10 +310,46 @@ msgid ""
 "que nous n'avons pas à juger."
 msgstr ""
 
+# c31753202916499eb2ddcdee780a732b
+#: ../../source/appendice-1.rst:152
+msgid ""
+"Cela ne préjuge d'ailleurs pas d'une fin de ce processus de transformation "
+"des concepts. Cela ne préjuge pas non plus d'une pertinence a-priori plus "
+"précise ou moins précise entre ces modèles de concepts. Cela n'est qu'un "
+"fait dû à l'expérience et au choix individuel, qui est vérifié dans "
+"l'étendue de l'espace-temps de l'ensemble des vies passées. Il n'y a donc là"
+" non-plus aucun jugement de valeur a priori à tenir par défaut pour "
+"caractériser cette liberté."
+msgstr ""
+
+# 88139c2dd7ba4f9fa4ed2a8fbbfbf875
+#: ../../source/appendice-1.rst:158
+msgid ""
+"Économiquement donc, pour ce qui concerne la possibilité d'une monnaie "
+"libre, ce principe aboutit au fait qu'aucune base autre que les individus "
+"eux-mêmes ne peut être cohérente avec cette liberté, ou principe de "
+"relativité."
+msgstr ""
+
+# 503d854acdff40369a212710fdad8caf
+#: ../../source/appendice-1.rst:162
+msgid ""
+"Cette monnaie tenant lieu de compte, le crédit mutuel symétrique défini sur "
+"la base des individus mêmes est la classe de solutions générales. Dans cette"
+" classe de solutions générales, la prise en compte de l'individu dans l"
+"'espace-temps, c'est-à-dire de son espérance de vie « ev » moyenne permet "
+"d'établir le contrat monétaire commun symétrique dans l'espace-temps entre "
+"tous les individus, aboutissant ainsi aux sous classes de solutions "
+"compatibles qui sont donc ces systèmes monétaires à dividende universel dont"
+" les croissances relatives sont proches de ln(ev/2)/ (ev/2)."
+msgstr ""
+
+# e7d326587c7446a48ec9d5d5c9444b89
 #: ../../source/appendice-1.rst:170
 msgid "**Liberté 3 :** *L'individu est libre d'échanger « dans la monnaie ».*"
 msgstr ""
 
+# 2aed4b7476c24ff1b5db9fd99fa2ad9a
 #: ../../source/appendice-1.rst:172
 msgid ""
 "La liberté 0 étant exercée, l'individu peut donc comptabiliser, chiffrer, "
@@ -249,6 +361,7 @@ msgid ""
 " pas."
 msgstr ""
 
+# 3c3f376ad239460a94efdc4f2eda26c8
 #: ../../source/appendice-1.rst:178
 msgid ""
 "Si encore, des individus prétendent avoir adopté une monnaie, et n'affichent"
@@ -260,6 +373,17 @@ msgid ""
 "coercitions."
 msgstr ""
 
+# 4859d1cdccc44d6baad9d64c863ee09a
+#: ../../source/appendice-1.rst:184
+msgid ""
+"Il n'est pas bien difficile en réalité d'exercer la troisième liberté. Étant"
+" donnés des prix, comptes, calculs, affichés dans une unité monétaire "
+"donnée, il est très simple, connaissant le prix de la monnaie choisie dans "
+"l'unité monétaire affichée (le taux de change, qui n'est qu'un prix comme un"
+" autre), de faire la transformation."
+msgstr ""
+
+# fdbd98c1c20c420abe422f5067ae9391
 #: ../../source/appendice-1.rst:189
 msgid ""
 "Ainsi un individu qui voudrait voir afficher, compter, calculer tous les "
@@ -268,6 +392,7 @@ msgid ""
 "à l'aide d'un programme informatique faisant ce travail au besoin."
 msgstr ""
 
+# 6b6ecc4c49404fc09bd8eaa855d9b5a2
 #: ../../source/appendice-1.rst:193
 msgid ""
 "Je dois noter à ce propos que la monnaie relativiste est souvent mal "
@@ -279,6 +404,20 @@ msgid ""
 "soit très clair dans l'esprit du lecteur."
 msgstr ""
 
+# 1addf16507de445c851b9dc2ea524917
+#: ../../source/appendice-1.rst:199
+msgid ""
+"Le principe de relativité implique qu'il n'y a aucune mesure absolue. Pour "
+"commencer prenons l'exemple concernant la vitesse d'un objet en physique. La"
+" vitesse :math:`V_0` d'un objet sera perçue différemment selon l'observateur"
+" 1 qui aura une vitesse relative :math:`V_1` ou que l'observateur 2 aura une"
+" vitesse relative :math:`V_2` par rapport à l'objet. Chacun comprend "
+"aisément parce qu'il en a fait l'expérience qu'il voit le train immobile "
+"s'il est dedans, ou en mouvement s'il est sur le quai, ou bien encore à une "
+"autre vitesse s'il est lui-même dans un autre train."
+msgstr ""
+
+# 836ad60580034a5e9ce261ff3052614d
 #: ../../source/appendice-1.rst:206
 msgid ""
 "Le référentiel choisi décide donc de tout ce qui est mesuré. Et nous avons "
@@ -286,6 +425,34 @@ msgid ""
 "convient."
 msgstr ""
 
+# 3a7b9817c78245888c7ab888b8e77980
+#: ../../source/appendice-1.rst:209
+msgid ""
+"Si nous comptons donc en « nombre de Dividende Universels » et non plus en "
+"simples « nombres quantitatifs », nous choisissons une unité relative de "
+"monnaie, conforme au système monétaire choisi. Et ce « nombre de Dividendes "
+"Universels » est parfaitement fini, dépendant uniquement du nombre "
+"d'individus (ce qui est conforme au fondement). Donc bien que selon le "
+"référentiel quantitatif (vue du train depuis le quai) l'expansion semble un "
+"fait indéniable, selon l'observateur qui choisit le DU lui même comme unité "
+"monétaire (qui donc est dans le train) la masse monétaire ne bouge "
+"absolument pas."
+msgstr ""
+
+# 56d941fdc27148e99629ed1ba820e7a8
+#: ../../source/appendice-1.rst:217
+msgid ""
+"Un dividende global étant par exemple de 5 % de la masse monétaire, il est "
+"évident qu'il ne peut y avoir en tout et pour tout à un instant « t » qu'une"
+" limite globale de 20 dividendes dans la masse monétaire elle-même (20 × 5 %"
+" = 100 %). Si l'on fait référence aux N individus de la zone monétaire on "
+"comptera un dividende individuel de 5 % / N et donc une limite de 20 × N "
+"dividendes individuels en tout et pour tout dans la masse monétaire, donc un"
+" nombre d'unités fixes pour une population stable qui se renouvelle dans le "
+"temps."
+msgstr ""
+
+# 19a8e05da5424ea5b44a43eeedc0f559
 #: ../../source/appendice-1.rst:224
 msgid ""
 "Ensuite tous les prix, comptes, calculs, pouvant être réalisés en DU, il "
@@ -297,6 +464,7 @@ msgid ""
 "bien compris pour la même raison."
 msgstr ""
 
+# e667d693fdd842ef924623e50bbce3b7
 #: ../../source/appendice-1.rst:230
 msgid ""
 "On peut rappeler concernant ce dernier point, déjà plusieurs fois expliqué "
@@ -309,6 +477,7 @@ msgid ""
 "l'emporte pièce à tenir sur ce phénomène."
 msgstr ""
 
+# a52ca4034fdb4f899a976e05c032d229
 #: ../../source/appendice-1.rst:237
 msgid ""
 "Un raisonnement similaire réfutera les fausses assertions concernant « "
@@ -324,6 +493,7 @@ msgid ""
 "monétaire être intégralement ajoutée à leurs propres comptes."
 msgstr ""
 
+# ae48ce8a391e489e887da1b76c9f7538
 #: ../../source/appendice-1.rst:247
 msgid ""
 "Le raisonnement relativiste revient donc toujours à son fondement qui est la"
@@ -334,231 +504,9 @@ msgid ""
 "économiques, relativement aux* *hommes qui l'utilisent et l'utiliseront ?»*."
 msgstr ""
 
+# 4f8e8fc57c424e76944a7e0565138a13
 #: ../../source/appendice-1.rst:253
 msgid ""
 "La non-compréhension de ce point ne relève donc que de l'ignorance des modes"
 " de raisonnement relativistes."
 msgstr ""
-
-#: ../../source/appendice-1.rst:38
-msgid ""
-"**Liberté :** La liberté est établie comme tout ce que peut réaliser "
-"l'individu conformément à la non-nuisance vis-à-vis des autres individus "
-"vivants et futurs. Cette non-nuisance peut-être définie ou comprise en un "
-"endroit (x, y, z, t) précis de l'espace-temps et n'en a pas moins des "
-"propriétés d'évolution ou de révolution."
-msgstr ""
-
-#: ../../source/appendice-1.rst:63
-msgid ""
-"Le choix est ici extensible à la possibilité de la modification. Cela "
-"signifie donc que non-seulement l'individu peut choisir d'utiliser et "
-"d'adopter un système monétaire indépendant, et donc de se référer aux "
-"principes édictés par cet autre système monétaire, mais peut aussi agir pour"
-" faire évoluer le système monétaire qu'il utilise, conformément aux règles "
-"ou aux principes généraux qui permettent cette évolution."
-msgstr ""
-
-#: ../../source/appendice-1.rst:69
-msgid ""
-"Il s'agit donc d'une double possibilité en terme de modification de "
-"l'existant, ou de changement. C'est très comparables à la vie d'un code de "
-"programme informatique, qui évolue de versions en versions, ou bien qui « "
-"forke », c'est-à-dire qui se voit copié et modifié par d'autres dans une "
-"autre direction, ou bien encore de l'adoption d'un tout autre modèle de "
-"programme ayant évolué indépendamment dès son origine."
-msgstr ""
-
-#: ../../source/appendice-1.rst:100
-msgid ""
-"C'est typiquement le cas des latifundios, des sociétés de type féodal, des "
-"monarchies absolues ou quasi-absolues, ou encore des régimes communistes ou "
-"quasi-communistes où c'est l'État même qui joue le rôle du privateur de la "
-"première liberté économique, ou encore des régimes corporatistes où ce sont "
-"des groupes d'intérêts privés ou des alliances État-privés qui jouent "
-"ensemble ce rôle de privateur de liberté, vis-à-vis des individus ne faisant"
-" pas partie de ces groupements."
-msgstr ""
-
-#: ../../source/appendice-1.rst:152
-msgid ""
-"Cela ne préjuge d'ailleurs pas d'une fin de ce processus de transformation "
-"des concepts. Cela ne préjuge pas non plus d'une pertinence a-priori plus "
-"précise ou moins précise entre ces modèles de concepts. Cela n'est qu'un "
-"fait dû à l'expérience et au choix individuel, qui est vérifié dans "
-"l'étendue de l'espace-temps de l'ensemble des vies passées. Il n'y a donc là"
-" non-plus aucun jugement de valeur a priori à tenir par défaut pour "
-"caractériser cette liberté."
-msgstr ""
-
-#: ../../source/appendice-1.rst:158
-msgid ""
-"Économiquement donc, pour ce qui concerne la possibilité d'une monnaie "
-"libre, ce principe aboutit au fait qu'aucune base autre que les individus "
-"eux-mêmes ne peut être cohérente avec cette liberté, ou principe de "
-"relativité."
-msgstr ""
-
-#: ../../source/appendice-1.rst:162
-msgid ""
-"Cette monnaie tenant lieu de compte, le crédit mutuel symétrique défini sur "
-"la base des individus mêmes est la classe de solutions générales. Dans cette"
-" classe de solutions générales, la prise en compte de l'individu dans l"
-"'espace-temps, c'est-à-dire de son espérance de vie « ev » moyenne permet "
-"d'établir le contrat monétaire commun symétrique dans l'espace-temps entre "
-"tous les individus, aboutissant ainsi aux sous classes de solutions "
-"compatibles qui sont donc ces systèmes monétaires à dividende universel dont"
-" les croissances relatives sont proches de ln(ev/2)/ (ev/2)."
-msgstr ""
-
-#: ../../source/appendice-1.rst:184
-msgid ""
-"Il n'est pas bien difficile en réalité d'exercer la troisième liberté. Étant"
-" donnés des prix, comptes, calculs, affichés dans une unité monétaire "
-"donnée, il est très simple, connaissant le prix de la monnaie choisie dans "
-"l'unité monétaire affichée (le taux de change, qui n'est qu'un prix comme un"
-" autre), de faire la transformation."
-msgstr ""
-
-#: ../../source/appendice-1.rst:199
-msgid ""
-"Le principe de relativité implique qu'il n'y a aucune mesure absolue. Pour "
-"commencer prenons l'exemple concernant la vitesse d'un objet en physique. La"
-" vitesse :math:`V_0` d'un objet sera perçue différemment selon l'observateur"
-" 1 qui aura une vitesse relative :math:`V_1` ou que l'observateur 2 aura une"
-" vitesse relative :math:`V_2` par rapport à l'objet. Chacun comprend "
-"aisément parce qu'il en a fait l'expérience qu'il voit le train immobile "
-"s'il est dedans, ou en mouvement s'il est sur le quai, ou bien encore à une "
-"autre vitesse s'il est lui-même dans un autre train."
-msgstr ""
-
-#: ../../source/appendice-1.rst:209
-msgid ""
-"Si nous comptons donc en « nombre de Dividende Universels » et non plus en "
-"simples « nombres quantitatifs », nous choisissons une unité relative de "
-"monnaie, conforme au système monétaire choisi. Et ce « nombre de Dividendes "
-"Universels » est parfaitement fini, dépendant uniquement du nombre "
-"d'individus (ce qui est conforme au fondement). Donc bien que selon le "
-"référentiel quantitatif (vue du train depuis le quai) l'expansion semble un "
-"fait indéniable, selon l'observateur qui choisit le DU lui même comme unité "
-"monétaire (qui donc est dans le train) la masse monétaire ne bouge "
-"absolument pas."
-msgstr ""
-
-#: ../../source/appendice-1.rst:217
-msgid ""
-"Un dividende global étant par exemple de 5 % de la masse monétaire, il est "
-"évident qu'il ne peut y avoir en tout et pour tout à un instant « t » qu'une"
-" limite globale de 20 dividendes dans la masse monétaire elle-même (20 × 5 %"
-" = 100 %). Si l'on fait référence aux N individus de la zone monétaire on "
-"comptera un dividende individuel de 5 % / N et donc une limite de 20 × N "
-"dividendes individuels en tout et pour tout dans la masse monétaire, donc un"
-" nombre d'unités fixes pour une population stable qui se renouvelle dans le "
-"temps."
-msgstr ""
-
-#~ msgid ""
-#~ "**Liberté :** La liberté est établie comme tout ce que peut réaliser "
-#~ "l'individu conformément à la non-nuisance vis à vis des autres individus "
-#~ "vivants et futurs. Cette non-nuisance peut-être définie ou comprise en un "
-#~ "endroit(x,y,z,t) précis de l'espace-temps et n'en a pas moins des propriétés"
-#~ " d'évolution ou de révolution."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Le choix est ici extensible à la possibilité de la modification. Cela "
-#~ "signifie donc que non- seulement l'individu peut choisir d'utiliser et "
-#~ "d'adopter un système monétaire indépendant, et donc de se référer aux "
-#~ "principes édictés par cet autre système monétaire, mais peut aussi agir pour"
-#~ " faire évoluer le système monétaire qu'il utilise, conformément aux règles "
-#~ "ou aux principes généraux qui permettent cette évolution."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Il s'agit donc d'une double possibilité en terme de modification de "
-#~ "l'existant, ou de changement. C'est très comparables à la vie d'un code de "
-#~ "programme informatique, qui évolue de versions en versions, ou bien qui « "
-#~ "forke », c'est à dire qui se voit copié et modifié par d'autres dans une "
-#~ "autre direction, ou bien encore de l'adoption d'un tout autre modèle de "
-#~ "programme ayant évolué indépendamment dès son origine."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "C'est typiquement le cas des latifundios, des sociétés de type féodal, des "
-#~ "monarchies absolues ou quasi-absolues, ou encore des régimes communistes ou "
-#~ "quasi-communistes où c'est l'Etat même qui joue le rôle du privateur de la "
-#~ "première liberté économique, ou encore des régimes corporatistes où ce sont "
-#~ "des groupes d'intérêts privés ou des alliances Etat-privés qui jouent "
-#~ "ensemble ce rôle de privateur de liberté, vis à vis des individus ne faisant"
-#~ " pas partie de ces groupements."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Cela ne préjuge d'ailleurs pas d'une fin de ce processus de transformation "
-#~ "des concepts. Cela ne préjuge pas non plus d'une pertinence a-priori plus "
-#~ "précise ou moins précise entre ces modèles de concepts. Cela n'est qu'un "
-#~ "fait dû à l'expérience et au choix individuel, qui est vérifié dans "
-#~ "l'étendue de l'espace-temps de l'ensemble des vies passées. Il n'y a donc là"
-#~ " non-plus aucun jugement de valeur a-priori à tenir par défaut pour "
-#~ "caractériser cette liberté."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Economiquement donc, pour ce qui concerne la possibilité d'une monnaie "
-#~ "libre, ce principe aboutit au fait qu'aucune base autre que les individus "
-#~ "eux-mêmes ne peut être cohérente avec cette liberté, ou principe de "
-#~ "relativité."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Cette monnaie tenant lieu de compte, le crédit mutuel symétrique défini sur "
-#~ "la base des individus mêmes est la classe de solutions générales. Dans cette"
-#~ " classe de solutions générales, la prise en compte de l'individu dans l"
-#~ "'espace-temps, c'est à dire de son espérance de vie « ev » moyenne permet "
-#~ "d'établir le contrat monétaire commun symétrique dans l'espace-temps entre "
-#~ "tous les individus, aboutissant ainsi aux sous classes de solutions "
-#~ "compatibles qui sont donc ces systèmes monétaires à dividende universel dont"
-#~ " les croissances relatives sont proches de ln(ev/2)/ (ev/2)."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Il n'est pas bien difficile en réalité d'exercer la troisième liberté. Etant"
-#~ " donnés des prix, comptes, calculs, affichés dans une unité monétaire "
-#~ "donnée, il est très simple, connaissant le prix de la monnaie choisie dans "
-#~ "l'unité monétaire affichée (le taux de change, qui n'est qu'un prix comme un"
-#~ " autre), de faire la transformation."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Le principe de relativité implique qu'il n'y a aucune mesure absolue. Pour "
-#~ "commencer prenons l'exemple concernant la vitesse d'un objet en physique. La"
-#~ " vitesse V0 d'un objet sera perçue différemment selon l'observateur 1 qui "
-#~ "aura une vitesse relative V1 ou que l'observateur 2 aura une vitesse "
-#~ "relative V2 par rapport à l'objet. Chacun comprend aisément parce qu'il en a"
-#~ " fait l'expérience qu'il voit le train immobile s'il est dedans, ou en "
-#~ "mouvement s'il est sur le quai, ou bien encore à une autre vitesse s'il est "
-#~ "lui-même dans un autre train."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Si nous comptons donc en « nombre de Dividende Universels » et non plus en "
-#~ "simples « nombres quantitatifs », nous choisissons une unité relative de "
-#~ "monnaie, conforme au système monétaire choisi. Et ce « nombre de Dividendes "
-#~ "Universels » est parfaitement fini, dépendant uniquement du nombre "
-#~ "d'individus (ce qui est conforme au fondement). Donc bien que selon le "
-#~ "référentiel quantitatif (vue du train depuis le quai) l'expansion semble un "
-#~ "fait indéniable, selon l'observateur qui choisit le DU lui même comme unité "
-#~ "monétaire (qui donc est dans le train) la masse monétaire ne bouge "
-#~ "absolument pas."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Un dividende global étant par exemple de 5 % de la masse monétaire, il est "
-#~ "évident qu'il ne peut y avoir en tout et pour tout à un instant « t » qu'une"
-#~ " limite globale de 20 dividendes dans la masse monétaire elle-même (20 x 5 %"
-#~ " = 100 %). Si l'on fait référence aux N individus de la zone monétaire on "
-#~ "comptera un dividende individuel de 5 %/N et donc une limite de 20xN "
-#~ "dividendes individuels en tout et pour tout dans la masse monétaire, donc un"
-#~ " nombre d'unités fixes pour une population stable qui se renouvelle dans le "
-#~ "temps."
-#~ msgstr ""

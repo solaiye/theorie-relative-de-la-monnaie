@@ -1,20 +1,28 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Stéphane Laborde
+# This file is distributed under the same license as the Théorie Relative de la Monnaie package.
 # 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Théorie Relative de la Monnaie 2.718\n"
+"Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-15 20:40+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2015-07-16 10:25+0200\n"
+"PO-Revision-Date: 2015-07-16 08:41+0000\n"
+"Last-Translator: Vincent Texier\n"
+"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# 68394dbc0f2c471dbfd66ce7d046da10
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:3
 msgid "Comment installer une monnaie à Dividende Universel ?"
 msgstr ""
 
+# 07cd4d6854384af1ac65a3cc586119e2
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:5
 msgid ""
 "Une monnaie à Dividende Universel peut s'installer au choix sur la base "
@@ -22,10 +30,12 @@ msgid ""
 "approches, simple ou progressive."
 msgstr ""
 
+# d9183275b3854ee39f0114fd072e2d09
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:10
 msgid "Approche simple"
 msgstr ""
 
+# 40709721a9bd49a2b426c0a4a0a51be8
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:12
 msgid ""
 "La première approche consiste à installer un Dividende Universel initial "
@@ -36,6 +46,7 @@ msgid ""
 "préexistante qui mute en Dividende Universel."
 msgstr ""
 
+# 0ef88030eadc4089a56fee3d40591ac4
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:19
 msgid ""
 "Par exemple en zone euro cette approche pourrait être effectuée sur la base "
@@ -48,10 +59,12 @@ msgid ""
 "toute sa part dans le système monétaire."
 msgstr ""
 
+# f893948d1ae344a9b5357f0ec259926b
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:34
 msgid "Approche progressive, le cas Européen"
 msgstr ""
 
+# 8a60f312b29a42d9802a1187d35dd261
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:36
 msgid ""
 "La deuxième approche consiste à allouer à chaque nouveau membre un crédit "
@@ -60,6 +73,7 @@ msgid ""
 "au sein d'un SEL."
 msgstr ""
 
+# aa44e91fc08642ba8241096f86676ece
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:41
 msgid ""
 "L'Europe nous fournit un cas tout à fait intéressant de Dividende Universel "
@@ -75,6 +89,7 @@ msgid ""
 " risque de sortir des conditions d'obtention."
 msgstr ""
 
+# 97041d515a104166ab42cbfab7c29b03
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:53
 msgid ""
 "Le revenu minimum constaté en France ou en Allemagne est environ en moyenne "
@@ -83,22 +98,26 @@ msgid ""
 "activité déclarée)."
 msgstr ""
 
+# 1ba34112f9b44394bf9e9bc34ee09b75
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:57
 msgid ""
 "Si la zone euro déclarait brutalement ce niveau de DU pour les 330 millions "
 "de citoyens, cela reviendrait"
 msgstr ""
 
+# bd8bf204cf3b41339682a215ee0f57ec
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:64
 msgid ""
 "à un taux de 18 % de la masse monétaire, qui, à DU fixe, atteindrait le taux"
 " de croissance optimal de 5 % de la masse monétaire en 15 ans."
 msgstr ""
 
+# 85565c90b9cf4f25b73303435979280b
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:68
 msgid "Le DU lui même suivrait alors cette évolution :"
 msgstr ""
 
+# 76697a0e051e46b49b52ed823bfeb092
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:74
 msgid ""
 "On pourrait objecter que cette évolution serait brusque, créant des "
@@ -107,6 +126,7 @@ msgid ""
 "voir économiquement désorganisés de façon très rapide."
 msgstr ""
 
+# 674d336e4bc84fef9630303f258a43e4
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:79
 msgid ""
 "On peut alors imaginer une autre stratégie de convergence plus souple, en "
@@ -115,6 +135,7 @@ msgid ""
 "faire converger vers une cible de 450 € / mois / citoyen dans toute la zone."
 msgstr ""
 
+# 8903367f4d0d45fdbdbd2b5edfe7d40f
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:84
 msgid ""
 "En se basant sur la croissance asymétrique forte de la masse monétaire euro "
@@ -124,16 +145,19 @@ msgid ""
 "atteindrait alors très rapidement cet objectif car :"
 msgstr ""
 
+# 62948cf0a5754720bb252897da502eae
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:94
 msgid "équivaut à"
 msgstr ""
 
+# e188ff53ce1541d89d22bad56ab28c39
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:100
 msgid ""
 "La même durée que selon la première stratégie ! (mais en créant moins de "
 "monnaie, et donc de façon plus progressive)."
 msgstr ""
 
+# a85741cf52c349338a5b41369e2df29f
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:103
 msgid ""
 "Les possibilités d'instauration progressives existent donc, c'est une simple"
@@ -142,10 +166,12 @@ msgid ""
 "devant la mesure de toute valeur, et donc devant la création monétaire."
 msgstr ""
 
+# acaf598ba8f2424da9c316b99cfaedf6
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:113
 msgid "Réflexion sur le prêt à intérêts"
 msgstr ""
 
+# e212ee8530134d7c88c8b649514db1ef
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:115
 msgid ""
 "Quelque soit le système monétaire utilisé, il convient de bien réfléchir au "
@@ -155,6 +181,7 @@ msgid ""
 "réaliser, indépendamment de tout niveau de production ou d'échange."
 msgstr ""
 
+# b5222bcf21b04b77a17bce16710e1978
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:121
 msgid ""
 "Si une zone économique autonome mais non-isolée, dont la monnaie locale a "
@@ -164,6 +191,7 @@ msgid ""
 "conditions de faillite forcée."
 msgstr ""
 
+# f36a70a8b8b94c6aac86edabadd1e35e
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:127
 msgid ""
 "Par exemple en France en 2010, quoique la masse monétaire ait augmenté de 8 "
@@ -174,6 +202,7 @@ msgid ""
 " provoquer des faillites personnelles."
 msgstr ""
 
+# 8dcd541375fe4d57a2d83b80f582e2de
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:134
 msgid ""
 "Mais par ailleurs prenons le cas d'un taux de croissance monétaire global de"
@@ -189,6 +218,7 @@ msgid ""
 "notion de production et d'échange de valeur."
 msgstr ""
 
+# a3a5e7e1486e4cdda2f6ba7e9812ac97
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:145
 msgid ""
 "On pourrait se dire que celui qui accepte le prêt devrait en évaluer les "
@@ -201,6 +231,7 @@ msgid ""
 " de la modifier, le second n'a ni l'un ni l'autre."
 msgstr ""
 
+# d2c51a4654c748afa83847f953b04f03
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:154
 msgid ""
 "Avec un Dividende Universel transparent, la croissance long terme de la "
@@ -213,6 +244,7 @@ msgid ""
 "maximales requises, mais de prêter moins ou pas du tout."
 msgstr ""
 
+# e13e045a3d90440aaf5c7142b76facce
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:163
 msgid ""
 "À minima ce devrait être aussi le cas dans tout système monétaire. Le taux "
@@ -223,16 +255,19 @@ msgid ""
 "irrecevables."
 msgstr ""
 
+# 90e444dd73a741668814a139b186fae7
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:169
 msgid ""
 "Il est logiquement aberrant que la Loi n'interdise pas d'émettre des prêts à"
 " un taux d'intérêt supérieur au taux de croissance de la masse monétaire."
 msgstr ""
 
+# d06aa7fdbaf24a289d16082aa307c723
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:173
 msgid "Réflexion sur l'impôt"
 msgstr ""
 
+# 75d33e9826954e0ba8ab3bc7d81fab90
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:175
 msgid ""
 "Le même raisonnement que sur le prêt à intérêts, implique que l'impôt ne "
@@ -241,6 +276,7 @@ msgid ""
 "individuelle."
 msgstr ""
 
+# 6f94048581864c0ab037cbaf9ad32e1f
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:179
 msgid ""
 "Cela signifie que dans une économie à Dividende Universel les représentants "
@@ -252,14 +288,3 @@ msgid ""
 "produit, et ne pas s'endetter au-delà du raisonnable étant donné le flux "
 "normal de revenus qu'il est censé obtenir."
 msgstr ""
-
-#~ msgid ""
-#~ "Cela signifie que dans une économie à Dividende Universel les représentants "
-#~ "de la collectivité, pour financer des projets collectifs par l'impôt doivent"
-#~ " faire leur estimation en se basant sur le nombre d'individus gérés, et "
-#~ "connaissant le facteur de croissance monétaire « c » n'en prenne au maximum "
-#~ "qu'une fraction globale la plus faible possible « f ``*`` c ». Pour le reste"
-#~ " l'État devrait se financer par la vente libre des biens et services qu'il "
-#~ "produit, et ne pas s'endetter au-delà du raisonnable étant donné le flux "
-#~ "normal de revenus qu'il est censé obtenir."
-#~ msgstr ""

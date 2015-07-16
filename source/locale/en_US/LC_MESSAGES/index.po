@@ -8,22 +8,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-13 20:46+0100\n"
+"POT-Creation-Date: 2015-07-16 10:25+0200\n"
 "PO-Revision-Date: 2015-01-14 20:15+0000\n"
 "Last-Translator: Vincent Texier\n"
-"Language-Team: English (United States) (http://www.transifex.com/projects/p/french-to-english/language/en_US/)\n"
+"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: en_US\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 007e002d48e141559a418f19ffd933d8
+# 85a254dc3a8f4bfbbaf0771d1d1fe7dd
 #: ../../source/index.rst:3
 msgid "Sommaire"
 msgstr "Table of content"
 
-# 5b10fb12d5784d29a4c2238506936bd0
+# 765d43b499314149a70cb7452e2e852e
 #: ../../source/index.rst:34
 msgid ""
 "*TRM multi-formats par Vincent Texier, d'après un projet de Stéphane Klein.*"
