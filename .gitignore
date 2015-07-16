@@ -1,7 +1,10 @@
 .installed.cfg
 .~lock*
 bin/
-build/
+# include pot files for Weblate translation
+build/*
+!build/locale
+build/locale/*/
 develop-eggs/
 .Python
 TRM_2_718_b.odt

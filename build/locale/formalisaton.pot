@@ -1,0 +1,289 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Stéphane Laborde
+# This file is distributed under the same license as the Théorie Relative de la Monnaie package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Théorie Relative de la Monnaie 2.718\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-16 17:26+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/formalisaton.rst:3
+# 5767319011f74c04b52ea25036a4113e
+msgid "Formalisation"
+msgstr ""
+
+#: ../../source/formalisaton.rst:6
+# bf2d6d21f6ad4c95b121699b5e9604a1
+msgid "Principe de relativité"
+msgstr ""
+
+#: ../../source/formalisaton.rst:8
+# 8c98b05aa5c047e8959110e3a24e48d5
+msgid "Le principe de relativité tel que défini par Albert Einstein postule que *« les Lois physiques s'expriment de manière identique (ont la même forme) dans tous les référentiels »* (référentiels inertiels ou non). On l'appelle aussi principe de symétrie, ou encore covariance. Le principe ne signifie pas que les observateurs mesurent la même chose, mais que les Lois physiques que l'on établit doivent, suite à leur transformation en passant d'un référentiel à l'autre, avoir la même forme générale. Aussi  les mesures sont bien différentes d'un observateur à l'autre, la seule mesure invariante étant celle de la vitesse de la lumière."
+msgstr ""
+
+#: ../../source/formalisaton.rst:17
+# 5334e71064fd4da5954f16d246bfa179
+msgid "Pour l'économie j'ai étendu ce principe à la notion de monnaie *« la monnaie, en tant que code universel qui régit les échanges économiques,* *doit fonctionner de manière identique dans tous les référentiels »* et de valeur *« tout individu est libre d'estimer ce qui est valeur et ce qui ne l'est pas »*."
+msgstr ""
+
+#: ../../source/formalisaton.rst:22
+# 497e84de27744af9ad22282cc9231c8c
+msgid "Dans l'économie, tout couple observateur / référentiel est un individu au sein de sa zone monétaire et les principes doivent être valables et de même forme, quelle que soit la position spatio-temporelle envisagée. Il s'agit donc aussi d'appliquer le 1er article des Droits de l'Homme quant à l'égalité devant le droit entre les individus, pour l'appliquer non seulement au code qui va régir la monnaie commune, mais aussi à la mesure relative de toute valeur, qui est aussi la compréhension de la liberté de choix de l'individu vis-à-vis de la valeur, au niveau de sa production, autant que de son échange."
+msgstr ""
+
+#: ../../source/formalisaton.rst:32
+# 8b766de0179b4bf0a9734448ad01e3c5
+msgid "Autrement dit *« aucun individu ne doit être privilégié quant au jugement et la mesure de toute valeur »*."
+msgstr ""
+
+#: ../../source/formalisaton.rst:35
+# 706f2491327c4e61b6f102ad1237fc0b
+msgid "Liberté, valeur, monnaie, repère"
+msgstr ""
+
+#: ../../source/formalisaton.rst:37
+# 18413240d5e54ea7a344aafbca46ae32
+msgid "On ne peut pas non plus établir un ensemble théorique cohérent sans préciser les libertés fondamentales auxquels il se réfère. Ces libertés sont absentes des théories classiques pour la mauvaise raison qu'elles les ignorent."
+msgstr ""
+
+#: ../../source/formalisaton.rst:43
+# b2ab110a64044516bd4c66298cff0850
+msgid "a) Liberté"
+msgstr ""
+
+#: ../../source/formalisaton.rst:45
+# 8630c77de978488ab0466be9e96cbd48
+msgid "La liberté se définit comme étant un principe symétrique : non-nuisance vis-à-vis de soi-même et d'autrui."
+msgstr ""
+
+#: ../../source/formalisaton.rst:50
+# 285f47f24aac4e95b74c354ac1055261
+msgid "b) Valeur"
+msgstr ""
+
+#: ../../source/formalisaton.rst:52
+# 36e924afad4446b7b90ca9f8fb2a87cf
+msgid "On entend par valeur tout bien économique matériel, énergétique, immatériel, spatial ou temporel. Par exemple on pourra attribuer une valeur à un fruit, de l'électricité, un logiciel, un terrain ou un enseignement. Le principe de relativité nie toute mesure absolue de valeur. Toute valeur est fluctuante relativement à l'individu qui l'utilise, la produit ou l'échange, elle est donc fluctuante dans tout l'espace-temps considéré."
+msgstr ""
+
+#: ../../source/formalisaton.rst:61
+# 5212b6c0d0d44c379837cae1aa28a7ff
+msgid "c) Monnaie"
+msgstr ""
+
+#: ../../source/formalisaton.rst:63
+# ed537b33a403482280fc2a30c8667bc5
+msgid "La monnaie est un outil de compte et d'échange commun à tous les citoyens de la même zone économique (par extension on pourra dire « universel », en ayant conscience qu'il s'agit d'un « universel » au sein de la zone monétaire considérée)."
+msgstr ""
+
+#: ../../source/formalisaton.rst:69
+# da13caf83e284977a2550e6c25a82e36
+msgid "d) Zone monétaire"
+msgstr ""
+
+#: ../../source/formalisaton.rst:71
+# b35addbe23c14d4aa1a01b3eda9c7715
+msgid "Une zone monétaire (ou zone économique) se définit par un espace souverain, et ses citoyens présents et futurs. Il s'agit donc d'un espace-temps local."
+msgstr ""
+
+#: ../../source/formalisaton.rst:77
+# cf99612066334d9fb2bd424cc987854f
+msgid "Axiomatique"
+msgstr ""
+
+#: ../../source/formalisaton.rst:79
+# 2b7cdd7a405a4c3e9a0375f867f94f9d
+msgid "Le principe de liberté doit s'accorder avec tout individu présent et futur et nous permet de définir les trois libertés économiques fondamentales sous la forme des axiomes fondamentaux suivants :"
+msgstr ""
+
+#: ../../source/formalisaton.rst:85
+# 218ae5bd562b47cba2bf21c493da679e
+msgid "a) Liberté d'accès aux ressources"
+msgstr ""
+
+#: ../../source/formalisaton.rst:87
+# d18bb95c867c4bad852e9936ffc76ff6
+msgid "Tout citoyen est libre d'accéder aux ressources."
+msgstr ""
+
+#: ../../source/formalisaton.rst:91
+# 2c20b09d2abe492ca9b1385ccc660996
+msgid "b) Liberté de production"
+msgstr ""
+
+#: ../../source/formalisaton.rst:93
+# cced066f8cc24bb4b8943f631c273902
+msgid "Tout citoyen est libre de produire de la valeur."
+msgstr ""
+
+#: ../../source/formalisaton.rst:97
+# fa9b4acf424e45ea8cc0ef5db9accecf
+msgid "c) Liberté d'échange « dans la monnaie »"
+msgstr ""
+
+#: ../../source/formalisaton.rst:99
+# fcfedf11b13a4d9eb59d680b10b92212
+msgid "Tout citoyen est libre d'échanger avec autrui « dans la monnaie »"
+msgstr ""
+
+#: ../../source/formalisaton.rst:101
+# e2862b02a321454ebb575d749a8cdca2
+msgid "La liberté étant définie comme non-nuisance, il ne faut pas tomber dans l'erreur logique basique qui consisterait à interpréter les libertés économiques comme un droit de violer la propriété d'autrui, de produire ou échanger ce qui ne serait pas permis par la Loi."
+msgstr ""
+
+#: ../../source/formalisaton.rst:106
+# c916b35d895244e2933019dbfb7b57a1
+msgid "Comment donc interpréter la « liberté d'accès aux ressources » ? On doit l'interpréter sous l'angle de la non-nuisance comme le stipule la « clause Lockéenne » :"
+msgstr ""
+
+#: ../../source/formalisaton.rst:110
+# 3c8f2f6030d1427d9203287d7ff80c3a
+msgid "*« Lorsque quelqu'un s'approprie un objet, il doit en rester suffisamment et en* *qualité aussi bonne en commun pour les autres »*."
+msgstr ""
+
+#: ../../source/formalisaton.rst:113
+# 1c1759771bd84d0b80403ab53691d989
+msgid "Par exemple quelqu'un n'a pas le droit de s'approprier l'unique source d'eau d'un désert, sans que soit assuré un accès minimal à l'eau pour quiconque."
+msgstr ""
+
+#: ../../source/formalisaton.rst:118
+# 1262ea1161ad41f1ae51fde56862b2f0
+msgid "Code libre et système monétaire libre"
+msgstr ""
+
+#: ../../source/formalisaton.rst:120
+# 05ef02e24af1402193b3cdefec9af81b
+msgid "Un code libre tel que défini dans le monde logiciel (« free software ») consiste en un code de programme informatique ouvert, et modifiable par ses utilisateurs. Ce principe de « liberté du code » est fondamentalement compatible avec le principe de Relativité, parce que si les Lois sont indépendantes du référentiel, c'est bien qu'elles ne sont ni cachées, ni inaccessibles via l'expérimentation où que l'on se trouve."
+msgstr ""
+
+#: ../../source/formalisaton.rst:128
+# af10f49f3f2a4aa182a5a5a10a152ed3
+msgid "Or la monnaie est actuellement un code propriétaire caché, dans le sens où la monnaie est contrôlée par des règles non modifiables démocratiquement (essentiellement les règles de Bâle I, II et bientôt III, qui ne sont en aucune manière établies suivant un processus démocratique), et que les opérations effectuées par le système Bancaire concernant l'émission de crédits asymétriques ne sont pas transparentes. La crise historique des « subprimes » qui a vu son sommet en 2008 en est la dernière illustration en date."
+msgstr ""
+
+#: ../../source/formalisaton.rst:137
+# bc3b6893134444bc97964c112445fa2c
+msgid "Selon les conséquences de la « perspective numérique » révélée par Olivier Auber, le choix d'un système implique le choix du code qui le régit, et n'est pas neutre. On doit donc se poser la question de la transparence et de la légitimité du code."
+msgstr ""
+
+#: ../../source/formalisaton.rst:141
+# 762890ae03b34ced92ba29ebb666d540
+msgid "Ceci implique que la liberté du code qui régit un système (ici la monnaie, code de tous les échanges économiques), est une notion préalable au choix, sinon il n'y a tout simplement pas de choix, et donc pas de liberté. Selon ce critère défendu par l'inventeur du logiciel libre Richard Stallman, si vous acceptez d'utiliser un système dont le code n'est pas libre, vous vous privez de libertés fondamentales."
+msgstr ""
+
+#: ../../source/formalisaton.rst:148
+# 9bb5d663db944cbe8de95eb1d9258eea
+msgid "La conséquence d'un système monétaire à code caché, est l'émergence d'une économie dont le champ de valeur est une structure topologique pyramidale auto-reproductive et instable. Par contre la conséquence de l'utilisation d'un système monétaire libre est l'émergence d'une économie dont le champ de valeur est une structure sphérique en expansion dans l'espace-temps, compatible avec le renouvellement des générations."
+msgstr ""
+
+#: ../../source/formalisaton.rst:155
+# 79a02d0d9b49464a8fcb79b875499337
+msgid "On fera toutefois la différence entre les libertés logicielles définies par la Free Software Foundation (FSF), qui sont au nombre de quatre, et celles liées aux libertés d'un protocole de communication ou d'échange comme la monnaie, qui lui ne peut pas être modifié individuellement sans se couper de la communauté qui l'utilise. Ainsi pour le logiciel libre, les libertés définies par la FSF sont :"
+msgstr ""
+
+#: ../../source/formalisaton.rst:162
+# 423a8c31980a4329b98b7a8ee82110d6
+msgid "Liberté d'utilisation"
+msgstr ""
+
+#: ../../source/formalisaton.rst:163
+# 703c6b9935c6435287b46c540f85b6a8
+msgid "Liberté d'accès au code source"
+msgstr ""
+
+#: ../../source/formalisaton.rst:164
+# f1e723d25f294a19b9e68c116e8b0f90
+msgid "Liberté de modification du code source"
+msgstr ""
+
+#: ../../source/formalisaton.rst:165
+# f12548be2401488a8f7ac997c93724df
+msgid "Liberté de copie"
+msgstr ""
+
+#: ../../source/formalisaton.rst:167
+# fd08523d4bb34ff4ae71aaa6470d0b20
+msgid "Qui sont différentes des quatres libertés qui doivent être associées à un système monétaire libre :"
+msgstr ""
+
+#: ../../source/formalisaton.rst:170
+#: ../../source/formalisaton.rst:207
+# de9f4e3b233e44858525da411f865413
+# b8726879764640e88b635c6ee1fa0c57
+msgid "Liberté de modification démocratique"
+msgstr ""
+
+#: ../../source/formalisaton.rst:171
+#: ../../source/formalisaton.rst:209
+# 445866ef03c1443fb2428e8214dae701
+# e579b5838de44353a435f78a227e274d
+msgid "Liberté d'accès aux ressources"
+msgstr ""
+
+#: ../../source/formalisaton.rst:172
+# d57246460e9045e0b823f75dd42f4d32
+msgid "Liberté de production de valeurs"
+msgstr ""
+
+#: ../../source/formalisaton.rst:173
+#: ../../source/formalisaton.rst:211
+# cb2eea970bbe4794bbe9104d70425725
+# 97859bfc1e3148669e2e60620d4ad565
+msgid "Liberté d'échange « dans la monnaie »"
+msgstr ""
+
+#: ../../source/formalisaton.rst:175
+# 764b5e9e8bef41b4b1fd0621b3fa8104
+msgid "Exemples : En 2011, l'euro ne peut-être considéré comme une monnaie d'un système monétaire libre puisque son code (les accords sur le code monétaire) ne sont pas modifiés via un processus démocratique."
+msgstr ""
+
+#: ../../source/formalisaton.rst:179
+# 546afb86244644a6962166e9ef2482dc
+msgid "Nous pouvons parler de l'euro comme d'une monnaie privatrice de liberté, ou encore un système monétaire privateur, *au moins* au sens de la première liberté et plus encore selon la quatrième liberté comme nous le verrons par la suite."
+msgstr ""
+
+#: ../../source/formalisaton.rst:183
+# 7650ded24b6f4832b0ff1d52e30efb1f
+msgid "Autre exemple : l'or. Nous pouvons parler de l'or comme d'un *candidat monétaire* ne respectant pas *au moins* la troisième liberté économique d'échange *« dans la monnaie »*, pour la raison simple - que nous développerons par la suite - qu'il n'est pas universellement accessible au sein d'une zone économique. Une telle « monnaie » qui force le retour au troc là où elle n'est pas présente, ne peut avoir la caractéristique de liberté « d'échange dans la monnaie »."
+msgstr ""
+
+#: ../../source/formalisaton.rst:190
+# 030135a0a3904597a85c129ff84a6b32
+msgid "Et c'est pourquoi la TRM fait la différence entre une valeur spécifique et la monnaie *« mesure et moyen d'échange universel »* au sein de la zone monétaire."
+msgstr ""
+
+#: ../../source/formalisaton.rst:193
+# e75a3b4f6ff64bbc8ac55cfe7434bceb
+msgid "C'est un peu le même rôle que joue la vitesse de la lumière au sein de la physique Relativiste. La lumière n'est pas un objet physique comme les autres. Sa vitesse, donnée d'espace/temps (une distance divisée par un temps) est la même dans tous les référentiels. Et c'est parce que les observateurs s'accordent sur ce point, qu'ils en déduisent la relativité des autres mesures pour établir une théorie relativiste compatible entre eux, donnant des mesures différentes selon les référentiels, mais « de même forme »."
+msgstr ""
+
+#: ../../source/formalisaton.rst:202
+# c844fe1710ef4853ba88ea8de68f82a6
+msgid "Résumé"
+msgstr ""
+
+#: ../../source/formalisaton.rst:204
+# 0ced4cd90b654a6f88906d80f01e2628
+msgid "Nous voici donc munis des fondements suivants :"
+msgstr ""
+
+#: ../../source/formalisaton.rst:206
+# a3889f4ca881468e9ac071a5c9863866
+msgid "Principe de Relativité"
+msgstr ""
+
+#: ../../source/formalisaton.rst:210
+# a7bbe47b3cde4af0a6e9aec9107b94af
+msgid "Liberté de productions"
+msgstr ""
+

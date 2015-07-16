@@ -1,0 +1,668 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Stéphane Laborde
+# This file is distributed under the same license as the Théorie Relative de la Monnaie package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Théorie Relative de la Monnaie 2.718\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-16 17:26+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:3
+# 1ca9befc08fe42939f9d00a176b785d1
+msgid "Zooms sur l'histoire de la monnaie"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:5
+# abbd47d1128b4f438bf042293ee73296
+msgid "Dans ce chapitre, des périodes monétaires historiques et consécutives sont analysées du point de vue relatif de la TRM, Il ne s'agit nullement d'un point de vue « absolu »."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:10
+# c353a62ac933425090ee0c125f7fec5c
+msgid "Les monnaies néolithiques, premières monnaies denses à inflation incontrôlable"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:12
+# 9fabb44be23a4a609bce4385dc6fdc92
+msgid "Dès le néolithique on retrouve des équivalents de comptabilisation des échanges par du troc matériel basé sur des valeurs de référence diverses. On a retrouvé ainsi par exemple en Bretagne, dans les tumulus constitués à ces époques, des stocks importants de haches en jade, dont le nombre et la dissémination font forcément penser à des stocks monétaires, permettant des échanges sur la base d'une valeur de référence."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:19
+# 84bde65aa0da453da07e379799848f62
+msgid "On avait déjà avec ce type de comptabilité la possibilité d'une inflation monétaire par ceux qui avaient accès aux stocks de cette valeur de référence, ceci expliquant sans doute que des stocks aussi importants soient parvenus jusqu'à nous."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:28
+# 0db704919a2e4c34a51f58c8fb19ed6e
+msgid "*Haches en Jade du néolithique (Wikimedia)*"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:31
+# 724a9f4b5ef84d6d8f67b5746efc4e9a
+msgid "Les monnaies métalliques, premières monnaies limitant l'inflation"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:33
+# 8b5c1251f3bf401eb532cef950022fec
+msgid "Le troc étant insuffisant pour permettre les échanges, et les premières monnaies basées sur des productions potentiellement fortement inflationnistes, parce que facilement productibles par tout un chacun, il est devenu nécessaire d'utiliser une monnaie de valeur plus stable. Et pour cela les métaux rares allaient avantageusement prendre la place monétaire centrale."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:39
+# 3a7d6322ec894683bfe1b57d0d572c5a
+msgid "C'est ainsi que l'or, l'argent, le bronze et le cuivre vont être utilisés comme valeur de référence quasi exclusive lors des développements des empires de l'antiquité, et ce  jusqu'au XVIIIème siècle et le fort développement des monnaies fiduciaires."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:46
+# 752aed25f4a2419b859560a2d38a2d63
+msgid "Empire Romain"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:48
+# 4491dbeb0d8d495eb9af3d246e43b609
+msgid "Pas d'empire sans expansion monétaire ! L'universalité d'usage de la monnaie donne à celui qui en contrôle la production et la définition un formidable pouvoir d'accaparation illégitime quand le respect de l'éthique vis-à-vis de l'émission n'est pas au cœur des valeurs fondamentales."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:53
+# 6606f78b54994b11b63881ce6929de3b
+msgid "L'expansion de l'Empire Romain s'accompagne d'expansion monétaire régulièrement « dévaluée » au profit d'un émetteur central : Rome."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:60
+# 86224e0750734c8bb864d8dcb9484f7c
+msgid "*Solidus, 327 ap JC (Wikimedia)*"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:62
+# f549d422ea17421ea59834be6d7ade67
+msgid "Denier, Sesterce, Aureus, Antoninien, Valérien, Argenteus, Solidus, se succèdent. Composés de  bronze, cuivre, argent et or en fonction des conquêtes par la force, et de leurs butins, ou via l'esclavage dans des zones aurifères, comme la célèbre région de « Las Medulas » en Espagne, où selon les récits de Pline l'Ancien on peut estimer qu'entre 26 av. JC et et le IIIe siècle les Romains ont extrait environ 1 500 tonnes d'or."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:69
+# e8670ba8e932471bbfb57f22bf6dafc0
+msgid "Chacune de ces monnaies est émise à l'occasion d'une expansion de l'Empire, et de l'appropriation de ressources métalliques, remplaçant l'ancienne, puis est lentement dévaluée par l'émetteur central qui met de moins en moins de métal précieux dans ses pièces, n'ayant évidemment pas accès à des ressources infinies."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:79
+# 3c4b4bc5c697468f853e2c3f66fa275e
+msgid "*Région aurifère de Las Medulas exploitée par Rome du Ier au IIIe siècle ap JC (Wikimedia)*"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:81
+# 784a3cef83624c889717614ec411ea73
+msgid "Le solidus, basé sur une quantité d'or fixe n'est pas abandonné par perte de valeur, mais par rareté. Ce n'est pas sa valeur qui lui fait perdre son statut de monnaie (il a toujours de la valeur aujourd'hui !), mais son universalité comme intermédiaire d'échange qui ne peut pas être assurée."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:86
+# 71dce4e9ed8348b6b20a92745e4bdcb0
+msgid "Déjà on peut commencer à réfléchir au fait que bien que l'unité monétaire se « dévalue » par rapport à la matière de référence qu'elle est censée représenter lors de sa première émission dans le temps, cela n'empêche en rien l'expansion économique et la quantité globale que l'ensemble de la masse monétaire peut échanger et qui elle augmente dans le temps. Il n'y a pas de contradiction entre la contraction unitaire de la monnaie son expansion globale qui accompagne l'évolution économique."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:94
+# 09877f55ef1743898f06d8160e40a3d7
+msgid "On peut résumer cela par le fait que 1 est bien plus petit par rapport à 1 000 que par rapport à 100, tandis que 1 000 est bien plus grand que 100. Si notre unité monétaire perd ainsi 10 % de sa capacité d'échange vis à vis d'une valeur donnée mais que la masse monétaire elle gagne globalement 15 % de capacité d'échange parce que l'expansion économique accompagne sa transformation, alors ce qui est « perdu » unitairement est « gagné » globalement. Il restera à savoir d'où vient le surplus constaté."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:106
+# af01af5b149e4c9388932cc9713ca536
+msgid "*Sesterce de trajan 105 ap JC (Wikimedia)*"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:109
+# cb01ef8b3c9e4e7295b9630e810e74d8
+msgid "La bulle Espagnole d'or et d'argent"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:111
+# 5e138f6dedbe46a78b047c371c947f55
+msgid "Malgré leur nature limitée a priori, l'or et l'argent n'ont pas échappé à l'inflation notamment lors de la période de l'Empire Espagnol (à partir du XVème siècle). La découverte des Amériques par Christophe Colomb (1492) va bouleverser les flux monétaires en Europe."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:116
+# 88dee28e7b364d87aaef6767382b0af8
+msgid "Ainsi d'après Wikipédia dans « Relations économiques entre l'Amérique Espagnole et l'Europe » :"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:119
+# 4ca76f6ea4a94cf1a6d9cf2e6f10cc88
+msgid "« Les deux grandes prises de guerre faites dans l'Empire aztèque et surtout dans l'Empire Inca rapportèrent d'importantes sommes d'argent à la couronne d'Espagne et aux conquistadores. La rançon de l’empereur inca Atahualpa représente selon Pierre Chaunu un demi-siècle de production de métaux précieux en Europe."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:124
+# 53113b69a7c24836a396f2baeed33b61
+msgid "Les mines rapporteront encore plus que les butins de guerre : d'abord par les quelques sources d'or à Cuba au début du XVIe siècle, puis les très grandes mines d'argent du Pérou du XVIIe siècle (la mine du Potosi) et plus au Nord les mines mexicaines qui vont dominer la production du XVIIIe siècle en compagnie des mines d'or du Brésil portugais (Minas Gerais)."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:130
+# 5b83cac4b957426a820be27e0d9151db
+msgid "C'est au cours des XVIIe et XVIIIe siècle que la production et l'arrivage de métaux précieux en Europe ont été les plus importants. »"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:133
+# 720e2cc7373c478f9923dedff8c760fe
+msgid "Or que constatons-nous ? Les métaux précieux perdent de la valeur au fil des siècles : si on s'inspire de l'historien Earl Hamilton sur l'Histoire des prix, le stock de 600 millions de pesos en 1 500 permet de faire autant d'achat de blé que le stock de 3 milliards en 1800."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:138
+# e569d5ffc2654b69bd73ef400ec898bb
+msgid "L'ajout de monnaie dans l'économie fait baisser la valeur de la monnaie. Ce qui est vrai pour un gain de productivité d'un produit quelconque (la baisse de sa valeur monétaire à monnaie constante) est vrai aussi pour la monnaie quand bien même il s'agit d'un bien de référence : la quantité de marchandise qu'on peut acheter avec une quantité donnée de monnaie, dépend de la quantité de monnaie totale en circulation. Ce n'est donc pas l'un ou l'autre, c'est les deux. L'augmentation de la productivité de la production de blé aurait dû en faire baisser le prix en monnaie courante, ici en or ou argent métal au fil des 3 siècles. Toutefois l'ajout constant d'une quantité importante de monnaie qui s'est diffusée dans l'économie (estimée ici selon Hamilton à cinq fois plus), en aurait fait monter le prix d'un facteur 5 à production et consommation constante."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:155
+# 05d968b032a248da9b27c984a864f215
+msgid "*Le conquistador Francisco Pizarro (Wikimedia)*"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:157
+# e4da65b009274191b1f09e5df71de9eb
+msgid "En supposant une stabilité relative de la production des biens et des services entre ces deux dates, on serait en droit de prétendre que le coût de la production de blé a baissé d'un facteur 5 tandis que l'injection de 5 fois plus de monnaie en a donc stabilisé le prix facial."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:166
+# e1f267ade6864db38bb96c0ed3d02de8
+msgid "*Inflation d'or et d'argent suite à la conquête Espagnole (Luc Fievet TRM 2.0)*"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:168
+# 1aa89940a42a4cab81e399b4c2a253ee
+msgid "Ce raccourci ne tient pas compte des changements de comportement économique, de l'augmentation du nombre d'individus (qui réduit la part de monnaie / personne) des nouveaux biens et services demandant leur part de flux monétaire etc... Mais permet de bien comprendre le mécanisme à l'œuvre dans la monnaie : le prix local dépend fortement de la variation monétaire globale, ainsi que de sa densité de répartition. La densité se comprend ainsi : si le surplus de monnaie était resté aux Amériques, le prix du blé en Europe, selon le même raisonnement, aurait probablement chuté d'un facteur 5 grâce essentiellement aux gains de productivité réalisés, et toutes choses égales par ailleurs.."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:178
+# ded7b3e21dac4028a785d461c86e8337
+msgid "Cette remarque historique permet de comprendre que non seulement l'or et l'argent n'échappent pas aux règles monétaires relatives fondamentales, mais qu'il n'est nullement besoin d'y avoir recours pour gérer une masse monétaire commune. Ce n'est donc pas la nature d'un bien déterminé qui en fait une monnaie, mais l'acceptation de tout mode d'échange circulaire y compris purement mathématique. Comment cette monnaie sera-t-elle alors gérée ? C'est la confiance dans l'éthique de l'outil d'échange qui assurera l'adhésion des Citoyens à la monnaie proposée."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:191
+# a8e463f1a8dd4f29b33e482128f83de4
+msgid "*Reales en argent (Wikimedia)*"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:194
+# 5aa2f26fb7974600a1a9021a923a6a99
+msgid "L'effondrement à éviter : thésaurisation et déflation"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:196
+# 24792ae7ce62422eb52c52291794ae95
+msgid "Étant donné son rôle monétaire grandissant l'or et l'argent métal allaient pousser à la recherche et au contrôle des gisements, ainsi qu'à la thésaurisation. En prêtant des monnaies limitées à un taux d'intérêt fixe, l'ensemble des prêteurs engagent l'ensemble des emprunteurs à rendre plus que ce qui existe en circulation, dans un mouvement global de thésaurisation. La nature limitée de ce type de monnaie rend mécaniquement impossible ce genre de mouvements de fonds sur le long terme."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:204
+# 1c20ad5fc66344e695bf7fe2fcb91939
+msgid "Il faut bien comprendre que le phénomène de prêt est déjà en soi un phénomène de thésaurisation, le prêteur entend obtenir plus de monnaie qu'il n'en possède, et il ne s'agit pas à ce moment-là du rôle de la monnaie en tant que moyen immédiat d'échange universel des biens et des service. Ce n'est pas un problème tant que le prêt et la thésaurisation reste limité, mais que se passe-t-il si la monnaie est excessivement thésaurisée ou que les fuites ne sont pas progressivement renflouées, comme il faut rajouter de l'énergie dans un système isolé pour qu'il poursuive son mouvement ?"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:213
+# 5d65fcbfad9c4160866b38216fac712a
+msgid "Nous avons un phénomène de dissipation de la monnaie. Non seulement la thésaurisation crée un cycle déflationniste si la création de monnaie n'en compense pas la perte, mais l'idée selon laquelle l'épargne est bonne parce qu'elle présuppose un investissement ultérieur est insuffisante à expliquer ou à endiguer le mécanisme pour deux raisons :"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:219
+# a72c415a2b78494c98c5e732cc9d9a08
+msgid "Si l'épargne constituée est réinjectée sous forme de prêts à intérêts, le cycle déflationniste subit une contre-tendance temporaire, et l'épargne constituée, si les emprunteurs continuent de rembourser correctement augmente, augmentant le taux de déflation jusqu'à des niveaux de baisse des prix si insupportables qu'on atteint la faillite du circuit d'échange. Le prêteur qui a un avantage monétaire initial, et s'amuse à ne plus injecter de monnaie que sous forme de prêts à intérêts, et non plus en circulation de biens, prend mécaniquement possession de tout le circuit économique."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:228
+# e0c125c1961e493b9bd287dc44991fd2
+msgid "Si l'épargne constituée va s'investir dans un autre circuit autonome d'échanges (dans l'espace ou dans le temps), cela est très bon pour ce nouveau circuit sans aucun doute, mais ne règle en rien le problème du circuit initial, qui n'a pas forcément ni l'objectif ni la capacité de vendre sa production à l'extérieur, par exemple là où aurait été investie cette monnaie. Là encore on perçoit toute la finesse d'analyse permise par le champ de valeur, qui élimine les incongruités des théories globales en mettant l'accent sur la densité de la monnaie et le champ de valeur différentiel."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:237
+# 160b5e1025e14adba77d6579124bfb02
+msgid "Or ce mécanisme déflationniste local est d'autant plus marqué dans une monnaie à valeur de référence rare qui, par construction, non seulement n'est pas dense partout, mais dont la croissance dépend de paramètres externes et d'investissements spécifiques pour la produire, qui n'ont que peu de rapport avec ce que souhaitent produire et échanger des producteurs libres quant à la mesure de toute valeur."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:244
+# a0c3593ac43644999e5bf972ea19cb33
+msgid "La monnaie en croissance faible mais dense encourage l'investissement et joue alors son rôle fondamental : l'utilisation de la monnaie pour les échanges au sein des circuits de production. Par ailleurs elle permet de rétablir progressivement la densité monétaire partout, en réparant lentement mais progressivement et sans à-coups, les fuites inévitables via les excès de thésaurisation ou les investissements extérieurs à la zone économique concernée."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:255
+# 8f7d4e6ca3d240e494ae3966d898e10c
+msgid "*Un exemple de thésaurisation et d'investissement avec fuite (Luc Fievet TRM 2.0)*"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:257
+# 4fb59340c44d4390a1573a7c9511dde5
+msgid "Enfin, un parallèle avec la physique n'est pas sans intérêt. On sait depuis les théories énergétiques que le mouvement perpétuel est impossible. Le mouvement perpétuel consiste en un système qui tournerait de lui-même, avec un apport d'énergie initial fini. Or ces systèmes violent les premiers et deuxième principes de la thermodynamique. En clair il y a toujours dissipation d'énergie, et il faut toujours d'une façon ou d'une autre injecter une énergie supplémentaire pour maintenir un système en mouvement."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:265
+# 561ddeb8b64749c9a1de99fbbe491e59
+msgid "Pour l'anecdote, Albert Einstein a déclaré que lorsqu'il travaillait sur sa Théorie de la Relativité Restreinte (de 1902 à 1905), et qu'il était employé à l'office des brevets de Berne, il trouvait ce travail « commode ». En effet, outre qu'il lui permettait la subsistance nécessaire à la poursuite de ses recherches scientifiques, ce travail lui prenait peu d'énergie, et consistait souvent à déclarer comme irrecevables des brevets qui prétendaient établir des machines à mouvements perpétuels."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:273
+# 7e5c4e25bbc04bc9b809ac1438e4255c
+msgid "Penser qu'une quantité de monnaie fixe serait un gage de la stabilité de la « valeur » de cette monnaie, c'est ne pas comprendre la Relativité de la mesure individuelle de la valeur, et ne pas tenir compte non plus du simple fait expérimental, qui démontre tout le long de l'histoire de la monnaie depuis 10 000 ans, que d'une façon forcée ou consciemment acceptée l'expansion des masses monétaires est inévitable. En comprenant ce phénomène on transformera les changements cycliques de rattrapage brutalement vécus, souvent sources de guerres ou de révolutions, en simples périodes d'ajustements, acceptables parce que bien compris par tous, assis sur une éthique systémique clairement établie, difficilement contestable, et surtout assurant toujours les libertés économiques."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:286
+# b6834933fb97473fa195df3667621f3f
+msgid "John Locke 1632 - 1704"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:292
+# c5847e36518b4d12a44dba34fb0fcac2
+msgid "*John Locke (wikimedia)*"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:294
+# 22547d10d72c485689a8320f3888e154
+msgid "John Locke, philosophe précurseur des lumières met des limites et tempère le droit de propriété par la « clause lockéenne » qui déclare que l'on ne peut s'approprier légitimement les ressources originelles sans qu'il en reste suffisamment et en assez bonne qualité pour autrui."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:301
+# d37f758987164521a9ed7253f3d398e1
+msgid "Les monnaies fiduciaires, premières monnaies expansionnistes"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:307
+# 367d0121eb74401481e16cb5d97c1734
+msgid "*Caricature du système de Law (Wikimedia)*"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:309
+# 83975c9bd5fd41648dbccc098eb34de7
+msgid "Au XVIIIème siècle le « système de law » du nom de l'écossais « Jonh Law » est officiellement mis en place au sein d'une proto-banque centrale en France. Law avait observé les mécanismes monétaires fiduciaires déjà à l'œuvre en Italie. La France d'alors croule sous les dettes, et Louis XV donne le feu vert pour la mise en place du système."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:315
+# 664a80c88f0b4c91abd533dc460f26f2
+msgid "La monnaie fiduciaire commence à faire évoluer la monnaie vers une perte de contact avec la valeur de référence, pour aller vers la dématérialisation sous la forme de confiance pure. Ici dans cette première mouture le papier monnaie représente une part de valeur de référence (or ou argent) payable par la Banque émettrice."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:322
+# 23c7e912e80d4bbdb060e87a44648a2c
+msgid "Premières Pyramides fiduciaires à création centralisée"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:324
+# fd8521e34c114ebe9b356c6fa7b972b9
+msgid "Les premières Banques émettrices de monnaie fiduciaire basent la confiance sur la valeur de référence. Mais grande est la tentation d'émettre plus de billets que la Banque ne possède de métal en gage, permettant à de plus en plus d'acteurs de monétiser leurs productions, et de créer ainsi des cycles d'échanges de valeur. Le développement économique s'accélère au fur et à mesure que la monnaie devient dense dans l'économie."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:331
+# 670113831f4b4ae983b0df2b1d39c354
+msgid "Toutefois deux causes fondamentales créent l'effondrement de ces pyramides expansionnistes."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:334
+# e494df7c9a6f4c7eaac30d48ed9602b2
+msgid "Tout d'abord on ne peut indéfiniment prétendre gager de façon fixe une valeur de référence finie en émettant de plus en plus monnaie. Il faudrait pour cela annoncer clairement que le taux de croissance de la monnaie émise par la Banque, permettrait de récupérer un taux inverse de valeur de référence dans le temps. Si par exemple on émet des billets sur une vitesse de « c » gageant une valeur de référence possédée par l'émetteur, et qu'on annonce sur le billet qu'au moment de l'émission, le billet est échangeable contre une quantité  de la valeur de référence, alors le billet devrait noter qu'au temps « t » la valeur de référence échangeable sera de :"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:348
+# b4ddb565529445ec998b0123f504ea92
+msgid "Par exemple pour une croissance annoncée des billets émis de 5 % / an, il faudrait alors noter sur les billet émis à la date « d » que la quantité de valeur de référence gagée par ce billet pour l'année « a » en cours est de :"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:356
+# cfa192d5a87749cbbe806298cbe9e29c
+msgid "La quantité de la valeur de référence échangeable diminuerait alors de moitié dans ce cas précis tous les 15 ans après la date d'émission d'un billet. Ce système serait complexe, et demanderait de faire le calcul de la valeur de référence pour chaque billet en fonction de sa date d'émission, mais il serait exact."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:362
+# 60aac65298834d6ca575c848a6a1d093
+msgid "La deuxième cause est la perte de confiance dans le gage fixé . Les billets existants étant gagés sur une valeur fixe, avec une très grande confiance des utilisateurs, le gage n'est quasiment jamais réclamé par les bénéficiaires. Le Banquier se sent alors pousser des ailes, et émet un peu plus de monnaie, puis encore plus, jusqu'au jour où la confiance chute."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:368
+# 60a1ea5b990b4413ba705ceaeb9de7ee
+msgid "Les acteurs de l'économie s'étonnent de trouver autant de gages de la valeur de référence dans leurs échanges, faisant ainsi monter les prix dans la monnaie fiduciaire ainsi émise, et jusqu'au jour où la confiance en l'émetteur n'existe plus du tout, ce qui constitue la rupture et la crise. En demandant leur gage, les bénéficiaires découvrent la vérité : il n'y a pas dans les coffres de la Banque la valeur de référence en quantité égale à la somme des gages émis, les clients sont floués, et c'est la faillite."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:376
+# e277454be95849ea8d2252fc8cbd192b
+msgid "C'est le principe même de la pyramide de Ponzi qui est décrit ici où ce sont les derniers entrants qui sont le plus durement touchés. Cela est dû au fait qu'une expansion économique ne peut pas se faire sur le gage d'une valeur de référence fixe. Ce phénomène qui semble pourtant évident mettra trois siècles à trouver une amélioration partielle, au fur et à mesure que la monnaie fiduciaire va prendre place dans l'économie en tant que telle, et non plus en tant que gage."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:383
+# 9912278fa1f34682aec4b6417c1d1f5c
+msgid "Le phénomène de la pyramide de Ponzi qui consiste à faire payer les derniers entrants pour rémunérer les premiers équivaut dans le miroir monétaire de la valeur à spolier les biens ou faire travailler les derniers entrants au bénéfice des émetteurs centraux de monnaie."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:389
+# ac1794ee9a99412fb91f1503f9aae1be
+msgid "Thomas Paine 1737 – 1809"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:391
+# ff83fe21a34d4d849d09ceaf2a71c703
+msgid "Thomas Paine, révolutionnaire Américain, puis Français, déclare dans « les droits de l'Homme » publiés en 1792 l'assertion suivante :"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:394
+# 59fdcb677e7542a0878b9fd529f15f7f
+msgid "*\"Ceux qui ont quitté ce monde et ceux qui n'existent pas encore sont à la plus* *grande distance les uns des autres que l'imagination humaine puisse concevoir :* *quelle possibilité d'obligation peut-il donc y avoir entre eux ? Quelle règle ou* *quel principe peut-on poser pour que deux êtres imaginaires dont l'un a cessé* *d'être et l'autre n'existe pas encore, et qui ne peuvent jamais se rencontrer* *dans ce monde, l'un soit autorisé à maîtriser l'autre jusqu'à la consommation* *des siècles ?\"*"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:402
+# a33bd0ddfe2245c08f2ec35d6732478c
+msgid "En 1795 trois ans après « les droits de l'Homme » Thomas Paine, alors député Français, publie « Agrarian Justice » dans lequel il déclare qu'il ne peut y avoir de citoyens sans revenu et que chaque citoyen devant être représenté, il doit bénéficier d'un revenu universel de base lui permettant son existence politique."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:412
+# f8c42129b110401f9d2a25a997d4e878
+msgid "*Thomas Paine (wikimedia)*"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:415
+# 64ad7d9e937e44dbb9a1b55db348e6dc
+msgid "Invention du Levier Bancaire réglementé"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:417
+# 1760301aae0f4f7cb29698cc0c575b42
+msgid "Malgré les échecs répétés des premières Banques Centrales, l'idée de la monnaie fiduciaire expansionniste n'a pas été abandonnée. Pourquoi ? Parce qu'une telle monnaie se transporte mieux, s'échange plus facilement, est un fameux business modèle pour les Banques émettrices, mais surtout a visiblement conduit l'économie à des phases expansionnistes rapides. Il fallait trouver un système qui évite les faillites, tout en gardant les côtés positifs du système."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:424
+# 609ea3098d8b406e94544b103755f7cc
+msgid "On a donc trouvé une parade : le levier bancaire limité. Le Banquier s'est vu octroyer une limite à son émission de monnaie fiduciaire dans la limite d'un ratio réglementé. Ce système permettait de redonner aux clients la valeur de référence dans une proportion suffisamment importante, pour ne pas briser la confiance. C'est historiquement le facteur de 10 % de réserves environ qui a été retenu. Avec ce taux de réserve, un nombre suffisant de clients pouvaient récupérer leur valeur de référence, et la confiance restait valable dans le système... Uniquement pendant un temps plus long !"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:433
+# b377c923ec63471b8cd6eb3830aadf34
+msgid "Ce système toujours asymétrique n'empêche en rien la perte de confiance, et ne fait qu'en repousser l'échéance sur une plus longue période. L'effet de levier limité se retrouve bloqué lors de l'atteinte du « haut de bilan » lorsque les 10 % de réserves sont atteints, le système Bancaire se voit contraint de ne plus émettre de nouveaux crédits, et c'est la faillite des derniers emprunteurs, ne voyant plus venir l'afflux de nouvelle monnaie permettant de payer dettes + intérêts."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:441
+# b5ee602f41fd4a13a9acb3e6f22f8cb2
+msgid "La valeur de référence garantie par la monnaie ne peut pas être respecté par l'émetteur qui veut allouer plus de crédits pour accompagner une expansion économique. Mais par ailleurs sans expansion monétaire, il n'est tout simplement pas possible d'accompagner l'investissement, la thésaurisation sans création de valeur associée, suffisant à acquérir un pouvoir d'achat en augmentation. La valeur intrinsèquement fondante d'une monnaie expansionniste encourage sa circulation, permet de payer dettes + intérêts : elle est la condition nécessaire d'une expansion souple dans le temps."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:450
+# 8cfc856e1f3e41ca8ef7f85057ecb740
+msgid "En jouant sur ces deux aspects complémentaires que sont l'expansion et la contraction de crédits, le système centralisé à effet de levier, donne aux Banques la maîtrise de « cycles économiques » artificiels, qui ne sont que des cycles monétaires, leur permettant non seulement de contrôler l'économie dans son ensemble, mais aussi de s'assurer quelle que soit la valeur créée par ailleurs, une rente perpétuelle. C'est un fait : les émetteurs de monnaie asymétrique sont parmi les centres d'activités économiques les plus anciens avec les États, qui traversent sans broncher les « crises » successives."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:459
+# 28af4e43460e4c15a03dac102484a3c9
+msgid "Les producteurs éloignés du centre d'émission monétaire, ne comprenant pas comment la monnaie est émise, ne se rendent compte que tardivement des effets des politiques d'émission de crédits sur la fluctuation de la valeur de la monnaie commune et ne mesurent que trop tard l'impact de ce phénomène sur leur propre activité."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:465
+# c1f347822db94147bc73d3b96bf7defe
+msgid "Quand ils s'en rendent compte, et souhaitent tous en même temps récupérer la « valeur de référence » il n'y a pas autant de stocks pour répondre à toutes les demandes (assurer 10 % de réserve reste dans tous les cas une escroquerie, il est impossible à l'ensemble des détenteurs de monnaie de récupérer cette « valeur », et les premiers à se servir le sont au détriment des autres avant la faillite générale), et les faillites des Banques s'enchaînant, déstabilisent ensuite tout le reste de l'économie qui s'effondre et conduit à des désordres sociaux et politiques d'envergure historique. 1929 était la dernière crise de taille internationale basée sur une valeur de référence fixe."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:479
+# 53bf778a931842938bae863a593f03bd
+msgid "*Charles Ponzi, inventeur de la pyramide du même nom (Wikimedia)*"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:482
+# a30174c40849487cb0546d73e4d58e46
+msgid "Clifford Hugh Douglas 1879 – 1952"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:484
+# b2914e89b1ae4afc9ef98ab3a02bc03a
+msgid "Clifford Hugh Douglas, ingénieur Britannique publie en 1924 « social credit » où pour la première fois on voit l'approche d'un « dividende monétaire » qui est démontrée comme essentielle pour assurer l'équilibre de la monnaie et la correction du biais des intérêts liés aux dettes."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:493
+# 59d1e834f62b41bd948cfc8f6f756b77
+msgid "*Clifford Hugh Douglas (wikimedia)*"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:496
+# 06fa897ca70746ada55303add364e63a
+msgid "L'instabilité de la valeur de référence"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:498
+# 1f89bc7c13824d4ba80da54b3ae7e48a
+msgid "De 1946 à 1971 l'étalon-or continue d'être utilisé, mais en étant plus vraiment garanti par l'émetteur autrement qu'en prix de façade. Tant que la demande pour la valeur de référence était faible, le prix pouvait être affiché comme fixe, mais avant même 1971, des évolutions du prix affiché devenaient nécessaires devant une demande excessive soutenue par l'expansion monétaire comme le montre ce graphique du prix en dollar de « l'étalon » qui n'en était déjà plus vraiment un."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:510
+# b50ac07628c2478ba40cbbbe5be6d174
+msgid "*Evolution du prix de l'or en $ jusqu'en 1971*"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:513
+# 7b477ee2c00a4a32a9e8ec40c1d1479f
+msgid "C'est ainsi que dès 1967 le prix de l'or commence à lâcher prise. L'impossibilité de fournir la valeur de référence à prix fixe au sein d'une monnaie en expansion se fait jour quand à demande égale la quantité de monnaie augmente. C'est un phénomène purement mécanique."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:518
+# c0a71b9fe0f54dad9a9835df0c5d7b4e
+msgid "De la même façon constater en 2010 une croissance de 7 % / an sur 10 ans de la masse monétaire en euro, et entendre que la « politique monétaire » est de maintenir une « inflation à 2 % » est si aberrant qu'il ne faudra pas s'étonner de voir venir tôt ou tard un rattrapage violent, soit par à coups sur les valeurs les plus demandées, soit de façon progressive, mais il est mécaniquement impossible sur le long terme de faire cohabiter deux chiffres totalement contradictoires."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:527
+# 77d69957d05042e6841efe001a58409b
+msgid "Abandon complet de l'étalon or, les réserves fractionnaires"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:529
+# bceaf629052e499fa4beee30ecb2cd15
+msgid "Actant l'inutilité et l'impossibilité de tenir un étalon via une valeur de référence, 1971 voit l'apparition des réserves fractionnaires, un système de contrôle de la masse monétaire par les Banques Centrales, qui permet de contrôler les taux d'intérêts et la quantité de crédits alloués par les Banques. Le prix de l'or a alors subi des variations diverses, passant par une bulle historique qui a vu un sommet en 1980."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:536
+# 5748c9e0b99d42a8af21dbee5a65934a
+msgid "Le système des réserves fractionnaires ne résout toujours pas le problème de l'éthique quant à la monnaie, un centre d'émission à deux têtes, Banques et États, s'en arrogeant un monopole d'émission exclusif au détriment des producteurs éloignés du centre."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:541
+# 618203c81313489982f2530e425b196b
+msgid "Il y a toujours dans ce système un effet de levier profitant à l'émetteur asymétrique de monnaie qui crée de la monnaie par du crédit arbitraire « gagé », en cas de faillite de l'emprunteur, par un taux de par exemple 8 % de réserve... en cas de faillite de l'emprunteu, par un taux de par exemple 8 % de réserve... constituée de … la même monnaie ! Ce changement est une manne pour le secteur financier, puisque ce type de réserve étant manipulable aisément, on peut toujours, dans les cas de crises, trouver des solutions, qui quoique éthiquement très discutables peuvent éviter les faillites brutales, et donc évitent une part des désordres antérieurs."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:551
+# 6dc4b0d44c4142ee80567e8e5c8703c7
+msgid "On peut comparer le système monétaire encore actif en 2010 à l'ancien réseau informatique Français du Minitel, un réseau centralisé, où la création de services nécessitait un avis du propriétaire monopolistique ainsi que le partage des revenus de l'activité. Tandis qu'un système d'émission de monnaie symétrique dans l'espace-temps tel que le Dividende Universel est comparables à un internet neutre où chaque citoyen de la zone économique est considéré comme égal devant la création monétaire, et donc susceptible d'échanger en « peer to peer », de personne à personne, sans permission spéciale d'une autorité centrale."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:560
+# 1434961625234c0a8a301050ace9696d
+msgid "Comment marche ce système de réserves fractionnaires du point de vue de l'économie ? Ce système crée des cycles artificiels, au bénéfice des émetteurs asymétriques :"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:564
+# b30e64abf346465186310b69c2f37fd1
+msgid "**Étape 1 :** le système financier se consolide, et sur la base de ses \"fonds propres\" va pouvoir émettre de la dette **« € »** à intérêts qui vient \"irriguer l'économie\" par un \"effet de levier\". Étape qui peut être longue et s'étaler sur 10 ou 20 ans, la Banque Centrale assurant un contrôle de cette « spoliation réglementaire », à un taux suffisamment faible pour être supportable."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:570
+# 85790431d97842e2be9217429deb9110
+msgid "**Étape 2 :** le système financier \"se paye\" par l'intérêt **« I »** de la dette ainsi émise (publique et privée). Les intérêts, et éventuellement le nominal des dettes, alimentent le \"trou\" ainsi constitué. Sauf que la dette émise n'a aucune raison de \"revenir\" à l'émetteur, puisque ayant dûment payé ceci ou cela, elle se trouve en très grande partie thésaurisée par des épargnants, ou se retrouve circulante au sein de micro-systèmes autonomes qui s'en servent à juste titre de moyen d'échange. Cette étape peut elle aussi durer de 10 à 20 ans..."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:578
+# 8d616ad40afd4350be122683497c019e
+msgid "**Étape 3 :** du fait de l'impossibilité de retour de la dette émise avec les intérêts, le système financier, sur la base des faillites ainsi provoquées, se retrouve avec un bilan totalement instable, et en situation de faillite lui-même (il est quand même censé équilibrer son bilan). Il s'effondre sur lui-même. Il y a alors une émission massive de nouvelle dette \"en vue de se refaire\", pour irriguer de nouveau une économie qui s'éloigne (inflation de la richesse réelle), mais qui manque cruellement de monnaie (crise dû à la rareté artificiellement maintenue de la monnaie). On se retrouve alors en fin de cycle, et un nouveau cycle peut redémarrer, 1) 2) puis 3), sauf que l'espace économique considéré est bien plus grand et plus « riche » que lors du cycle précédent (en valeur monétisée, ce qui ne signifie aucunement une valeur « absolue », qui n'existe pas)."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:591
+# 3b4eb02c41b74e21907436be15739b1a
+msgid "Le résultat pour les producteurs, est que, quelle que soit la valeur créée et échangée, le fait d'accepter une telle monnaie « commune » est l'assurance que cette valeur sera vampirisée inéluctablement par l'émetteur asymétrique, lui assurant un « business modèle » absolu et infaillible, valable en tout point de l'espace-temps."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:601
+# 2a51f58070ce4565a0449c3893918519
+msgid "*Trois étapes d'émission de l'« argent dette » (Luc Fievet TRM 2.0)*"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:604
+# 9b40be6bdda34c88b1aa125d0db0e22c
+msgid "Yoland Bresson, né en 1942"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:610
+# c4cd1ec793054fa4b2d7ef92bdc34072
+msgid "*Yoland Bresson en 2012 (wikimedia)*"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:612
+# 7e4f5b9c04094f14abffce4a7c7af7d3
+msgid "Dans « l'après salariat » publié en 1984 l'économiste Français Yoland Bresson déclare :"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:615
+# 1d5f4e784c6948e4a79b64a2b39e81b6
+msgid "*« Il faut que la collectivité, par le biais de l'État, alloue périodiquement à* *tout citoyen économique, sans autre considération que celle de son existence,* *l'équivalent monétaire de la valeur de l'unité de temps ».*"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:619
+# 597059d3c5b04ad6af2bb5fa44447329
+msgid "Yoland Bresson démontre un lien entre temps d'existence et valeur et calcule sur des considérations liées au PIB une valeur relative d'un revenu de base (qu'il nomme revenu d'existence) dont la quantité est étonnamment proche de celle déduite par l'approche purement monétaire et relativiste de la TRM."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:626
+# 063cab55642440b4b38af9d67a54f2e0
+msgid "2010 et après : Bâle III, ou des monnaies symétriques ?"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:628
+# fa37f6290d23464ca25301838a62586f
+msgid "Le cycle étant long, la captation de valeur se faisant sur un rythme suffisamment faible pour ne pas être excessif, le processus est difficilement discernable. De la même façon qui est capable de voir la différence entre la construction d'un réseau centré type Minitel face à un réseau acentré symétrique et neutre type Internet à part les spécialistes des réseaux informatiques et des protocoles de télécommunication ?"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:635
+# e8d3261b0b414c93b803c8b9e7837979
+msgid "Nous sommes donc bien dans l'exploitation de l'ignorance quant à la construction du réseau monétaire. Un citoyen informé d'une proposition d'utilisation d'une monnaie commune lui permettant d'échanger de façon équitable sa production avec ses semblables présents et à venir, ne devrait pas accepter une telle architecture, mais opter pour un choix qui soit ouvert, transparent, et équitable entre tous les membres de la zone monétaire concernée."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:642
+# bb760d85deee4345971c846caeb40f0c
+msgid "2007 – 2010 représente la fin du dernier cycle d'expansion monétaire 1971 – 2010, qui a vu successivement des règles privées s'imposer tant aux États-Unis qu'en Europe décidées au sein d'un groupement « d'experts », nommées  « Bâle I » puis « Bâle II » et « Bâle III » en cours de négociation, censées « réguler les Banques »."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:648
+# c283f279cb1d4f6981f4aa8f5b82aaa2
+msgid "Cela reviendrait à essayer de transformer le Minitel alors qu'internet s'impose."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:650
+# 06abc4406b0a4db89214cffaf8e29858
+msgid "Or que se passe-t-il en 2010 ? Une explosion des monnaies complémentaires jamais vue dans l'histoire des crises monétaires. Si les SEL explosent, qui tentent plusieurs types de systèmes monétaires, à Crédit Mutuel fixe, à Dividende Universel, c'est surtout sur internet que se déploient des tentatives intéressantes, dont la plus aboutie techniquement est sans doute le projet Open Source « BitCoin » qui propose de gérer un système monétaire P2P « peer to peer », où la monnaie peut se développer de façon totalement décentralisée, via les liens de personne à personne et où l'ensemble des transactions est stocké sur l'ensemble du réseau dans un mode chiffré."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:660
+# 0c96958301ad4821912a9e664ee46386
+msgid "Le projet BitCoin est cependant plombé par une non compatibilité fondamentale avec la TRM. En effet la masse totale des Bitcoins est techniquement limitée à un maximum. Ce qui fait que bien que la symétrie spatiale est en partie respectée parce qu'elle n'avantage personne à priori, la symétrie temporelle ne l'est pas, et une fois passée la génération de la masse monétaire maximum, les derniers entrants n'y auront plus accès."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:667
+# b9ce1a61cb414360821d778d6e4365bb
+msgid "De plus il y a tout de même un biais spatial. La symétrie n'est pas basée sur les individus adoptant le système, mais sur la capacité machine à générer du calcul informatique. Ceci n'est pas conforme aux libertés économique. Bitcoin ne respecte donc que la première liberté d'un système monétaire, s'agissant d'un système ouvert."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:673
+# aa4f538403384e0eb0aabbb81a41a55c
+msgid "On peut s'attendre donc à ce que la « pyramide temporelle des Bitcoins » s'effondre tôt ou tard."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:676
+# ca294c23afd84ad09568f58a408dd74d
+msgid "Que reste-t-il des ruées vers l'or à part des villes fantômes ? Tandis qu'après une récolte, un champ de blé ne fournit-il pas encore et toujours des récoltes abondantes ?"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:681
+# 7d3cee26988940ce977b3ab15b80c14f
+msgid "Graphique historique"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:687
+# 2048000baf8a460887afa534c3f63fb1
+msgid "*Les différentes formes monétaires depuis 12 000 ans*"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:690
+# a1d079365420408aa62955bacdfd47f1
+msgid "Le Dividende Universel en application"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:692
+# 2c946a46b651479ea4440bf4212d8bea
+msgid "Le Dividende Universel a déjà été mis en pratique récemment sous différentes formes, et différents noms comme « revenu d'existence », « revenu permanent », « allocation universelle » etc..."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:696
+# 9d6e6cd5c0c7491baa8921ad07df4a66
+msgid "On trouve des exemples de mise en œuvre en Alaska, dans une expérience locale en Namibie, au sein de SEL comme le SCEC en Italie, ou encore au Brésil. Il existe des groupements qui font la promotion d'un revenu individuel symétrique comme l'association internationale du BIEN (Basic Income Exchange Network), ainsi que l'AIRE (Association pour l'Instauration d'un Revenu d'Existence) en France qui fut présidée par l'économiste Yoland Bresson."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:703
+# f9f865f5612642b9920a8d4d60f96159
+msgid "Mais mieux encore, l'Europe est déjà quasiment installée dans un système où un Dividende Universel se développe depuis 20 ans en parallèle avec un système de crédits arbitraires. En France en 2010 le RSA est de 450 € / mois mais diminue au fur et à mesure que l'on gagne des revenus supplémentaires, sur un large fossé, de sorte que par exemple, parmi les citoyens ayant un revenu horaire égal, certains touchant le RSA ne travaillent qu'à mi-temps, quand les autres font un plein temps. Un système totalement inéquitable, que l'on peut appeler « grand fossé » et qui a pour conséquence essentielle d'inciter les citoyens ayant peu de revenus, soit à ne pas monétiser leurs productions, soit à ne pas déclarer les échanges (ou les deux)."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:714
+# 017dc847dfc44092ba2d6f24b0432311
+msgid "C'est en fait l'ensemble des pays de l'OCDE qui propose un revenu minimum, qui reste dans la majorité des cas conditionnel, le plus souvent associé à une condition d'âge, de contraintes diverses comme celle de démontrer la recherche d'un « emploi », et qui donc in fine ne considèrent pas les individus comme les associés inconditionnels de la nation."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:720
+# bb2565092f1f4d77bf93e3f2ccc994d7
+msgid "Le problème essentiel de la zone Euro est la forte disparité du revenu minimum. Là où la France, l'Allemagne et l'Espagne proposent peu ou prou un montant comparable de 450 € / mois, les citoyens des autres pays récemment associés à la monnaie commune n'en ont pas, et ont parfois des salaires minimum inférieurs à ce montant."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:730
+# 08e5ad62c4d747f781b2fd972a2b3600
+msgid "*Evolution en France en 2011, du revenu net perçu* *(zones bleue + orange = RSA + complément net.* *Les zones jaune, vert et rouge sont les taxes)* *en fonction du chiffre d'affaire individuel total* *ou salaire complet (abscisses = salaire complet).* *Entre 600 € et 2200 € / mois de CA,* *le Citoyen gagne toujours la même chose,* *environ 1050 € / mois. (http://www.creationmonetaire.info « Le revenu de base en France »)*"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:739
+# 77d5be62ff114dbf8923df85c4f45a36
+msgid "Dans ces conditions la production quitte les pays à haut revenu minimum pour aller vers ceux où il est bien plus bas voire inexistant, créant une forte distorsion de concurrence entre individus, en totale contradiction avec l'objectif affiché d'un marché libre et non faussé."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:744
+# 07fe5d6e0b8f45b59de6eade49bb4e3b
+msgid "Une monnaie commune n'est compatible avec les Droits de l'Homme que si son mode de création respecte l'égalité des Hommes devant le jugement de toute valeur, et donc leur droit égal devant la création monétaire. L'instauration d'une zone économique à monnaie commune sans convergence des revenus minimums individuels est une violation du Droit. Il s'agit de l'instauration d'une monnaie ne respectant pas les quatre libertés (Liberté de la modification démocratique du code, et les trois libertés économiques que sont l'accès aux ressources, la production, et l'échange « dans la monnaie »)."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:754
+# 818909504fba43faa8b387fa0f0de902
+msgid "Le projet libre Open-UDC"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:756
+# 17cf79001697491ab69da65bff97ba0c
+msgid "Le projet Open-UDC (pour « Universal Dividend Currency ») est un projet de développement d'un système informatique libre (sous licence GPL), de monnaie libre à Dividende Universel."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:760
+# 74d6d9977a3b4c16b67ad83b6899a68c
+msgid "Initié en 2011 il est accessible sur http://www.open-udc.org , et consiste à développer un ensemble d'outils permettant la gestion individuelle et collective d'échanges monétaires au sein d'une masse monétaire numérique associée à des règles et processus de contrôle ouverts et démocratiques."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:765
+# 44441c0c4d80411ea2bc8e9832002b4d
+msgid "Outre une base démocratique initiale, le projet a réduit le calcul du Dividende Universel sur une base mensuelle à partir de règles très simples, qu'il peut être utile de rappeler ici pour les créateurs de SEL voulant s'inspirer de la TRM :"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:770
+# de757ef08ca74a9780f3db9ba80e84f1
+msgid "UD (0) = 100 UDC"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:771
+# a764ad5eeaee4e0889e795b9bdbe8e10
+msgid "UD (n+1) = MAX { UD(n) ; Pud × M(n)/N(n) }"
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:773
+# 14114c2be4f14244a9fb2a84bbf3c470
+msgid "Où « n » est le mois précédent. UD(n) est le Dividende Universel du dernier mois, Pud est le pourcentage constant de Dividende Universel minimal prédéfini, M(n) est la masse monétaire du mois précédent, et N(n) le nombre de membres de la communauté monétaire."
+msgstr ""
+
+#: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:778
+# 8bfbbf51e2cb4b7bbeb06d49e3d19df6
+msgid "Le Dividende Universel en unités monétaire et donc fixe, ne baisse jamais, et est remonté si la croissance de la masse monétaire par membre (M(n)/N(n)) devient inférieure au minimum « Pud »."
+msgstr ""
+

@@ -1,0 +1,123 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Stéphane Laborde
+# This file is distributed under the same license as the Théorie Relative de la Monnaie package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Théorie Relative de la Monnaie 2.718\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-16 17:26+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/comment-comparer-deux-zones-economiques.rst:3
+# 45ab3130afb049799891c87b5023bbe1
+msgid "Comment comparer deux zones économiques ?"
+msgstr ""
+
+#: ../../source/comment-comparer-deux-zones-economiques.rst:5
+# b75c6c822b4d415599a77065954bca85
+msgid "Les définitions que nous venons de voir concernant la masse monétaire, sa croissance, le lien qu'elle devrait avoir avec le Dividende Universel, et le champ de valeur, nous permettent une comparaison entre deux zones économiques qui utilisent deux monnaies différentes."
+msgstr ""
+
+#: ../../source/comment-comparer-deux-zones-economiques.rst:10
+# 34fbee332a544b2194540960e60f2c27
+msgid "Soient deux zones économiques A et B créditées chacune d'une masse monétaire définie dans l'espace et dans le temps, Ma(x,t) et Mb(x,t) et d'un nombre de citoyens respectifs Na et Nb ayant accès à la monnaie commune."
+msgstr ""
+
+#: ../../source/comment-comparer-deux-zones-economiques.rst:14
+# 2091cd2542db4561abc03d6dd04b63ba
+msgid "L'application du principe de relativité nous invite à définir la mesure commune instantanée de la valeur individuelle Ua et Ub à un instant donné sur la base de la densité monétaire moyenne de chacune des zones."
+msgstr ""
+
+#: ../../source/comment-comparer-deux-zones-economiques.rst:18
+# 2b5ebbe371b141f7a85f18b1b9f87c1a
+msgid "Pour A :"
+msgstr ""
+
+#: ../../source/comment-comparer-deux-zones-economiques.rst:24
+# e1f35875627d4e78aea73e501e387bbd
+msgid "et pour B :"
+msgstr ""
+
+#: ../../source/comment-comparer-deux-zones-economiques.rst:30
+# f558fcdc7a0e446581a00024aabc9285
+msgid "Le taux de change instantané T(a/b) des monnaies, qui représente le ratio de change d'une quantité de monnaie de la zone A Qa en une quantité de monnaie Qb de la zone B est tel que :"
+msgstr ""
+
+#: ../../source/comment-comparer-deux-zones-economiques.rst:38
+# b7d91de1a40a46d585e238fca4a99ba0
+msgid "Avec dans le cadre du principe de relativité une valeur fondamentale, qui est :"
+msgstr ""
+
+#: ../../source/comment-comparer-deux-zones-economiques.rst:44
+# 2f91328c63394f8aa4b0532fbf7aae1c
+msgid "Ce résultat fondamental diffère des outils communs avec lesquels on mesure les rapports entre les « prix »... Or les valeurs étant fondamentalement jugées comme différentes d'un individu à l'autre, et donc d'une zone économique à l'autre, ce critère est totalement faussé par le choix arbitraire des valeurs servant à mesurer ces prix. La densité de la monnaie commune elle, ne souffre d'aucune sorte d'arbitraire, et est parfaitement mesurable."
+msgstr ""
+
+#: ../../source/comment-comparer-deux-zones-economiques.rst:52
+# bc500270e5ce490381a7b61f64f2ef51
+msgid "Application numérique :"
+msgstr ""
+
+#: ../../source/comment-comparer-deux-zones-economiques.rst:62
+# 9e86c4f0025f48c39021065564e8eec9
+msgid "Taux de change relatif **T (€ / $) = 1,60 $/€**"
+msgstr ""
+
+#: ../../source/comment-comparer-deux-zones-economiques.rst:64
+# e2928e53bafd4a6cb7836d0863569a1d
+msgid "Entre 2008 et 2010 le taux de change constaté sur les marchés oscillait entre **1,30 $/€ et 1,60 $/€**."
+msgstr ""
+
+#: ../../source/comment-comparer-deux-zones-economiques.rst:66
+# 86a21edb7ca44963aadb7c9fafb71131
+msgid "Mais même si le résultat constaté est proche de la valeur fondamentale théorique applicable en Théorie Relative de la Monnaie, il y a deux facteurs dont il faut tenir compte. Tout d'abord les masses monétaires annoncées par les Banques Centrales sont sujettes à caution puisque la Fed Américaine ne communique plus officiellement M3, et ce sont des sites non officiels qui en donnent des estimations."
+msgstr ""
+
+#: ../../source/comment-comparer-deux-zones-economiques.rst:73
+# ab0db35fae5143fc955dbaf233f7036e
+msgid "Par ailleurs, et ce n'est pas le point le moins important, nous ne sommes pas dans ces zones économiques dans des zones à Dividende Universel où les individus sont égaux devant la création monétaire. La monnaie se crée de façon centralisée sur des valeurs arbitraires, et de façon non symétrique des deux côtés, ce qui crée de fortes distorsions temporaire (et une perte économique forte à long terme selon l'importance de ces distorsions)."
+msgstr ""
+
+#: ../../source/comment-comparer-deux-zones-economiques.rst:80
+# c7f5102c6b9047808fb423b4bafb21ed
+msgid "On voit par ailleurs le rôle que joue la population quant au taux de change mesuré par le ratio « Na/Nb ». Ce qui permet de mieux approcher les changements de politiques monétaires en fonction de l'importance de l'espace économique considéré. Il est évident sous cet angle qu'une zone économique sous-monétisée, devra tôt ou tard étendre l'expansion de sa masse monétaire à tout son espace, et devra donc avoir de forts taux de croissance de rattrapage spatial."
+msgstr ""
+
+#: ../../source/comment-comparer-deux-zones-economiques.rst:87
+# aadeb1d85e704cdcb3466ac194bb7e8c
+msgid "Nous comprenons là le problème Chinois en 2010. Puisque une faible partie des 1 400 millions d'habitants bénéficie d'échanges monétisés, la masse monétaire doit croître fortement dans tout le reste de l'économie pour la monétiser dans son ensemble. Il s'agit pour des centaines de millions d'être humains d'avoir accès à l'outil monétaire pour développer leurs échanges, ce qui va jouer sur la valeur de Na qui représente le nombre de citoyens monétisés."
+msgstr ""
+
+#: ../../source/comment-comparer-deux-zones-economiques.rst:94
+# e951508ddc1b4fc3bb721f09568ecb68
+msgid "Par contre du fait du rapport Na/Nb qui sera, en fin de monétisation complète de sa population, très élevé pour elle par rapport à l'Europe et aux États-Unis, la masse monétaire chinoise « Ma » pourrait augmenter au même rythme que Na (nombre de citoyens monétisés), sans que cela joue sur la valeur de change fondamentale de sa monnaie."
+msgstr ""
+
+#: ../../source/comment-comparer-deux-zones-economiques.rst:100
+# 12a5d71d0af747beaebcd4ca28fddd69
+msgid "L'évolution des rapports de change pour l'Europe et les États-Unis, qui sont pour leur part déjà bien plus fortement monétisés dans l'espace (Nb ne croîtra pas beaucoup), dépendra alors non pas de l'expansion monétaire de la Chine si celle-ci est essentiellement spatiale, mais de leur propre politique de croissance monétaire dans le temps, pour jouer sur le rapport Mb/Ma."
+msgstr ""
+
+#: ../../source/comment-comparer-deux-zones-economiques.rst:106
+# 37797bf99896405bbeaf492c86c80169
+msgid "Nous sommes donc ici en face de deux politiques d'expansion de rattrapage vis-à-vis de l'équilibre nécessaire, dans deux dimensions complémentaires : spatiale du côté Chinois (il ne faudrait pas non plus oublier le problème similaire qui se pose aux 1 200 millions d'Indiens sous-monétisés eux aussi), et temporelle pour les États-Unis et l'Europe. Or le rattrapage temporel en Europe et aux États-Unis nécessite la mise en place d'un Dividende Universel sur lequel faire jouer jouer la hauteur de la densité de la masse monétaire."
+msgstr ""
+
+#: ../../source/comment-comparer-deux-zones-economiques.rst:118
+# b060ad0914344ea39f358577917b64b6
+msgid "*Evolution selon un rapport Mb/Ma stable via la monétisation temporelle.* *Seule la quantité monétaire des échanges augmente* *et maintient stable la vitesse de circulation (Luc Fievet TRM 2.0)*"
+msgstr ""
+
+#: ../../source/comment-comparer-deux-zones-economiques.rst:126
+# 7e59528b76b846139306391040c7f80b
+msgid "*Evolution selon un rapport Ma/Na stable via la monétisation spatiale.* *La quantité monétaire par citoyen monétisé* *(nouveaux citoyens monétisés = deuxième cercle) reste stable (Luc Fievet TRM 2.0)*"
+msgstr ""
+
