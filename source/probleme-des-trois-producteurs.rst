@@ -47,7 +47,7 @@ des paramètres économiques, dont la monnaie que nous voulons définir,
 qui permet aux producteurs présents à tout instant, et au moins pour ce temps court,
 de s'accorder sur la stabilité de leur outil d'échange circulaire.
 
-Aussi comme nous le allons le démontrer dans ce qui suit,
+Aussi comme nous allons le démontrer dans ce qui suit,
 et pour être cohérent avec nos fondements, seule une quantification
 purement mathématique des échanges, indépendante de tout bien
 ou service de référence est acceptable par les acteurs

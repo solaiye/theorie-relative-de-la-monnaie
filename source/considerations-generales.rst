@@ -18,13 +18,13 @@ optimisé serait alors compris entre :
 
 .. math::
 
-   DU = \frac{10 000 000 / 330 * 5,48\%}{12} = 138 € / mois / citoyen
+   DU = \frac{10 000 000 / 330 × 5,48\%}{12} = 138 € / mois / citoyen
 
 et
 
 .. math::
 
-   DU = \frac{10 000 000 / 330 * 9,22\%}{12} = 232 € / mois / citoyen
+   DU = \frac{10 000 000 / 330 × 9,22\%}{12} = 232 € / mois / citoyen
 
 Donc entre 552 € / mois et 928 € / mois pour une famille de 4 personnes.
 
@@ -48,15 +48,15 @@ pour mettre en place cette monnaie commune, ils auraient réalisé les difficult
 posées en matière d'éthique et d'équité, de symétrie devant la création
 monétaire, et ils ne l'auraient sûrement pas acceptée dans de telles conditions.
 
-Aux USA, le Dividende Universel optimal se calcule pour environ 15 000 milliards
+Aux États-Unis, le Dividende Universel optimal se calcule pour environ 15 000 milliards
 de $ en circulation et 310 millions d'habitants pour 80 ans d'espérance de vie.
 Il serait compris entre :
 
 .. math::
 
-   DU = \frac{15 000 000 / 310 * 5,48\%}{12} \approx 221 \$ / mois / citoyen
+   DU = \frac{15 000 000 / 310 × 5,48\%}{12} \approx 221 \$ / mois / citoyen
 
-   DU = \frac{15 000 000 / 310 * 9,22\%}{12} \approx 357 \$ / mois / citoyen
+   DU = \frac{15 000 000 / 310 × 9,22\%}{12} \approx 357 \$ / mois / citoyen
 
 Ceci étant noté, nous verrons plus tard que l'installation d'un Dividende
 Universel peut être progressive et n'a pas à se fixer sur un état monétaire
@@ -70,7 +70,7 @@ comprise comme n'ayant de valeur que locale et instantanée.
 *masse monétaire selon les phases, et qu'on peut envisager qu'un revenu*
 *individuel inconditionnel (Revenu d'Existence ou Revenu de Base ou Allocation*
 *Universelle) soit basé sur 2 à 3 fois le Dividende Universel, soit en 2010*
-*environ 400 € / mois / Citoyen pour l'Europe ou 600 $ / mois / Citoyen aux USA.*
+*environ 400 € / mois / Citoyen pour l'Europe ou 600 $ / mois / Citoyen aux États-Unis.*
 *On fait alors une différence entre le Dividende Universel en tant que création*
 *monétaire individuelle et le Revenu de Base, qui comprend le Dividende Universel*
 *et une part de redistribution.  On peut aussi appliquer le principe de symétrie*
@@ -83,7 +83,7 @@ comprise comme n'ayant de valeur que locale et instantanée.
 *Ces remarques associées à la plage de valeurs possibles pour « c », donnent une*
 *plage de valeurs acceptables en 2012 pour un Revenu de Base (et pas un seul*
 *Dividende Universel) entre 200 € et 800 € / mois / Citoyen pour l'Europe et 300*
-*$ à 1200 $ / mois / Citoyen aux USA. Ces données de 2010/2012 seront évidemment*
+*$ à 1200 $ / mois / Citoyen aux États-Unis. Ces données de 2010/2012 seront évidemment*
 *à recalculer selon les variations de la population, de l'espérance de vie et de*
 *la masse monétaire.*
 
@@ -225,7 +225,7 @@ ses semblables et d'avoir un avis unique sur ce qui est valeur ou pas. Or la
 valeur qui existe au sein de cette communauté d'individus n'a aucune raison de
 primer sur la valeur estimée par les futurs entrants.
 
-Ceci est vrai tant spatialement que temporellement. C'est à dire que quand deux
+Ceci est vrai tant spatialement que temporellement. C'est-à-dire que quand deux
 communautés décident de s'intégrer l'une l'autre, et donc de fusionner leur
 monnaie, l'une n'a pas à primer sur l'autre quant à la création monétaire par
 individu, et quand une génération en remplace une autre, il n'y a pas non plus à

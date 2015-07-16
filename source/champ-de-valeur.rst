@@ -16,17 +16,17 @@ Dans le cas où la monnaie représente très exactement la valeur produite et
 
 .. math::
 
-   dMx - Px * dCx + dMfx - Pfx * Cfx = 0
+   dMx - Px × dCx + dMfx - Pfx × Cfx = 0
 
 Mais comme par ailleurs cette égalité n'est que très exceptionnellement réalisée lors d'échanges ou de productions immédiats, nous appelons J le champ généralement non nul, défini en tout point « x » de l'espace-temps économique, par :
 
 .. math::
 
-   dJx = dMx - Px * dCx + dMfx - Pfx * Cfx
+   dJx = dMx - Px × dCx + dMfx - Pfx × Cfx
 
-dMx représente donc ici le Dividende Universel, Px*dCx le potentiel de valeur
+dMx représente donc ici le Dividende Universel, Px × dCx le potentiel de valeur
 individuel (la part d'innovation économique de chaque individu), tandis que dMfx
-représente le flux local de la masse monétaire totale préexistante, et Pfx*Cfx
+représente le flux local de la masse monétaire totale préexistante, et Pfx × Cfx
 le flux local des échanges (positif s'il augmente, négatif s'il diminue).
 
 Le champ de valeur différentiel est dynamique, évolue dans le temps, et mesure
@@ -145,7 +145,7 @@ La production non monétisée, par absence totale de monnaie centrale ou locale,
 apparaît dans le champ de valeur comme un creux : (monnaie = 0) – valeur < 0.
 C'est le cas de toute la production troquée, donnée, produite sans échanges
 marchands, dont font partie l'essentiel de la production des logiciels libres,
-des oeuvres libres de droits, de tous les services bénévoles, qui bénéficient
+des œuvres libres de droits, de tous les services bénévoles, qui bénéficient
 dans une  une part non négligeable à l'économie monétisée.
 
 On peut se demander pourquoi des producteurs donnent leurs productions sans
@@ -171,7 +171,7 @@ qu'Einstein aurait pu retirer comme droits sur la « propriété intellectuelle
 de la Théorie de la Relativité. Ce serait intéressant à chiffrer, pour savoir
 exactement ce que le bonhomme a donné en termes économiques « habituels »...
 
-Il semble que les producteurs de logiciels et d'oeuvres libres n'aient pas
+Il semble que les producteurs de logiciels et d'œuvres libres n'aient pas
 encore pris la peine d'intégrer l'outil monétaire au sein de leur communauté, ce
 qui est un mystère, bien que la révélation du mystère monétaire ne soit pas
 aisée, elle est typiquement de l'ordre de l'algorithmique et du jeu, domaines
@@ -198,7 +198,7 @@ officielle. Ceci démontre de façon indubitable, que dès lors qu'une monnaie s
 crée au sein d'une communauté, la valeur se révèle, et non pas l'inverse.
 
 C'est donc parce qu'il n'y a pas encore de monnaie circulante au sein de la
-communauté créant des valeurs libres de droit, que la valeur de ces oeuvres
+communauté créant des valeurs libres de droit, que la valeur de ces œuvres
 libres n'est pas actée. Tandis que la création d'une monnaie au sein d'une
 communauté de jeu fait spontanément jaillir une valeur mesurable. La monnaie
 est donc non seulement un outil d'échange mais un outil de mesure

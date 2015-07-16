@@ -89,7 +89,7 @@ alors très rapidement cet objectif car :
 
 .. math::
 
-   130 * (1,08)^n = 450
+   130 × (1,08)^n = 450
 
 équivaut à
 
@@ -180,7 +180,7 @@ Cela signifie que dans une économie à Dividende Universel les représentants d
 la collectivité, pour financer des projets collectifs par l'impôt doivent faire
 leur estimation en se basant sur le nombre d'individus gérés, et connaissant le
 facteur de croissance monétaire « c » n'en prenne au maximum qu'une fraction
-globale la plus faible possible « f ``*`` c ». Pour le reste l'État devrait se
+globale la plus faible possible « f ``×`` c ». Pour le reste l'État devrait se
 financer par la vente libre des biens et services qu'il produit, et ne pas
 s'endetter au-delà du raisonnable étant donné le flux normal de revenus qu'il
 est censé obtenir.

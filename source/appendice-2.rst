@@ -29,7 +29,7 @@ qui établit que tout être humain définit un référentiel légitime
 pour estimer et produire tout type de valeur économique,
 connue ou inconnue par autrui.
 
-Autrement dit il n'y a pas de valeur économique absolue,
+Autrement dit, il n'y a pas de valeur économique absolue,
 pas d'être humain qui soit légitimement en mesure de définir
 ce qui est valeur ou non-valeur pour les autres êtres humains,
 ni dans l'espace (entre êtres humains présents),
@@ -53,7 +53,7 @@ puisqu'ils sont de durée de vie moyenne limitée "ev" (espérance de vie moyenn
 et se renouvellent dans le temps, les nouveaux nés remplaçant les morts.
 
 Cette dimension est une donnée finie de l'espace-temps économique étudié par la TRM où,
-pour tout temps t considéré, l'ensemble des hommes est renouvelé à la date t+ev.
+pour tout temps t considéré, l'ensemble des hommes est renouvelé à la date t + ev.
 
 Nous appelons par la suite "espace" l'ensemble des individus pour une date donnée "t",
 et "temps" le phénomène de succession du remplacement de ces individus dans le temps.
@@ -242,7 +242,7 @@ Ce qui nous donne graphiquement :
 Relatif
 =======
 
-Etant donné ce qui précède nous avons aussi l'expression relative de la monnaie
+Étant donné ce qui précède nous avons aussi l'expression relative de la monnaie
 de référence de la métrique économique globale sous la forme immuable dans l'espace-temps :
 
 .. math::
@@ -286,7 +286,7 @@ Et plus particulièrement pour :math:`t=t_{0}+\frac{ev}{2}` avec :math:`c=\frac{
 
     R \left( \frac{ev}{2} \right)=\frac{1}{c} \left(1 - e^{-c\frac{ev}{2}} \right) = \frac{1}{c} \left(1 - \frac{1}{\left(\frac{ev}{2}\right)} \right)
 
-Etant donnés :eq:`eq10`, :eq:`eq11` et :eq:`eq13` , nous pouvons exprimer la condition fondamentale :eq:`eq4` sous la forme :
+Étant donnés :eq:`eq10`, :eq:`eq11` et :eq:`eq13` , nous pouvons exprimer la condition fondamentale :eq:`eq4` sous la forme :
 
 .. math::
     :label: eq14
@@ -366,8 +366,8 @@ les trois évolutions suivantes dans le référentiel relatif :
 
 Une évolution qui n'est valide que dans le cas particulier étudié ici.
 
-Les 4 référentiels
-==================
+Les quatre référentiels
+=======================
 
 Nous avons vu précédemment deux référentiels de mesure quantitatif et relatif,
 dont la loi de transformation est donnée par :
@@ -403,7 +403,7 @@ ce choix étant purement individuel :
 Variations pour un individu pseudo-autonome
 ===========================================
 
-Etudions ici la variation d'un compte monétaire pour un individu pseudo-autonome.
+Étudions ici la variation d'un compte monétaire pour un individu pseudo-autonome.
 Tout d'abord en quantitatif :
 
 .. math::
@@ -431,10 +431,226 @@ quantitatif, relatif, quantitatif à somme nulle, relatif à somme nulle,
 ou tout autre référentiel qu'il jugera le plus conforme à son expérience,
 ceci n'impactant en rien la monnaie libre établie.
 
+
+Généralisation et loi de changement de référentiel
+==================================================
+
+En généralisant le raisonnement précédent, il est possible d'établir sur la base d'une même monnaie libre
+des changements de référentiels faisant apparaître la monnaie au sein de masses monétaires de croissance quelconque,
+faisant ainsi apparaître des soustractions monétaire, ou bien inversement, de retrouver le référentiel où,
+un système monétaire qui apparaît comme ayant une croissance quelconque associée à une soustraction monétaire redistribuée inconditionnellement,
+apparaîtra comme étant sans aucune croissance (référentiel nommé par la TRM "relatif"),
+ou encore sans aucune soustraction monétaire (nommé par la TRM "quantitatif").
+
+Soit donc une monnaie libre établie dans :math:`[R_{1},c_{1}]` et sa transformation dans :math:`[R_{2},c_{2}]`,
+coïncidantes en :math:`t=0` où :math:`\left(\frac{M_{1}}{N_{1}}\right)(0) = \left(\frac{M_{2}}{N_{2}}\right)(0)`.
+
+Etant donné que nous étudions un changement de référentiel, notons que pour tout t : :math:`N_{2}(t)=N_{1}(t)=N(t)`, et par ailleurs :
+
+.. math::
+
+    \left(\frac{M_{1}}{N_{1}}\right)(t)= \left(\frac{M_{1}}{N}\right)(0) \, e^{c_{1}t}
+
+et
+
+.. math::
+
+    \left(\frac{M_{2}}{N_{2}}\right)(t)= \left(\frac{M_{2}}{N}\right)(0)  \, e^{c_{2}t} = \left(\frac{M_{1}}{N}\right)(0) \, e^{c_{2}t}
+
+La loi de transformation de :math:`M_{1}` en :math:`M_{2}` peut se trouver (par exemple) en calculant préalablement "t" selon :math:`M_{1}`, puis en le reportant dans :math:`M_{2}`
+
+.. math::
+
+    t = \frac{1}{c_{1}} \, \, ln \left[ \frac{ \left(\frac{M_{1}}{N}\right)(t) }{ \left(\frac{M_{1}}{N}\right)(0)} \right]
+
+D'où l'on déduit la transformation cherchée :
+
+.. math::
+    :label: eq16
+
+    \left(\frac{M_{2}}{N}\right)(t) = \left(\frac{M_{1}}{N}\right)(0) \left[ \frac{\left(\frac{M_{1}}{N}\right) (t)}{\left(\frac{M_{1}}{N}\right) (0)} \right]^{ \left( \frac{c_{2}}{c_{1}} \right)}
+
+La transformation étant ainsi établie, s'applique à toute unité monétaire de façon cohérente, et ainsi pour tout compte :math:`Q_s(t)` nous obtenons la transformation locale entre :math:`R_{1}` et :math:`R_{2}` facilement :
+
+.. math::
+
+    \frac{Q_s(t)_{R_{2}}}{Q_s(t)_{R_{1}}}=\frac{\left(\frac{M_{2}}{N}\right) (t)}{\left(\frac{M_{1}}{N}\right) (t)}
+
+Et donc in-fine :math:`Q_s(t)_{R_{2}}` s'obtient directement de :math:`R_{1}` par :
+
+.. math::
+    :label: eq17
+
+    Q_s(t)_{R_{2}} = Q_s(t)_{R_{1}} \left[ \frac{\left(\frac{M_{2}}{N}\right) (t)}{\left(\frac{M_{1}}{N}\right) (t)} \right] = Q_s(t)_{R_{1}} \left[ \frac{\left(\frac{M_{1}}{N}\right) (t)}{\left(\frac{M_{1}}{N}\right) (0)} \right]^{\left( \frac{c_{2}}{c_{1}} - 1 \right)}
+
+Maintenant, calculons la variation entre deux unités de temps d'un compte pseudo autonome dans :math:`R_{2}` :
+
+.. math::
+
+    dQ_s(t)_{R_{2}} = dQ_s(t)_{R_{1}} \left[ \frac{\left(\frac{M_{1}}{N}\right) (t)}{\left(\frac{M_{1}}{N}\right) (0)} \right]^{\left( \frac{c_{2}}{c_{1}} - 1 \right)} \, + \, Q_s(t)_{R_{1}} d\left[ \frac{\left(\frac{M_{1}}{N}\right) (t)}{\left(\frac{M_{1}}{N}\right) (0)} \right]^{\left( \frac{c_{2}}{c_{1}} - 1 \right)}
+
+Avec
+
+.. math::
+
+    dQ_s(t)_{R_{1}} = DU(t)_{R_{1}} = c_{1} \left(\frac{M_{1}}{N}\right) (t)
+
+et
+
+.. math::
+
+    d\left[ \frac{\left(\frac{M_{1}}{N}\right) (t)}{\left(\frac{M_{1}}{N}\right) (0)} \right]^{\left( \frac{c_{2}}{c_{1}} - 1 \right)} = (c_{2} - c_{1}) \left[ \frac{\left(\frac{M_{1}}{N}\right) (t)}{\left(\frac{M_{1}}{N}\right) (0)} \right]^{\left( \frac{c_{2}}{c_{1}} - 1 \right)}
+
+En tenant compte de :eq:`eq16` et :eq:`eq17`, nous obtenons :
+
+.. math::
+
+    dQ_s(t)_{R_{2}}=c_{1} \left(\frac{M_{2}}{N}\right)(t) + (c_{2} - c_{1}) \, Q_s(t)_{R_{2}}
+
+Ce qui peut aussi s'écrire sous la forme :
+
+.. math::
+    :label: eq18
+
+    dQ_s(t)_{R_{2}}=DU_{R_{2}} + (c_{1}-c_{2}) \left[\left(\frac{M_{2}}{N}\right)(t) - \, Q_s(t)_{R_{2}}\right]
+
+Rappelons ici que
+
+.. math::
+
+    \sum_{R_{2}} Q_s(t)_{R_{2}}= \sum_{R_{2}} \left(\frac{M_{2}}{N}\right)(t) = M_{2}
+
+Il apparaît donc dans :math:`R_{2}` que le système monétaire se comporte "comme si" il était taxé sur chaque compte individuel :math:`(c_{1} - c_{2}) \, Q_s(t)_{R_{2}}` de monnaie,
+reversée inconditionnellement pour chaque membre en parts égales :math:`(c_{1}-c_{2}) \left(\frac{M_{2}}{N}\right)(t)`, ce à quoi est rajouté :math:`DU_{R_{2}}`.
+
+La transformation ainsi connue entre ces référentiels, permet donc à l'inverse, connaissant un taux de croissance monétaire quelconque :math:`c_{2}`
+et un taux de soustraction monétaire reversé inconditionnellement quelconque aussi :math:`(c_{1}-c_{2})` de retrouver le référentiel quantitatif de croissance :math:`c_{1}`
+et de soustraction monétaire nulle, où la monnaie libre équivalente apparaît sous sa forme quantitative nette.
+
+A noter aussi que pour le changement dans le référentiel :math:`[R_{2},c_{2}=0]`, nous obtenons :
+
+.. math::
+
+    dQ_s(t)_{R_{2}}= c_{1} \left(\frac{M_{2}}{N}\right)(t) - c_{1} \, Q_s(t)_{R_{2}} = DU(0)_{R_{1}} - c_{1} \, Q_s(t)_{R_{2}}
+
+Et étant donné que :math:`c_{2}=0` nous avons :math:`DU(t)_{R_{2}}=DU(0)_{R_{2}}` qui est donc une constante arbitraire,
+que nous pouvons poser comme égale à :math:`DU(0)_{R_{1}}`, constante qui ne change pas le calcul des dérivées, et alors nous obtenons :
+
+.. math::
+
+    dR_s(t)_{R_{2}}= 1 - c_{1} \, R_s(t)_{R_{2}}
+
+Ce qui est la forme établie au paragraphe 9, il s'agit donc bien au facteur constant :math:`DU(0)_{R_{1}}` près,
+de la transformation de :math:`[R_{1},c_{1}]` dans le référentiel Relatif :math:`[R_{2},c_{2}=0]` où la croissance monétaire apparaît comme nulle.
+
+Nous avons ainsi établi une Loi générale de changement de référentiel où une même monnaie libre apparaît selon un taux de croissance arbitraire,
+associé à un taux de taxe et redistribution monétaire déterminé. Cette même Loi nous permettant de retrouver la monnaie libre sous-jacente
+de systèmes monétaires possédant cette caractéristique.
+
+Un autre résultat remarquable est que, si nous appelons :math:`RdB_{R_{2}}` la quantité calculée dans :math:`R_{2}` : :math:`RdB_{R_{2}} = DU_{R_{2}} + (c_{1}-c_{2}) \left(\frac{M_{2}}{N}\right)(t) = c_{1} \left(\frac{M_{2}}{N}\right)` correspondant à ce qui est ajouté positivement sur chaque compte, alors nous aurons toujours, pour tout :math:`c_{2}` :
+
+.. math::
+    :label: eq19
+
+    \frac{\left(\frac{M_{2}}{N}\right)}{RdB_{R_{2}}} = \frac{\left(\frac{M_{1}}{N}\right)}{DU_{R_{1}}} = \frac{1}{c_{1}}
+
+Que nous pouvons exprimer comme : "le nombre de DU dans le référentiel :math:`R_{1}` est égal au nombre de RdB dans le référentiel :math:`R_{2}`".
+
+Théorème :
+
+Il existe donc des référentiels :math:`R_{[C_{x},x]}` où :math:`C_{x}` correspond à un taux de croissance, :math:`x` étant un taux de taxation
+et redistribution inconditionnelle, et tels que :math:`C_{x}+x = c`, qui sont tous équivalents et permettent de représenter une même monnaie, selon la Loi de transformation précédemment établie et d'invariant relativiste :
+
+.. math::
+    :label: eq20
+
+    \frac{\left(\frac{M}{N}\right)_{R_{[C_{x},x]}}}{RdB_{R_{[C_{x},x]}}} = \frac{\left(\frac{M}{N}\right)_{R_{[c,0]}}}{DU_{R_{[c,0]}}} = \frac{1}{c}
+
+En calculs discrets
+-------------------
+
+La mise en place d'un DU calculé sur une unité de temps discrète, nous demande d'effectuer ces mêmes calculs en mode discret et pas en mode continu,
+ce qui fait une très légère différence (d'autant plus petite que le pas temporel sera petit) dont nous devons tenir compte si nous voulons être très précis.
+
+En tranformation discrète, on aura :
+
+.. math::
+
+    \left(\frac{M_{1}}{N_{1}}\right)(t)= \left(\frac{M_{1}}{N}\right)(0) \, (1+c)^t
+
+Et donc :
+
+.. math::
+
+    t = \frac{ln \left[ \frac{ \left(\frac{M_{1}}{N}\right)(t) }{ \left(\frac{M_{1}}{N}\right)(0)} \right]}{ln \left( 1+c \right)}
+
+Ce qui implique :
+
+.. math::
+
+    \left(\frac{M_{2}}{N}\right)(t) = \left(\frac{M_{1}}{N}\right)(0) \left[ \frac{\left(\frac{M_{1}}{N}\right) (t)}{\left(\frac{M_{1}}{N}\right) (0)} \right]^{\left[ \frac{ln(1+c_{2})}{ln(1+{c_{1})}} \right] }
+
+Et donc :
+
+.. math::
+    :label: eq21
+
+    Q_s(t)_{R_{2}} = Q_s(t)_{R_{1}} \left[ \frac{\left(\frac{M_{2}}{N}\right) (t)}{\left(\frac{M_{1}}{N}\right) (t)} \right] = Q_s(t)_{R_{1}} \left[ \frac{\left(\frac{M_{1}}{N}\right) (t)}{\left(\frac{M_{1}}{N}\right) (0)} \right]^{\left[ \frac{ln(1+c_{2})}{ln(1+{c_{1})}} - 1 \right]}
+
+Maintenant nous allons retrouver le "taux de taxe" apparent en fonction uniquement des données déjà calculées depuis :math:`R_{1}`.
+Ceci est nécessaire pour pouvoir réaliser en pratique un changement de référentiel simple et direct avec les seules données du référentiel fondamental.
+
+La raison en est qu'en calcul discret plusieurs options sont possibles selon que l'on prend des données au temps "t" ou au temps "t+1" pour calculer les dérivées approchées d'une fonction.
+
+Dans :math:`R_{1}` nous avons l'égalité :
+
+.. math::
+
+    DU_{R_{1}}(t) - \left[ Q_s(t+1)_{R_{1}} - Q_s(t)_{R_{1}} \right] = 0
+
+Appliquons la transformation de :math:`{R_{1}}` vers :math:`{R_{2}}` en multipliant par :math:`\left[ \frac{\left(\frac{M_{2}}{N}\right) (t)}{\left(\frac{M_{1}}{N}\right) (t)} \right]`
+et en remarquant que :math:`\left[\frac{\left(\frac{M_{2}}{N}\right) (t)}{\left(\frac{M_{1}}{N}\right) (t)}\right] = \frac{(1+c_{1})}{(1+c_{2})} \left[ \frac{\left(\frac{M_{2}}{N}\right) (t+1)}{\left(\frac{M_{1}}{N}\right) (t+1)}\right]`, nous obtenons :
+
+.. math::
+
+    RdB_{R_{2}}(t) - \left[ Q_s(t+1)_{R_{2}} \frac{(1+c_{1})}{(1+c_{2})} - Q_s(t)_{R_{2}} \right] = 0
+
+Dans :math:`R_{2}` le taux de croissance monétaire étant :math:`c_{2}` le taux de "taxe apparente" équivalent est,
+comme vu précédemment avec le calcul continu, le taux :math:`c_{1}-c_{2}`, et de l'équation précédente nous retrouvons cette valeur selon le calcul exact :
+
+.. math::
+    :label: eq22
+
+    c_{1}-c_{2} = (1+c_{2}) \, \left( \frac{RdB_{R_{2}}(t) - \left[ Q_s(t+1)_{R_{2}} - Q_s(t)_{R_{2}} \right]}{Q_s(t+1)_{R_{2}}} \right)
+
+Tous les termes de droite étant déjà calculés par transformation directe depuis :math:`R_1`.
+
+Nous avons un ratio calculé entre valeurs prises à l'occurrence "t" et d'autres à l'occurence "t+1", ce qui est attendu dans le calcul d'une dérivée discrète.
+
+La présence du facteur :math:`(1+c_2)` n'est pas étonnante puisque c'est le taux d'expansion discret de :math:`R_{2}`,
+qui multiplié par des données "t" donne une approximation des données en "t+1". On doit donc comprendre que cela produit une bonne valeur intermédiaire du numérateur entre "t" et "t+1".
+
+Nous avons donc bien ici le calcul instantané de la "taxe apparente" dans :math:`R_{2}` à partir de données directement issues de :math:`R_{1}`,
+permettant un affichage :math:`RdB_{R_{2}} = DU_{R_{2}} + (taxe \, apparente)_{R_{2}}`.
+
+Enfin, en remarquant que :math:`RdB_{R_{2}} = DU_{R_{2}} + (c_{1}-c_{2})  \left(\frac{M_{2}}{N}\right) = c_{1}\left(\frac{M_{2}}{N}\right)`
+nous pouvons aussi obtenir le calcul de cette taxe apparente en différentielle discrète sous la forme :
+
+.. math::
+    :label: eq23
+
+    (taxe \, apparente)_{R_{2}} = (c_{1}-c_{2})\left[\frac{Q_s(t)_{R_{2}} + c_{1}\left(\frac{M_{2}}{N}\right)}{(1+c_1)}\right]
+
+Cette forme reprend le taux de la taxe :math:`(c_1 - c_2)` appliqué au compte augmenté du RdB (visant sa valeur en "t+1", sans taxe),
+et ramené de cette valeur approchée en "t+1" vers sa valeur en "t" par la division par :math:`(1+c_1)`.
+
+On remarque immédiatement que lorsque le compte vaut la moyenne, la taxe théorique s'applique au compte directement et sans approximation intermédiaire.
+
+
 Variations de N et calcul du DU
 ===============================
 
-Etant donné ce qui précède il faut garder à l'esprit que c'est la convergence
+Étant donné ce qui précède il faut garder à l'esprit que c'est la convergence
 de demie vie qui est l'objectif atteint par une monnaie libre,
 les nouveaux entrants remplaçant les morts (voir à ce propos les formes
 :eq:`eq4` et :eq:`eq14` concernant la condition temporelle valable pour tout individu).
@@ -451,7 +667,7 @@ en prenant en considération des cas extrêmes, comme celui du cas de forte haus
 du nombre de participants d'une monnaie libre (équivalente à une pseudo-initialisation de monnaie),
 où le DU calculé en relatif ( :math:`DU(t)=c\left(\frac{M}{N}\right)(t)` )
 subira une forte discontinuité, détruisant la continuité de la progression,
-et deviendrait extrêmement bas vis à vis des participants initiaux, peu nombreux,
+et deviendrait extrêmement bas vis-à-vis des participants initiaux, peu nombreux,
 et qui posséderaient dans ce cas une part monétaire extrêmement forte
 par rapport aux nouveaux entrants, sans rapport avec le DU calculé.
 
@@ -479,7 +695,7 @@ de la variation de N sous la forme :math:`dN(t)=\alpha N(t)`
 ou encore :math:`N(t+dt)=N(t)+dN(t)=(1+\alpha)N(t)`
 et nous prenons une approximations pour M conforme à :math:`M(t+dt) \approx (1+c) M(t)`.
 
-A noter que :math:`\alpha` doit être entendu comme étant en général "petit"
+À noter que :math:`\alpha` doit être entendu comme étant en général "petit"
 sur des durées de l'ordre de :math:`\left( \frac{ev}{2} \right)`,
 et même devant c. En effet sur la base expérimentale de la France,
 entre 1950 et 1990 la population a varié de 41 à 56 millions,
@@ -515,7 +731,7 @@ un calcul pratique simple du DU, faisant apparaître une forme quantitative
 et une autre relative, s'adaptant de façon souple aux variations de N :
 
 .. math::
-    :label: eq16
+    :label: eq24
 
     DU(t+dt) = Max \left[ DU(t);c\,\frac{M(t)}{N(t+dt)} \right]
 
@@ -541,7 +757,7 @@ On peut en résumer le fonctionnement ainsi :
 à une proportion relative c de la masse monétaire."
 
 D'autres formes sont bien entendu possibles étant donnée l'incertitude sur N(t),
-les formes les plus simples étant les meilleures...
+les formes les plus simples étant les meilleures…
 
 De façon générale, pour s'assurer de la pertinence de cette forme,
 et éventuellement la comparer avec d'autres, comme la triviale mais dangereuse forme théorique,

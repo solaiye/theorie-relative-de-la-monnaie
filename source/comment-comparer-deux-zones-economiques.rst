@@ -33,13 +33,13 @@ de la zone B est tel que :
 
 .. math::
 
-   Q_a * T(a/b) = Q_b
+   Q_a × T(a/b) = Q_b
 
 Avec dans le cadre du principe de relativité une valeur fondamentale, qui est :
 
 .. math::
 
-   T(a/b) = \frac{U_b}{U_a} = \frac{N_a}{N_b} * \frac{M_b}{M_a}
+   T(a/b) = \frac{U_b}{U_a} = \frac{N_a}{N_b} × \frac{M_b}{M_a}
 
 Ce résultat fondamental diffère des outils communs avec lesquels on mesure les
 rapports entre les « prix »... Or les valeurs étant fondamentalement jugées
@@ -53,7 +53,7 @@ Application numérique :
 
 .. math::
 
-   Ua (USA) = 15000/0,31 = 48387 \$ /citoyen
+   Ua (\text{États-Unis}) = 15000/0,31 = 48387 \$ /citoyen
 
 .. math::
 
@@ -97,17 +97,17 @@ masse monétaire chinoise « Ma » pourrait augmenter au même rythme que Na (
 de citoyens monétisés), sans que cela joue sur la valeur de change fondamentale
 de sa monnaie.
 
-L'évolution des rapports de change pour l'Europe et les USA, qui sont pour leur
+L'évolution des rapports de change pour l'Europe et les États-Unis, qui sont pour leur
 part déjà bien plus fortement monétisés dans l'espace (Nb ne croîtra pas
 beaucoup), dépendra alors non pas de l'expansion monétaire de la Chine si
 celle-ci est essentiellement spatiale, mais de leur propre politique de
 croissance monétaire dans le temps, pour jouer sur le rapport Mb/Ma.
 
-Nous sommes donc ici en face de deux politiques d'expansion de rattrapage vis à
-vis de l'équilibre nécessaire, dans deux dimensions complémentaires : spatiale
+Nous sommes donc ici en face de deux politiques d'expansion de rattrapage vis-à-vis
+de l'équilibre nécessaire, dans deux dimensions complémentaires : spatiale
 du côté Chinois (il ne faudrait pas non plus oublier le problème similaire qui
 se pose aux 1 200 millions d'Indiens sous-monétisés eux aussi), et temporelle
-pour les USA et l'Europe. Or le rattrapage temporel en Europe et aux USA
+pour les États-Unis et l'Europe. Or le rattrapage temporel en Europe et aux États-Unis
 nécessite la mise en place d'un Dividende Universel sur lequel faire jouer jouer
 la hauteur de la densité de la masse monétaire.
 

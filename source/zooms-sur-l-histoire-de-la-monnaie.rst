@@ -343,7 +343,7 @@ de référence échangeable sera de :
 
 .. math::
 
-   Q(t) = Q(0) * (1-c)^t
+   Q(t) = Q(0) × (1-c)^t
 
 Par exemple pour une croissance annoncée des billets émis de 5 % / an, il
 faudrait alors noter sur les billet émis à la date « d » que la quantité de
@@ -351,7 +351,7 @@ valeur de référence gagée par ce billet pour l'année « a » en cours est 
 
 .. math::
 
-   Q(t) = Q(0) * (95\%)^{a-d}
+   Q(t) = Q(0) × (95\%)^{a-d}
 
 La quantité de la valeur de référence échangeable diminuerait alors de moitié
 dans ce cas précis tous les 15 ans après la date d'émission d'un billet. Ce
@@ -640,7 +640,7 @@ architecture, mais opter pour un choix qui soit ouvert, transparent, et
 équitable entre tous les membres de la zone monétaire concernée.
 
 2007 – 2010 représente la fin du dernier cycle d'expansion monétaire 1971 –
-2010, qui a vu successivement des règles privées s'imposer tant aux USA qu'en
+2010, qui a vu successivement des règles privées s'imposer tant aux États-Unis qu'en
 Europe décidées au sein d'un groupement « d'experts », nommées  « Bâle I » puis
 « Bâle II » et « Bâle III » en cours de négociation, censées « réguler les
 Banques ».
@@ -693,12 +693,12 @@ Le Dividende Universel a déjà été mis en pratique récemment sous différent
 formes, et différents noms comme « revenu d'existence », « revenu permanent »,
 « allocation universelle » etc...
 
-On trouve des exemples de mise en oeuvre en Alaska, dans une expérience locale
+On trouve des exemples de mise en œuvre en Alaska, dans une expérience locale
 en Namibie, au sein de SEL comme le SCEC en Italie, ou encore au Brésil. Il
 existe des groupements qui font la promotion d'un revenu individuel symétrique
 comme l'association internationale du BIEN (Basic Income Exchange Network),
 ainsi que l'AIRE (Association pour l'Instauration d'un Revenu d'Existence) en
-France présidée par l'économiste Yoland Bresson.
+France qui fut présidée par l'économiste Yoland Bresson.
 
 Mais mieux encore, l'Europe est déjà quasiment installée dans un système où un
 Dividende Universel se développe depuis 20 ans en parallèle avec un système de
@@ -768,7 +768,7 @@ Universel sur une base mensuelle à partir de règles très simples, qu'il peut
 TRM :
 
 * UD (0) = 100 UDC
-* UD (n+1) = MAX { UD(n) ; Pud x M(n)/N(n) }
+* UD (n+1) = MAX { UD(n) ; Pud × M(n)/N(n) }
 
 Où « n » est le mois précédent. UD(n) est le Dividende Universel du dernier
 mois, Pud est le pourcentage constant de Dividende Universel minimal prédéfini, M(n) est
