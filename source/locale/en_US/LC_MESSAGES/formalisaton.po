@@ -517,4 +517,4 @@ msgstr "Principle of Relativity"
 # cc6eb294a2614ddeb668c7f79528b9d9
 #: ../../source/formalisaton.rst:210
 msgid "Liberté de productions"
-msgstr "Freedom of democratic modification"
+msgstr "Freedom of production"
