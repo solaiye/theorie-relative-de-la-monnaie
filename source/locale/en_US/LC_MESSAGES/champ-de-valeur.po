@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-07-17 15:24+0000\n"
-"Last-Translator: cgeek <cem.moreau@gmail.com>\n"
+"PO-Revision-Date: 2015-07-17 16:41+0000\n"
+"Last-Translator: Nathanaël <thatoo@leprette.fr>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/champ-de-valeur/en_US/>\n"
 "Language: en_US\n"
@@ -171,7 +171,7 @@ msgstr "The initial issue of debt is profitable to a first circle of economic ac
 # ce312b1d1a1f42bfb70dfa086ad68d79
 #: ../../source/champ-de-valeur.rst:99
 msgid "*(Luc Fievet TRM 2.0)*"
-msgstr "*(Luc Fievet RTM 2.0)*"
+msgstr "*(Luc Fievet TRM 2.0)*"
 
 # 340356bd8bde479dbdb4651878661ca4
 #: ../../source/champ-de-valeur.rst:101
