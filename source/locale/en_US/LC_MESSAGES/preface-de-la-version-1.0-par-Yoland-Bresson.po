@@ -8,19 +8,21 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-01-14 19:57+0000\n"
-"Last-Translator: Vincent Texier\n"
-"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
+"PO-Revision-Date: 2015-07-17 15:20+0000\n"
+"Last-Translator: Nathanaël <thatoo@leprette.fr>\n"
+"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
+"/preface-de-la-version-10-par-yoland-bresson/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.4-dev\n"
 
 # 4dc678742d0f48608e8de75be39ecd00
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:3
 msgid "Préface de la version 1.0 par Yoland Bresson"
-msgstr ""
+msgstr "Preface from Yoland Bresson"
 
 # 3340c80b356047ada5eb31e85987b017
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:5
@@ -30,6 +32,10 @@ msgid ""
 "des ingénieurs tels ceux de Dupuit, Cournot... jusqu’à notre seul prix Nobel"
 " de la discipline : Maurice Allais."
 msgstr ""
+"Relative theory of the money writen by Stéphane Laborde is part of the great "
+"french tradition of economic science works produced by ingeneers like  "
+"Dupuit, Cournot... up to our only Nobel price winner of the discipline: "
+"Maurice  Allais."
 
 # c6ae1612ed8d478da70dd8042c4cf261
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:10
@@ -38,6 +44,9 @@ msgid ""
 " économistes, comme l’honnête Homme du siècle, ne saisissent pas vraiment "
 "tout l’intérêt de cet apport théorique sans une « traduction »."
 msgstr ""
+"But all sciences build a specific language and I fear that economists, as "
+"the honest citizen of the century, don't grasp all the interest of this "
+"theoretical input without a “translation”."
 
 # 3c3b360ac4604d66bd888b0b1c9fd33f
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:14
@@ -47,6 +56,9 @@ msgid ""
 "acteurs, individus de tout âge et de tout sexe, chacun d’eux en en recevant "
 "une part égale."
 msgstr ""
+"The “Universal Dividend system”,  which the author proposes, is a monetary "
+"system in which money is uniformly distributed between all the actors, "
+"individuals of all age or sex, any one of them receiving a equal part."
 
 # dcf821a8f10447cd8ee1eb30f9c352cb
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:19
@@ -61,6 +73,15 @@ msgid ""
 "monétaires n’empêche pas l’apparition de gagnants et de perdants selon les "
 "choix individuels et les opportunités du hasard."
 msgstr ""
+"Nearly all of us already practiced such a system … by playing  Monopoly™. "
+"Indeed, each player receives at the beginningart the same amount of money, "
+"and at each turn by passing through the start they gain some money, each one "
+"receiving the same amount. One turn is the base period, theoretically "
+"identical for all, except for the hazard of the game,  the dice throws … the "
+"turn passes more or less fast and the money gains then differentiate between "
+"players. Note that the equality of  the monetary donations does not impeach "
+"the appearance of winners and losers from individual choices and the "
+"opportunities of randomness."
 
 # e796e9e618cf4e4aa5c9a30819d44d29
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:28
@@ -74,6 +95,13 @@ msgid ""
 "émettrice en premier et dernier ressort. Le pays dispose ainsi d’une masse "
 "monétaire dite M3."
 msgstr ""
+"Nowadays,  in our reality, the repartition of the monetary mass does not  "
+"correspond to such a system. It is created and distributed under the form of "
+"debt throug banking system, which answers the demand of money  from the "
+"citizens by lending them far more money than they detain themselves, in "
+"return of an interest rate higher than the one they have to support "
+"themselves by supplying from the Central Bank, as first and last emitter.  "
+"The country has at disposal this monetary mass called M3."
 
 # 64c22bbc86d94881a4fbb4ac0e2c878e
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:36
@@ -86,6 +114,13 @@ msgid ""
 "PIB. Ce lien qui paraît trivial est en vérité très subtil comme nous le "
 "verrons plus loin."
 msgstr ""
+"One should well distinguish between the monetary mass - which is an "
+"available stock of money, all the time present, fixed except additional "
+"monetary creation - from the income flows in money that individuals capture "
+"through economic activities and exchange: monetary mass generates the flow "
+"of the revenue, which is the sum of the year, traditionally evaluated as "
+"GDP. This link which appears trivial is in reality very subtile, as we'll "
+"see it later."
 
 # fe200f57e97d4f8db2f78864bcc888f4
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:43
@@ -96,6 +131,11 @@ msgid ""
 "tel que sa densité, c'est-à-dire sa répartition selon les individus, soit "
 "uniforme dans l’espace et dans le temps ?"
 msgstr ""
+"So the author seeks to answer the question: which rule of monetary creation "
+"should we adopt, and at which rhythm must monetary mass grow, in order to "
+"institute a system with Universal Dividend, where the monetary mass' density "
+"- meaning its repartition among individuals - would be uniform in space and "
+"time?"
 
 # 114c939f5f604d67b0e04fc6ee3b583b
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:49
@@ -110,6 +150,14 @@ msgid ""
 "celui rappelons-le où chacun reçoit une part égale de la masse monétaire  "
 "est complètement réalisé."
 msgstr ""
+"He supposes a population stable in number with a given life span. It means "
+"he admits a null demographic growth: there are as many births as deaths and "
+"no migrations. In this case the life span corresponds to the duration at the "
+"end of which there is no one from the old generation left. Population is "
+"totally renewed since the setup of the new rule; density is now uniform for "
+"everybody, whatever density prevailed at the origin. Universal Dividend "
+"system, the one we have to remember, where each receives an equal part of "
+"the monetary mass, is completely realized."
 
 # af153de2e98c4850a859815c6bb07434
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:58
@@ -122,6 +170,13 @@ msgid ""
 "inconditionnellement distribué entre tous les membres de la population. Ce "
 "facteur c est égal à 5 % environ pour une espérance de vie de 80 ans."
 msgstr ""
+"The  answer is what the author calls \" the Optimal Universal Dividend \" : "
+"monetary mass must grow annually with \"c\" factor, of course  inversely "
+"proportional to the life span - meaning the duration of the renewing of the "
+"population or the time to set the system in place completely - and that "
+"money surplus must be equally and  unconditionnally distributed between all "
+"population members. This \"c\" factor is equal to more or less 5% for a life "
+"span of 80 years."
 
 # 873f546f65eb4327bd3d43254ed73468
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:67
@@ -131,6 +186,10 @@ msgid ""
 "tout à fait conforme à sa définition : revenu attribué parce qu’on existe, "
 "membre de la communauté et non pour exister ?"
 msgstr ""
+"How  to deduce the unconditional amount to attribute not in monetary mass, "
+"but in monthly income flow, an \"existence income\", here totally conform to "
+"its definition: income attributed because one exists, as member of  the "
+"community, and not to exist?"
 
 # 0c25b33dc4a34857b369813d9ba52d7e
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:72
@@ -142,6 +201,11 @@ msgid ""
 "donnant 1 515 € à chaque européen et ne plus créer de monnaie pendant toute "
 "l’année 2011."
 msgstr ""
+"If we calculate, as the author does, for Europe, 5% of the M3 euro mass "
+"divided by 330 millions of Europeans, we obtain 1515€  per person.  What "
+"does that mean? we must create 5% additional money this year and distribute "
+"it next 1st of January by giving 1515€ to each European and not  create any "
+"more money during the whole year 2011."
 
 # 927fe7185c1341da8ff7992f7a47c835
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:78
@@ -154,6 +218,13 @@ msgid ""
 "impose le 100 % monnaie, comme le souhaitait Maurice Allais, les banques ne "
 "pouvant prêter plus qu’elles n’ont en dépôts."
 msgstr ""
+"Doing it again on the 1st of January 2012, 5% more ... and so on each year "
+"so that in 80 years everyone would detain an equal part of the M3 of the "
+"time.  This method would only be applicable: if it exists only one money "
+"emitter, the ECB for example, creating additional euros whether in notes "
+"whether by crediting account of all individuals and by imposing \"100%  "
+"money\", as Maurice Allais wanted, so banks could not lend more than what "
+"they have in deposit."
 
 # d949fd06308c4588a830fb5440ff3ebf
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:86
@@ -162,11 +233,14 @@ msgid ""
 "attribution mensuelle de revenu, un revenu d’existence, semble une "
 "instauration moins traumatisante pour nos institutions."
 msgstr ""
+"Such a setting would correspond to an institutional bigbang. A monthly "
+"attribution of income, an existence income, seems to be a less traumatising "
+"instauration for our institutions."
 
 # 80df6d4d011543c8b2bdc9cac30df5f1
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:90
 msgid "Comment passer de la masse monétaire au revenu ?"
-msgstr ""
+msgstr "How to go from monetary mass to income?"
 
 # 12888dc8ad0c40579884bd9db9eb6d56
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:92
@@ -184,6 +258,18 @@ msgid ""
 "un PIB qui serait égal à 3M3, l’unité de temps économique équivaut à un "
 "trimestre et à un semestre si le PIB égal 2M3."
 msgstr ""
+"If we simply divide the 1515€ in 12 months, we implicitly suppose that "
+"monetary mass takes exactly one year to generate a total flow of revenue "
+"equal to itself. It's by the way how I defined the  \"economical unit of "
+"time\", a single norm in which the pass from mass to flow can be expressed "
+"everywhere  without distortion. Indeed, depending on the country or the "
+"times or circumstances, expansion, recession, a particular monetary mass "
+"circulate more or less fast, supporting more or less  frequent exchanges, "
+"assorted with monetary values more or less high. In one civil year the sum "
+"of the flows can then value three time the monetary mass. Economical unit of "
+"time does not correspond to the real time unit. With a GDP that would be "
+"equal to 3 × M3, the economical  unit of time would equal one trimester, and "
+"one semester if the GDP  equal 2 × M3."
 
 # 174881ba6ced4504bedcb9a44291e397
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:104
@@ -196,6 +282,12 @@ msgid ""
 "en principe, tiré d’un stock, ici la masse monétaire, un revenu est un flux "
 "régulier issu des échanges en monnaie."
 msgstr ""
+"In reality, GDP is included between two and three times M3. So 1515€ should "
+"be divided by 4 to 6 months to give the monthly income. We obtain for Europe "
+"approximatively 300€ per month and per person of the Universal  Dividend or "
+"rather existence income to stay in conformity with the economic language: a "
+"dividend is given one time, in principle, extracted from a stock, monetary "
+"mass in this case, an income is a regular flow issued by monetary exchanges."
 
 # 6e312c043e39441cb24090a22d0efb4a
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:112
@@ -205,6 +297,10 @@ msgid ""
 "l’Europe se rapproche par le bas du revenu d’existence issu de la valeur-"
 "temps qui donne aujourd’hui 350€ environs pour la France."
 msgstr ""
+"It is remarkable that Stéphane Laborde theory joins the one of the value-"
+"time until measure, since its universal dividend for Europe reaches from the "
+"bottom existence income issued from time-value which gives today around 350€ "
+"for France."
 
 # f7e2901166e14331ba20db19f16f0b05
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:117
@@ -221,3 +317,14 @@ msgid ""
 "internautes est une invitation qui lui est adressée, dans un partage total "
 "d’idées créatives, pour imaginer, puis concrétiser un autre monde."
 msgstr ""
+"These two theories, Relative Theory of the money and time-value converge to "
+"build the foundation of a new paradigm, a new vision of economy.\n"
+"Based on them, the architecture of a new social organization - more "
+"respectful of the equality which we should imagine - could be elevated. I "
+"have personally been tempted to propose one, taking establishing "
+"consequences of an existence income or a system  with universal dividend, to "
+"follow the author, by publishing \" Une Clémente Economie\" (in french). But "
+"this essay is nor exclusive nor definitive. \"Relative Theory of the Money\""
+"  offered to the Libre Community of internauts is an invitation which  is "
+"addressed to it, in a total sharing of creative ideas, to imagine,  then "
+"concretize another world."
