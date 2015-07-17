@@ -10,14 +10,16 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-07-16 08:49+0000\n"
-"Last-Translator: Vincent Texier\n"
-"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
+"PO-Revision-Date: 2015-07-17 16:11+0000\n"
+"Last-Translator: Nathanaël <thatoo@leprette.fr>\n"
+"Language-Team: English (United States) "
+"<http://weblate.ucoin.io/projects/rtm/appendice-2/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.4-dev\n"
 
 # 24994e9e6e164dceaf60ce46b4c53cd1
 #: ../../source/appendice-2.rst:3
@@ -849,7 +851,7 @@ msgstr ""
 # 74d34548ba3f4b949b495e71f9e43799
 #: ../../source/appendice-2.rst:587
 msgid "Ce qui implique :"
-msgstr ""
+msgstr "Which implies:"
 
 # 1eea10cc742948fd9b39879d0d0fcb22
 #: ../../source/appendice-2.rst:600
