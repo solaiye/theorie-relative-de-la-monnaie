@@ -8,19 +8,21 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-07-16 08:41+0000\n"
-"Last-Translator: Vincent Texier\n"
-"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
+"PO-Revision-Date: 2015-07-21 11:16+0000\n"
+"Last-Translator: Magali Marc <3neurons@riseup.net>\n"
+"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
+"/zooms-sur-l-histoire-de-la-monnaie/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.4-dev\n"
 
 # bc46928602ae48309868d33bcc5c6826
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:3
 msgid "Zooms sur l'histoire de la monnaie"
-msgstr ""
+msgstr "Focus on History of money"
 
 # d0478593a507448786ae977e842ea077
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:5
@@ -29,6 +31,9 @@ msgid ""
 "analysées du point de vue relatif de la TRM, Il ne s'agit nullement d'un "
 "point de vue « absolu »."
 msgstr ""
+"In this chapter, historical and consecutive monetary periods are analyzed "
+"according to the relative viewpoint of the RMT. It does not pretend to be an "
+"\"absolute\" viewpoint."
 
 # c0bf0bc9af5b49e8833e17e77713a7ca
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:10
@@ -36,6 +41,7 @@ msgid ""
 "Les monnaies néolithiques, premières monnaies denses à inflation "
 "incontrôlable"
 msgstr ""
+"The neolitic currencies, first dense currencies with uncontrolled inflation"
 
 # ec2a7ecad83d403dad40308bbfe7784e
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:12
@@ -47,6 +53,11 @@ msgid ""
 "dissémination font forcément penser à des stocks monétaires, permettant des "
 "échanges sur la base d'une valeur de référence."
 msgstr ""
+"From the Neolithic, we find equivalents of exchanges accounting by material "
+"barter based on diverse reference values. In Britain for instance, we found "
+"in the tumulus built at these times, important stocks of axes made of jade, "
+"which number and dissemination resemble strongly to monetary stocks, "
+"allowing trades based on a value of reference."
 
 # 517cca8620a64228b51b88087186aaaf
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:19
@@ -56,16 +67,20 @@ msgid ""
 "référence, ceci expliquant sans doute que des stocks aussi importants soient"
 " parvenus jusqu'à nous."
 msgstr ""
+"With this type of accounting, yet the possibility of a monetary inflation "
+"were existed, due to those who has access to stocks of this value of "
+"reference. This explains undoubtedly that such important stocks remains "
+"until our era."
 
 # 3b9a5e2797da4efcb97da9e0710b5386
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:28
 msgid "*Haches en Jade du néolithique (Wikimedia)*"
-msgstr ""
+msgstr "*Jade axes from Neolithic (Wikimedia)*"
 
 # ed842da0f603405a9d23048179c6cf30
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:31
 msgid "Les monnaies métalliques, premières monnaies limitant l'inflation"
-msgstr ""
+msgstr "metallic currencies, first currencies limiting inflation"
 
 # be3101be31014f0faecbd83b2935d48b
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:33
@@ -77,6 +92,10 @@ msgid ""
 "cela les métaux rares allaient avantageusement prendre la place monétaire "
 "centrale."
 msgstr ""
+"Barter being insufficient to allow exchanges, and the first currencies based "
+"on potentially and strongly inflationary productions because easy producted "
+"by anybody, it becames necessary to use a money value more stable. To do so, "
+"rare metals were going to take the central monetary role advantageously."
 
 # c478a9a8509a4b36b2a7c02759b2b08d
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:39
@@ -86,11 +105,15 @@ msgid ""
 "empires de l'antiquité, et ce  jusqu'au XVIIIème siècle et le fort "
 "développement des monnaies fiduciaires."
 msgstr ""
+"This is how gold, silver, bronze and copper are going to be used as almost "
+"exclusive value of reference during the empires developments from Antiquity, "
+"and this until the XVIIIth century, beside the strong development of paper "
+"currencies."
 
 # 12cc7bc5b62049f19418858658fdba4a
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:46
 msgid "Empire Romain"
-msgstr ""
+msgstr "Roman Empire"
 
 # 01f6ed9f86d545f0a75210813868158f
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:48
@@ -100,6 +123,10 @@ msgid ""
 "pouvoir d'accaparation illégitime quand le respect de l'éthique vis-à-vis de"
 " l'émission n'est pas au cœur des valeurs fondamentales."
 msgstr ""
+"No empire without monetary expansion! The universality of the use of "
+"currency gives to the one who controls the production and the definition a "
+"great power of illegitimate accaparation when the respect for ethics towards "
+"the emission is not at the core of the fundamental values."
 
 # 60b7e23888534f6b932ab6825b463605
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:53
@@ -107,11 +134,13 @@ msgid ""
 "L'expansion de l'Empire Romain s'accompagne d'expansion monétaire "
 "régulièrement « dévaluée » au profit d'un émetteur central : Rome."
 msgstr ""
+"Roman Empire comes with monetary expansion, regularly \"devalued\" for the "
+"benefit of one central issuer: Rome."
 
 # 147bda4b7b28428882dfde93cfbed306
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:60
 msgid "*Solidus, 327 ap JC (Wikimedia)*"
-msgstr ""
+msgstr "*Solidus, 327 after JC (Wikimedia)*"
 
 # 5ee267f0eb774cea966d7171d09cd5d0
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:62
@@ -123,6 +152,13 @@ msgid ""
 "selon les récits de Pline l'Ancien on peut estimer qu'entre 26 av. JC et et "
 "le IIIe siècle les Romains ont extrait environ 1 500 tonnes d'or."
 msgstr ""
+"Denier, Sesterium, Aureus, Antoninien, Valerian, Argenteus, Solidus, follow "
+"one another. Made of bronze, copper, silver and gold according to the "
+"conquests by force, and to their gains, or via the slavery in auriferous "
+"zones, as the famous region of \"Las Medulas\" in Spain, where - according "
+"to the narratives of Pliny the Elder - we can consider that between 26 "
+"before JC and and the IIIth century, Romans extracted approximately 1 500 "
+"tons of gold."
 
 # 7a0fb779ebd34fce86882123a0f28863
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:69
@@ -133,6 +169,11 @@ msgid ""
 "métal précieux dans ses pièces, n'ayant évidemment pas accès à des "
 "ressources infinies."
 msgstr ""
+"Each of these currencies is emitted while an expansion of the Empire occurs, "
+"and during the appropriation of metallic resources, replacing the former, "
+"then ii's slowly devalued by the central issuer which puts less and less "
+"noble metal in the coins, obviously due to not having access to infinite "
+"resources."
 
 # f9e76220ddf24765b29ee5165f2f0e00
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:79
@@ -140,6 +181,8 @@ msgid ""
 "*Région aurifère de Las Medulas exploitée par Rome du Ier au IIIe siècle ap "
 "JC (Wikimedia)*"
 msgstr ""
+"Auriferous region of Las Medulas exploited by Rome from the 1st to the IIIth "
+"century after JC ( Wikimedia)"
 
 # 7c5fac23d2934ce7a4a6c08864ae1428
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:81
@@ -149,6 +192,10 @@ msgid ""
 "statut de monnaie (il a toujours de la valeur aujourd'hui !), mais son "
 "universalité comme intermédiaire d'échange qui ne peut pas être assurée."
 msgstr ""
+"The solidus, based on a fixed gold quantity is not abandoned by loss of "
+"value, but by rarity. It's not its value that makes it lose its status of "
+"currency, (it still has value nowaday!), but its universality as "
+"intermediary of exchange which cannot be assured."
 
 # 633f1ebc4acf464183cf4fcb703b4ac0
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:86
