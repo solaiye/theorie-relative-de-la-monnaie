@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-07-21 11:16+0000\n"
+"PO-Revision-Date: 2015-07-30 17:50+0000\n"
 "Last-Translator: Magali Marc <3neurons@riseup.net>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/zooms-sur-l-histoire-de-la-monnaie/en_US/>\n"
@@ -80,7 +80,7 @@ msgstr "*Jade axes from Neolithic (Wikimedia)*"
 # ed842da0f603405a9d23048179c6cf30
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:31
 msgid "Les monnaies métalliques, premières monnaies limitant l'inflation"
-msgstr "metallic currencies, first currencies limiting inflation"
+msgstr "Metallic currencies, first currencies limiting inflation"
 
 # be3101be31014f0faecbd83b2935d48b
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:33
@@ -93,8 +93,8 @@ msgid ""
 "centrale."
 msgstr ""
 "Barter being insufficient to allow exchanges, and the first currencies based "
-"on potentially and strongly inflationary productions because easy producted "
-"by anybody, it becames necessary to use a money value more stable. To do so, "
+"on potentially and strongly inflationary productions because easy produced "
+"by anybody, it became necessary to use a money value more stable. To do so, "
 "rare metals were going to take the central monetary role advantageously."
 
 # c478a9a8509a4b36b2a7c02759b2b08d
@@ -107,7 +107,7 @@ msgid ""
 msgstr ""
 "This is how gold, silver, bronze and copper are going to be used as almost "
 "exclusive value of reference during the empires developments from Antiquity, "
-"and this until the XVIIIth century, beside the strong development of paper "
+"and this until the 18th century, beside the strong development of paper "
 "currencies."
 
 # 12cc7bc5b62049f19418858658fdba4a
@@ -125,8 +125,8 @@ msgid ""
 msgstr ""
 "No empire without monetary expansion! The universality of the use of "
 "currency gives to the one who controls the production and the definition a "
-"great power of illegitimate accaparation when the respect for ethics towards "
-"the emission is not at the core of the fundamental values."
+"great power of illegitimate monopole when the respect for ethics towards the "
+"emission is not at the core of the fundamental values."
 
 # 60b7e23888534f6b932ab6825b463605
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:53
@@ -140,7 +140,7 @@ msgstr ""
 # 147bda4b7b28428882dfde93cfbed306
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:60
 msgid "*Solidus, 327 ap JC (Wikimedia)*"
-msgstr "*Solidus, 327 after JC (Wikimedia)*"
+msgstr "*Solidus, AD 327 (Wikimedia)*"
 
 # 5ee267f0eb774cea966d7171d09cd5d0
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:62
@@ -156,9 +156,8 @@ msgstr ""
 "one another. Made of bronze, copper, silver and gold according to the "
 "conquests by force, and to their gains, or via the slavery in auriferous "
 "zones, as the famous region of \"Las Medulas\" in Spain, where - according "
-"to the narratives of Pliny the Elder - we can consider that between 26 "
-"before JC and and the IIIth century, Romans extracted approximately 1 500 "
-"tons of gold."
+"to the narratives of Pliny the Elder - we can consider that between 26 BC "
+"and the 3th century, Romans extracted approximately 1 500 tons of gold."
 
 # 7a0fb779ebd34fce86882123a0f28863
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:69
@@ -171,7 +170,7 @@ msgid ""
 msgstr ""
 "Each of these currencies is emitted while an expansion of the Empire occurs, "
 "and during the appropriation of metallic resources, replacing the former, "
-"then ii's slowly devalued by the central issuer which puts less and less "
+"then it's slowly devalued by the central issuer which puts less and less "
 "noble metal in the coins, obviously due to not having access to infinite "
 "resources."
 
@@ -181,8 +180,8 @@ msgid ""
 "*Région aurifère de Las Medulas exploitée par Rome du Ier au IIIe siècle ap "
 "JC (Wikimedia)*"
 msgstr ""
-"Auriferous region of Las Medulas exploited by Rome from the 1st to the IIIth "
-"century after JC ( Wikimedia)"
+"Auriferous region of Las Medulas exploited by Rome from the 1st to the AD "
+"3th century (Wikimedia)"
 
 # 7c5fac23d2934ce7a4a6c08864ae1428
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:81
@@ -194,7 +193,7 @@ msgid ""
 msgstr ""
 "The solidus, based on a fixed gold quantity is not abandoned by loss of "
 "value, but by rarity. It's not its value that makes it lose its status of "
-"currency, (it still has value nowaday!), but its universality as "
+"currency, (it still has value nowadays!), but its universality as "
 "intermediary of exchange which cannot be assured."
 
 # 633f1ebc4acf464183cf4fcb703b4ac0
@@ -208,6 +207,12 @@ msgid ""
 "pas de contradiction entre la contraction unitaire de la monnaie son "
 "expansion globale qui accompagne l'évolution économique."
 msgstr ""
+"Yet, we can think to the fact that although monetary unity devalues itself - "
+"according to the reference material which is represented during its first "
+"emission in time - it doesn't impede the economic expansion and the global "
+"quantity that can be exchanged by the whole monetary mass - which is "
+"increasing in time. There is no contraction between the unitary contraction "
+"of money and its global expansion which comes with the economic evolution."
 
 # 2db44d2729fe4e01be6559364d9a9f5b
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:94
@@ -220,16 +225,23 @@ msgid ""
 "transformation, alors ce qui est « perdu » unitairement est « gagné » "
 "globalement. Il restera à savoir d'où vient le surplus constaté."
 msgstr ""
+"We can sum up this by the fact that 1 is way smaller compared to 1000 than "
+"compared to 100, while 1000 is way bigger than 100. If doing so, our "
+"monetary unity loose 10%  of its exchange capacity in relation to a given "
+"value, and at the mean time, the monetary mass gains globally 15% of "
+"exchange capacity - due to the economic expansion that comes with its "
+"transformation - then, what is \"lost\" in unit, is \"gained\" globally. "
+"Remains to know where the noticed surplus comes from."
 
 # 8a9f9fa4748347fea4249158004b6726
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:106
 msgid "*Sesterce de trajan 105 ap JC (Wikimedia)*"
-msgstr ""
+msgstr "*Sesterce from Trajan AD 105 (Wikimedia)*"
 
 # 136d12a2985147839a51b7d1d0829d86
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:109
 msgid "La bulle Espagnole d'or et d'argent"
-msgstr ""
+msgstr "Golden and silver Spanish bubble"
 
 # 76ec2ce6b94e45fdaf116b00b0a6e6d2
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:111
@@ -239,6 +251,10 @@ msgid ""
 "XVème siècle). La découverte des Amériques par Christophe Colomb (1492) va "
 "bouleverser les flux monétaires en Europe."
 msgstr ""
+"Despite their limited nature, gold and silver didn't avoid inflation, mostly "
+"during the Spanish Empire time (from the 15th century). The discovery of "
+"Americas by Christoph Colomb (1492)  turned upside down the monetary streams "
+"in Europe."
 
 # fc51a9418bef4057b65c6ef7ac7ac8ee
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:116
@@ -246,6 +262,8 @@ msgid ""
 "Ainsi d'après Wikipédia dans « Relations économiques entre l'Amérique "
 "Espagnole et l'Europe » :"
 msgstr ""
+"According to Wikipedia \"Economic relations between the spanish America and "
+"Europe\" (in french only):"
 
 # 4957a012599941a38d56ddea2369dcb5
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:119
@@ -256,6 +274,10 @@ msgid ""
 "représente selon Pierre Chaunu un demi-siècle de production de métaux "
 "précieux en Europe."
 msgstr ""
+"\" The two big battlefield loot done during the Aztec Empire and mostly in "
+"the Inca Empire, brought back important sums of money to the spanish crown "
+"and to the conquistadores. The Inca emperor Atahualpa's ransom represents, "
+"according to Pierre Chaunu, half a century of precious metals in europe."
 
 # 15879a5ed45a4f639e0fad823c2acd6d
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:124
@@ -266,6 +288,11 @@ msgid ""
 "au Nord les mines mexicaines qui vont dominer la production du XVIIIe siècle"
 " en compagnie des mines d'or du Brésil portugais (Minas Gerais)."
 msgstr ""
+"Mines bring back even more spoils of war : first of all, thanks to few "
+"sources of gold in Cuba at the beginning of the 15th century, then thanks to "
+"the big silver mines from Peru in the 17th century (mine from the Potosi), "
+"and more in the north, Mexican mines dominate the production from the 18th "
+"century with the gold mines from Portuguese Brasil (Minas Gerais)."
 
 # 867f847d1c544568ba37cfd03fb96cf4
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:130
@@ -273,6 +300,8 @@ msgid ""
 "C'est au cours des XVIIe et XVIIIe siècle que la production et l'arrivage de"
 " métaux précieux en Europe ont été les plus importants. »"
 msgstr ""
+"It's during the 17th and the 18th centuries that precious metals' production "
+"and arrival in Europe have been the most important.\""
 
 # 8dfb0a7e1a374fbe91f5f0f440aa671f
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:133
@@ -282,6 +311,10 @@ msgid ""
 "prix, le stock de 600 millions de pesos en 1 500 permet de faire autant "
 "d'achat de blé que le stock de 3 milliards en 1800."
 msgstr ""
+"But what do we notice? Precious metals loose their value all along centuries:"
+" according to the historian Earl Hamilton and his \"Price History\", the "
+"stock of 600 millions pesos in 1500, allows to buy as much wheat as the "
+"stock of 3 billions in 1800."
 
 # 9765bef1b1a441dc9064a4d7877c5ad3
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:138
@@ -299,11 +332,22 @@ msgid ""
 " Hamilton à cinq fois plus), en aurait fait monter le prix d'un facteur 5 à "
 "production et consommation constante."
 msgstr ""
+"Addition of money in economy decreases the value of money. What is true for "
+"a gain of any product's productivity (fall of its monetary value regarding a "
+"constant money) is also true for money, even though it's about a good of "
+"reference: the quantity of merchandise that can be exchanged with a certain "
+"quantity of money, depends on the total quantity of currency in circulation. "
+"Therefore, it's not one or another but both. The productivity's growth of "
+"production of wheat would've decreased the price of the currency, here in "
+"gold or silver metal all along the 3 centuries. However, the constant "
+"addition of an important quantity of money which has been spread into the "
+"economy (estimated here according to Hamilton to 5 times more), would've "
+"increased by 5 the price at constant production and consumption."
 
 # 768520440aa34f2b850cba63b85745f1
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:155
 msgid "*Le conquistador Francisco Pizarro (Wikimedia)*"
-msgstr ""
+msgstr "*Conquistador Francisco Pizarro (Wikimedia)*"
 
 # 4bf90e9a104e467e982d535472b1bfef
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:157
@@ -313,6 +357,10 @@ msgid ""
 "de la production de blé a baissé d'un facteur 5 tandis que l'injection de 5 "
 "fois plus de monnaie en a donc stabilisé le prix facial."
 msgstr ""
+"Supposing a relative stability of goods and services production between "
+"these two dates, we would have the right to pretend that the cost of the "
+"wheat production decreased by 5, meanwhile the injection of 5 times more of "
+"money stabilized the facial price."
 
 # d37e633a678c42f880d952e56f091b89
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:166
@@ -320,6 +368,8 @@ msgid ""
 "*Inflation d'or et d'argent suite à la conquête Espagnole (Luc Fievet TRM "
 "2.0)*"
 msgstr ""
+"*Gold and silver inflation following the Spanish conquest (Luc Fievet RMT "
+"2.0)*"
 
 # 3369b2cee0a94dac93a0dbc0bdc77d92
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:168
