@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-07-17 16:41+0000\n"
-"Last-Translator: Nathanaël <thatoo@leprette.fr>\n"
+"PO-Revision-Date: 2015-08-09 19:33+0000\n"
+"Last-Translator: César <cesar.proute@gmail.com>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/champ-de-valeur/en_US/>\n"
 "Language: en_US\n"
@@ -100,7 +100,11 @@ msgid ""
 "monétaire représenté par une bosse, et une zone où il y a une production de "
 "valeur associée à une rareté monétaire représentée par un creux, le reste de"
 " la zone étant équilibré."
-msgstr "Example of a field of an economic zone that include a zone where money is in excess represented by a bump, and a zone where  there is a production of worth handicapped by a monetary scarcity represented by a hollow, the rest oj the are being balanced. "
+msgstr ""
+"Example of a field of an economic zone that include a zone where money is in "
+"excess represented by a bump, and a zone where  there is a production of "
+"worth handicapped by a monetary scarcity represented by a hollow, the rest "
+"oj the are being balanced."
 
 # 5ae1fe1be8a74ccc97934b56046cbd64
 #: ../../source/champ-de-valeur.rst:49
@@ -146,7 +150,7 @@ msgstr "*where k represent the time standard (the Universal Dividend),* *M the m
 # 20882d4ba3484f509ab8c0e1b1b31849
 #: ../../source/champ-de-valeur.rst:82
 msgid "Le champ de valeur de l'argent dette"
-msgstr "The worth field of money debt."
+msgstr "The worth field of money debt"
 
 # 005bb5c693a846b8b6a9ed8a15ed3f44
 #: ../../source/champ-de-valeur.rst:84
