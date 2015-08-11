@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-07-17 08:21+0000\n"
-"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
+"PO-Revision-Date: 2015-08-10 20:47+0000\n"
+"Last-Translator: César <cesar.proute@gmail.com>\n"
 "Language-Team: English (United States) "
 "<http://weblate.ucoin.io/projects/rtm/appendice-1/en_US/>\n"
 "Language: en_US\n"
@@ -32,11 +32,15 @@ msgid ""
 "approfondir la compréhension, pour qui souhaite établir son raisonnement "
 "économique et monétaire conformément à elles"
 msgstr ""
+"The Relative Theory of Money (RTM) is based on four economic freedoms to "
+"which it gives meaning. By these comments I wished to deepen the "
+"understanding of anyone who whises to base his economic and monetary "
+"reasonning on them"
 
 # 82c23839a7a64d8b8630c2568dac3804
 #: ../../source/appendice-1.rst:9
 msgid "**Remarques générales :**"
-msgstr ""
+msgstr "**General remarks :**"
 
 # 8fd3f0e357fa499d948b61ff331b55fd
 #: ../../source/appendice-1.rst:11
