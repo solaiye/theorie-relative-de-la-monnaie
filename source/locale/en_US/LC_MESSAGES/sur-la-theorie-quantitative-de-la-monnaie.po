@@ -8,19 +8,21 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-01-14 19:57+0000\n"
-"Last-Translator: Vincent Texier\n"
-"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
+"PO-Revision-Date: 2015-08-15 20:51+0000\n"
+"Last-Translator: truc_fullname <s_b_@openmailbox.org>\n"
+"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
+"/sur-la-theorie-quantitative-de-la-monnaie/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.4-dev\n"
 
 # 1f9c6ba8c36942acba1b604c6bfcc85b
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:3
 msgid "Sur la Théorie Quantitative de la Monnaie"
-msgstr ""
+msgstr "On the Quantitative Money Theory"
 
 # 4b9d0759fc6c4092a9cf99068650f091
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:5
@@ -40,7 +42,7 @@ msgstr ""
 # bafbfff0b14f430999e9af3ef7792628
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:17
 msgid "Ou encore :"
-msgstr ""
+msgstr "Or also :"
 
 # f586b0b052bd4dcd86675daa69e015f2
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:23
