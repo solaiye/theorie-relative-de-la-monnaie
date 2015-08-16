@@ -8,14 +8,16 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-07-16 08:41+0000\n"
-"Last-Translator: Vincent Texier\n"
-"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
+"PO-Revision-Date: 2015-08-15 20:57+0000\n"
+"Last-Translator: truc_fullname <s_b_@openmailbox.org>\n"
+"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
+"/comment-installer-une-monnaie-dividende-universel/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.4-dev\n"
 
 # 68394dbc0f2c471dbfd66ce7d046da10
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:3
@@ -33,7 +35,7 @@ msgstr ""
 # d9183275b3854ee39f0114fd072e2d09
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:10
 msgid "Approche simple"
-msgstr ""
+msgstr "Simple approach"
 
 # 40709721a9bd49a2b426c0a4a0a51be8
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:12
@@ -62,7 +64,7 @@ msgstr ""
 # f893948d1ae344a9b5357f0ec259926b
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:34
 msgid "Approche progressive, le cas Européen"
-msgstr ""
+msgstr "Progressive approach, the European case"
 
 # 8a60f312b29a42d9802a1187d35dd261
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:36
