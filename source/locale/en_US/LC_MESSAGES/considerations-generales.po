@@ -8,24 +8,26 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-07-16 08:41+0000\n"
-"Last-Translator: Vincent Texier\n"
-"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
+"PO-Revision-Date: 2015-08-15 20:27+0000\n"
+"Last-Translator: truc_fullname <s_b_@openmailbox.org>\n"
+"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
+"/considerations-generales/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.4-dev\n"
 
 # c5bcefa8a9fe4320bc150065b8934df8
 #: ../../source/considerations-generales.rst:3
 msgid "Considérations générales"
-msgstr ""
+msgstr "General considerations"
 
 # 2b4af2e2e5714ed1aaba8b4c994787ab
 #: ../../source/considerations-generales.rst:6
 msgid "Quelques ordres de grandeur"
-msgstr ""
+msgstr "Some orders of magnitude"
 
 # bdf5dd88d6be4106a4f4da82d526ac60
 #: ../../source/considerations-generales.rst:8
@@ -33,6 +35,8 @@ msgid ""
 "Une zone économique comme la zone € a une espérance de vie moyenne de 80 ans"
 " en 2012, on obtient :"
 msgstr ""
+"An economic zone like the Eurozone has an average life expectancy of eighty "
+"years in 2012, we obtain :"
 
 # ac4c78e2e1cc43c7aaf2957f5659a34c
 #: ../../source/considerations-generales.rst:14
@@ -46,13 +50,13 @@ msgstr ""
 # d94c83c3f7c04ee980e0c4f0fa769645
 #: ../../source/considerations-generales.rst:23
 msgid "et"
-msgstr ""
+msgstr "and"
 
 # 95f0fcee5c274e2e94e230bd23963931
 #: ../../source/considerations-generales.rst:29
 msgid ""
 "Donc entre 552 € / mois et 928 € / mois pour une famille de 4 personnes."
-msgstr ""
+msgstr "Thus between 552 € / month and 928 € / month for a family of 4."
 
 # 416ff61ba5ed4cb1925da8cac52067ba
 #: ../../source/considerations-generales.rst:31
