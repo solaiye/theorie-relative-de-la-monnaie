@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-08-15 20:27+0000\n"
-"Last-Translator: truc_fullname <s_b_@openmailbox.org>\n"
+"PO-Revision-Date: 2015-08-23 15:23+0000\n"
+"Last-Translator: Maël AZIMI <moul@moul.re>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/considerations-generales/en_US/>\n"
 "Language: en_US\n"
@@ -46,6 +46,10 @@ msgid ""
 "euro avec 10 000 milliards d'euros et 330 millions de citoyens le Dividende "
 "Universel optimisé serait alors compris entre :"
 msgstr ""
+"We can already to give idea order of magnitude, make a comparative on real "
+"data of 2010. Take the exemple of euro zone with 10.000 billions of euros "
+"and 330 millions individuals, optimized universal dividend would be included "
+"between:"
 
 # d94c83c3f7c04ee980e0c4f0fa769645
 #: ../../source/considerations-generales.rst:23
@@ -68,6 +72,11 @@ msgid ""
 "c'est le salaire minimum qui est de 130 € / mois sans qu'il y ait de monnaie"
 " individuellement allouée."
 msgstr ""
+"Reality show colossal disparities within the zone about existence of a "
+"minimum and individual income because in France or in Germany we reach 450€ "
+"per months per individuals a conditional way (age condition and resource, "
+"etc…) when in countries like Romania or Bulgaria this is the minimal salary "
+"which is 130€ per months without individual allocated money."
 
 # 372ecc06a60a491086eadb144c90c54b
 #: ../../source/considerations-generales.rst:38
@@ -79,6 +88,8 @@ msgid ""
 "monétaire individuelle. Cela revient à ne pas reconnaître l'égalité entre "
 "individus au sein d'une zone économique commune."
 msgstr ""
+"We are in Europe with a strong spacial asymmetry which has the effect to "
+"create large disparities and"
 
 # af8c9a595b2b4875b06a47cd4b584e20
 #: ../../source/considerations-generales.rst:45
