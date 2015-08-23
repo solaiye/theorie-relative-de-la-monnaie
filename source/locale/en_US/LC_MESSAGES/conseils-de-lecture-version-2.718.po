@@ -8,19 +8,21 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-01-14 19:57+0000\n"
-"Last-Translator: Vincent Texier\n"
-"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
+"PO-Revision-Date: 2015-08-22 20:46+0000\n"
+"Last-Translator: Maël AZIMI <moul@moul.re>\n"
+"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
+"/conseils-de-lecture-version-2718/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.4-dev\n"
 
 # d96fb13a03a64f9fa599ef14a9dea3e1
 #: ../../source/conseils-de-lecture-version-2.718.rst:3
 msgid "Conseils de lecture version 2.718"
-msgstr ""
+msgstr "Advice of reading of 2.718 version"
 
 # adb381dac77743b38212b629abcdab82
 #: ../../source/conseils-de-lecture-version-2.718.rst:5
@@ -31,6 +33,10 @@ msgid ""
 " d'intégrale), l'économie et la monnaie peuvent sans problème commencer la "
 "lecture dans l'ordre établi."
 msgstr ""
+"As a 2.718 version come with returns from 2.0, I specify that theoreticians "
+"comfortable with general theoretical formalization notions, as well as "
+"mathematics (at least derivative and integral notion), economy and money can "
+"without difficulty start reading in established order."
 
 # 717312dc6bbc4e578fbff2f58c9ff11d
 #: ../../source/conseils-de-lecture-version-2.718.rst:11
@@ -42,6 +48,11 @@ msgid ""
 "doute plus agréable à lire pour le néophyte et qu'ensuite elle vous donnera "
 "une appréciation de l'ordre de grandeur des phénomènes qui sont traités ici."
 msgstr ""
+"But for others, it could be better to start by the history part which start "
+"at \"Zooms on money history\" chapter (see the table of contents at book end)"
+", to read theoretical part then. The reason is that this part is without "
+"doubt more pleasant to read for neophyte and then it will give you an "
+"appreciation of phenomena order of magnitude treated here."
 
 # 1fc6de0d92fa45919cdc76e1d68690de
 #: ../../source/conseils-de-lecture-version-2.718.rst:17
@@ -53,3 +64,7 @@ msgid ""
 " mesure de cette échelle on risque de ne pas forcément bien saisir "
 "l'importance de petits changements accumulés sur une longue période."
 msgstr ""
+"We talk here about Space and Time, and phenomena which is in place here "
+"economically and monetary. We must realize that the scale who serves as "
+"landmark to all things we are dealing with exceeds a humain life span, "
+"although the consequences of accumulated changes on a long time."
