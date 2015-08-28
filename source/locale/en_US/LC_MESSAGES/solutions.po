@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-07-17 17:16+0000\n"
-"Last-Translator: Nathanaël <thatoo@leprette.fr>\n"
+"PO-Revision-Date: 2015-08-28 06:31+0000\n"
+"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
 "Language-Team: English (United States) "
 "<http://weblate.ucoin.io/projects/rtm/solutions/en_US/>\n"
 "Language: en_US\n"
@@ -487,6 +487,10 @@ msgid ""
 "génération précédente pour M(t) durant son existence* *alors que la masse "
 "monétaire en vigueur est M(t+ev)*"
 msgstr ""
+"*Generation shown here in blue* *does not represent more than 1/ev* *of the "
+"whole livings, has participated to the monetary creation* *of previous "
+"generation for M(t) during all its existence* *even if the monetary mass in "
+"place is M(t+ev)*"
 
 # 2fe809f2bc484be6b4b6456cba72f33c
 #: ../../source/solutions.rst:281
@@ -552,7 +556,7 @@ msgstr ""
 # 9a999dcfbcbd498f9c78e36e8be0662a
 #: ../../source/solutions.rst:315
 msgid "La contraposée est donc aussi un résultat fondamental de la TRM :"
-msgstr ""
+msgstr "The converse is then a fundamental result of the RTM too :"
 
 # 6d4c965ef18f492cb27e7e4e5386dbce
 #: ../../source/solutions.rst:317
@@ -561,6 +565,9 @@ msgid ""
 "sont pas** **compatibles avec le principe de relativité et les trois "
 "libertés économiques »**"
 msgstr ""
+"**« Monetary Systems which do not integration a universal dividend are not** "
+"**compatibles with the relativity principle and the three economic freedoms "
+"»**"
 
 # 4b203093dbb3470ba218a798fcf7ca94
 #: ../../source/solutions.rst:320
@@ -571,6 +578,10 @@ msgid ""
 "ainsi une génération sur une autre (entrante ou sortante, peu importe !) ne "
 "serait pas non plus compatible avec la TRM."
 msgstr ""
+"We could also add clarify better that a universal dividend which would exist "
+"but would be too weak or too strong, then, outside the defined ranges, on a "
+"too long period, then benefiting a generation on another (entrant, outgoing, "
+"whatever !) would not be compatible with the RTM too."
 
 # 7d395b9d8a354496b27f3875408ce7f9
 #: ../../source/solutions.rst:326
@@ -581,6 +592,10 @@ msgid ""
 "ces violations des principes fondamentaux, qui conduisent inévitablement à "
 "des insurrections à terme."
 msgstr ""
+"This last point is fundamental because the temptation is big for the living "
+"to claim excessive property rights on the living area, then violating the "
+"freedoms of their successors. History is full of these violations of "
+"fundamental principles, which lead inevitably to insurrections in the end."
 
 # 7d98aff9224441769452724fa141bde2
 #: ../../source/solutions.rst:332
@@ -589,6 +604,9 @@ msgid ""
 "proportionnel à l'espérance de vie de la zone économique considérée (ln "
 "étant une fonction qui varie très peu)."
 msgstr ""
+"We could remember that the Universal Dividend is almost inversely "
+"proportional to the life expectancy of the economic area considered (ln "
+"being a function which vary very little)."
 
 # 297e9deb046c4f33908bc175dd172832
 #: ../../source/solutions.rst:340
@@ -598,8 +616,12 @@ msgid ""
 "faible aura tendance à favoriser les sortants,* *tandis qu'au dessus un "
 "dividende trop élevé* *aura tendance à favoriser les entrants*"
 msgstr ""
+"*Acceptable values (in blue) of the % of universal dividend* *depending on "
+"life expectancy* *At the bottom of the colored area* *a dividend too weak "
+"will have a tendency to favor outgoings,* *whereas at the top a dividend too "
+"big* *will have a tendency to favor entrants*"
 
 # 588079ca26ca4b078ea54cbe204c61eb
 #: ../../source/solutions.rst:347
 msgid "Ces résultats concluent notre développement théorique principal."
-msgstr ""
+msgstr "These results conclude our main theoretical development."
