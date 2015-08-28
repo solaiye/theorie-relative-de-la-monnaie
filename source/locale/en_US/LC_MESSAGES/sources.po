@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-08-15 20:45+0000\n"
-"Last-Translator: truc_fullname <s_b_@openmailbox.org>\n"
+"PO-Revision-Date: 2015-08-28 11:59+0000\n"
+"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
 "Language-Team: English (United States) "
 "<http://weblate.ucoin.io/projects/rtm/sources/en_US/>\n"
 "Language: en_US\n"
@@ -47,7 +47,7 @@ msgstr "http://www.wikipedia.org"
 # e976304319bf44b1857e383edbb7b69f
 #: ../../source/sources.rst:0
 msgid "Données Euro : Banque Centrale Européenne"
-msgstr ""
+msgstr "Euro Data : European Central Bank"
 
 # c799492c08a84a66bd7256f94cdff02f
 #: ../../source/sources.rst:0
@@ -90,3 +90,5 @@ msgid ""
 "Les images de la TRM sont toutes soit de Luc Fievet (libre) de wikimédia "
 "(Creative Common) ou directement de l'auteur (Creative Common)."
 msgstr ""
+"Images in the RTM are all from Luc Frievet (free) from wikimedia (Creative "
+"Common) or directly from the author (Creative Common)."
