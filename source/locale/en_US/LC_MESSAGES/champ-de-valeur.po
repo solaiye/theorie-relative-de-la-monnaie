@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-08-09 19:33+0000\n"
-"Last-Translator: César <cesar.proute@gmail.com>\n"
+"PO-Revision-Date: 2015-08-28 15:00+0000\n"
+"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/champ-de-valeur/en_US/>\n"
 "Language: en_US\n"
@@ -196,11 +196,17 @@ msgid ""
 "réelle (ce dont s'abstient le premier cercle émetteur), et est donc "
 "assujetti au pouvoir monétaire."
 msgstr ""
+"This monetary system centralized and asymmetric  owe its perpetuation to its "
+"monopole, and to the grant to more and more debts at a sufficient pace to "
+"pay the interests, but only for the first circle. The rest of the economy is "
+"being served in money but only in exchange of real production (to which the "
+"first issuing circle is abstaining), and thus is subjected to the monetary "
+"power."
 
 # 400aee7cedeb42e58470de04b1904c70
 #: ../../source/champ-de-valeur.rst:114
 msgid "Le champ de valeur d'un système d'échange local « SEL »"
-msgstr ""
+msgstr "The field of value of a local exchange trading system « LETS »"
 
 # d7645fee329843f8bf4008049a934d1e
 #: ../../source/champ-de-valeur.rst:116
@@ -212,6 +218,11 @@ msgid ""
 " une monnaie complémentaire symétrique, qui permet de s'affranchir en partie"
 " de la monnaie centrale."
 msgstr ""
+"LETS are developing during cyclic monetary crisis, because of the lack of "
+"money, which blocks the economy and the exchanges far from the emission "
+"center of debt-money. Communities having a pseudo-autonomy on generally "
+"limited fields of activity,  develop then a complementary symmetrical money, "
+"liberating them partially from central money."
 
 # f444ea095e1a44e1b349bdaf91cd5909
 #: ../../source/champ-de-valeur.rst:123
@@ -224,6 +235,12 @@ msgid ""
 "PIB qui échappe ainsi à la valorisation de l'économie, du fait de la non-"
 "densité intrinsèque aux monnaies à émission asymétrique."
 msgstr ""
+"The LETS are creating most of the time a symmetrical model of mutual credit "
+"and do not point to any distortion about money created inside the economic "
+"community. Being created on the basis of a complementary money, their trades "
+"are not officially booked in official economy, and that is a substantial "
+"part of the GDP which escape from the evaluation of the economy, because of "
+"the non-density of moneys with asymmetrical issuance."
 
 # 6cdd5efb62e6469dbb4d43b8159aaa98
 #: ../../source/champ-de-valeur.rst:135
@@ -233,11 +250,15 @@ msgid ""
 "*un crédit mutuel fixe donc créé une seule fois* *à l'origine de son axe de "
 "temps économique (Luc Fievet TRM 2.0)*"
 msgstr ""
+"*The LETS is « flat » initially,* *its density of monetary creation is "
+"spatially balanced.* *It will not be temporally if it is using* *a fixed "
+"mutual credit created only once* *at the origin of its axis of economic time "
+"(Luc Fievet TRM 2.0)*"
 
 # 7b1a5cda36804493bf6aef985b81ec38
 #: ../../source/champ-de-valeur.rst:142
 msgid "Le champ de valeur de la production non monétisée"
-msgstr ""
+msgstr "The field of value of non monetized production"
 
 # 627784e3f44540668da013b2da7a7d2a
 #: ../../source/champ-de-valeur.rst:144
@@ -250,6 +271,12 @@ msgid ""
 "bénévoles, qui bénéficient dans une  une part non négligeable à l'économie "
 "monétisée."
 msgstr ""
+"Non monetized production, because of the total lack of central or locale "
+"money, appears in the field of value as a trough : (money = 0) - value < 0. "
+"It is the case for each production traded, given, produced without merchant "
+"exchange, which include most of free softwares, free of rights works, and "
+"any voluntary service, which benefits in a substantial part to monetized "
+"economy."
 
 # d8db0ae55cae4bde8c8734737be69a37
 #: ../../source/champ-de-valeur.rst:151
@@ -261,6 +288,11 @@ msgid ""
 "recrutement de nouveaux producteurs apportant leurs modifications à la "
 "communauté."
 msgstr ""
+"One could ask himself why producers are giving their production without any "
+"monetary gain. The reason is that some values are especially important as "
+"they disseminate fast, widely and freely, enabling the establishment of "
+"usages, norms, and recruitment of new producers bringing their modifications "
+"to the community."
 
 # c64b641ef2f64232a3f35674e83019ea
 #: ../../source/champ-de-valeur.rst:157
@@ -272,6 +304,11 @@ msgid ""
 "tout internet fonctionne essentiellement sur des couches libres, en terme de"
 " protocoles, serveurs, logiciels, base de données..."
 msgstr ""
+"The value of this type of production is exceed from an immeasurable scaling "
+"factor the value of each companies listed in this sector, when we estimate "
+"the equivalent development cost it would be needed to produce the same "
+"thing. One should simply think that in 2010 all the Internet is running "
+"essentially on free layers, in terms of protocols, servers, databases..."
 
 # 6b9eff7d43274731ad47f2c5b7049f79
 #: ../../source/champ-de-valeur.rst:164
@@ -287,6 +324,14 @@ msgid ""
 "intéressant à chiffrer, pour savoir exactement ce que le bonhomme a donné en"
 " termes économiques « habituels »..."
 msgstr ""
+"Even Science is most often the subject of free of rights discoveries. "
+"Scientists inventors are most of the time incitated to publish their "
+"discoveries to get peer reviews, and it is a collaborative work in time ("
+"scientists from the presents are beneficing past discoveries) but also in "
+"space (discoveries being most often the result of a common work). One can "
+"ask himself for example what Einstein could have benefits from rights on  « "
+"intellectual property » on the Theory of Relativity. It would be interesting "
+"to estimate, to know what the guy created in « usual » economic terms..."
 
 # c0f59b86553240a09162c32c49bf3392
 #: ../../source/champ-de-valeur.rst:174
@@ -299,6 +344,12 @@ msgid ""
 " il existe déjà des logiciels permettant d'établir un lien monétaire "
 "communautaire, et qui se déploient rapidement."
 msgstr ""
+"It seems that software producers and free works did not yet bothered to "
+"integrate the monetary tool inside their community, which remains a mystery, "
+"even if the revelation of the monetary mystery is not easy, it is typically "
+"like algorithm and games, domains mastered by this community. Though, it "
+"already exists software letting a community establish its money, and its can "
+"be deployed fast."
 
 # 2ebd8bf1b2c840b8ab059cace8b34269
 #: ../../source/champ-de-valeur.rst:185
@@ -308,6 +359,10 @@ msgid ""
 " « monnaie dette » qui ne monétise que ce qu'il connaît,* *niant ainsi la "
 "deuxième liberté économique. (Luc Fievet TRM 2.0)*"
 msgstr ""
+"*Non-monetized production* *can totally be huge in terms of value* *and is "
+"arbitrary ignored from an arbitrary center* *of « debt money » issuance "
+"which does only monetized what it knows,* *denying there the second economic "
+"freedom. (Luc Fievet RTM 2.0)*"
 
 # 0e1ef1b4809e4bbfbb2130d914cae455
 #: ../../source/champ-de-valeur.rst:191
@@ -322,6 +377,14 @@ msgid ""
 "indubitable, que dès lors qu'une monnaie se crée au sein d'une communauté, "
 "la valeur se révèle, et non pas l'inverse."
 msgstr ""
+"However, to balance with this sad observation, probably temporary, we can "
+"remark that big communities created around playful activities like Second "
+"Life or even more without any doubt World of Warcraft, have created a "
+"powerful monetary approach. Here, the internal money of the persistent world "
+"of WoW, is not created properly, but is still accessible via normal actions "
+"in the game, they are subject to external transactions, including in "
+"official money. This shows indubitably, that as soon as a money is created "
+"inside a community, its value is revealed, and not the opposite."
 
 # 8cc838f90b6c4f3ab00d354636600c8d
 #: ../../source/champ-de-valeur.rst:200
@@ -338,6 +401,16 @@ msgid ""
 "bulles et de résonance, et ne finançant que le passé à base de créances sur "
 "le futur, et jamais le futur sur la base d'un Dividende sur le passé."
 msgstr ""
+"Therefore, because there is no circulating money inside these communities "
+"creating free values, the value of these works are not defined Whereas the "
+"monetary creation inside a gaming community spontaneously reveals a "
+"measurable value. Thus, money is not only a trading tool but a common "
+"measure tool too. We can not measure economic value in an area without "
+"money. This is a big misunderstanding of this mechanism which leads economic "
+"policies on data like the PDB, which does only measure what is monetarily "
+"irrigated, creating bubbles effects and resonance, and financing only the "
+"past with debt obligations on the future, and never the future on the basis "
+"of a Dividend on the past."
 
 # 5ba9e2f69df144018efd4fc901f8b3dc
 #: ../../source/champ-de-valeur.rst:212
@@ -349,11 +422,16 @@ msgid ""
 "'argent-dette dans le but pour ses émetteurs de s'accaparer frauduleusement "
 "de la nouvelle valeur de remplacement économique."
 msgstr ""
+"The big non-monetized value has as a function to bring big monetary creation "
+"forward, which overtakes a lot the sum of old values on which circulate "
+"existing money. This is the productive basis of big historical inflationary "
+"pushes : the violent creation of debt-money for the purpose of the issuers "
+"to take up fraudulently the new value of economic replacement."
 
 # a173c3208f9b402ebed905815459a893
 #: ../../source/champ-de-valeur.rst:220
 msgid "Le champ de valeur d'une économie à Dividende Universel"
-msgstr ""
+msgstr "The field of value of an Universal Dividend economy"
 
 # 15b567c4258a49be86f8c7556964f3d8
 #: ../../source/champ-de-valeur.rst:222
@@ -365,11 +443,17 @@ msgid ""
 "intrinsèquement dense, qui limite les points et les durées d'accumulation "
 "tant monétaires que productives."
 msgstr ""
+"An Universal Dividend economy equalize monetary creation. It does not stop "
+"the apparition of tough and bumps, but it makes them possible everywhere, "
+"without any central point, and most importantly bringing a money circulation "
+"in all the economic area by its structure intrinsically dense, which limits "
+"the points and the accumulation duration, as much monetary as productive."
 
 # aa1f1d903cd24a62859634f119b2eca9
 #: ../../source/champ-de-valeur.rst:233
 msgid "*Champ de valeurs fluctuant, sans point central (Luc Fievet TRM 2.0)*"
 msgstr ""
+"*Field of values fluctuating, without any central point (Luc Fievet RTM 2.0)*"
 
 # f55d815a98cc46d2974343b508b2a9c9
 #: ../../source/champ-de-valeur.rst:235
@@ -378,6 +462,9 @@ msgid ""
 "monnaie, ce qui rend tout projet, toute production, et tout circuit "
 "économique autonome directement monétisable partout et en tout temps."
 msgstr ""
+"In this type of economy there is no central point of monetary issuance, "
+"which makes every project, every production, and every autonomous economic "
+"circuit directly monetizable everywhere and every time."
 
 # 59e0d81a337e4144be3523bc6449a17e
 #: ../../source/champ-de-valeur.rst:239
@@ -390,11 +477,17 @@ msgid ""
 "asymétrique et frauduleuse) qui provoque une lutte incessante pour s'en "
 "libérer."
 msgstr ""
+"In a monetary field of debt-money, far from the issuance center, we will "
+"find these type of structures, but at a scale too weak compared to central "
+"distortions, which makes it appear as flat (negligible distortion) seen from "
+"the center. The problem is that the force of attraction of the false central "
+"debt (and real asymmetrical monetary issuance and fraudulent) which provokes "
+"unstoppable fights to free itself."
 
 # 565082f0737b494ab7e258024d7325fa
 #: ../../source/champ-de-valeur.rst:247
 msgid "Les forces en jeu"
-msgstr ""
+msgstr "The forces in place"
 
 # 3e4d5876ef0f4574ac09a2d10e038e43
 #: ../../source/champ-de-valeur.rst:249
@@ -410,6 +503,16 @@ msgid ""
 "processus de comblement des creux par les bosses est inéluctable, qu'il soit"
 " continu ou discret, rapide ou lent, pacifique ou violent."
 msgstr ""
+"The filed of value has a tendency to oscillate around its equilibrium point. "
+"Also a trough will have a tendency to rise until it attracts existing money, "
+"and if it is not enough, to provoke money issuance (until it causes the "
+"creation of a locale complementary money). In the same way the money will "
+"have a tendency to accumulate until it causes the purchase of non-monetary "
+"values. Trough and bumps are then two masses attracting each other. This "
+"phenomenon can be seen at any measure scale, from the individual to the "
+"whole economic area, and the process of filling trough and bumps is "
+"unavoidable, regardless of discrete or continuous, fast or slow, peaceful or "
+"violent."
 
 # d15004ce8b1f4305a3dbd01cca8f7875
 #: ../../source/champ-de-valeur.rst:260
@@ -424,6 +527,15 @@ msgid ""
 "ou de contre-partie pendant trop longtemps, ce qui peut mener à des crises "
 "sociales d'envergure historique, des révolutions ou des guerres."
 msgstr ""
+"In a central system of debt money, centralized accumulation of money or "
+"production is done until a break point is reached where the attraction force "
+"of the excessive surplus of money compared to the excessive surplus of non-"
+"monetized production triggers a brutal movement. Thus in general "
+"hyperinflation of prices where production was under-monetized for too much "
+"time, which develops with the influx of money freed from the center, or "
+"movements of stop of production because of the lack of money or any offset "
+"for too much time, which can lead to historical social crisis, revolutions "
+"or wars."
 
 # 10e86a0e40f04544b0113390cb93823f
 #: ../../source/champ-de-valeur.rst:270
@@ -435,3 +547,9 @@ msgid ""
 "à effondrement cycliques (bulles monétaires, appelées encore bulles "
 "spéculatives) pour les systèmes à émission asymétrique."
 msgstr ""
+"The system of monetary creation chosen (or imposed) defines what type of "
+"economic development will happen, as well as the space-time form of the "
+"field of value : a continuous fluctuation without interruption for a "
+"Universal Dividend system, or pyramids of central money with cyclic crushes ("
+"monetary bubbles, also called speculative bubbles) for asymmetrical issuance "
+"systems."
