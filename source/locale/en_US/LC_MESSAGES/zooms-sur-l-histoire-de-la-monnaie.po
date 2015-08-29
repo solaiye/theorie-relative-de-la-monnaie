@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-07-30 17:50+0000\n"
+"PO-Revision-Date: 2015-08-29 12:50+0000\n"
 "Last-Translator: Magali Marc <3neurons@riseup.net>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/zooms-sur-l-histoire-de-la-monnaie/en_US/>\n"
@@ -31,7 +31,7 @@ msgid ""
 "analysées du point de vue relatif de la TRM, Il ne s'agit nullement d'un "
 "point de vue « absolu »."
 msgstr ""
-"In this chapter, historical and consecutive monetary periods are analyzed "
+"In this chapter, historical and consecutive monetary periods are analysed "
 "according to the relative viewpoint of the RMT. It does not pretend to be an "
 "\"absolute\" viewpoint."
 
@@ -41,7 +41,7 @@ msgid ""
 "Les monnaies néolithiques, premières monnaies denses à inflation "
 "incontrôlable"
 msgstr ""
-"The neolitic currencies, first dense currencies with uncontrolled inflation"
+"The Neolithic currencies, first dense currencies with uncontrolled inflation"
 
 # ec2a7ecad83d403dad40308bbfe7784e
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:12
@@ -253,8 +253,8 @@ msgid ""
 msgstr ""
 "Despite their limited nature, gold and silver didn't avoid inflation, mostly "
 "during the Spanish Empire time (from the 15th century). The discovery of "
-"Americas by Christoph Colomb (1492)  turned upside down the monetary streams "
-"in Europe."
+"Americas by Christoph Columbus (1492)  turned upside down the monetary "
+"streams in Europe."
 
 # fc51a9418bef4057b65c6ef7ac7ac8ee
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:116
@@ -262,8 +262,8 @@ msgid ""
 "Ainsi d'après Wikipédia dans « Relations économiques entre l'Amérique "
 "Espagnole et l'Europe » :"
 msgstr ""
-"According to Wikipedia \"Economic relations between the spanish America and "
-"Europe\" (in french only):"
+"According to Wikipedia \"Economic relations between the Spanish America and "
+"Europe\" (in French only):"
 
 # 4957a012599941a38d56ddea2369dcb5
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:119
@@ -385,6 +385,16 @@ msgid ""
 "facteur 5 grâce essentiellement aux gains de productivité réalisés, et "
 "toutes choses égales par ailleurs.."
 msgstr ""
+"This short-cut doesn't reckon with the changes of economic behaviour, with "
+"the growth of the numbers of individuals (which reduce the part on "
+"currency/person), with the new goods and services requiring their part of "
+"the monetary stream, etc... But it allows to understand well the mechanism "
+"occurring within the money system : the local price relies strongly on the "
+"global monetary variation, as well as its density of distribution. The "
+"density  has to be understand as so : if the surplus of money was stayed in "
+"Americas, the price of the wheat in Europe, according to the same reasoning, "
+"would have fell from factor 5, essentially due to the gains of productivity "
+"made, and any other things alike.."
 
 # 057dad0ca70d4c53acefcc68d2d70fb1
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:178
@@ -398,16 +408,24 @@ msgid ""
 " ? C'est la confiance dans l'éthique de l'outil d'échange qui assurera "
 "l'adhésion des Citoyens à la monnaie proposée."
 msgstr ""
+"This historical note allows to understand that not only gold and silver "
+"don't escape to the fundamental relative monetary rules, but it's not "
+"require to use them to manage the common monetary mass. Thus, it's not the "
+"nature of a determined good which makes it a currency, but the agreement of "
+"any mode of circular exchange and also purely mathematical. So how this "
+"currency will be managed? It's the trust regarding the ethic of the tool of "
+"exchange which will ensure the membership of Citizens to the proposed "
+"currency."
 
 # 3dd1da31c4134281bfb1acb3e26a8edf
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:191
 msgid "*Reales en argent (Wikimedia)*"
-msgstr ""
+msgstr "*Reales in silver (Wikimedia)*"
 
 # d0513833390d4eaa9419a093e7c6d5e5
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:194
 msgid "L'effondrement à éviter : thésaurisation et déflation"
-msgstr ""
+msgstr "The collapse to avoid : hoarding and deflation"
 
 # 581406f6d8b14e49901a5edd2b60721c
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:196
@@ -420,6 +438,12 @@ msgid ""
 "thésaurisation. La nature limitée de ce type de monnaie rend mécaniquement "
 "impossible ce genre de mouvements de fonds sur le long terme."
 msgstr ""
+"Considering their growing monetary role, golden and silver metal were going "
+"to push to the seek and control of deposits, as well as hoarding. Lending "
+"currencies at fixed interest rate, creditors involve borrowers to give back "
+"more than what it exists in circulation, in a global movement of hoarding. "
+"The limited nature of this type of currency makes impossible technically "
+"this type of flow of funding over the longer term."
 
 # cb91ec97a9d04e06a4260d757875bad2
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:204
@@ -433,6 +457,13 @@ msgid ""
 "les fuites ne sont pas progressivement renflouées, comme il faut rajouter de"
 " l'énergie dans un système isolé pour qu'il poursuive son mouvement ?"
 msgstr ""
+"We have to understand that the phenomenon of lending is already in itself a "
+"hoarding phenomenon, the lender await to gain more money than what he owns, "
+"and it has nothing to see with the role of the currency as an immediate mean "
+"of universal exchange of goods and services. It's not a problem as long as "
+"the lending and the hoarding remain limited, but what happens if the "
+"currency is excessively hoarded or leaks aren't progressively bailed out, as "
+"we have to add energy in an isolated system in order for it to keep moving?"
 
 # d5b3e9157d684d92b59067442a59bad9
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:213
@@ -443,6 +474,11 @@ msgid ""
 "qu'elle présuppose un investissement ultérieur est insuffisante à expliquer "
 "ou à endiguer le mécanisme pour deux raisons :"
 msgstr ""
+"We have a phenomenon of dissipation of the currency. Not only the hoarding "
+"creates a deflationary cycle when the money creation does not compensate the "
+"loss, but the idea which says that saving is good because it presupposes an "
+"upcoming investment, is insufficient to explain or to stem the mechanism, "
+"for two reasons:"
 
 # 2521a74710f54a71808fea1c6b0a72f9
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:219
