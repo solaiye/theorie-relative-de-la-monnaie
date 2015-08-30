@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-08-28 16:13+0000\n"
-"Last-Translator: Vincent Texier <vit@free.fr>\n"
+"PO-Revision-Date: 2015-08-30 10:34+0000\n"
+"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
 "Language-Team: English (United States) "
 "<http://weblate.ucoin.io/projects/rtm/appendice-1/en_US/>\n"
 "Language: en_US\n"
@@ -68,6 +68,14 @@ msgid ""
 "avec cette valeur centrale démontrée (et non « proposée »), pouvant être "
 "qualifiée de distance relative à une monnaie libre."
 msgstr ""
+"RTM defines 4 economic freedoms in space-time comprised of individuals with "
+"average life expectancy noted « ev ». On this basis, and only due to a "
+"coherent reasoning on this basis, the RTM results in universal dividend "
+"monetary systems as the only compatible monetary system in this frame of "
+"reference, and the demonstration results to a relative value for this "
+"dividend as ln(ev/2)/(ev/2), the distance of a monetary system to this "
+"demonstrated central value (and not « proposed »), can be qualified of "
+"relative distance to a fair money."
 
 # a8970280eaaa42ad971687361e0f6167
 #: ../../source/appendice-1.rst:23
@@ -79,6 +87,12 @@ msgid ""
 "non-conformes avec ce résultat, ne sont pas cohérents avec les 4 libertés "
 "économiques dans l'espace-temps humain."
 msgstr ""
+"It is absolutely not a  « proposal », but a coherent demonstration with "
+"foundations. This is crucial to understand, because a theorem imply the "
+"converse, which is without any doubt the result of the most important of the "
+"RTM, which is that monetary systems not conform to this results, are not "
+"coherent to this result, are not coherent with the four economic freedoms in "
+"human space-time."
 
 # 3f475ea7b4574c0fa9fbfe25679e284b
 #: ../../source/appendice-1.rst:29
@@ -88,6 +102,10 @@ msgid ""
 "permettant une compréhension d'une causalité particulière qui aboutit à des "
 "nuisances effectives telles que des guerres, révolutions, ou insurrections."
 msgstr ""
+"By enlightening this perspective, the RTM brings an understanding of the "
+"nature of the causes which are the roots of the negation of these freedoms, "
+"enabling an understanding of a specific causality which results in "
+"effectives nuisances like wars, revolutions, insurrections."
 
 # 7d7025bd5bc942bfb769091c5951da10
 #: ../../source/appendice-1.rst:34
@@ -97,6 +115,10 @@ msgid ""
 "causalité, il ne peut pas s'estimer avoir véritablement compris les "
 "résultats et conclusions qui participent de sa nature."
 msgstr ""
+"While the one who would study the RTM would not come to effective "
+"understanding of these crucial points of understanding about causality, he "
+"can not estimate to have really understood the the results and conclusions "
+"which participate to its nature."
 
 # 4bf526e2fbd749dbabaee5c95fc0ccbb
 #: ../../source/appendice-1.rst:38
@@ -107,6 +129,10 @@ msgid ""
 "endroit (x, y, z, t) précis de l'espace-temps et n'en a pas moins des "
 "propriétés d'évolution ou de révolution."
 msgstr ""
+"**Freedom :** Freedom is established as everything an individual can realize "
+"in accordance with the non-nuisance to oneself and other, living and "
+"futures. This non-nuisance can be defined at a precise point (x, y, z, t) in "
+"space-time and has nonetheless properties of evolution or revolution."
 
 # 3ccf41b3c98e4d829198ffd831d0227d
 #: ../../source/appendice-1.rst:43
@@ -116,6 +142,10 @@ msgid ""
 "faut pas non plus comprendre l'excès inverse qui serait que la liberté "
 "serait non-définie ce qui est contraire à ce qui vient d'être affirmé."
 msgstr ""
+"One should not understand here freedom as absolutely defined, which would "
+"not have any logical sense in terms of coherence.  Neither should one "
+"understand the opposite excess which would be that freedom would be "
+"undefined which is the opposite of what is previously asserted."
 
 # b1cb3745496247ebaa83fa2282e52b31
 #: ../../source/appendice-1.rst:47
@@ -131,12 +161,21 @@ msgid ""
 "que tel au lieu de comprendre qu'il s'agit de ce que l'homme peut en faire, "
 "ce qui est très différent."
 msgstr ""
+"Finally, freedoms relating to a monetary system, although being expressed "
+"differently, have the same fundamental nature as freedoms related to free "
+"softwares. One should really understand there that it is the user who must "
+"be free. We then say « free » software or money by convention, but one could "
+"also say « enabling users to practice their freedoms », then « free » "
+"relatively to human using the object. It is essential to understand this "
+"point, because written this way we could have a tendency to think that its a "
+"property of the object as it is instead of understanding that it is what the "
+"human can do, which is really different."
 
 # 4e2fb1c8ec9b4a4a95d9ac91c35beb6f
 #: ../../source/appendice-1.rst:55
 msgid ""
 "**Liberté 0 :** *L'individu est libre du choix de son système monétaire.*"
-msgstr ""
+msgstr "**Freedom 0 :** *The individual is free to chose his monetary system.*"
 
 # 12ab82ffedcd400ab758515f22c08124
 #: ../../source/appendice-1.rst:57
@@ -148,6 +187,11 @@ msgid ""
 "économiques ou bien seulement aux trois libertés selon les cas. D'où le "
 "nombre spécifique 0 accolé à cette première liberté."
 msgstr ""
+"One can only declare the three following economic freedom when he is inside "
+"a relativist monetary system, because then he defined which monetary system "
+"he already chose. Also, sometime a relativist can indifferently reference "
+"the four economic freedoms or only the three freedoms depending on the case. "
+"Thus, the specific number 0 coupled to this primary freedom."
 
 # 69e8c6631f534699ab24c5760d6af738
 #: ../../source/appendice-1.rst:63
@@ -159,6 +203,12 @@ msgid ""
 " faire évoluer le système monétaire qu'il utilise, conformément aux règles "
 "ou aux principes généraux qui permettent cette évolution."
 msgstr ""
+"Ce choice is here extensible to the possibility of modification. This means "
+"that not only the individual can choose to use and adopt an independent "
+"monetary system, and thus to refer to the principles declared by this other "
+"monetary system, but he can also act to evolve the monetary system he uses, "
+"in accordance with the rules or general principles which enable this "
+"evolution."
 
 # 56e04a9e96ae41a1860c3e82a493506c
 #: ../../source/appendice-1.rst:69
@@ -170,6 +220,11 @@ msgid ""
 "autre direction, ou bien encore de l'adoption d'un tout autre modèle de "
 "programme ayant évolué indépendamment dès son origine."
 msgstr ""
+"Thus it is a double possibility in terms of changing the existing, or the "
+"change. This is totally comparable to the life of a software code, which "
+"evolves from version to versions, or which « forks », meaning it is copied "
+"and modified by others in a different direction, or also to adopt a totally "
+"different software model, having evolved independently since its origin."
 
 # 20891875ed944dc49f40bd3912c2dc3e
 #: ../../source/appendice-1.rst:75
@@ -181,11 +236,16 @@ msgid ""
 "monétaire d'une base de référence matérielle (étalon or) à une base de "
 "référence immatérielle (réserves fractionnaires)."
 msgstr ""
+"This essential freedom is present in several forms experimentally verified, "
+"for example the Suiss WIR, the German Chiemgauer, the Local Exchange Trading "
+"System « JEU » in Canada, all built following very different rules. Also in "
+"time, the change of one monetary system on the basis of physical reference ("
+"gold standard) to an immaterial reference (fractional reserve banking)."
 
 # 31c458d2ac6c4c148a46d2ba5a5ddfbb
 #: ../../source/appendice-1.rst:81
 msgid "**Liberté 1 :** *L'individu est libre d'utiliser les ressources.*"
-msgstr ""
+msgstr "**Freedom 1 :** *The individual is free to use the resources.*"
 
 # 09612ade67424d6197368d7e503afa1d
 #: ../../source/appendice-1.rst:83
@@ -197,6 +257,11 @@ msgid ""
 "une compensation pour que l'utilisation de ces ressources (quelles qu'elles "
 "soient) ne permette pas que les autres individus puissent l'utiliser."
 msgstr ""
+"Usage of resources must be conform to the non-nuisance. This means, given "
+"individuals using some resources (whatever their nature) that it remains "
+"substantive quality resources available, enough for other individuals, or "
+"that it exists a compensation because the usage of these resources (whatever "
+"it is) do not let other individuals to use it."
 
 # 6281b6c5eea841e9a50c2028c6fa3781
 #: ../../source/appendice-1.rst:89
@@ -205,6 +270,9 @@ msgid ""
 " de la nuisance (donc par définition de l'ordre de la non-liberté) "
 "concernant l'utilisation de ressources déjà identifiée comme nuisible."
 msgstr ""
+"Obviously it is not talking here of cases which would be de facto of the "
+"order of nuisance (so by definition of the order of non-freedom) concerning "
+"the usage of these resources already identified as harmful."
 
 # d2c628365af04cf5a95a6702b5b7ddc2
 #: ../../source/appendice-1.rst:93
@@ -217,6 +285,13 @@ msgid ""
 "conditions que leurs prédécesseurs, et où la compensation pour cette "
 "appropriation excessive des uns sur l'espace de vie des autres n'existe pas."
 msgstr ""
+"An historical example among the most commonly understood which reveals this "
+"principle is the excess of ownership if not absolute of the lands, limited "
+"by nature, which leads to economic area and period where not only the new "
+"born individuals can not mechanically become proprietaries because this one "
+"resource is not available in the same conditions as their predecessors, and "
+"where the compensation for this excess of ownership of ones on this living "
+"environment of others does not exist."
 
 # 75708d26f1564d6189ce6a64d149138a
 #: ../../source/appendice-1.rst:100
@@ -229,6 +304,12 @@ msgid ""
 "ensemble ce rôle de privateur de liberté, vis-à-vis des individus ne faisant"
 " pas partie de ces groupements."
 msgstr ""
+"This is typically the case of latifundios, feudal societies, absolute "
+"monarchies or near-absolutes, or also communists regimes or near-communities "
+"where it is the one State which plays the privative role of the first "
+"economic freedom, or also corporative regimes where it is private interests "
+"groups or State-private alliances who play together this role of freedom "
+"privation, to the individuals who are not part of these groups."
 
 # 91eda5092c294fae83ea7a0e0621a9d5
 #: ../../source/appendice-1.rst:107
@@ -242,11 +323,18 @@ msgid ""
 " de guerres, insurrections ou révolutions, comme si l'on avait comprimé un "
 "gaz jusqu'à faire éclater le récipient qui le contient."
 msgstr ""
+"The mechanic which leads to the negation of the freedom 1 can totally not be "
+"seen at a time, excess of resource appropriation can be the limit of a slow "
+"differential process, able to accumulate during half a human lifetime, a "
+"lifetime, or even several generations. The economic space considered, coming "
+"about this limit, one can find experimentally that irrepressible forces are "
+"triggered under the forms of wars, insurrections or revolution, as if we "
+"compressed gas until it burst the containing recipient."
 
 # c45c8611d2f44ab9b070e4c1295b7e44
 #: ../../source/appendice-1.rst:114
 msgid "**Liberté 2 :** *L'individu est libre de produire toute valeur.*"
-msgstr ""
+msgstr "**Freedom 2 :** *The individual is free to produce any value.*"
 
 # 4090c6122da64529b0e8e6cc8ae12b2c
 #: ../../source/appendice-1.rst:116
@@ -258,6 +346,12 @@ msgid ""
 "individus ayant une base scientifique avancée, faisant une référence "
 "implicite aux principes équivalents en physique."
 msgstr ""
+"This freedom is probably the most fundamental of the RTM, because it "
+"includes implicitly in its statement the principle of relativity. In the RTM "
+"the relativity principle is not only detached from the second freedom only "
+"to ease the read and the understanding of these reasonings, for individuals "
+"having advanced scientific knowledges, doing an implicit reference to "
+"equivalent principles in physics."
 
 # 5617a59050d44c1ca5feb41b1701103b
 #: ../../source/appendice-1.rst:122
@@ -268,6 +362,11 @@ msgid ""
 "pour cet objet là, ou de l'y accoler à un degré différent, ou bien en "
 "fonction d'autres paramètres inexprimables par les autres."
 msgstr ""
+"For « value » to be, it is necessary that an individual identifies the "
+"object by coupling it with this characteristic. This let for sure other "
+"individuals absolutely free to not couple it with this characteristic for "
+"this one object, or to couple it with a different degree, or also depending "
+"on other parameters inexpressible for the others."
 
 # 1e16136a7acb461f8985accc255b281b
 #: ../../source/appendice-1.rst:127
@@ -280,6 +379,12 @@ msgid ""
 "deuxième liberté deux fois : dans l'instant et relativement aux hommes "
 "futurs."
 msgstr ""
+"Furthermore the object can not exists at all, outside individual spirit. We "
+"will talk, a longtime after the production of this one value, of innovation. "
+"But to pretend that an innovation could be recognized by other individuals "
+"outside the spirit of the one who conceived it as having every "
+"characteristics of a value, is not to understand the second freedom twice : "
+"at time and relatively to future humans."
 
 # 0e241c7d539e432bb1a01800f77a4c44
 #: ../../source/appendice-1.rst:133
@@ -290,6 +395,11 @@ msgid ""
 "ou physiques, qui n'ont pas les mêmes qualités ni les mêmes précisions "
 "prédictives ou descriptives selon le cadre expérimental."
 msgstr ""
+"This observation is about the freedom of human spirit to express any "
+"conceptual model reflection of its own experimental reality. We will have a "
+"similar phenomenon in science about mathematics models or physics, which do "
+"not have the same qualities nor the same predictive precisions or "
+"descriptives, depending on the experimental frame."
 
 # 4a3db5f02b3c40da93b5b9c324380f5c
 #: ../../source/appendice-1.rst:138
@@ -299,6 +409,10 @@ msgid ""
 "autres individus, alors que ni l'histoire, ni le nombre, ne sont d'aucune "
 "manière des critères valides devant la liberté de conceptualisation."
 msgstr ""
+"Nuisance would be here to think it would be legit for individuals agreeing "
+"conceptually between them, to impose their models on other individuals, "
+"while nor history, nor the number, are in any way valid standards before the "
+"freedom to conceptualize."
 
 # 53aae59619634b9d84aea19a3fda44ef
 #: ../../source/appendice-1.rst:142
@@ -309,6 +423,11 @@ msgid ""
 " n'a nul besoin de s'étendre par la force ou le prosélytisme excessif pour "
 "être adoptée par d'autres individus."
 msgstr ""
+"It appears, backward this nuisance of a proselyte type, that when a "
+"conceptualization of reality enables a better understanding, a better "
+"agreement with experimental reality lived by individuals, it has no need to "
+"extend by any force or excessive proselytism to be adopted by other "
+"individuals."
 
 # cae61f455dd04df597d4c0369daaa0eb
 #: ../../source/appendice-1.rst:147
@@ -319,6 +438,10 @@ msgid ""
 "conformes à leurs objectifs, ou bien encore selon bien d'autres modalités "
 "que nous n'avons pas à juger."
 msgstr ""
+"Living individuals, or new entrant in life space, compare conceptualization "
+"with past reasoning and new, and adopt the ones who seems to be the most "
+"conform to their understanding, or to their goals, or also to many other "
+"modalities which one should not judge."
 
 # c31753202916499eb2ddcdee780a732b
 #: ../../source/appendice-1.rst:152
@@ -331,6 +454,12 @@ msgid ""
 " non-plus aucun jugement de valeur a priori à tenir par défaut pour "
 "caractériser cette liberté."
 msgstr ""
+"This is without prejudice to the end of this process of concepts "
+"transformation. Neither it is without prejudice to a relevance a priori more "
+"precise or less precise between these models concepts. This is not due to "
+"the experience and individual choice, which is verified in the whole space-"
+"time of past lives. Neither there is here any judgment of value, a priori by "
+"default to characterize this freedom."
 
 # 88139c2dd7ba4f9fa4ed2a8fbbfbf875
 #: ../../source/appendice-1.rst:158
@@ -340,6 +469,9 @@ msgid ""
 "eux-mêmes ne peut être cohérente avec cette liberté, ou principe de "
 "relativité."
 msgstr ""
+"Economically, about the possibility of a fair money, this principle results "
+"to the fact that no basis other than the ones individuals can be coherent "
+"with this freedom, or relativity principle."
 
 # 503d854acdff40369a212710fdad8caf
 #: ../../source/appendice-1.rst:162
@@ -353,11 +485,19 @@ msgid ""
 "compatibles qui sont donc ces systèmes monétaires à dividende universel dont"
 " les croissances relatives sont proches de ln(ev/2)/ (ev/2)."
 msgstr ""
+"This money in lieu of account, symmetrical mutual credit is defined on the "
+"basis of the ones individuals is the class of general solutions. In this "
+"class of general solutions, the individual in space-time is being taken into "
+"account, meaning its average life expectancy « ev » allows to established "
+"the symmetrical common monetary contract in space-time between all the "
+"individuals, resulting thus in under classes of compatible solutions which "
+"are the universal dividend monetary systems to which the relative growths "
+"are near ln(ev/2)/ (ev/2)."
 
 # e7d326587c7446a48ec9d5d5c9444b89
 #: ../../source/appendice-1.rst:170
 msgid "**Liberté 3 :** *L'individu est libre d'échanger « dans la monnaie ».*"
-msgstr ""
+msgstr "**Freedom 3:** *The individual is free to exchange « in the money ».*"
 
 # 2aed4b7476c24ff1b5db9fd99fa2ad9a
 #: ../../source/appendice-1.rst:172
@@ -370,6 +510,12 @@ msgid ""
 "à l'échange dans l'unité monétaire choisie, là encore cette liberté n'existe"
 " pas."
 msgstr ""
+"Freedom 0 being exerted, the individual can count, estimate, calculate, "
+"display, in the monetary unit he chose. Then if these individuals use force "
+"on others to do these actions in another units, this freedom does not exist. "
+"Or also if the individuals force others to any intermediary exchange before "
+"the exchange in the chosen monetary unit, yet again this freedom does not "
+"exist."
 
 # 3c3f376ad239460a94efdc4f2eda26c8
 #: ../../source/appendice-1.rst:178
@@ -382,6 +528,12 @@ msgid ""
 "différente du cas où cette liberté serait bafouée par des forces de "
 "coercitions."
 msgstr ""
+"Also, if individuals pretend to adopt a money, and do not display, do not "
+"count, do not estimate, or do not calculate in their own chosen monetary "
+"unit, they do not exert this freedom. However one should not that the "
+"freedom 3 could exist, the choice of individuals to not exert it is still "
+"possible, the situation would be different from the case where this freedom "
+"would be violated by forces of coercion."
 
 # 4859d1cdccc44d6baad9d64c863ee09a
 #: ../../source/appendice-1.rst:184
@@ -392,6 +544,11 @@ msgid ""
 "l'unité monétaire affichée (le taux de change, qui n'est qu'un prix comme un"
 " autre), de faire la transformation."
 msgstr ""
+"It is not really difficult in reality to exert the third freedom. Let it be "
+"prices, accounts, calculations, display in the given monetary unit, it is "
+"very simple, knowing the price of the chosen money in the displayed monetary "
+"unit (the exchange rate, which a price like any other), to do the "
+"transformation."
 
 # fdbd98c1c20c420abe422f5067ae9391
 #: ../../source/appendice-1.rst:189
@@ -401,6 +558,10 @@ msgid ""
 "librement choisie, peut appliquer une telle transformation très facilement, "
 "à l'aide d'un programme informatique faisant ce travail au besoin."
 msgstr ""
+"Then an individual who would want to display, count, calculate all the price "
+"of anything, displayed anywhere, in his own money freely chosen, can apply "
+"such a transformation really easily, with the help of a software doing this "
+"job if needed."
 
 # 6b6ecc4c49404fc09bd8eaa855d9b5a2
 #: ../../source/appendice-1.rst:193
@@ -413,6 +574,13 @@ msgid ""
 " la monnaie est parfaitement finie. Je vais expliquer ce point afin qu'il "
 "soit très clair dans l'esprit du lecteur."
 msgstr ""
+"I must note about this that the relativist money is often badly understood "
+"because of the non-understanding of this freedom, yet essential. I was able "
+"to hear for example « the relativist monetary mass grows indefinitely », it "
+"is true from a quantitative point of view, but it is false from a relativist "
+"point of view. From a relativist point of view the money is perfectly "
+"finished. I will explain this point so that it is very clear in the reader's "
+"mind."
 
 # 1addf16507de445c851b9dc2ea524917
 #: ../../source/appendice-1.rst:199
@@ -426,6 +594,14 @@ msgid ""
 "s'il est dedans, ou en mouvement s'il est sur le quai, ou bien encore à une "
 "autre vitesse s'il est lui-même dans un autre train."
 msgstr ""
+"The relativity principle imply that there is no absolute measure. To begin "
+"with, let's use the example about the speed of an object in physics. The "
+"speed :math:`V_0` of an object will be perceived differently depending on "
+"the observer 1 which will have a relative speed :math:`V_1` or the observer "
+"2 which will have a relative speed  :math:`V_2` compared to the object. "
+"Anyone can easily understand when they experience it that he sees the train "
+"motionless when he is in, or moving when he is on the dock, or also with "
+"another speed if he is in another train."
 
 # 836ad60580034a5e9ce261ff3052614d
 #: ../../source/appendice-1.rst:206
@@ -434,6 +610,8 @@ msgid ""
 "la quatrième liberté, donc nous pouvons choisir le référentiel qui nous "
 "convient."
 msgstr ""
+"The frame of reference decides of everything measure. And we have the fourth "
+"freedom, so we can choose the suitable frame of reference."
 
 # 3a7b9817c78245888c7ab888b8e77980
 #: ../../source/appendice-1.rst:209
@@ -448,6 +626,14 @@ msgid ""
 "monétaire (qui donc est dans le train) la masse monétaire ne bouge "
 "absolument pas."
 msgstr ""
+"If we count in « number of Universal Dividends » and not anymore in the "
+"simples « quantitative numbers », we chose a relativist money unit, conform "
+"to the chosen monetary system. And this « number of Universal Dividend » is "
+"perfectly finished, depending only on the number of individuals (which is "
+"conform to the basis). So even if in the quantitative frame of reference ("
+"view of the train from the dock) the expansion seems an indisputable fact, "
+"if the observer chose the UD himself as the monetary unit (he is then in the "
+"train) the monetary mass does not move at all."
 
 # 56d941fdc27148e99629ed1ba820e7a8
 #: ../../source/appendice-1.rst:217
@@ -461,6 +647,13 @@ msgid ""
 " nombre d'unités fixes pour une population stable qui se renouvelle dans le "
 "temps."
 msgstr ""
+"A global dividend being for example of 5% of the monetary mass, it is "
+"obvious that he can only have at a time  « t » a global limit of 20 "
+"dividends in the one monetary mass (20 x 5% = 100%). If we reference the N "
+"individuals of the monetary area, we will count a universal dividend of 5 % /"
+" N and thus a limit of only 20 x N individual dividends in the whole "
+"monetary mass, thus a fixed number of units for a stable population "
+"constantly renewed."
 
 # 19a8e05da5424ea5b44a43eeedc0f559
 #: ../../source/appendice-1.rst:224
@@ -473,6 +666,13 @@ msgid ""
 " non-fonte » de la monnaie, qui n'existent pas en raisonnement relativiste "
 "bien compris pour la même raison."
 msgstr ""
+"Then any price, count, calculation, can be realized in UD, it becomes very "
+"clear that the idea of expansion or non-expansion is total non-sense and is "
+"only the object of a pure convention depending on the strict arbitrary "
+"choice of the chosen frame of reference, and thus on the fourth economic "
+"freedom. The same applies to the false ideas of  « melt » or  « non-melt » "
+"of the money, which does not exist in a well understood relativist reasoning "
+"for the same reason."
 
 # e667d693fdd842ef924623e50bbce3b7
 #: ../../source/appendice-1.rst:230
@@ -486,6 +686,13 @@ msgid ""
 "est « fondu » et ce qui est « ajouté », et pas du tout d'affirmation à "
 "l'emporte pièce à tenir sur ce phénomène."
 msgstr ""
+"One could record briefly this last point, already explained several times in "
+"details, that an individual seeing his saved quantitative money units  « "
+"melt » by monetary expansion, sees also being added to his account his own "
+"individual share of new issued money, this simple observation should "
+"immediately cause reasoning for the reader who will see really fast by "
+"himself that there is a balance sheets to do with what « melted » and what "
+"is « added », and not at all any random assertion on this phenomenon."
 
 # a52ca4034fdb4f899a976e05c032d229
 #: ../../source/appendice-1.rst:237
@@ -502,6 +709,17 @@ msgid ""
 "sur leurs comptes relativement à ceux qui voient toute nouvelle émission "
 "monétaire être intégralement ajoutée à leurs propres comptes."
 msgstr ""
+"A similar reasoning will refute the false assertions about « the inflation » "
+"(of which the resolution is the equivalent of the theme, also topped from "
+"the « melt »). Because the number of UD is limited and the prices being all "
+"transformable in UD, this simple choice of frame of reference will make "
+"immediately understand to the layman that no source of inflation is "
+"possible. However, there are ignorance sources because of the attachment to "
+"the quantitative. This ignorance consist of not seeing that in unfair "
+"moneys, it is the unsymmetrical monetary creation between men which causes a "
+"real problem to the one who do not see the new money issued being added to "
+"their account relatively to the one who see the new monetary issuance being "
+"integrally added to their own accounts."
 
 # ae48ce8a391e489e887da1b76c9f7538
 #: ../../source/appendice-1.rst:247
@@ -513,6 +731,12 @@ msgid ""
 "*ou tel système monétaire est-il cohérent avec les quatre libertés "
 "économiques, relativement aux* *hommes qui l'utilisent et l'utiliseront ?»*."
 msgstr ""
+"The relativist reasoning always come back to its basis which is the "
+"coherence with the four economic freedoms. It does absolutely not care of "
+"wrong quantitative notions that he knows how to refute easily. His whole "
+"attention is focused on the question  *« this* *or this monetary system is "
+"coherent with the four economic freedoms, relatively to the* *humans who use "
+"it and will use it ?»*."
 
 # 4f8e8fc57c424e76944a7e0565138a13
 #: ../../source/appendice-1.rst:253
@@ -520,3 +744,5 @@ msgid ""
 "La non-compréhension de ce point ne relève donc que de l'ignorance des modes"
 " de raisonnement relativistes."
 msgstr ""
+"The non-understanding of this point is then only about ignorance of this "
+"relativist reasoning modes."
