@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-08-29 12:50+0000\n"
-"Last-Translator: Magali Marc <3neurons@riseup.net>\n"
+"PO-Revision-Date: 2015-08-30 20:24+0000\n"
+"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/zooms-sur-l-histoire-de-la-monnaie/en_US/>\n"
 "Language: en_US\n"
@@ -492,6 +492,14 @@ msgid ""
 "de monnaie que sous forme de prêts à intérêts, et non plus en circulation de"
 " biens, prend mécaniquement possession de tout le circuit économique."
 msgstr ""
+"If the savings accumulated is re-injected in the forms of loans, the "
+"deflationary cycle will go trough a temporary counter-tendency, and the "
+"accumulated savings, if the borrowers continue to refund correctly increase, "
+"increasing the deflation rate to levels of price decline so insupportable "
+"that the bankruptcy of the exchange circuit is reached. The lender who has "
+"an initial monetary advantage, and gets some fun by only injecting money in "
+"the form of loans, and not in the form of circulating goods, takes "
+"mechanically possession of the whole economic circuit."
 
 # 0dac8fb60f6245ad913be8cb1af9b868
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:228
@@ -506,6 +514,14 @@ msgid ""
 "mettant l'accent sur la densité de la monnaie et le champ de valeur "
 "différentiel."
 msgstr ""
+"if the accumulated savings is invested in another autonomous trading circuit "
+"(in space or in time), this is really good for this new circuit without any "
+"doubt, but it will do nothing on the problem of the initial circuit, which "
+"does not necessary have the goal or the means to sell its production "
+"outside, for example where this money would have been invested. Here again "
+"we perceive the fine analysis enabled by the field of value, which removes "
+"inconsistency of global theories by focusing on the density of money and the "
+"differential field of value."
 
 # 3cf66468a4c942128d30214b3639c1c4
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:237
@@ -517,6 +533,11 @@ msgid ""
 "peu de rapport avec ce que souhaitent produire et échanger des producteurs "
 "libres quant à la mesure de toute valeur."
 msgstr ""
+"Still this local deflationary mechanism is all the more dampened in a money "
+"of rare reference value which, by construction, not only is not dense "
+"everywhere, but also of which the growth depends on external parameters and "
+"specific investments to produce, which lacks of relevance with what the free "
+"producers want to produce and trade regarding the measure of any value."
 
 # 68f5a57ed21a43e98d678961a79f94d3
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:244
@@ -529,13 +550,19 @@ msgid ""
 "de thésaurisation ou les investissements extérieurs à la zone économique "
 "concernée."
 msgstr ""
+"Low growth money but dense encourage investment and plays then its "
+"fundamental role : money usage for trades inside production circuits. "
+"Moreover it can be used to restore progressively monetary density "
+"everywhere, by repairing slowly but progressively and without bumps, "
+"unavoidable leaks due to excess of hoarding or external investments of the "
+"corresponding economic area."
 
 # 53ec363cc5c74ad5a0b7cb048bbcd9ce
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:255
 msgid ""
 "*Un exemple de thésaurisation et d'investissement avec fuite (Luc Fievet TRM"
 " 2.0)*"
-msgstr ""
+msgstr "*An example of hoarding and investment with leak (Luc Fievet RTM 2.0)*"
 
 # 15b51408e61342479be3b908093afc76
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:257
@@ -548,6 +575,13 @@ msgid ""
 "dissipation d'énergie, et il faut toujours d'une façon ou d'une autre "
 "injecter une énergie supplémentaire pour maintenir un système en mouvement."
 msgstr ""
+"Finally, paralleling with the physics is not without interest. We know since "
+"energetics theories that the perpetual movement is impossible. The perpetual "
+"movement consist in a system which would turn on itself, with a initial "
+"input f energy finished. Yet these systems violate the first and second "
+"principles of the thermodynamic. To be clear, there is always energy loss, "
+"and it is necessary, one way or the other, to inject supplementary energy to "
+"keep the system moving."
 
 # d3db557882434ed0b143dde10be11ca2
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:265
@@ -560,6 +594,14 @@ msgid ""
 "consistait souvent à déclarer comme irrecevables des brevets qui "
 "prétendaient établir des machines à mouvements perpétuels."
 msgstr ""
+"To bring an interesting historical footnote, Albert Einstein declared that "
+"he when he was working on his Special Theory of Relativity (from 1902 to "
+"1905), he was working for the patent office of Berne, this work was « handy »"
+" for him. Indeed, besides the fact that it was giving him the necessary "
+"livelihood to pursue his scientific researches, this work was not wasting "
+"too much of his energy, and consisted most of the time to declare as "
+"inadmissible the patents which pretended to realize perpetual movement "
+"machines."
 
 # d3d0f6b72efe495fb688fe465fd6c2ee
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:273
@@ -576,16 +618,26 @@ msgid ""
 "éthique systémique clairement établie, difficilement contestable, et surtout"
 " assurant toujours les libertés économiques."
 msgstr ""
+"To think that a fixed quantity of money would be a guarantee of stability of "
+"the  « value » of this money, is to not understand the Relativity of the "
+"individual measure of value, and not to take into account neither the simple "
+"experimental fact, which demonstrate all along money history for 10 000 "
+"years, that forced or conciously accepted the expansion of monetary masses "
+"is unavoidable. By understanding this phenomenon we will transform the "
+"cyclic changes of catch-up brutally experienced, mostly sources of war or "
+"revolutions, in simple adjusting periods, acceptable because well understood "
+"by anyone, based on a systemic ethic clearly defined, hardly questionable, "
+"and always ensuring the economic freedoms."
 
 # 5f0bd7f0ac264389bd64d3dbc30a83ab
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:286
 msgid "John Locke 1632 - 1704"
-msgstr ""
+msgstr "John Locke 1632 - 1704"
 
 # 533924b651954853864245c946122a24
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:292
 msgid "*John Locke (wikimedia)*"
-msgstr ""
+msgstr "*John Locke (wikimedia)*"
 
 # 0fd471dfcd0d43dfb9e36881e11202a8
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:294
@@ -595,11 +647,15 @@ msgid ""
 " s'approprier légitimement les ressources originelles sans qu'il en reste "
 "suffisamment et en assez bonne qualité pour autrui."
 msgstr ""
+"John Locke, philosopher precursor of the age of the enlightenment  puts "
+"limits and tempere property rights by the « lockean proviso » which declares "
+"that one can only claim legitimately the ownership of original resources "
+"where there is enough, and as good, left in common for others."
 
 # 13893e1ce85b400787c59728649af569
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:301
 msgid "Les monnaies fiduciaires, premières monnaies expansionnistes"
-msgstr ""
+msgstr "Paper currencies, first expansionist currencies"
 
 # 697a789272d040f2a72cdbf4d1cb6d5f
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:307
