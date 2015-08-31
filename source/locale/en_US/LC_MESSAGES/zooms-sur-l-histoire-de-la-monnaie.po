@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-08-30 20:24+0000\n"
-"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
+"PO-Revision-Date: 2015-08-31 11:18+0000\n"
+"Last-Translator: Magali Marc <3neurons@riseup.net>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/zooms-sur-l-histoire-de-la-monnaie/en_US/>\n"
 "Language: en_US\n"
@@ -660,7 +660,7 @@ msgstr "Paper currencies, first expansionist currencies"
 # 697a789272d040f2a72cdbf4d1cb6d5f
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:307
 msgid "*Caricature du système de Law (Wikimedia)*"
-msgstr ""
+msgstr "*Caricature of the Law's system (Wikimedia)*"
 
 # 489df94146354f05b8c3b01fe49529e4
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:309
@@ -671,6 +671,11 @@ msgid ""
 "l'œuvre en Italie. La France d'alors croule sous les dettes, et Louis XV "
 "donne le feu vert pour la mise en place du système."
 msgstr ""
+"In the 18th century, the \"Law's system\" - from the Scottish « John Law » - "
+"is officially implemented within a central proto-bank in France. Law "
+"observed the monetary fiduciaries mechanisms which were already working in "
+"Italy. Then France was overwhelmed by debts and Louis 15 gave his agreement "
+"for the implementation of this system."
 
 # 2b1fd91bd21c4103ac6aa76fdca9a9e5
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:315
@@ -681,6 +686,10 @@ msgid ""
 "monnaie représente une part de valeur de référence (or ou argent) payable "
 "par la Banque émettrice."
 msgstr ""
+"Fiduciary money engenders a currency which evolves towards a loss with the "
+"referent value, to go towards a dematerialisation in the form of pure trust. "
+"This very first version of money paper represents a part of the referent "
+"value (gold or silver) payable by the issuing Bank."
 
 # 56e9dd7a2514485e80e60bd7eb474060
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:322
