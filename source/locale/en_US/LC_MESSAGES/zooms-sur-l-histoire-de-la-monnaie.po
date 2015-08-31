@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-08-31 14:33+0000\n"
-"Last-Translator: Magali Marc <3neurons@riseup.net>\n"
+"PO-Revision-Date: 2015-08-31 15:36+0000\n"
+"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/zooms-sur-l-histoire-de-la-monnaie/en_US/>\n"
 "Language: en_US\n"
@@ -878,16 +878,20 @@ msgid ""
 "représenté, il doit bénéficier d'un revenu universel de base lui permettant "
 "son existence politique."
 msgstr ""
+"In 1785 three years after « Human rights »  Thomas Pain, then French deputy, "
+"publish « Agrarian Justice »  in which he declares that no citizen without "
+"revenue can be and as any citizen has to be represented, he must benefit of "
+"a universal basic income allowing him a political existence."
 
 # f59d198a246442198d0ae84cf3216a23
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:412
 msgid "*Thomas Paine (wikimedia)*"
-msgstr ""
+msgstr "*Thomas Paine (wikimedia)*"
 
 # b09f818e075a4851ad0f30a0458f3f9f
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:415
 msgid "Invention du Levier Bancaire réglementé"
-msgstr ""
+msgstr "Invention of regulated Leverage"
 
 # 1693929286124685bc6c399dc5feb819
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:417
@@ -900,6 +904,12 @@ msgid ""
 "fallait trouver un système qui évite les faillites, tout en gardant les "
 "côtés positifs du système."
 msgstr ""
+"Despite repeated failures of the first Central Banks, the idea of an "
+"expansionist fiduciary money was never abandoned. Why ? Because such a money "
+"is easier to transport, easier to exchange, is a nice business model for "
+"issuing Banks, but most of all it lead the economy to fast expansionist "
+"periods. A system where failure were avoided had to be found while saving "
+"the positive aspects of this system."
 
 # e2464fc37e4b4cc7bc4096b84e663853
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:424
