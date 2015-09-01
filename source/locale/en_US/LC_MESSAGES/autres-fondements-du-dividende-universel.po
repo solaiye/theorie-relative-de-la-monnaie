@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-08-28 18:04+0000\n"
-"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
+"PO-Revision-Date: 2015-09-01 11:02+0000\n"
+"Last-Translator: truc_fullname <s_b_@openmailbox.org>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/autres-fondements-du-dividende-universel/en_US/>\n"
 "Language: en_US\n"
@@ -39,7 +39,7 @@ msgstr ""
 # 0364c6fce85d4455921951598965809c
 #: ../../source/autres-fondements-du-dividende-universel.rst:12
 msgid "La co-propriété Citoyenne de la Zone Monétaire"
-msgstr "The Citizen co-property of the Monetary Area"
+msgstr "The condominium Citizen of the Currency union"
 
 # 6d164fb166bc4cd391aa5f27b57b53c4
 #: ../../source/autres-fondements-du-dividende-universel.rst:14
@@ -53,13 +53,13 @@ msgid ""
 "pour permettre que les échanges puissent se faire tant dans l'espace que "
 "dans le temps et dans une mesure équilibrée."
 msgstr ""
-"The economic area associated to a common money is fundamentally  a citizen "
+"The economic zone associated to a common money is fundamentally a Citizen "
 "construction. Any Citizen in its respective state is a co-owned of the area ("
-"which can be reduced to only one State). In a democracy we are regularly "
-"invited to vote to chose our representatives directly or indirectly. "
-"Therefore it is an act of common life, where the money is the economical "
-"cement commonly accepted and created to allow exchanges in space but also in "
-"time in a balanced way."
+"which can be reduced to only one State). In a democracy, we are regularly "
+"invited to elect our representatives directly or indirectly. Therefore it is "
+"an act of common life, where the money is the economical cement commonly "
+"accepted and created to allow exchanges in space but also in time in a "
+"balanced way."
 
 # 8aaf377791e145c9a5b2f3ce9fe9831c
 #: ../../source/autres-fondements-du-dividende-universel.rst:23
