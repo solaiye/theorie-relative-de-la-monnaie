@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-01 11:02+0000\n"
-"Last-Translator: truc_fullname <s_b_@openmailbox.org>\n"
+"PO-Revision-Date: 2015-09-02 15:28+0000\n"
+"Last-Translator: sb <s_b_@openmailbox.org>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/autres-fondements-du-dividende-universel/en_US/>\n"
 "Language: en_US\n"
@@ -22,7 +22,7 @@ msgstr ""
 # cf6375ef84404e0a8f8010bed4238a53
 #: ../../source/autres-fondements-du-dividende-universel.rst:3
 msgid "Autres fondements du Dividende Universel"
-msgstr "Other fundaments of the Universal Dividend"
+msgstr "Other basis of the Universal Dividend"
 
 # c9615ff83cd64add8be13b8761f59a77
 #: ../../source/autres-fondements-du-dividende-universel.rst:5
