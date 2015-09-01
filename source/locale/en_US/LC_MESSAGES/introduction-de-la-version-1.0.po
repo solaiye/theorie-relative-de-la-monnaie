@@ -9,14 +9,16 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-01-17 14:34+0000\n"
-"Last-Translator: Moul <ma.azimi@laposte.net>\n"
-"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
+"PO-Revision-Date: 2015-09-01 18:27+0000\n"
+"Last-Translator: sb <s_b_@openmailbox.org>\n"
+"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
+"/introduction-de-la-version-10/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.4-dev\n"
 
 # b331c718d8464e1ea6bfe4b15d56849e
 #: ../../source/introduction-de-la-version-1.0.rst:3
@@ -51,7 +53,11 @@ msgid ""
 "Monnaie, il faut prendre conscience des enjeux de la mondialisation qui "
 "amène des milliards de personnes à développer des échanges monétisés, ainsi "
 "que des déséquilibres historiques des échanges intercontinentaux."
-msgstr "But, and it is without doubt there the contribution of Relative Money Theory, we must realize globalization issues which leads billions of people to develops monetized exchanges, as historical imbalances of intercontinental exchanges."
+msgstr ""
+"But, and it is without doubt there the contribution of Relative Theory of "
+"Money, we must realize globalization issues which leads billions of people "
+"to develops monetized exchanges, as historical imbalances of "
+"intercontinental exchanges."
 
 # f2cb9e8ae8b4404881ccb112388ffa04
 #: ../../source/introduction-de-la-version-1.0.rst:23
@@ -60,7 +66,10 @@ msgid ""
 "mécanique quantique, mais à la Relativité, qui sont les plus pertinentes "
 "pour espérer comprendre ce qui ne fonctionne pas et tenter d'apporter les "
 "mutations nécessaires."
-msgstr "But for that global scale, this are linked ideas not to quantum mechanics, but to Relativity, which are the most relevant to hope understand which doesn't works and try brings necessaries mutations."
+msgstr ""
+"But for that global scale, this are linked ideas not to quantum mechanics, "
+"but to Relativity, which are the most relevant to hope understand which "
+"doesn't works and try to bring necessary mutations."
 
 # d8a925116d1e46408a7818ffe3b266d4
 #: ../../source/introduction-de-la-version-1.0.rst:27
@@ -70,7 +79,11 @@ msgid ""
 "dernier reposait sur des concepts pré-relativistes et sur une profonde "
 "asymétrie, qui font des centres d'émission monétaire des anomalies sources "
 "de biais."
-msgstr "A direct economic experience based analysis, associated to the mechanisms study of the actual monetary system, made me understand that this latter were based on pre-relativists concepts and on a deeply asymmetry, which made monetary emissions centers anomalies sources of angles."
+msgstr ""
+"An analysis based on the economic experience, associated with a study of "
+"mechanisms of the actual monetary system, made me understand that this "
+"latter relied on pre-relativists concepts and on a deeply asymmetry, which "
+"made centers of monetary issuance anomalies that are sources of bias."
 
 # dad8ba6cbc064cf0bfc6535361133826
 #: ../../source/introduction-de-la-version-1.0.rst:32
@@ -80,7 +93,12 @@ msgid ""
 " l'espace-temps, et que j'appelle aussi « monnaie relative » en ce qu'elle "
 "ne peut se définir que relativement à tout repère de mesure indépendant : "
 "celui lié à tout individu citoyen de la zone économique concernée."
-msgstr "The book's subject _aim_ is not to define the monetary system as it exist, but to define what would be an equitable money in the space-time, and which I also called \"relative money\" in that it can't be define only relatively to every independent measure coordinate system: that linked to all citizen of a concern economic zone."
+msgstr ""
+"The book's subject _aim_ is not to define the monetary system as it exist, "
+"but to define what would be an equitable money in the space-time, and which "
+"I also called « relative money » in that it can't be define only relatively "
+"to every independent measure coordinate system: that linked to all citizen "
+"of a concern economic zone."
 
 # 4d690ad732fe41599136ef5f96e61f9b
 #: ../../source/introduction-de-la-version-1.0.rst:38
@@ -126,7 +144,12 @@ msgid ""
 "résultat similaire n'ont fait que conforter ma conviction de la très grande "
 "pertinence de ce résultat, et c'est pourquoi je lui ai demandé de rédiger la"
 " préface de la Théorie Relative de la Monnaie."
-msgstr "Whereas Yoland Bresson's process went from an economics exchanges theorization, and that mine went from a relativist money theory, the fact that both approaches lead to a similar result have only to consolidate my conviction of his large result's relevance, and that's why I told him to write the preface of Relative Money Theory."
+msgstr ""
+"Whereas Yoland Bresson's process went from an economics exchanges "
+"theorization, and that mine went from a relativist money theory, the fact "
+"that both approaches lead to a similar result have only to consolidate my "
+"conviction of his large result's relevance, and that's why I told him to "
+"write the preface of Relative Theory of Money."
 
 # 8c014cc8504d479caf6f0ffd0fc55419
 #: ../../source/introduction-de-la-version-1.0.rst:65
