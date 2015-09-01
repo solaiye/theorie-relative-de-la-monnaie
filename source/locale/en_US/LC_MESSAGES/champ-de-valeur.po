@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-08-28 15:00+0000\n"
-"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
+"PO-Revision-Date: 2015-09-01 11:44+0000\n"
+"Last-Translator: sb <s_b_@openmailbox.org>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/champ-de-valeur/en_US/>\n"
 "Language: en_US\n"
@@ -25,7 +25,7 @@ msgstr ""
 # 8935f7d9a031417d8aeb10a552838205
 #: ../../source/champ-de-valeur.rst:3
 msgid "Champ de valeur"
-msgstr "Value fields"
+msgstr "Value field"
 
 # 7b832497f87b45f793ac6e6b122cb4ec
 #: ../../source/champ-de-valeur.rst:6
