@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-01 11:13+0000\n"
-"Last-Translator: sb <s_b_@openmailbox.org>\n"
+"PO-Revision-Date: 2015-09-01 11:48+0000\n"
+"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/zooms-sur-l-histoire-de-la-monnaie/en_US/>\n"
 "Language: en_US\n"
@@ -1020,11 +1020,20 @@ msgid ""
 "historique. 1929 était la dernière crise de taille internationale basée sur "
 "une valeur de référence fixe."
 msgstr ""
+"When they realize it, and all wish at the same time to recover the « "
+"reference value » there is not as much stocks for answer to all demands ("
+"insuring 10% of reserves remains in any case a fraud, it is impossible for "
+"the whole owners of money to recover this  « value », and the first to get "
+"it are doing it at the expense of the others before general bankruptcy), and "
+"the bankruptcies from Banks to Banks destabilize then all the rest of the "
+"economy which collapses and leads to social and political disorders of "
+"historical scale. 1929 was the last crisis at an international scale based "
+"on a value of fixed reference."
 
 # 23c4a37e798b4a2186b8d8d279ff17e6
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:479
 msgid "*Charles Ponzi, inventeur de la pyramide du même nom (Wikimedia)*"
-msgstr ""
+msgstr "*Charles Ponzi, inventor of the pyramid named after him (Wikimedia)*"
 
 # 895619db4ec24ece9b41355d260b6bff
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:482
