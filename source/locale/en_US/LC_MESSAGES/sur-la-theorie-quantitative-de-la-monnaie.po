@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-01 12:11+0000\n"
-"Last-Translator: Magali Marc <3neurons@riseup.net>\n"
+"PO-Revision-Date: 2015-09-01 12:16+0000\n"
+"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/sur-la-theorie-quantitative-de-la-monnaie/en_US/>\n"
 "Language: en_US\n"
@@ -106,6 +106,11 @@ msgid ""
 "ne concerne que ses acteurs, et n'est stable ni dans le temps, ni dans "
 "l'espace (selon d'autres individus)."
 msgstr ""
+"The bias of a vision only global, is the non-relativity of measure of value. "
+"Because globally we find here or there an « exchange of values » we will "
+"decide that value is « here ». Yet this measure only concerns its actors, "
+"and is not stable neither in time, nor in space (from other individuals "
+"point of view)."
 
 # 8149cdf89c224431baad13c91b3993f7
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:61
@@ -113,6 +118,8 @@ msgid ""
 "*SEL et valeurs non monétisées dans la monnaie « dette » centrale (Luc "
 "Fievet TRM 2.0)*"
 msgstr ""
+"*LETS and non-monetized values in the central « debt» money  (Luc Fievet RTM "
+"2.0)*"
 
 # b76f2e62ca624b80a56fcd14ecc9143d
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:63
