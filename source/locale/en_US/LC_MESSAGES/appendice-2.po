@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-08-27 16:16+0000\n"
-"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
+"PO-Revision-Date: 2015-09-01 19:49+0000\n"
+"Last-Translator: sb <s_b_@openmailbox.org>\n"
 "Language-Team: English (United States) "
 "<http://weblate.ucoin.io/projects/rtm/appendice-2/en_US/>\n"
 "Language: en_US\n"
@@ -24,7 +24,7 @@ msgstr ""
 # 24994e9e6e164dceaf60ce46b4c53cd1
 #: ../../source/appendice-2.rst:3
 msgid "Appendice 2 : Un résumé mathématique de la TRM"
-msgstr "Appendix 2: A mathematical summary of the RMT"
+msgstr "Appendix 2: A mathematical summary of the RTM"
 
 # c89e0251f2c044e29cd950a27edd957a
 #: ../../source/appendice-2.rst:10
@@ -37,14 +37,19 @@ msgid ""
 "Pour la TRM la définition de la liberté est \"ce qu'il est possible de "
 "réaliser sans nuire à soi-même et à autrui\". Il ne s'agit donc pas de "
 "possibilités non-réfléchies."
-msgstr "According to RMT the definition of freedom is \"what can be achieved without harming oneself and others.\" It is not therefore the result of creative thinking but can be demonstrated publically."
+msgstr ""
+"According to RTM the definition of freedom is \"what can be achieved without "
+"harming oneself and others.\" It is not therefore the result of creative "
+"thinking but can be demonstrated publically."
 
 # bb1728c5a7ee4efbab648742c93e5f29
 #: ../../source/appendice-2.rst:15
 msgid ""
 "Les TRM définit 4 libertés économiques qui forment le fondement général de "
 "son approche et qui sont :"
-msgstr "RMT define four economic freedoms, which form the basis of his general approach and are:"
+msgstr ""
+"RTM defines four economic freedoms, which form the basis of his general "
+"approach and are:"
 
 # 9ed317e79a434652a4208e0c044dca90
 #: ../../source/appendice-2.rst:17
@@ -84,7 +89,10 @@ msgid ""
 "La TRM se fonde sur le principe de relativité économique, qui établit que "
 "tout être humain définit un référentiel légitime pour estimer et produire "
 "tout type de valeur économique, connue ou inconnue par autrui."
-msgstr "RMT is based on the principle of economic relativity, which states that every human being defines a legitimate frame of reference to estimate and produce any type of economic value, known or unknown by others."
+msgstr ""
+"The RTM is based on the principle of economic relativity, which states that "
+"every human being defines a legitimate frame of reference to estimate and "
+"produce any type of economic value, known or unknown by others."
 
 # dac690e2509142a6a5f67612564aafaa
 #: ../../source/appendice-2.rst:32
@@ -105,7 +113,9 @@ msgstr "Space-Time"
 msgid ""
 "L'espace-temps économique est caractérisé essentiellement par les hommes qui"
 " font partie d'une zone économique donnée."
-msgstr "Economic space-time is characterized mainly by humans who are part of a particular economic zone."
+msgstr ""
+"The economic space-time is characterized mainly by humans who are part of a "
+"particular economic zone."
 
 # 2a6c957a5ecf485897eaec3cbc3d9fc4
 #: ../../source/appendice-2.rst:44
@@ -136,7 +146,9 @@ msgid ""
 "Cette dimension est une donnée finie de l'espace-temps économique étudié par"
 " la TRM où, pour tout temps t considéré, l'ensemble des hommes est renouvelé"
 " à la date t + ev."
-msgstr "This dimension is a finite data of economic space-time considered by the RMT where, for all considered time t, all humans are renewed at time t+ev."
+msgstr ""
+"This dimension is a finite data of economic space-time considered by the RTM "
+"where, for all considered time t, all humans are renewed at time t+ev."
 
 # 03b9ba60f14e4285a54a8cd630cf6ea8
 #: ../../source/appendice-2.rst:58
@@ -168,7 +180,10 @@ msgid ""
 "valeurs économiques ni dans l'espace, ni dans le temps, ils utilisent tout "
 "de même une même unité de valorisation individuelle, en rapport avec une "
 "valeur de référence, qui est nommée \"la monnaie\"."
-msgstr "Note that even though people do not agree on economic values neither in space nor in time, they still use the same unit of individual valuation, in relation to a reference value, which is named \"money \"."
+msgstr ""
+"Note that even though people do not agree on economic values neither in "
+"space nor in time, they still use the same unit of individual valuation, in "
+"relation to a reference value, which is named \"the money\"."
 
 # ebc720ccbb004767adccb34329855a0f
 #: ../../source/appendice-2.rst:75
@@ -241,7 +256,10 @@ msgid ""
 "alors qu'ils se remplacent dans le temps, nous devons donc définir une "
 "production de notre valeur de référence M, de même forme pour les individus,"
 " dans l'espace et dans le temps."
-msgstr "Humans must all be co-producers of this same economic value, though they replace in time, so we must define a production of our reference value M, with same form for individuals, in space and in time."
+msgstr ""
+"Humans must all be co-producers of this same economic value, though they "
+"replace in time, so we must define a production of our reference value M, "
+"with same form for individuals, in space and time."
 
 # 947a503f6380431e8a6cff6e79c25804
 #: ../../source/appendice-2.rst:116
