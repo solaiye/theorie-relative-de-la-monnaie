@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-08-31 21:44+0000\n"
-"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
+"PO-Revision-Date: 2015-09-01 12:11+0000\n"
+"Last-Translator: Magali Marc <3neurons@riseup.net>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/sur-la-theorie-quantitative-de-la-monnaie/en_US/>\n"
 "Language: en_US\n"
@@ -84,7 +84,6 @@ msgstr "*Circular lines of exchanges of value and money (Luc Fievet RTM 2.0)*"
 
 # d835ec2e87494559b3a040de85d5e5ec
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:46
-#, fuzzy
 msgid ""
 "Qui est donc une égalité ne concernant que des quantités intégrales "
 "globales. Ce résultat ne tient pas compte des fluctuations locales du repère"
@@ -92,10 +91,10 @@ msgid ""
 "pour un temps court où les changements tant productifs, qu'individuels ou "
 "monétaires sont négligeables."
 msgstr ""
-"Which is then an egality concerning only global and integratable quantity. "
-"This result is only taking into account of local fluctuations of space-time "
-"reference, and is only valid inside a pseudo-isolated economy, for a short "
-"time and where changes as productive as individuals or monetary are "
+"Which is then an equality concerning only global and integrable quantities. "
+"This result does not consider the local fluctuations of space-time "
+"reference, and is only valid within a pseudo-isolated economy, for a short "
+"time where changes - be they productive, individual or monetary - are "
 "negligible."
 
 # e374ab409ef84c1bbe218989696c5c7a
