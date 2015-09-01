@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-01 18:42+0000\n"
-"Last-Translator: Moul <moul@moul.re>\n"
+"PO-Revision-Date: 2015-09-01 19:47+0000\n"
+"Last-Translator: sb <s_b_@openmailbox.org>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/zooms-sur-l-histoire-de-la-monnaie/en_US/>\n"
 "Language: en_US\n"
@@ -1267,7 +1267,7 @@ msgstr ""
 # 57d29ba27edd46f6be2e01468e9814dd
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:601
 msgid "*Trois étapes d'émission de l'« argent dette » (Luc Fievet TRM 2.0)*"
-msgstr ""
+msgstr "*Three steps of emission of the « debt money » (Luke Fievet RTM 2.0)*"
 
 # fdcb611d6a9e416a835de8dea15ac509
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:604
