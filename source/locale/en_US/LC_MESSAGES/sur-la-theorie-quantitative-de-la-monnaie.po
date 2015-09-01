@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-01 12:16+0000\n"
-"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
+"PO-Revision-Date: 2015-09-01 19:45+0000\n"
+"Last-Translator: sb <s_b_@openmailbox.org>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/sur-la-theorie-quantitative-de-la-monnaie/en_US/>\n"
 "Language: en_US\n"
@@ -129,6 +129,10 @@ msgid ""
 "l'économie sans être monétisée (cas des creux), ou bien la création d'une "
 "nouvelle monnaie locale devient nécessaire (création de SEL)."
 msgstr ""
+"That is if money is created asymmetrically, not dense, the value is stored "
+"or exchange so heavily in another part of the economy without being "
+"monetized (if hollow), or the creation of a new local currency becomes "
+"necessary (creation of LETSystem)."
 
 # 78dfea5cac8148bd853f4877a9312b7d
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:68
@@ -139,6 +143,10 @@ msgid ""
 " du Dividende Universel, qui monétise durablement et progressivement "
 "l'économie."
 msgstr ""
+"As this is a phenomenon of accumulation, the output of this impasse can be "
+"done either via the hyperinflation of sub-monetized values, possible by "
+"issuing of violent remedial currency or by the gradual process of Universal "
+"Dividend, which monetizes sustainably and gradually the economy."
 
 # e698808cef4d43828ebeb5cbdecf1300
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:73
@@ -150,6 +158,12 @@ msgid ""
 " surgir des comportements économiques violents, anticipant des choix sujets "
 "à suspicion quant à leur changements ultérieurs."
 msgstr ""
+"As noted in the calculation of the optimal Universal Dividend, one can get "
+"out distortions by setting the desired rate of Universal Dividend. This is "
+"obviously a great need to conceive a fully transparent and stable "
+"configuration in time, otherwise it is not surprising to see a surge of "
+"violent economic behaviours, anticipating choices subject to suspicion as to "
+"their subsequent changes."
 
 # 09638f3563eb47a7ad32208b735cf7e1
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:80
@@ -164,6 +178,14 @@ msgid ""
 "dans le respect de la liberté de chacun, en incitant fortement la créativité"
 " individuelle."
 msgstr ""
+"This is a complete reversal of the current paradigm in 2010 ! Instead of "
+"Central Banks that are trying to maintain arbitrarily end of life values "
+"with hidden and suspicious monetary emissions that promote a caste of "
+"initiated leaders in place, and therefore artificial and unhelpful maintain "
+"of monopolies on old values, we need a currency with stable, dense and "
+"transparent issuance, in which the values fluctuate, and the individual "
+"economic positions change with the respect of the freedom of each "
+"individual, by strongly encouraging individual creativity."
 
 # 76e656ef4479484ba7cd9d2712a6f2aa
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:89
@@ -171,21 +193,23 @@ msgid ""
 "Si donc on reprend les axiomes de la Théorie Quantitative de la Monnaie, qui"
 " définit la monnaie comme :"
 msgstr ""
+"So if we look the axioms of the Quantitative Theory of Money, which defines "
+"the money as :"
 
 # cc18630bbe8847d3a61ca9a1ac0e7d77
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:92
 msgid "Unité de compte"
-msgstr ""
+msgstr "Accounting unit"
 
 # 805871e2471d4d6095046df8ff3fe90f
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:93
 msgid "Intermédiaire d'Échange"
-msgstr ""
+msgstr "Medium of Exchange"
 
 # 3a94047cd20b4cbbb1f1baa0ec966dca
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:94
 msgid "Réserve de Valeur"
-msgstr ""
+msgstr "Store of Value"
 
 # 8f35b57ecca44e62a1f876f2b643854f
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:96
@@ -200,6 +224,14 @@ msgid ""
 " l'espace et le temps ne peut être assurée vis-à-vis de cette valeur pseudo-"
 "stable que via une émission stable."
 msgstr ""
+"The paradigm of the RTM which defines it as the four freedoms of democratic "
+"change of the code, access to resources, production and trade, invalidates "
+"the consistency of these axioms. \"Store of Value\" is inconsistent with the "
+"medium of exchange. The currency cannot be compatible with these two "
+"concepts at once. Only a short period of time permits to consider a stable "
+"value of the money, like any other economic good or service. Its "
+"universality as a medium of exchange in space and time can not be ensured "
+"with this pseudo-steady value only via a stable issuance."
 
 # faca9099f00046da949783e6554b2833
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:106
@@ -208,3 +240,6 @@ msgid ""
 "Aucune monnaie n'a pu se maintenir alors qu'elle se transformait en réserve "
 "de valeur au détriment de sa fonction d'échange."
 msgstr ""
+"This is the historical experimental evidence that validates the RTM against "
+"the QTM. No money has been maintained as it was turning into a store of "
+"value at the expense of its trading function."
