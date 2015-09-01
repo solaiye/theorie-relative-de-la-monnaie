@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-08-15 20:51+0000\n"
-"Last-Translator: truc_fullname <s_b_@openmailbox.org>\n"
+"PO-Revision-Date: 2015-08-31 21:44+0000\n"
+"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/sur-la-theorie-quantitative-de-la-monnaie/en_US/>\n"
 "Language: en_US\n"
@@ -31,6 +31,8 @@ msgid ""
 "économiques classiques aux limites. Soit en effet l'équation fondamentale du"
 " champ de valeur :"
 msgstr ""
+"The general definition of the field of value allows to find economic results "
+"common to limits. Thus, let the equation of the field of value be :"
 
 # 0a960a9cd7f743cc9aad85c647570abd
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:11
@@ -38,6 +40,8 @@ msgid ""
 "Dans le cas d'une économie pseudo-isolée en équilibre e  à création "
 "monétaire locale nulle, nous avons alors :"
 msgstr ""
+"In the case of a balanced economy pseudo-isolated of null local creation of "
+"money, we have then :"
 
 # bafbfff0b14f430999e9af3ef7792628
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:17
@@ -50,6 +54,8 @@ msgid ""
 "Le long d'une ligne d'échange circulaire, nous avons donc en faisant un tour"
 " complet, pendant un temps t :"
 msgstr ""
+"All along a circular line of exchange, we have then by doing a complete "
+"turn, during a time t :"
 
 # 456d9fe058e24305b7db8a4c85c3525a
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:29
@@ -59,21 +65,26 @@ msgid ""
 "producteurs ne sont pas remplacés par la génération suivante, nous donne le "
 "résultat de la théorie quantitative de la monnaie :"
 msgstr ""
+"Which, if production remains unchanged, and prices stable, and for a time "
+"short enough where the production stays similar, and where producers are not "
+"replaced by next generation, gives us the result of the quantitative theory "
+"of money :"
 
 # 93ae43b0615847dfbc512d76941b769e
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:38
 msgid "Où V = t = nombre de cycles complets d'échanges monétisés."
-msgstr ""
+msgstr "Where V = t = number of complete cycles of monetized exchanges."
 
 # 5aa0ea3fa8124c04bb6d6faf3e971c6c
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:44
 msgid ""
 "*Lignes circulaires des échanges de valeurs et de monnaie (Luc Fievet TRM "
 "2.0)*"
-msgstr ""
+msgstr "*Circular lines of exchanges of value and money (Luc Fievet RTM 2.0)*"
 
 # d835ec2e87494559b3a040de85d5e5ec
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:46
+#, fuzzy
 msgid ""
 "Qui est donc une égalité ne concernant que des quantités intégrales "
 "globales. Ce résultat ne tient pas compte des fluctuations locales du repère"
@@ -81,6 +92,11 @@ msgid ""
 "pour un temps court où les changements tant productifs, qu'individuels ou "
 "monétaires sont négligeables."
 msgstr ""
+"Which is then an egality concerning only global and integratable quantity. "
+"This result is only taking into account of local fluctuations of space-time "
+"reference, and is only valid inside a pseudo-isolated economy, for a short "
+"time and where changes as productive as individuals or monetary are "
+"negligible."
 
 # e374ab409ef84c1bbe218989696c5c7a
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:51
