@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-01 09:32+0000\n"
-"Last-Translator: Magali Marc <3neurons@riseup.net>\n"
+"PO-Revision-Date: 2015-09-01 11:13+0000\n"
+"Last-Translator: sb <s_b_@openmailbox.org>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/zooms-sur-l-histoire-de-la-monnaie/en_US/>\n"
 "Language: en_US\n"
@@ -262,8 +262,8 @@ msgid ""
 "Ainsi d'après Wikipédia dans « Relations économiques entre l'Amérique "
 "Espagnole et l'Europe » :"
 msgstr ""
-"According to Wikipedia \"Economic relations between the Spanish America and "
-"Europe\" (in French only):"
+"According to Wikipedia « Economic relations between the Spanish America and "
+"Europe » (in French only):"
 
 # 4957a012599941a38d56ddea2369dcb5
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:119
@@ -1029,7 +1029,7 @@ msgstr ""
 # 895619db4ec24ece9b41355d260b6bff
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:482
 msgid "Clifford Hugh Douglas 1879 – 1952"
-msgstr ""
+msgstr "Clifford Hugh Douglas 1879 – 1952"
 
 # 5eeb86e387ba4b228d2ee92ca4465f28
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:484
@@ -1043,12 +1043,12 @@ msgstr ""
 # 731035500112427daca6133b7436669b
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:493
 msgid "*Clifford Hugh Douglas (wikimedia)*"
-msgstr ""
+msgstr "*Clifford Hugh Douglas (wikimedia)*"
 
 # 05e36b95cdc34aa4b68690dfbf4aafaf
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:496
 msgid "L'instabilité de la valeur de référence"
-msgstr ""
+msgstr "The instability of the reference value"
 
 # 8a0c33788bad4633b76c64b9cfa703ff
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:498
