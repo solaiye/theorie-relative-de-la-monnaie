@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-07-17 16:02+0000\n"
-"Last-Translator: Nathanaël <thatoo@leprette.fr>\n"
+"PO-Revision-Date: 2015-09-01 20:01+0000\n"
+"Last-Translator: sb <s_b_@openmailbox.org>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/probleme-de-la-monnaie-dette/en_US/>\n"
 "Language: en_US\n"
@@ -32,13 +32,13 @@ msgid ""
 "problème fondamental de symétrie."
 msgstr ""
 "if we say that X is indebting (negative balance sheet) to credit Y, who can "
-"then pays Z, who finaly pays X, we have a partial solution that create a "
-"fundamental problem of symetry."
+"then pays Z, who finally pays X, we have a partial solution that creates a "
+"fundamental problem of symmetry."
 
 # 701fc8f711e7494a9d24b6da1dc5d989
 #: ../../source/probleme-de-la-monnaie-dette.rst:10
 msgid "a) La symétrie spatiale n'est pas respectée"
-msgstr "a) The spacial symetry is not respected"
+msgstr "a) The spacial symmetry is not respected"
 
 # 3593a250540c406db855d0d3fdf4f688
 #: ../../source/probleme-de-la-monnaie-dette.rst:12
@@ -61,7 +61,7 @@ msgstr ""
 # 2a956bd814a74053b92804515c8a89d7
 #: ../../source/probleme-de-la-monnaie-dette.rst:21
 msgid "b) La symétrie temporelle n'est pas respectée"
-msgstr "b) the time symetry is not respected"
+msgstr "b) The time symmetry is not respected"
 
 # 8653e60349064488beb1a4bfaddd7606
 #: ../../source/probleme-de-la-monnaie-dette.rst:23
@@ -87,7 +87,7 @@ msgstr ""
 # 5fec1d1d27104bcdb5a615b1e393c0d8
 #: ../../source/probleme-de-la-monnaie-dette.rst:34
 msgid "c) L'asservissement par l'intérêt manquant"
-msgstr "c) enslaving by the missing interest"
+msgstr "c) Enslavement by the missing interest"
 
 # 34d81b45a66948dfa4479faa6f9c731b
 #: ../../source/probleme-de-la-monnaie-dette.rst:36
@@ -96,8 +96,8 @@ msgid ""
 "émission asymétrique suffit, si on en respecte le principe à la lettre, à "
 "assurer l'asservissement sans fin des uns envers les autres."
 msgstr ""
-"One  algorithmic demonstration enlighten the fact that a debt-money with "
-"asymmetric emission cans suffice, if we respect it's principle to the "
+"One algorithmic demonstration enlightens the fact that a debt-money with "
+"asymmetric emission is sufficient, if we respect it's principle to the "
 "letter, to ensure the enslaving without end of some by the others."
 
 # 878b6af553d146499fb917a68fb9e5b2
