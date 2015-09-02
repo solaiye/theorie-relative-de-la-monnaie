@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-01 11:44+0000\n"
+"PO-Revision-Date: 2015-09-01 23:02+0000\n"
 "Last-Translator: sb <s_b_@openmailbox.org>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/champ-de-valeur/en_US/>\n"
@@ -41,8 +41,8 @@ msgid ""
 "négative) Cfx associée à un prix Pfx, ainsi qu'une monnaie créée en X dMx et"
 " un flux de monnaie entrante ou sortante (positive ou négative) dMfx."
 msgstr ""
-"Under what has been previously established, we have on every point \"x\" of "
-"economic space and to a \"t\" time, a production Cx, associated to a price "
+"Under what has been previously established, we have on every point « x » of "
+"economic space and to a  t » time, a production Cx, associated to a price "
 "Px, thus a flow of incoming or outgoing production (positive or negative) "
 "Cfx associated to a price Pfx, together with a created money on X dMx and a "
 "flow of incoming or outgoing money (positive or negative) dMfx."
@@ -52,7 +52,9 @@ msgstr ""
 msgid ""
 "Dans le cas où la monnaie représente très exactement la valeur produite et "
 "échangée nous avons :"
-msgstr "In the case where money represents exactly the produced or exchanged value we have:"
+msgstr ""
+"In the case where the money represents exactly the produced or exchanged "
+"value we have :"
 
 # 6ebcd4ee70b34a9c8db865c7db89869e
 #: ../../source/champ-de-valeur.rst:21
@@ -61,7 +63,10 @@ msgid ""
 "réalisée lors d'échanges ou de productions immédiats, nous appelons J le "
 "champ généralement non nul, défini en tout point « x » de l'espace-temps "
 "économique, par :"
-msgstr "As otherwise this equality is not exceptionally executed during immediate exchanges or productions, we called J the field generally nonzero, defined on every point \"x\" of the economic space-time, by:"
+msgstr ""
+"As otherwise this equality is not exceptionally executed during immediate "
+"exchanges or productions, we called J the field generally nonzero, defined "
+"on every point « x » of the economic space-time, by :"
 
 # ae5c466defa34d2c9ae09f52ddf9ad9a
 #: ../../source/champ-de-valeur.rst:27
@@ -71,7 +76,12 @@ msgid ""
 "tandis que dMfx représente le flux local de la masse monétaire totale "
 "préexistante, et Pfx × Cfx le flux local des échanges (positif s'il "
 "augmente, négatif s'il diminue)."
-msgstr "dMx represents Universal Dividend, Px × dCx the potential of individual value (the innovation economy part of each individual), while that dMfx represents the local flow of whole preexisting monetary mass, and Pfd × Cfx the local flow of exchanges (positive if increase, negative if it decrease)."
+msgstr ""
+"dMx represents Universal Dividend, Px × dCx the potential of individual "
+"value (the economic innovation  of each individual), while that dMfx "
+"represents the local flow of the pre-existent monetary supply, and Pfx × Cfx "
+"the local flow of exchanges (positive if it increases, negative if it "
+"decreases)."
 
 # cdb0c39cbb2a4a89af0cdfdab4b9561e
 #: ../../source/champ-de-valeur.rst:32
@@ -80,7 +90,11 @@ msgid ""
 "mesure donc en chaque point de l'espace économique, le différentiel de "
 "monnaie et de valeur créées par l'individu « x », ajouté à la part de "
 "monnaie et de valeur globale circulante au point « x »."
-msgstr "The differential value field is dynamic, evolve in time, and measure on each point of the economic space, the differential of money and of value created by individuals \"x\", added to the part of money and the global value circulating to \"x\" point."
+msgstr ""
+"The differential value field is dynamic, evolves in time, and measures thus "
+"on each point of the economic space, the differential of created money and "
+"of created value by the individual « x », added to the part of money and the "
+"global circulating value to the « x » point."
 
 # e1717bf678e143ccb43704f4d514428b
 #: ../../source/champ-de-valeur.rst:37
@@ -101,10 +115,10 @@ msgid ""
 "valeur associée à une rareté monétaire représentée par un creux, le reste de"
 " la zone étant équilibré."
 msgstr ""
-"Example of a field of an economic zone that include a zone where money is in "
-"excess represented by a bump, and a zone where  there is a production of "
-"worth handicapped by a monetary scarcity represented by a hollow, the rest "
-"oj the are being balanced."
+"Example of field of an economic zone including an area of monetary excess "
+"shown by a bump, and a zone where there is a production of value associated "
+"with a monetary scarcity represented by a hollow, the rest of the area being "
+"balanced."
 
 # 5ae1fe1be8a74ccc97934b56046cbd64
 #: ../../source/champ-de-valeur.rst:49
@@ -114,7 +128,12 @@ msgid ""
 "potentielle locale de la production » et non pas de valeur au sens absolu "
 "qui serait quelque chose de reconnu par tous les acteurs de l'économie, ce "
 "qui n'a pas de sens en théorie relative de la monnaie."
-msgstr "Economic worth is relative to the observer who is measuring it, (to the actors who are exchanging it), so we should talk about \"local potential worth of production\" rather than \"absolute value\" that would be recognized by all the actors of economy. That doesn't make any sense regarding to the \"Relative Theory of Money\"."
+msgstr ""
+"Economic worth is relative to the observer who is measuring it, (to the "
+"actors who are exchanging it), so we should talk about « local potential "
+"worth of production » rather than \"absolute value\" that would be "
+"recognized by all the actors of economy. That doesn't make any sense "
+"regarding to the \"Relative Theory of Money\"."
 
 # ad026c70ab7d4fe7b5f78d48a6de2cc6
 #: ../../source/champ-de-valeur.rst:55
@@ -175,7 +194,7 @@ msgstr "The initial issue of debt is profitable to a first circle of economic ac
 # ce312b1d1a1f42bfb70dfa086ad68d79
 #: ../../source/champ-de-valeur.rst:99
 msgid "*(Luc Fievet TRM 2.0)*"
-msgstr "*(Luc Fievet TRM 2.0)*"
+msgstr "*(Luc Fievet RTM 2.0)*"
 
 # 340356bd8bde479dbdb4651878661ca4
 #: ../../source/champ-de-valeur.rst:101
