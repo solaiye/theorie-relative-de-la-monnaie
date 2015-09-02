@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-01 19:45+0000\n"
+"PO-Revision-Date: 2015-09-01 22:46+0000\n"
 "Last-Translator: sb <s_b_@openmailbox.org>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/sur-la-theorie-quantitative-de-la-monnaie/en_US/>\n"
@@ -54,8 +54,8 @@ msgid ""
 "Le long d'une ligne d'échange circulaire, nous avons donc en faisant un tour"
 " complet, pendant un temps t :"
 msgstr ""
-"All along a circular line of exchange, we have then by doing a complete "
-"turn, during a time t :"
+"Along a circular line of exchange, we have then by doing a complete turn, "
+"during a time « t » :"
 
 # 456d9fe058e24305b7db8a4c85c3525a
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:29
@@ -118,8 +118,8 @@ msgid ""
 "*SEL et valeurs non monétisées dans la monnaie « dette » centrale (Luc "
 "Fievet TRM 2.0)*"
 msgstr ""
-"*LETS and non-monetized values in the central « debt» money  (Luc Fievet RTM "
-"2.0)*"
+"*LETSystem and non-monetized values in the central « debt » money  (Luc "
+"Fievet RTM 2.0)*"
 
 # b76f2e62ca624b80a56fcd14ecc9143d
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:63
