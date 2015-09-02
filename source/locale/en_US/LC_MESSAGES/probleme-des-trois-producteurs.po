@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-01 09:59+0000\n"
-"Last-Translator: truc_fullname <s_b_@openmailbox.org>\n"
+"PO-Revision-Date: 2015-09-01 21:29+0000\n"
+"Last-Translator: sb <s_b_@openmailbox.org>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/probleme-des-trois-producteurs/en_US/>\n"
 "Language: en_US\n"
@@ -25,7 +25,7 @@ msgstr ""
 # dd6c343e3aa54af6966aabcad1d9d23a
 #: ../../source/probleme-des-trois-producteurs.rst:3
 msgid "Problème des trois producteurs"
-msgstr "Three producers problem"
+msgstr "The Three producers problem"
 
 # beebe3e9d79448609abf8f6ec830636a
 #: ../../source/probleme-des-trois-producteurs.rst:5
@@ -35,7 +35,12 @@ msgid ""
 "qu'il peuvent juger comme étant de la valeur ou pas, il reste un problème "
 "fondamental de définition de cette monnaie. Il se réduit à la résolution du "
 "problème spatio-temporel des trois producteurs que voici :"
-msgstr "The necessity of defining a common currency being given inside the community of individuals, despite their fundamental disagreements regarding what constitutes value, there remains a fundamental problem for the definition of this currency. It can be reduced to solving the following spacial-temporal three producers problem : "
+msgstr ""
+"The necessity to define a common currency being given inside the community "
+"of individuals, despite their fundamental disagreements regarding what "
+"constitutes value, there remains a fundamental problem for the definition of "
+"this currency. It can be reduced to solving the following spacial-temporal "
+"three producers problem :"
 
 # 86c8867816b84c6ab8d3a2dcbbfa80a6
 #: ../../source/probleme-des-trois-producteurs.rst:12
@@ -69,7 +74,12 @@ msgid ""
 "pas moins nécessaire d'avoir, à tout instant, la possibilité d'échanger de "
 "façon convenable la production des uns et des autres, afin de satisfaire "
 "leurs besoins évolutifs respectifs."
-msgstr "The problem also exists in time, where individuals, products, services and needs will evolve in nature and will progressively be replaced or disappear. It is not less necessary for individuals to be able at all times to trade appropriately each other's production in order to satisfy their respective changing needs."
+msgstr ""
+"The problem also exists in time, where individuals, products, services and "
+"needs will evolve in nature and will progressively be replaced or disappear. "
+"It is not less necessary for individuals to be able at any time to trade "
+"appropriately each other's production in order to satisfy their respective "
+"changing needs."
 
 # 28153dcaba8c4df58c1cd4470376c563
 #: ../../source/probleme-des-trois-producteurs.rst:35
@@ -88,7 +98,11 @@ msgid ""
 "«dt») les valeurs ne sont pas communément reconnues par les producteurs et "
 "font pourtant l'objet d'échanges circulaires, mais *« dans le temps »* les "
 "individus et les valeurs produites changent du tout au tout."
-msgstr "So, not only \"in space\" (for a short evolution time \"dt\") values are not commonly recognized by productors and are the object of circular exchanges, but \"in time\" individuals and produced values change completely."
+msgstr ""
+"So, not only *«in space »* (for a short time of evolution «dt») the values "
+"are not commonly recognized by producers and are the object of circular "
+"exchanges, but *« in time »* the individuals and the produced values change "
+"completely."
 
 # 9dcc82cbf4fe4b988b72caed1e923966
 #: ../../source/probleme-des-trois-producteurs.rst:44
@@ -98,7 +112,12 @@ msgid ""
 "économiques, dont la monnaie que nous voulons définir, qui permet aux "
 "producteurs présents à tout instant, et au moins pour ce temps court, de "
 "s'accorder sur la stabilité de leur outil d'échange circulaire."
-msgstr "Nevertheless, for a short time, we observe a certain stability. So, there is a continuous evolution of economical parameters, including the money we want to define, which allow the present producers at any moment, and at least for this short period of time, to agree on the stability of this circular exchange tool."
+msgstr ""
+"Nevertheless, for a short time, we observe a certain stability. So, there is "
+"a continuous evolution of economical parameters, including the money we want "
+"to define, which allows the present producers at any moment, and at least "
+"for this short period of time, to agree on the stability of their circular "
+"exchange tool."
 
 # e91f09b671a54d628e2b964043f2bcac
 #: ../../source/probleme-des-trois-producteurs.rst:50
@@ -107,7 +126,11 @@ msgid ""
 " avec nos fondements, seule une quantification purement mathématique des "
 "échanges, indépendante de tout bien ou service de référence est acceptable "
 "par les acteurs du problème des trois producteurs."
-msgstr "Also, as we shall demonstrate in what follows, and to be coherent with our fundamentals, only a purely mathematical quantification of exchanges, independant of all references, goods and services, is acceptable for our actors of the problem of the three producers."
+msgstr ""
+"Also, as we shall demonstrate in what follows, and to be coherent with our "
+"fundamentals, only a purely mathematical quantification of exchanges, "
+"independent of all references, goods and services, is acceptable for our "
+"actors of the problem of the three producers."
 
 # 74897483b90144f8b5ee708c7bc413b0
 #: ../../source/probleme-des-trois-producteurs.rst:56
@@ -117,7 +140,12 @@ msgid ""
 "potentiel d'achat qu'elle recèle demeurera donc limité par les prix au delà "
 "desquels les producteurs ne pourraient pas échanger leurs productions par "
 "manque de monnaie."
-msgstr "This result doesn't reduce the value of the money because it's total quantity, although purely mathematic, is limited in all instant. The purchase potential of this money is limited by the prices beyond which the producers would not be able to exchange their productions because of a lack of money."
+msgstr ""
+"This result doesn't reduce the value of the money because its total "
+"quantity, although purely mathematic, is limited in all instant. The "
+"purchasing potential of this money is limited by the prices beyond which the "
+"producers would not be able to exchange their productions because of a lack "
+"of money."
 
 # d37db7c6594e41fb877ec02c74df857e
 #: ../../source/probleme-des-trois-producteurs.rst:67
@@ -132,4 +160,6 @@ msgid ""
 "Le problème est posé, nous allons maintenant balayer les solutions "
 "envisagées et les soucis qu'elles posent avant d'aborder la solution "
 "relativiste proprement dite."
-msgstr "The problem being posed, we are going now to browse and analyse some solution that we considered, before talking about the relativist solution."
+msgstr ""
+"The problem being posed, we are going now to browse and analyse some "
+"solutions that we considered, before talking about the relativist solution."
