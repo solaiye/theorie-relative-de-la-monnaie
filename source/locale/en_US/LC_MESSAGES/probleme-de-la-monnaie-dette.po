@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-01 20:01+0000\n"
+"PO-Revision-Date: 2015-09-01 20:10+0000\n"
 "Last-Translator: sb <s_b_@openmailbox.org>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/probleme-de-la-monnaie-dette/en_US/>\n"
@@ -51,17 +51,17 @@ msgid ""
 "spécifique, sous peine de bloquer une sous-partie de l'économie (ici les "
 "échanges entre Y et Z)."
 msgstr ""
-"If it's X that possess the right to get in debt in the first place, from the "
-"point of vue of Y or Z there is great equity problem. We can say otherwise "
-"that production of every of these values have not to wait for a specific "
-"point of monetary emission to circulate. The exchanges of values can and "
-"must start independantly of any specific point, under the risk of blocking a "
-"part of the economy (here the exchange between Y and Z)."
+"If it's X that owns the right to get in debt in the first place, according "
+"to « Y » and « Z » there is great equity problem. We can say otherwise that "
+"the production of every of these values have not to wait for a specific "
+"point of monetary emission to circulate. The exchanges of value can and must "
+"start independently of any specific point, under the risk of blocking a part "
+"of the economy (here the exchange between Y and Z)."
 
 # 2a956bd814a74053b92804515c8a89d7
 #: ../../source/probleme-de-la-monnaie-dette.rst:21
 msgid "b) La symétrie temporelle n'est pas respectée"
-msgstr "b) The time symmetry is not respected"
+msgstr "b) The temporal symmetry is not respected"
 
 # 8653e60349064488beb1a4bfaddd7606
 #: ../../source/probleme-de-la-monnaie-dette.rst:23
