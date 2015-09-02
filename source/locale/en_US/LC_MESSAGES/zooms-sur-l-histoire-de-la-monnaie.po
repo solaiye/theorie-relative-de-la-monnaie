@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
 "PO-Revision-Date: 2015-09-01 20:01+0000\n"
-"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
+"Last-Translator: sb <s_b_@openmailbox.org>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/zooms-sur-l-histoire-de-la-monnaie/en_US/>\n"
 "Language: en_US\n"
@@ -1568,6 +1568,11 @@ msgid ""
 "associés à la monnaie commune n'en ont pas, et ont parfois des salaires "
 "minimum inférieurs à ce montant."
 msgstr ""
+"The main problem of the euro zone is the strong disparity of the minimum "
+"income. Where France, Germany and Spain offer more or less comparable amount "
+"of 450€/month, the citizens of other countries recently associated with the "
+"common currency don't have, and sometimes have minimum wages below this "
+"amount."
 
 # 19037adcd2684e76ba7e2ce5bfda3965
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:730
@@ -1594,6 +1599,10 @@ msgid ""
 "distorsion de concurrence entre individus, en totale contradiction avec "
 "l'objectif affiché d'un marché libre et non faussé."
 msgstr ""
+"Under these conditions, the production leaves the countries offering high "
+"minimum income to reach out to those where it is much lower or non-existent, "
+"creating a strong distortion of competition between individuals, in total "
+"contradiction with the stated objective of a free market and undistorted ."
 
 # 5c346e0d2a8b4d3291c1b29732b0175e
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:744
