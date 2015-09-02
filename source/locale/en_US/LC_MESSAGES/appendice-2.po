@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-01 19:49+0000\n"
+"PO-Revision-Date: 2015-09-01 22:22+0000\n"
 "Last-Translator: sb <s_b_@openmailbox.org>\n"
 "Language-Team: English (United States) "
 "<http://weblate.ucoin.io/projects/rtm/appendice-2/en_US/>\n"
@@ -935,7 +935,7 @@ msgstr "And thus :"
 # 74d34548ba3f4b949b495e71f9e43799
 #: ../../source/appendice-2.rst:587
 msgid "Ce qui implique :"
-msgstr "Which implies:"
+msgstr "Which implies :"
 
 # 1eea10cc742948fd9b39879d0d0fcb22
 #: ../../source/appendice-2.rst:600
