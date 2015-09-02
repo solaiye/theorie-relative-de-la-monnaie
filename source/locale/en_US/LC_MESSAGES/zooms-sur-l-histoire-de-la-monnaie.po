@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-01 20:01+0000\n"
-"Last-Translator: sb <s_b_@openmailbox.org>\n"
+"PO-Revision-Date: 2015-09-01 20:09+0000\n"
+"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/zooms-sur-l-histoire-de-la-monnaie/en_US/>\n"
 "Language: en_US\n"
@@ -1155,7 +1155,6 @@ msgstr ""
 
 # 0d00388a94e344b7b0b62982c3bfbfb5
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:541
-#, fuzzy
 msgid ""
 "Il y a toujours dans ce système un effet de levier profitant à l'émetteur "
 "asymétrique de monnaie qui crée de la monnaie par du crédit arbitraire « "
