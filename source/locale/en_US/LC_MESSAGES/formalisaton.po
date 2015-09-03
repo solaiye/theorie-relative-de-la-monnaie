@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-07-17 16:52+0000\n"
-"Last-Translator: Vincent Texier <vit@free.fr>\n"
+"PO-Revision-Date: 2015-09-03 12:09+0000\n"
+"Last-Translator: sb <s_b_@openmailbox.org>\n"
 "Language-Team: English (United States) "
 "<http://weblate.ucoin.io/projects/rtm/formalisaton/en_US/>\n"
 "Language: en_US\n"
@@ -42,13 +42,13 @@ msgid ""
 " bien différentes d'un observateur à l'autre, la seule mesure invariante "
 "étant celle de la vitesse de la lumière."
 msgstr ""
-"The principle of relatvity as defined by Albert Einstein postulate that \""
+"The principle of relativity as defined by Albert Einstein postulates that *« "
 "the laws of physics express themselves in an identic way (have the same "
-"shape) in all and every  referentials\" (inertial referential or not). We "
-"call it also \"principle of symetry\" or \"covariance\". The principle does "
+"shape) in all and every referentials »* (inertial referential or not). We "
+"call it also \"principle of symmetry\" or \"covariance\". The principle does "
 "not mean that all the observers measure the same thing, but that the laws of "
 "physics that you establish must, following their transformation from one to "
-"another referential, have the same general shape. So the measure are well "
+"another referential, have the same general shape. So the measures are well "
 "different from one observer to the other, the only one invariable is the "
 "speed of light."
 
@@ -61,10 +61,10 @@ msgid ""
 "valeur *« tout individu est libre d'estimer ce qui est valeur et ce qui ne "
 "l'est pas »*."
 msgstr ""
-"For the economy I have extended this principle to the notion of money, *\""
-"the money, as a  universal code that rules over the economic exchanges,* *"
-"must function in an identic way in all and every referential\"* and  to "
-"value *\"All individual is free to estimate what is value and what is not\"*."
+"For the economy I have extended this principle to the notion of money, *« "
+"the money, as a universal code that rules over the economic exchanges,* *"
+"must function identically in any referential »* and of value *« any "
+"individual is free to estimate what is value and what is not »*."
 
 # e11c35c08b0042d49b5c491bea434291
 #: ../../source/formalisaton.rst:22
@@ -82,10 +82,10 @@ msgstr ""
 "In the economy, all couple observer/referential is an individual in the "
 "heart of his monetary zone and the principles must be valid and have the "
 "same shape, whatever the considered spatio-temporal position is. It is also "
-"to apply the 1st article of the Human Right declaration regarding the "
+"to apply the 1st article of the Human Rights declaration regarding the "
 "equality of the individuals regarding law, to apply it not only to the code "
 "that rules the common money, but also to the relative measure of all values, "
-"which is also the understanding the the freedom of choice of individuals "
+"which is also the understanding of the freedom of choice of individuals "
 "toward value, at the level of production as well as its exchange."
 
 # b8816fd232964e198284082a69994506
@@ -94,8 +94,8 @@ msgid ""
 "Autrement dit *« aucun individu ne doit être privilégié quant au jugement et"
 " la mesure de toute valeur »*."
 msgstr ""
-"Saying it in other words : \"no individual must be privileged toward "
-"judgment and measure of value\"."
+"Saying it in other words *« no individual must be privileged toward judgment "
+"and measure of value »*."
 
 # 46e3903a1e1b4475853ab3d2968878a7
 #: ../../source/formalisaton.rst:35
@@ -118,7 +118,7 @@ msgstr ""
 # b261bce650f94c21a9687f58090ea56b
 #: ../../source/formalisaton.rst:43
 msgid "a) Liberté"
-msgstr "a) Liberty"
+msgstr "a) Freedom"
 
 # c7868862ecb84101bb0350de1de8847d
 #: ../../source/formalisaton.rst:45
@@ -126,13 +126,13 @@ msgid ""
 "La liberté se définit comme étant un principe symétrique : non-nuisance "
 "vis-à-vis de soi-même et d'autrui."
 msgstr ""
-"The liberty define itself as a symetry principle : no nuisance to oneself "
-"and other."
+"The freedom defines itself as a symmetrical principle : no nuisance to "
+"oneself and other."
 
 # 7a7defcabdea4f0ca599f57cc3074401
 #: ../../source/formalisaton.rst:50
 msgid "b) Valeur"
-msgstr "b)Value"
+msgstr "b) Value"
 
 # 091209bc351d4731bdd5163d227b829e
 #: ../../source/formalisaton.rst:52
@@ -144,12 +144,12 @@ msgid ""
 "fluctuante relativement à l'individu qui l'utilise, la produit ou l'échange,"
 " elle est donc fluctuante dans tout l'espace-temps considéré."
 msgstr ""
-"We talk about  value of all economic good, material, enegetical, immaterial, "
-"spacial or temporal. For exemple we can attribute a value to a fruit, to "
-"electricity, a software, a terrain or a teaching. the principle of "
+"We talk about value of all economic good, material, enegetical, immaterial, "
+"spacial or temporal. For example, we can attribute a value to a fruit, to "
+"electricity, a software, a terrain or a teaching. The principle of "
 "relativity negate all absolute value. All value is fluctuating relatively to "
-"the individual that use it, produce it or exchange it, and is so fluctuating "
-"in a given space-time."
+"the individual that uses it, produces it or exchanges it, and is so "
+"fluctuating in a given space-time."
 
 # 9891c8d9aec34e6eb88ccefd3e05f37b
 #: ../../source/formalisaton.rst:61
@@ -164,15 +164,14 @@ msgid ""
 "ayant conscience qu'il s'agit d'un « universel » au sein de la zone "
 "monétaire considérée)."
 msgstr ""
-"The money is a common counting and exchange tool for all the citizens of the "
-"same economical zone (by extention we coud say \"universal\" by having "
-"counscience that it is a \"universal\" in the heart of the considered "
-"monetary zone)."
+"The money is a common accounting and exchange tool to all citizens of the "
+"same economic zone (by extension we could say « universal » by meaning, "
+"within the considered currency union)."
 
 # faf6433eaef24b98aebcd63bc3658c9a
 #: ../../source/formalisaton.rst:69
 msgid "d) Zone monétaire"
-msgstr "d) Monetary Zone"
+msgstr "d) Currency union"
 
 # 999fbae6acfb46dba2f04f967127554b
 #: ../../source/formalisaton.rst:71
@@ -180,7 +179,7 @@ msgid ""
 "Une zone monétaire (ou zone économique) se définit par un espace souverain, "
 "et ses citoyens présents et futurs. Il s'agit donc d'un espace-temps local."
 msgstr ""
-"One Monetary zone (or Economical Zone) is defined as a sovereign space, and "
+"One currency union (or economic zone) is defined as a sovereign space, and "
 "it's citizens present or future. It is so a local space-time."
 
 # 5092e23c9aa448b9b87f4bda6d762530
@@ -195,19 +194,19 @@ msgid ""
 "et nous permet de définir les trois libertés économiques fondamentales sous "
 "la forme des axiomes fondamentaux suivants :"
 msgstr ""
-"The priciple of liberty must accord itself with all individual present or "
-"futur and permit us to define three fundamental economical freedom under the "
-"fundamental axiomatic as follow:"
+"The principle of freedom must accord itself with all individual present or "
+"future and permit us to define the three fundamental economic freedoms under "
+"the fundamental axioms as following :"
 
 # ec6dfb5119e64c84968f796e329cb813
 #: ../../source/formalisaton.rst:85
 msgid "a) Liberté d'accès aux ressources"
-msgstr "a) freedom to acces all ressources"
+msgstr "a) Freedom to access to resources"
 
 # 626d17ca41d94e87b74cdabef320ff1f
 #: ../../source/formalisaton.rst:87
 msgid "Tout citoyen est libre d'accéder aux ressources."
-msgstr "All citizen has acces to the ressources."
+msgstr "Any citizen is free to access resources."
 
 # 364abd71fec545848fb7ca11f67051df
 #: ../../source/formalisaton.rst:91
@@ -217,17 +216,17 @@ msgstr "b) Freedom of production"
 # 1111459b131e4ddaa74df803090f9d63
 #: ../../source/formalisaton.rst:93
 msgid "Tout citoyen est libre de produire de la valeur."
-msgstr "All citizen is free to produce value."
+msgstr "Any citizen is free to produce value."
 
 # 50334cea41e64f3c95f71e58eeb8a4b8
 #: ../../source/formalisaton.rst:97
 msgid "c) Liberté d'échange « dans la monnaie »"
-msgstr "c) Freedom to exchange \"in the money\""
+msgstr "c) Freedom to exchange « in the money »"
 
 # 007a725510814a788e593eb0d87004b8
 #: ../../source/formalisaton.rst:99
 msgid "Tout citoyen est libre d'échanger avec autrui « dans la monnaie »"
-msgstr "All citizen is free to exchange qith other \"in the money\""
+msgstr "Any citizen is free to exchange with others « in the money »"
 
 # 7463984f403d4cc5b090e9076141aa91
 #: ../../source/formalisaton.rst:101
@@ -237,10 +236,10 @@ msgid ""
 "économiques comme un droit de violer la propriété d'autrui, de produire ou "
 "échanger ce qui ne serait pas permis par la Loi."
 msgstr ""
-"As freedom/liberty is defined as non-nuisance, we must not fall into the "
-"basic logical error consisting of interpreting the economical freedoms as "
-"the freedom to violate the property of other or to produce or exchange what "
-"would not be permitted by the law."
+"As freedom is defined as non-nuisance, we must not fall into the basic and "
+"logical error consisting of interpreting the economic freedoms as the "
+"freedom to violate the property of others or to produce or exchange what "
+"should not be permitted by the law."
 
 # fb0a25b520694958a615fe418a92656b
 #: ../../source/formalisaton.rst:106
@@ -249,8 +248,9 @@ msgid ""
 "l'interpréter sous l'angle de la non-nuisance comme le stipule la « clause "
 "Lockéenne » :"
 msgstr ""
-"So how to interpret the \"freedom to acces to ressources\"? We must "
-"interpret this under the angle of non-nuisance as in the \"Lockean clause\":"
+"So how can we interpret the « freedom to access to resources » ? We must "
+"interpret this under the angle of non-nuisance as in the « Lockean proviso » "
+":"
 
 # ad6968e57ae04f15b0ea66fe9afb4e27
 #: ../../source/formalisaton.rst:110
@@ -258,8 +258,8 @@ msgid ""
 "*« Lorsque quelqu'un s'approprie un objet, il doit en rester suffisamment et"
 " en* *qualité aussi bonne en commun pour les autres »*."
 msgstr ""
-"\" When someone appropriate himself an object, there must be left enough and "
-"in as good quality in common for the others \"."
+"*« When someone appropriates himself an object, there must be left enough "
+"and in as * *good quality in common for the others »*."
 
 # d7d97dc6086340849ffdb02570e02af7
 #: ../../source/formalisaton.rst:113
@@ -267,9 +267,9 @@ msgid ""
 "Par exemple quelqu'un n'a pas le droit de s'approprier l'unique source d'eau"
 " d'un désert, sans que soit assuré un accès minimal à l'eau pour quiconque."
 msgstr ""
-"For exemple someone has not the right to appropriate himself the only source "
-"of water of a desert without that a minimal acces to the water is insured "
-"for anyone."
+"For example, someone who does not have the right to appropriate himself the "
+"only source of water of a desert, without that a minimal access to the water "
+"is insured for anyone."
 
 # 6d2eee2fae9040198a3abc634a9e3669
 #: ../../source/formalisaton.rst:118
@@ -286,11 +286,12 @@ msgid ""
 "indépendantes du référentiel, c'est bien qu'elles ne sont ni cachées, ni "
 "inaccessibles via l'expérimentation où que l'on se trouve."
 msgstr ""
-"A free code like defined in the world of free software consist in a software "
-"code open and changeable by it's users. The principle of freedom of code is "
-"fundamentaly compatible with the principle of Relativity, because if the "
-"laws are independant of the referential, it is well they are not hidden, nor "
-"inaccessible via the experimentation where we are."
+"An open code as defined by the free software's world consists of an open-"
+"source code of computer program, modifiable by its users. The principle of « "
+"freedom of code » is fundamentally compatible with the principle of "
+"Relativity, because if the Laws are independent of the referential, it means "
+"that they are not hidden, nor inaccessible via the experiment wherever we "
+"are."
 
 # e924550166cc4415a97435a50281b6b0
 #: ../../source/formalisaton.rst:128
@@ -304,12 +305,12 @@ msgid ""
 "subprimes » qui a vu son sommet en 2008 en est la dernière illustration en "
 "date."
 msgstr ""
-"But the money is actualy a hidden proprietary code, in the sense of the "
-"money is controled by rules not democraticaly changeable (essentialy the "
-"rules of Bâle I, II and soon III, wich are established in no way through a "
+"But the money is actually a hidden proprietary code, in the sense of the "
+"money is controlled by rules not democratically changeable (essentially the "
+"rules of Bâle I, II and soon III, which are established in no way through a "
 "democratic process), and the operations made through the Banking system "
-"concerning the emission of asymetrical credits are not transparents. The "
-"historic crisis of the \"subprimes\" with it's peak in 2008 is the latest "
+"concerning the emission of asymmetrical credits are not transparent. The "
+"historic crisis of the « subprimes » with it's peak in 2008 is the latest "
 "illustration of it."
 
 # 82b45140744149518f103df31e3d20de
@@ -320,10 +321,10 @@ msgid ""
 "n'est pas neutre. On doit donc se poser la question de la transparence et de"
 " la légitimité du code."
 msgstr ""
-"Following the consequences ot the \"digital perspective\" revealed by "
-"Olivier Auber, the choice of the system imply the choice of the code that "
-"rules it, and is not neutral. We have then to pose the question of "
-"transparency and legitimacy."
+"Following the consequences of the « digital perspective » revealed by "
+"Olivier Auber, the choice of a system implies the choice of the code that "
+"rules it, and that is not neutral. We have then to pose the question of "
+"transparency and legitimacy of the code."
 
 # 09786887c1fe4a37ae79770c9b8136e1
 #: ../../source/formalisaton.rst:141
@@ -335,11 +336,11 @@ msgid ""
 "vous acceptez d'utiliser un système dont le code n'est pas libre, vous vous "
 "privez de libertés fondamentales."
 msgstr ""
-"This imply that the freedom of the code that rules the system (here the "
-"money, code of all economical exchanges), is a notion necessary prior to the "
-"choice, if not there is simply no choice, then no freedom. Following that "
-"criterium defended by the inventor of \"free software\" Richard Stallman, if "
-"you accept to use a system where the code is not free, you reduce your own "
+"This implies that the freedom of the code that rules the system (here the "
+"money, code of all economic exchanges), is a prior notion to the choice, if "
+"not there is simply no choice, then no freedom. Following that criteria "
+"defended by the inventor of « free software » Richard Stallman, if you "
+"accept to use a system where the code is not free, you reduce your own "
 "fundamental freedoms."
 
 # 83ebaf5bd31e41a685004af2e41d67ee
@@ -353,7 +354,7 @@ msgid ""
 "compatible avec le renouvellement des générations."
 msgstr ""
 "The consequence of a hidden code monetary system is the emergence of an "
-"economy where the value field is an auto-reproductive and instable "
+"economy where the value field is an auto-reproductive and unstable "
 "topological structure. On the other side the consequence of the usage of a "
 "free monetary system is the emergence of an economy where the field of value "
 "is a spherical structure in space-time expansion, compatible with the "
@@ -369,22 +370,22 @@ msgid ""
 " la communauté qui l'utilise. Ainsi pour le logiciel libre, les libertés "
 "définies par la FSF sont :"
 msgstr ""
-"We would by the way do the difference between the freedom of the software as "
-"defined by the  Free Software Foundation (FSF), which are four, and those "
-"linked to the freedom of a communication or excnage protocol as the money, "
-"which cannot be modified individualy without cutting oneself out of the "
-"community that uses it. So for the free software, the freedom defined by the "
-"FSF are:"
+"We would by the way do the difference between the software freedoms as "
+"defined by the Free Software Foundation (FSF), which are four, and those "
+"linked to the freedoms of a communication or exchange protocol as the money, "
+"which cannot be modified individually without cutting oneself out of the "
+"community that uses it. So for the free software, the freedoms defined by "
+"the FSF are :"
 
 # 12e3b67c9919425fad216d3802ee51f4
 #: ../../source/formalisaton.rst:162
 msgid "Liberté d'utilisation"
-msgstr "Freedom of usage"
+msgstr "Freedom of use"
 
 # 9d16591cf773410e93905faf082ff1e1
 #: ../../source/formalisaton.rst:163
 msgid "Liberté d'accès au code source"
-msgstr "Freedom to acces and read the source code"
+msgstr "Freedom to access and read the source code"
 
 # bb1da0b2bc194b219083336b8fc11741
 #: ../../source/formalisaton.rst:164
@@ -402,8 +403,8 @@ msgid ""
 "Qui sont différentes des quatres libertés qui doivent être associées à un "
 "système monétaire libre :"
 msgstr ""
-"Which are the differences with the four freedom that have to be associated "
-"to free monetary system :"
+"Which are the differences with the four freedoms that have to be associated "
+"to a free monetary system :"
 
 # 48331c21021e47ff886f30cd82d9ca3a
 # 15cc5476556b4f46b30f2bb33a4d6545
@@ -415,7 +416,7 @@ msgstr "Freedom of democratic modification"
 # b58da62b9d384756ac842fc40f7b1f71
 #: ../../source/formalisaton.rst:171 ../../source/formalisaton.rst:209
 msgid "Liberté d'accès aux ressources"
-msgstr "Freedom to acces to the ressources"
+msgstr "Freedom to access to resources"
 
 # 569aa3ba1f5a45fda496c008848d376e
 #: ../../source/formalisaton.rst:172
@@ -426,7 +427,7 @@ msgstr "Freedom of value production"
 # ef214bc1e56c4b0084408f67a6fbf3e0
 #: ../../source/formalisaton.rst:173 ../../source/formalisaton.rst:211
 msgid "Liberté d'échange « dans la monnaie »"
-msgstr "Freedom of exchange \"in the money\""
+msgstr "Freedom of exchange « in the money »"
 
 # 35556374f5e24b60b67d78e3d2f1db83
 #: ../../source/formalisaton.rst:175
@@ -435,9 +436,9 @@ msgid ""
 "système monétaire libre puisque son code (les accords sur le code monétaire)"
 " ne sont pas modifiés via un processus démocratique."
 msgstr ""
-"Exemples : In 2011, the euro cannot be considered as the money of a free "
-"monetary system because it's code (the treaties on the monetary code) are "
-"not modified by a democratic process."
+"Examples : In 2011, the Euro cannot be considered as a money of a free "
+"monetary system because its code (the treaties on the monetary code) are not "
+"modified by a democratic process."
 
 # bf3a9f457e0647169812ce95bf09a212
 #: ../../source/formalisaton.rst:179
@@ -447,9 +448,9 @@ msgid ""
 "liberté et plus encore selon la quatrième liberté comme nous le verrons par "
 "la suite."
 msgstr ""
-"We can speak about the euro as a freedom depriving money, or as a depriving "
-"monetary system, at least in the sense of the first freedom, and more "
-"following the fourth freedom as we'll see in the following."
+"We can speak about the Euro as a freedom depriving money, or as a depriving "
+"monetary system, *at least* in the sense of the first freedom, and more "
+"following the fourth freedom as we shall see in the following."
 
 # af5e1dbb65034429882d935e4017366f
 #: ../../source/formalisaton.rst:183
@@ -462,12 +463,12 @@ msgid ""
 "troc là où elle n'est pas présente, ne peut avoir la caractéristique de "
 "liberté « d'échange dans la monnaie »."
 msgstr ""
-"Another exemple : Gold. We can speak of gold as a monetary candidate not "
-"respecting at least the third economic freedom of economical exchange \"in "
-"the money\", for a simple reason - that we'll develop further later - that "
-"it's not universaly accessible in the core of an economical zone. Such a \""
-"money\" that force to return to the troc where it is not present, cannot "
-"have the carracteristic of \"freedom to exchange in the money\"."
+"Another example : gold. We can talk about the gold as a *monetary candidate* "
+"not respecting *at least* the third economic freedom of economic exchange *« "
+"in the money »*, for the simple reason - that we will develop later - that "
+"it is not universally accessible in the core of an economic zone. Such a « "
+"money » that forces to return to barter where it is not present, cannot have "
+"the characteristic of \"freedom « to exchange in the money »."
 
 # 0c3497f1d915481abfa520b27c7b81ff
 #: ../../source/formalisaton.rst:190
@@ -476,8 +477,9 @@ msgid ""
 "la monnaie *« mesure et moyen d'échange universel »* au sein de la zone "
 "monétaire."
 msgstr ""
-"And this is why the TRM make the difference between specific value and the "
-"money as \"measure and mean of universal exchange\" inside the monetary zone."
+"And this is why the RTM makes the difference between a specific value and "
+"the money as *« measure and mean of universal exchange »* inside the "
+"currency union."
 
 # c3f7b56087754a66896d5ae0f95f797b
 #: ../../source/formalisaton.rst:193
@@ -492,22 +494,22 @@ msgid ""
 " »."
 msgstr ""
 "It is quite the same role that the speed of light plays in Relativist "
-"physics. Light is not a physical object like the others. It's speed, data of "
-"space/time (a distance divided by a time) is the same in all and every "
-"referencial. And it is because observers agree on that point, that they "
-"deduce the relativity of the other measures to establish a relativist theory "
-"compatible between them, giving different measures following different "
-"referentials, but having the \"same shape\"."
+"physics. The light is not a physical object like any other objects. It's "
+"speed, data of space/time (a distance divided by a time) is the same in all "
+"and every referential. And it is because observers agree on that point, that "
+"they deduce the relativity of the other measures to establish a relativist "
+"theory compatible between them, giving different measures following "
+"different referentials, but having the « same shape »."
 
 # e82c8e82073c4e3c9ded7cb096927e5a
 #: ../../source/formalisaton.rst:202
 msgid "Résumé"
-msgstr "To summarize"
+msgstr "Summary"
 
 # 59ce841b70c444d0a4248df8402f3719
 #: ../../source/formalisaton.rst:204
 msgid "Nous voici donc munis des fondements suivants :"
-msgstr "We have the following fundamentals:"
+msgstr "We have the following foundations :"
 
 # a0b487e846ca4f99bb43bd6969e4f4f3
 #: ../../source/formalisaton.rst:206
