@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-01 21:29+0000\n"
+"PO-Revision-Date: 2015-09-03 20:15+0000\n"
 "Last-Translator: sb <s_b_@openmailbox.org>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/probleme-des-trois-producteurs/en_US/>\n"
@@ -25,7 +25,7 @@ msgstr ""
 # dd6c343e3aa54af6966aabcad1d9d23a
 #: ../../source/probleme-des-trois-producteurs.rst:3
 msgid "Problème des trois producteurs"
-msgstr "The Three producers problem"
+msgstr "The \"three producers\" problem"
 
 # beebe3e9d79448609abf8f6ec830636a
 #: ../../source/probleme-des-trois-producteurs.rst:5
@@ -38,9 +38,9 @@ msgid ""
 msgstr ""
 "The necessity to define a common currency being given inside the community "
 "of individuals, despite their fundamental disagreements regarding what "
-"constitutes value, there remains a fundamental problem for the definition of "
-"this currency. It can be reduced to solving the following spacial-temporal "
-"three producers problem :"
+"constitutes the value, there remains a fundamental problem for the "
+"definition of this currency. It can be reduced by solving the following "
+"spacial-temporal three producers problem :"
 
 # 86c8867816b84c6ab8d3a2dcbbfa80a6
 #: ../../source/probleme-des-trois-producteurs.rst:12
@@ -63,7 +63,13 @@ msgid ""
 "commune. C'est bien là le point fondamental, qui implique que la monnaie "
 "devra être définie sur une base indépendante des valeurs produites par "
 "chacun."
-msgstr "We can see that the exchanges cannot be bilateral, but must be circular. Furthermore as it's perfectly possible that X grants no value to Vz, Y to Vx, and Z to Vy (relativity principle), none of the goods and services produced can be used as a common metric. This is the fundamental argument that implies that the currency must be defined on a basis independent of the values produces by each individual."
+msgstr ""
+"We can see that the exchanges cannot be bilateral, but must be circular. "
+"Furthermore as it's perfectly possible that X grants no value to Vz, Y to "
+"Vx, and Z to Vy (relativity principle), none of the goods and services "
+"produced can be used as a common metric. This is the fundamental argument "
+"that implies that the currency must be defined on a independent basis of the "
+"produced values by each individual."
 
 # 061ecc51504e4d10a9d123542d68fd5c
 #: ../../source/probleme-des-trois-producteurs.rst:23
@@ -75,11 +81,11 @@ msgid ""
 "façon convenable la production des uns et des autres, afin de satisfaire "
 "leurs besoins évolutifs respectifs."
 msgstr ""
-"The problem also exists in time, where individuals, products, services and "
-"needs will evolve in nature and will progressively be replaced or disappear. "
-"It is not less necessary for individuals to be able at any time to trade "
-"appropriately each other's production in order to satisfy their respective "
-"changing needs."
+"The problem also exists in time, where the individuals, productions, "
+"services and needs will evolve in nature and will progressively be replaced "
+"or disappear. It is not less necessary for individuals to be able, at any "
+"time, to trade appropriately each other's production in order to satisfy "
+"their respective changing needs."
 
 # 28153dcaba8c4df58c1cd4470376c563
 #: ../../source/probleme-des-trois-producteurs.rst:35
