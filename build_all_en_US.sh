@@ -5,7 +5,7 @@ sphinx-intl build --locale-dir source/locale
 
 # HTML
 # use tag for only directives (adapt image sizes for output)
-make html SPHINXOPTS="-t html -D language='en_US'"
+make html SPHINXOPTS="-t html -D language='en_US' -D html_theme_path='themes/en_US' -D html_static_path='themes/en_US/html/static'"
 
 # EPUB
 make epub SPHINXOPTS="-t epub -D language='en_US'"
