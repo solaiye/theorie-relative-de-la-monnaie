@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-01 19:57+0000\n"
-"Last-Translator: sb <s_b_@openmailbox.org>\n"
+"PO-Revision-Date: 2015-09-06 12:55+0000\n"
+"Last-Translator: Moul <moul@moul.re>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/introduction-de-la-version-2718/en_US/>\n"
 "Language: en_US\n"
@@ -24,7 +24,7 @@ msgstr ""
 # bf23091d91eb4a8aac333b7d31e586c9
 #: ../../source/introduction-de-la-version-2.718.rst:3
 msgid "Introduction de la version 2.718"
-msgstr "Introduction to the version 2.718"
+msgstr "Introduction to version 2.718"
 
 # 59779c2c4cc14c1080a95107e7c478e8
 #: ../../source/introduction-de-la-version-2.718.rst:5
@@ -50,8 +50,8 @@ msgstr ""
 "This version 2.718 of RTM brings an improvement on the form and on the "
 "signification of demonstrations without changing the meaning nor the "
 "quantitative result. This improvement brings a better theoretical definition "
-"that can make sense by analogy on other domains than economy by [inscrivant] "
-"a deep link on space-time [] in its temporal and quantitative dimensions."
+"that can make sense by analogy on other domains than economy registering a "
+"deep link on space-time analysis in its temporal and quantitative dimensions."
 
 # 2803804b9244430f90eea189aedb7e74
 #: ../../source/introduction-de-la-version-2.718.rst:15
@@ -89,9 +89,9 @@ msgid ""
 "plus grande distance les uns des autres que l'imagination humaine puisse "
 "concevoir : quelle possibilité d'obligation peut-il donc y avoir entre eux ?"
 msgstr ""
-"« Those which have leaved the world, and those which doesn't exist yet, are "
+"\"Those which have leaved the world, and those which doesn't exist yet, are "
 "as remote from each other as the utmost stretch of mortal imagination can "
-"conceive. Which possible obligation, then, can exist therefore between them ?"
+"conceive. Which possible obligation, then, can exist therefore between them?"
 
 # edea39b48f95464aa06dbda6f17e473c
 #: ../../source/introduction-de-la-version-2.718.rst:33
@@ -103,4 +103,4 @@ msgid ""
 msgstr ""
 "Which rule or principle can be laid down that of two nonentities, the one "
 "out of existence and the other not in, and who never can meet in this world, "
-"the one should control the other to the end of time ? »"
+"the one should control the other to the end of time?\""
