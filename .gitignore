@@ -3,8 +3,6 @@
 bin/
 # include pot files for Weblate translation
 build/*
-!build/locale
-build/locale/*/
 source/locale/*/LC_MESSAGES/*.mo
 develop-eggs/
 .Python
