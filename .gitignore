@@ -5,6 +5,7 @@ bin/
 build/*
 !build/locale
 build/locale/*/
+source/locale/*/LC_MESSAGES/*.mo
 develop-eggs/
 .Python
 TRM_2_718_b.odt
