@@ -445,7 +445,7 @@ ou encore sans aucune soustraction monétaire (nommé par la TRM "quantitatif").
 Soit donc une monnaie libre établie dans :math:`[R_{1},c_{1}]` et sa transformation dans :math:`[R_{2},c_{2}]`,
 coïncidantes en :math:`t=0` où :math:`\left(\frac{M_{1}}{N_{1}}\right)(0) = \left(\frac{M_{2}}{N_{2}}\right)(0)`.
 
-Etant donné que nous étudions un changement de référentiel, notons que pour tout t : :math:`N_{2}(t)=N_{1}(t)=N(t)`, et par ailleurs :
+Étant donné que nous étudions un changement de référentiel, notons que pour tout t : :math:`N_{2}(t)=N_{1}(t)=N(t)`, et par ailleurs :
 
 .. math::
 
@@ -527,7 +527,7 @@ La transformation ainsi connue entre ces référentiels, permet donc à l'invers
 et un taux de soustraction monétaire reversé inconditionnellement quelconque aussi :math:`(c_{1}-c_{2})` de retrouver le référentiel quantitatif de croissance :math:`c_{1}`
 et de soustraction monétaire nulle, où la monnaie libre équivalente apparaît sous sa forme quantitative nette.
 
-A noter aussi que pour le changement dans le référentiel :math:`[R_{2},c_{2}=0]`, nous obtenons :
+À noter aussi que pour le changement dans le référentiel :math:`[R_{2},c_{2}=0]`, nous obtenons :
 
 .. math::
 

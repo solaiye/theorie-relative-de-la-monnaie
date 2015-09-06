@@ -285,7 +285,7 @@ d'avoir des bornes de valeurs relatives est parfaitement adapté à un DU stable
 quantitativement et qui n'est recalculé et revalorisé que lorsqu'il « menace »
 de sortir des bornes limites acceptables pour sa valeur relative. Cette remarque
 est importante et il faut y réfléchir profondément. C'est ce qui permet à un
-projet de monnaie libre compatible avec la TRM (comme OpenUDC) d'utiliser une
+projet de monnaie libre compatible avec la TRM (comme OpenUDC/uCoin) d'utiliser une
 règle fondamentale très simple et très lisible qui arbitre perpétuellement entre
 valeur quantitative et valeur relative.
 
