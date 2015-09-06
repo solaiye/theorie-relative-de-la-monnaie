@@ -15,8 +15,8 @@ Comme nous allons le voir, non seulement les classes de solutions
 sont parfaitement déterminées mais on peut trouver une solution optimisée.
 
 
-a) Classes de solutions
-=======================
+\a) Classes de solutions
+========================
 
 Les solutions de création monétaire respectant les symétries spatio-temporelles
 impliquent donc pour la masse monétaire « M(t) » choisie par les acteurs
@@ -158,8 +158,8 @@ et cohérentes d'encadrement.
     *En vert sont marquées les naissances, en rouge les décès des individus,*
     *l'axe vertical étant le temps (Luc Fievet TRM 2.0)*
 
-b) Optimisation et espérance de vie
-===================================
+\b) Optimisation et espérance de vie
+====================================
 
 Il est possible de trouver une relation fondamentale entre le Dividende
 Universel « c » et l'espérance de vie. En effet, considérons tout d'abord pour

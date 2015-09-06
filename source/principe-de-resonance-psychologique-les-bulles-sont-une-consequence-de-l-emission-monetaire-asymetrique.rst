@@ -64,10 +64,10 @@ sein de l'économie, mais uniquement sur la base de « valeurs en expansion »
 créant donc une résonance intrinsèque. Voyons l'évolution de la bulle dans le
 champ de valeur sur un exemple.
 
-a) Une valeur monétisée est identifiée par l'émetteur de crédits arbitraires
+\a) Une valeur monétisée est identifiée par l'émetteur de crédits arbitraires
 muni de fonds propres
 
-b) L'émetteur de crédits arbitraires alloue alors des lignes de crédits au
+\b) L'émetteur de crédits arbitraires alloue alors des lignes de crédits au
 producteur de cette valeur, ainsi qu'aux acheteurs, ce faisant il crée une
 distorsion du champ en sa faveur, crédits et intérêts lui étant « dûs ».
 Initialement La valeur « monte » brusquement sous l'effet de l'injection locale
@@ -80,7 +80,7 @@ de crédits.
     *a) Fonds propres initiaux (Luc Fievet TRM 2.0)*
 
 
-c) L'émetteur de crédits arbitraires cesse son injection, soit parce qu'il
+\c) L'émetteur de crédits arbitraires cesse son injection, soit parce qu'il
 crédite une autre valeur de son choix, soit parce qu'il arrive en « haut de
 bilan », c'est-à-dire qu'il est à maximum d'émission de crédits possible (il a
 atteint son effet de levier maximum permis) ce qui est le cas des grandes crises
@@ -90,7 +90,7 @@ avantage). À ce moment là la force de remboursement de l'intérêt et des cré
 fait « exploser la bulle » qui ne peut plus se nourrir de l'injection de
 nouveaux crédits.
 
-d) Il reste en fin de « cycle » un émetteur de crédits arbitraires qui a
+\d) Il reste en fin de « cycle » un émetteur de crédits arbitraires qui a
 « aspiré » l'essentiel de la monnaie préexistante du fait du paiement des
 intérêts, et a donc réalisé un bénéfice, et un secteur de production de valeur
 où non seulement les derniers acheteurs se retrouvent avec une dette supérieure

@@ -6,8 +6,8 @@ Si on dit que X « s'endette » (bilan négatif) pour créditer Y,
 qui lui peut ensuite payer Z, qui paye enfin X,
 on a une solution partielle, qui crée un problème fondamental de symétrie.
 
-a) La symétrie spatiale n'est pas respectée
-===========================================
+\a) La symétrie spatiale n'est pas respectée
+============================================
 
 si c'est « X » qui possède le droit de s'endetter en premier,
 selon « Y » et « Z » il y a un gros problème d'équité.
@@ -17,8 +17,8 @@ Les échanges de valeur peuvent et doivent se mettre en route indépendamment
 de tout point spécifique, sous peine de bloquer une sous-partie de l'économie
 (ici les échanges entre Y et Z).
 
-b) La symétrie temporelle n'est pas respectée
-=============================================
+\b) La symétrie temporelle n'est pas respectée
+==============================================
 
 Même en imaginant que X, Y et Z se créditent initialement tous en même temps
 d'une quantité fixée de monnaie, qu'en est-il pour A, B et C
@@ -30,8 +30,8 @@ et dont la répartition serait excessivement concentrée ici ou là
 (ou même ayant fui hors de la zone économique locale),
 bloquant aussi leurs échanges sans raison valable de leur point de vue.
 
-c) L'asservissement par l'intérêt manquant
-==========================================
+\c) L'asservissement par l'intérêt manquant
+===========================================
 
 Une démonstration algorithmique éclaire le fait qu'une monnaie dette
 à émission asymétrique suffit, si on en respecte le principe à la lettre,

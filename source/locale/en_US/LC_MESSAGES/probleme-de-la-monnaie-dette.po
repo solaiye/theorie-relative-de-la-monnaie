@@ -10,12 +10,11 @@ msgstr ""
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
 "PO-Revision-Date: 2015-09-01 21:15+0000\n"
 "Last-Translator: sb <s_b_@openmailbox.org>\n"
-"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
-"/probleme-de-la-monnaie-dette/en_US/>\n"
-"Language: en_US\n"
+"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm/probleme-de-la-monnaie-dette/en_US/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2.4-dev\n"
 
@@ -35,11 +34,6 @@ msgstr ""
 "then pays Z, who finally pays X, we have a partial solution that creates a "
 "fundamental problem of symmetry."
 
-# 701fc8f711e7494a9d24b6da1dc5d989
-#: ../../source/probleme-de-la-monnaie-dette.rst:10
-msgid "a) La symétrie spatiale n'est pas respectée"
-msgstr "a) The spacial symmetry is not respected"
-
 # 3593a250540c406db855d0d3fdf4f688
 #: ../../source/probleme-de-la-monnaie-dette.rst:12
 msgid ""
@@ -58,11 +52,6 @@ msgstr ""
 "can and must start independently of any specific point, under the risk of "
 "blocking a part of the economy (here the exchange between Y and Z)."
 
-# 2a956bd814a74053b92804515c8a89d7
-#: ../../source/probleme-de-la-monnaie-dette.rst:21
-msgid "b) La symétrie temporelle n'est pas respectée"
-msgstr "b) The temporal symmetry is not respected"
-
 # 8653e60349064488beb1a4bfaddd7606
 #: ../../source/probleme-de-la-monnaie-dette.rst:23
 msgid ""
@@ -78,16 +67,11 @@ msgstr ""
 "Even when imagining that X, Y and Z credit initially all in the same time a "
 "fixed quantity of money, what is the situation for A, B or C that will come "
 "after them in the economic system ? Their respective exchanges of values "
-"being totally different from those of X, Y and Z, have not to suffer neither "
-"from a unique emission done in the past, and which repartition would be "
+"being totally different from those of X, Y and Z, have not to suffer neither"
+" from a unique emission done in the past, and which repartition would be "
 "excessively concentrated here or there (or even could have fled out of the "
-"local economic zone), thus blocking their exchanges without sensible reasons "
-"from their point of view."
-
-# 5fec1d1d27104bcdb5a615b1e393c0d8
-#: ../../source/probleme-de-la-monnaie-dette.rst:34
-msgid "c) L'asservissement par l'intérêt manquant"
-msgstr "c) Enslavement by the missing interest"
+"local economic zone), thus blocking their exchanges without sensible reasons"
+" from their point of view."
 
 # 34d81b45a66948dfa4479faa6f9c731b
 #: ../../source/probleme-de-la-monnaie-dette.rst:36
@@ -119,8 +103,9 @@ msgid ""
 "c'est ensuite la boucle sans fin."
 msgstr ""
 "The interests of H owe to B are 5% / year. In (1) is done the emission of a "
-"new « debt » by B, constituting then the “money” credited to H. In (2) the 5%"
-" are reimbursed, then eventually spent in (3), and then it's a infinite loop."
+"new « debt » by B, constituting then the “money” credited to H. In (2) the "
+"5% are reimbursed, then eventually spent in (3), and then it's a infinite "
+"loop."
 
 # a158c67e574946f6bd39e420161a4b2b
 #: ../../source/probleme-de-la-monnaie-dette.rst:48
@@ -160,8 +145,8 @@ msgstr ""
 "**Choice 1** : infinite loop. H is infinitely enslaved by B that wins 5% / "
 "year without work, when H has to work for B to get them back. The problem "
 "here is not so the missing interest than H working eternally for B. B has "
-"then no interest (pun intended !) in H reimbursing really that debt. He will "
-"call it « reimbursing » the only fact to pay him that eternal annuity."
+"then no interest (pun intended !) in H reimbursing really that debt. He will"
+" call it « reimbursing » the only fact to pay him that eternal annuity."
 
 # 2df7ca4a358a4d558c89fed25e8d2997
 #: ../../source/probleme-de-la-monnaie-dette.rst:61
@@ -213,8 +198,8 @@ msgid ""
 "ne sont pas donnés."
 msgstr ""
 "Then the cycle will restart on the base of a new generation of humans. B "
-"recreates enough money for his own benefit, that he will lend, at a level of "
-"creation high enough to make the old monetary mass negligible. Indeed one "
+"recreates enough money for his own benefit, that he will lend, at a level of"
+" creation high enough to make the old monetary mass negligible. Indeed one "
 "never starts from 0 to (1), but on the basis of a pre-existing monetary "
 "supply, that will for example be 1 on 100 created unilaterally on false "
 "premisses, a pseudo-contract whose terms are not given."
@@ -247,15 +232,15 @@ msgid ""
 "logique qu'il prétend appliquer, mais la prise de conscience individuelle du"
 " phénomène s'accélérerait."
 msgstr ""
-"And more, and it's not the least essential points of the phenomenon, we have "
-"to signal that we see in 2012 a confusion between the common « money-debt », "
-"issued by the political collectivities supposed to represent the citizens, "
-"and the private « money-debt ». Both wear the same **name**. But if we "
-"distinguish the issued money exclusively under that « debt » form by the "
-"political community and the one issued by a private group, without giving "
-"them the same name, the mechanism would be not only be more respectful of "
-"the logic it pretends to apply, but the rise of individual consciousness of "
-"the phenomenon would accelerate."
+"And more, and it's not the least essential points of the phenomenon, we have"
+" to signal that we see in 2012 a confusion between the common « money-debt "
+"», issued by the political collectivities supposed to represent the "
+"citizens, and the private « money-debt ». Both wear the same **name**. But "
+"if we distinguish the issued money exclusively under that « debt » form by "
+"the political community and the one issued by a private group, without "
+"giving them the same name, the mechanism would be not only be more "
+"respectful of the logic it pretends to apply, but the rise of individual "
+"consciousness of the phenomenon would accelerate."
 
 # 4c45469764dd4024ade2b7b94d97e86c
 #: ../../source/probleme-de-la-monnaie-dette.rst:100
@@ -276,8 +261,8 @@ msgid ""
 "commune. Il ne faut alors pas s'étonner du chaos final dans lequel cette "
 "fausse logique, ce principe inacceptable, peut amener les hommes."
 msgstr ""
-"So it is then staggering that when it is about protecting trademarks the law "
-"would be non-negotiable while being about counterfeiting the universal "
+"So it is then staggering that when it is about protecting trademarks the law"
+" would be non-negotiable while being about counterfeiting the universal "
 "exchange tool we accept the fact that a group of private enterprises call "
 "with the same monetary sign what is only it's own « debt » emission, as if "
 "they shared the same mark, and that we use the same mark, with the same "
@@ -336,8 +321,8 @@ msgid ""
 msgstr ""
 "In conclusion, the \"money-debt\" is a system instituting a profound "
 "asymmetry in money creation, that is not contractually acceptable inside a "
-"democracy respecting human rights. Logically the recognition of the equality "
-"of judgment of all economical value imply the symmetry in front of  the "
+"democracy respecting human rights. Logically the recognition of the equality"
+" of judgment of all economical value imply the symmetry in front of  the "
 "creation rules of a money that would be really common (which does not "
 "signify the equality in front of possessed goods or accumulated money "
 "following exchanges)."
@@ -359,3 +344,24 @@ msgstr ""
 "money, creating an asymmetry toward the other actors of the present and "
 "future economy and the debt we contract with one possessing pre-existing "
 "money. It is well the point denounced here."
+
+#: ../../source/probleme-de-la-monnaie-dette.rst:10
+msgid "\\a) La symétrie spatiale n'est pas respectée"
+msgstr ""
+
+#: ../../source/probleme-de-la-monnaie-dette.rst:21
+msgid "\\b) La symétrie temporelle n'est pas respectée"
+msgstr ""
+
+#: ../../source/probleme-de-la-monnaie-dette.rst:34
+msgid "\\c) L'asservissement par l'intérêt manquant"
+msgstr ""
+
+#~ msgid "a) La symétrie spatiale n'est pas respectée"
+#~ msgstr "a) The spacial symmetry is not respected"
+
+#~ msgid "b) La symétrie temporelle n'est pas respectée"
+#~ msgstr "b) The temporal symmetry is not respected"
+
+#~ msgid "c) L'asservissement par l'intérêt manquant"
+#~ msgstr "c) Enslavement by the missing interest"

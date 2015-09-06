@@ -2,7 +2,7 @@
 .~lock*
 bin/
 # include pot files for Weblate translation
-build/*
+build/
 *.mo
 develop-eggs/
 .Python

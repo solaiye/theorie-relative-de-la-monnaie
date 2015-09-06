@@ -39,15 +39,15 @@ sans préciser les libertés fondamentales auxquels il se réfère.
 Ces libertés sont absentes des théories classiques
 pour la mauvaise raison qu'elles les ignorent.
 
-a) Liberté
-----------
+\a) Liberté
+-----------
 
 La liberté se définit comme étant un principe symétrique :
 non-nuisance vis-à-vis de soi-même et d'autrui.
 
 
-b) Valeur
----------
+\b) Valeur
+----------
 
 On entend par valeur tout bien économique matériel, énergétique,
 immatériel, spatial ou temporel. Par exemple on pourra attribuer
@@ -57,16 +57,16 @@ Toute valeur est fluctuante relativement à l'individu qui l'utilise,
 la produit ou l'échange, elle est donc fluctuante dans tout l'espace-temps considéré.
 
 
-c) Monnaie
-----------
+\c) Monnaie
+-----------
 
 La monnaie est un outil de compte et d'échange commun à tous les citoyens
 de la même zone économique (par extension on pourra dire « universel »,
 en ayant conscience qu'il s'agit d'un « universel » au sein de la zone monétaire considérée).
 
 
-d) Zone monétaire
------------------
+\d) Zone monétaire
+------------------
 
 Une zone monétaire (ou zone économique)
 se définit par un espace souverain, et ses citoyens présents et futurs.
@@ -81,20 +81,20 @@ et nous permet de définir les trois libertés économiques fondamentales
 sous la forme des axiomes fondamentaux suivants :
 
 
-a) Liberté d'accès aux ressources
----------------------------------
+\a) Liberté d'accès aux ressources
+----------------------------------
 
 Tout citoyen est libre d'accéder aux ressources.
 
 
-b) Liberté de production
-------------------------
+\b) Liberté de production
+-------------------------
 
 Tout citoyen est libre de produire de la valeur.
 
 
-c) Liberté d'échange « dans la monnaie »
-----------------------------------------
+\c) Liberté d'échange « dans la monnaie »
+-----------------------------------------
 
 Tout citoyen est libre d'échanger avec autrui « dans la monnaie »
 
