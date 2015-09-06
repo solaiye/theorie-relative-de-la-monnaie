@@ -1,6 +1,8 @@
 Install
 =======
 
+Require Sphinx 1.3+
+
 - Ubuntu:
 
 ::
@@ -117,4 +119,5 @@ Generate translated html document :
 
 ::
 
-    $ make html SPHINXOPTS="-t html -D language='en_US'"
+    $ make html SPHINXOPTS="-t html -D language='en_US' -D html_theme_path='themes/en_US' -D html_static_path='themes/en_US/html/static'"
+
