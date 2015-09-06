@@ -8,19 +8,21 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-01-14 19:57+0000\n"
-"Last-Translator: Vincent Texier\n"
-"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
+"PO-Revision-Date: 2015-09-03 15:54+0000\n"
+"Last-Translator: sb <s_b_@openmailbox.org>\n"
+"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
+"/autres-fondements-du-dividende-universel/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.4-dev\n"
 
 # cf6375ef84404e0a8f8010bed4238a53
 #: ../../source/autres-fondements-du-dividende-universel.rst:3
 msgid "Autres fondements du Dividende Universel"
-msgstr ""
+msgstr "Other basis of the Universal Dividend"
 
 # c9615ff83cd64add8be13b8761f59a77
 #: ../../source/autres-fondements-du-dividende-universel.rst:5
@@ -30,11 +32,14 @@ msgid ""
 "développer des points de vue complémentaires plus pratiques, qui tendent "
 "vers le même résultat fondamental."
 msgstr ""
+"Even if the logical and mathematical approach is enough to reach the result "
+"of an Universal Dividend money, it is still possible to develop additional "
+"and more practical points of view, which tend to the same fundamental result."
 
 # 0364c6fce85d4455921951598965809c
 #: ../../source/autres-fondements-du-dividende-universel.rst:12
 msgid "La co-propriété Citoyenne de la Zone Monétaire"
-msgstr ""
+msgstr "The Citizen condominium of the Currency Union"
 
 # 6d164fb166bc4cd391aa5f27b57b53c4
 #: ../../source/autres-fondements-du-dividende-universel.rst:14
@@ -48,6 +53,13 @@ msgid ""
 "pour permettre que les échanges puissent se faire tant dans l'espace que "
 "dans le temps et dans une mesure équilibrée."
 msgstr ""
+"The economic zone associated to a common money is fundamentally a Citizen "
+"construction. Any Citizen in its respective State is a co-owner of the Zone ("
+"which can be reduced to only one State). In a democracy, we are regularly "
+"invited to elect our representatives directly or indirectly. Therefore it is "
+"an act of common life, where the money is the economical cement commonly "
+"accepted and created to allow exchanges in space but also in time in a "
+"balanced way."
 
 # 8aaf377791e145c9a5b2f3ce9fe9831c
 #: ../../source/autres-fondements-du-dividende-universel.rst:23
@@ -58,6 +70,10 @@ msgid ""
 "Circulation (voire du PIB, mais PIB et Masse Monétaire sont "
 "interdépendants)."
 msgstr ""
+"Yet any owner of a company whatever it is, receives, proportionally of its "
+"capital holding an annual Dividend. The Euro area is economically valuable "
+"proportionally to its monetary mass circulating (or even the PDB, but PDB "
+"and Monetary Mass are interdependent)."
 
 # 2b4c8567da2144469cafbc3992bb5865
 #: ../../source/autres-fondements-du-dividende-universel.rst:28
@@ -68,11 +84,16 @@ msgid ""
 "citoyenneté de la zone économique est consubstantielle au droit fondamental "
 "à une part comparable de la création monétaire commune entre chaque citoyen."
 msgstr ""
+"The Universal Dividend corresponds then simply to the recognition of the co-"
+"ownership of the economic zone by each Citizen (present and to come, and no "
+"generation has any privileged right from this point of view). The "
+"citizenship of the economic zone is inseparable to the fundamental right of "
+"a comparable share of the common money issuance between every citizen."
 
 # e260f98b637542aeac7c75b3b746d252
 #: ../../source/autres-fondements-du-dividende-universel.rst:36
 msgid "Monétisation de la valeur libre, bénévole, non directement marchande"
-msgstr ""
+msgstr "Monetization of free value, voluntary, not directly mercantile"
 
 # ee9a9a16188c4ac0939d9ab926f2aeb9
 #: ../../source/autres-fondements-du-dividende-universel.rst:38
@@ -85,6 +106,12 @@ msgid ""
 "logiciels libres qui ont été développés et distribués sans aucune "
 "reconnaissance monétaire pour une très grande partie."
 msgstr ""
+"The art, the free softwares, the free rights writings, non-mercantile work "
+"done by charities or individually etc... What any citizen of the euro area "
+"brings, are values, which benefits to the mercantile sector directly or "
+"indirectly, immediately or delayed in time. For example the Internet works "
+"with a layer of free softwares which were developed and distributed most of "
+"the times without any monetary recognition."
 
 # 82f93905132e41e091a3fbc7440f97c2
 #: ../../source/autres-fondements-du-dividende-universel.rst:46
@@ -97,6 +124,12 @@ msgid ""
 " valeurs marchandes qui, elles, valorisent leurs produits rares ou "
 "artificiellement raréfiés en exigeant une obligation de paiement."
 msgstr ""
+"These types of productions are hardly traded for money directly, because "
+"what makes them value, is the adoption by the majority, even more fast that "
+"one does not ask for a mandatory payment to get it. This creates norms fast, "
+"information exchange protocols, and usages. Yet, this substrate of value "
+"develops mercantile values which give value to their rare products or "
+"artificially scarce, by asking for a mandatory payment."
 
 # 12be32e45ee4420180ec100d53187370
 #: ../../source/autres-fondements-du-dividende-universel.rst:54
@@ -105,6 +138,9 @@ msgid ""
 "directement marchande de la société, qui est la juste compensation du droit "
 "d'usage de cette couche multi-valeur pour des activités marchandes."
 msgstr ""
+"The Universal Dividend is a valuation of this free layer and not directly "
+"mercantile to the society, which is a fair compensation of the rights of use "
+"of this multi-value layer for mercantile activities."
 
 # f73b885cb61c43e3bb5de373a1694de0
 #: ../../source/autres-fondements-du-dividende-universel.rst:58
@@ -119,11 +155,19 @@ msgid ""
 "Ils ne réclament donc pas un bénéfice proportionnel à leur apport, mais une "
 "reconnaissance monétaire minimale."
 msgstr ""
+"One can not oppose the free creation of value an intellectual property "
+"rights as a mean to be paid. Because the choice to give the freedom of use "
+"and of transformation of its creation is a mean to disseminate without "
+"obstacles, without brakes, fast, to the benefits of the most. This is "
+"generally the case of scientists discoveries. Still, authors of these "
+"creations do not say that they should not be paid for what they brought, but "
+"they do not want to sell it directly. They do not ask for proportional gains "
+"to their contribution, but a minimum monetary recognition."
 
 # 50cbdead9a08410baf30cdb6c7495850
 #: ../../source/autres-fondements-du-dividende-universel.rst:68
 msgid "Le Dividende Universel répond à cette attente."
-msgstr ""
+msgstr "The Universal Dividend answers to this expectation."
 
 # d1ccc68937ae4c9ab1d4304fdf814769
 #: ../../source/autres-fondements-du-dividende-universel.rst:70
@@ -139,11 +183,20 @@ msgid ""
 " la créativité et la production des individus à des domaines prédéfinis et "
 "par définition non innovants !"
 msgstr ""
+"The creator who wish a proportional remuneration to his contribution has to "
+"go for a proprietary approach. The two approaches do not oppose, they "
+"complement each, and can totally exist not only between different actors, "
+"but also for one actor who, as the case may be, can choose to do a free or a "
+"proprietary contribution. One would not « classify » a free citizen, master "
+"of his own fate, in any « box » where he would be constrained to stay to "
+"pretend to benefit any social « window » , which would constitute an obvious "
+"economic setback, limiting creativity and individual production to really "
+"specific domains, by definition not innovative !"
 
 # 6cc3473ef3034d549e68a7f496492884
 #: ../../source/autres-fondements-du-dividende-universel.rst:83
 msgid "La neutralité de la monnaie"
-msgstr ""
+msgstr "Neutrality of money"
 
 # 38c0c7694afb4599b8a6e03a62fce9c1
 #: ../../source/autres-fondements-du-dividende-universel.rst:85
@@ -155,6 +208,11 @@ msgid ""
 "leur avantage, et leur permet à tout moment d'acheter ou de copier toute "
 "innovation par création de fausse monnaie momentanée."
 msgstr ""
+"Monetary Issuance by leverage is an asymmetry which  emphasized capitalistic "
+"gap without any reason. Because X, Y or Z have an capitalistic asset at the "
+"beginning, one will let them to overrate this asset by monetary issuance "
+"leverage, which devalue existing money to their asset, and let them buy or "
+"copy any innovation at any time by creating temporary false money."
 
 # a11f3d251edd44d1b332a620328dd1b8
 #: ../../source/autres-fondements-du-dividende-universel.rst:92
@@ -166,6 +224,12 @@ msgid ""
 "(Proportionnelle à la masse monétaire / Citoyen), sans léser aucun individu "
 "présent ou à venir quel que soit son âge."
 msgstr ""
+"The Universal Dividend is a neutral money issuance and symmetrical in space "
+"and time, which let the money its original sense : *a Mutual Credit* *"
+"between Citizens*, given not only once, but progressively, lifelong, and "
+"relatively to the measurable wealth (Proportionally to the monetary mass / "
+"citizen), without harming any individual present or to come, whatever how "
+"old is he."
 
 # df8991b124754273a80cd86a1e859654
 #: ../../source/autres-fondements-du-dividende-universel.rst:99
@@ -179,6 +243,13 @@ msgid ""
 "épargner), le Dividende Universel assure que les échanges monétaires ne sont"
 " pas totalement bloqués pour autant, et peuvent repartir progressivement."
 msgstr ""
+"Universal Dividend then does not only have a neutral role to the investment "
+"via the monetary mass growth allocated between every citizen, but also an "
+"economic buffer in case of evaporation of the money in any zone pseudo-"
+"isolated inside a monetary area. If we imagine that « X », after doing a big "
+"monetary gain decide to leave the autonomous area to invest somewhere else ("
+"or simply save money), the Universal Dividend makes sure that the monetary "
+"exchanges are not totally stuck, and can start again progressively."
 
 # c9ca6047dd174dc1a40f9f0bbb3e9925
 #: ../../source/autres-fondements-du-dividende-universel.rst:108
@@ -188,6 +259,10 @@ msgid ""
 " de l'accumulation de monnaie pour bloquer les échanges entre les autres "
 "producteurs, et imposer ses vues."
 msgstr ""
+"Money has not as a goal to be a tool of hostage taking where the one who, "
+"having made the choice to monetized his production, could profit of the "
+"accumulation of money to block the exchanges of other producers, and impose "
+"his views."
 
 # 852b125c0d3c4ea8bb5f925fe53e3903
 #: ../../source/autres-fondements-du-dividende-universel.rst:113
@@ -202,6 +277,14 @@ msgid ""
 "fonctionnement n'est pas soumis à un choix démocratique (Bâle I, II et III, "
 "sont des principes monétaires non soumis à l'approbation des utilisateurs)."
 msgstr ""
+"This argument resume the fundamental principal stated by Richard Stallman "
+"about the usage of any information system : the code must be transparent and "
+"editable. To accept a money any citizen should at least accept the running "
+"code, and be able to change by democratic choices. Yet it is obvious in 2011 "
+"that these two minimum conditions are not filled by  « official » moneys "
+"with hidden codes, imposed, of which the development of the working code is "
+"not submitted to any democratic choice (Bâle I, II et III, are monetary "
+"principle not submitted to the approbation of the users)."
 
 # 2af4813203eb410b9da3548ebe594a3a
 #: ../../source/autres-fondements-du-dividende-universel.rst:123
@@ -211,11 +294,14 @@ msgid ""
 " économique selon des critères élevés comme la légitimité, l'éthique et la "
 "neutralité."
 msgstr ""
+"The « digital horizon », highlighted by Olivier Auber should awake us about "
+"the dimension of this choice of monetary code attached to economic freedom "
+"following high criterion like the legitimacy, ethic, or neutrality."
 
 # 8140ef3a70e44970b66a52d6aa73cc6d
 #: ../../source/autres-fondements-du-dividende-universel.rst:130
 msgid "La valeur fondamentale de toute économie"
-msgstr ""
+msgstr "Fundamental value of any economy"
 
 # c63267d4c6d242c28449ece3594df0dc
 #: ../../source/autres-fondements-du-dividende-universel.rst:132
@@ -224,6 +310,9 @@ msgid ""
 "l'individu il n'est point de mesure de valeur. C'est le point minimum et "
 "suffisant pour toute mesure de valeur."
 msgstr ""
+"Fundamental condition of any measure is the individual. Indeed, outside of "
+"the individual no measure of value can exist. This is the minimum and "
+"sufficient point for any measure of value."
 
 # 98593dbf42f7407fab27b4e25e62d367
 #: ../../source/autres-fondements-du-dividende-universel.rst:136
@@ -234,6 +323,10 @@ msgid ""
 "veut universellement utilisable partout et en tout temps où l'échange "
 "économique est possible."
 msgstr ""
+"Human is the observer of the economy, as much as its fundamental actor. His "
+"service and his freedom of creation is its primary objective. Thus, he is "
+"the only real point of valuation possible for any money who wants to be "
+"anywhere and anytime universally usable where the economic trade is possible."
 
 # 26fe14b5bcfa448e9845d52491f2f19f
 #: ../../source/autres-fondements-du-dividende-universel.rst:142
@@ -242,6 +335,8 @@ msgid ""
 "individus aucune économie ne subsiste, il ne reste évidemment rien de "
 "mesurable."
 msgstr ""
+"Outside any specific value, there is an economy. But emptied of its "
+"individuals, no economy remain, there is obviously nothing left measurable."
 
 # 7c39b665e06f448d93f7f89f83963004
 #: ../../source/autres-fondements-du-dividende-universel.rst:145
@@ -251,6 +346,10 @@ msgid ""
 "dans chacune de ses composantes économiques fondamentales, le \"risque\" "
 "étant réparti dans la multitude et dans le temps."
 msgstr ""
+"By developing the money on a continous micro-investment, all along the life "
+"of any citizen, it is the whole economy which invests in each of its "
+"fundamental economic component, the \"risk\" being distributed in the "
+"multitude and in the time."
 
 # e68f9f2b56024e7693690e14a46f1f6f
 #: ../../source/autres-fondements-du-dividende-universel.rst:150
@@ -263,6 +362,11 @@ msgid ""
 "laissé choir dans la misère plusieurs de leurs créateurs de valeur "
 "considérés aujourd'hui parmi les plus importants."
 msgstr ""
+"Furthermore, there is no way Humans of a given generation would claim the "
+"right to judge in their siblings, from who comes the value future generation "
+"will use. Proceeding like this, past generations, blind to reality of "
+"uncertainty to what is value or not, have let fall in misery several of "
+"their creators of value considered today among the most important."
 
 # b93e0129acae4e04827317b94a1c924f
 #: ../../source/autres-fondements-du-dividende-universel.rst:157
@@ -271,11 +375,13 @@ msgid ""
 "l'humilité ou de l'arrogance des hommes du présent devant les hommes à "
 "venir."
 msgstr ""
+"The existence or lack of Universal Dividend is a measure of humility or "
+"arrogance of present men before the men to come."
 
 # cb9e4de596f34cd59c190e4286b3149d
 #: ../../source/autres-fondements-du-dividende-universel.rst:162
 msgid "Autres arguments"
-msgstr ""
+msgstr "Other arguments"
 
 # 6c13fabbf3314c30b96e0dea0729f80a
 #: ../../source/autres-fondements-du-dividende-universel.rst:164
@@ -284,36 +390,38 @@ msgid ""
 "apportent d'autres interprétations compatibles et très pertinentes du "
 "Dividende Universel :"
 msgstr ""
+"Internet websites and blogs have used or cited ideas of the RTM and bring "
+"other compatible interpretations and really relevant of Universal Dividend :"
 
 # 1fc5e7cdfecb4dde8daf87f78abb7810
 #: ../../source/autres-fondements-du-dividende-universel.rst:168
 msgid "http://revenudebase.info/"
-msgstr ""
+msgstr "http://revenudebase.info/"
 
 # b7e301996fd54e64a8e9002f30b3f33b
 #: ../../source/autres-fondements-du-dividende-universel.rst:169
 msgid "http://www.tetedequenelle.fr"
-msgstr ""
+msgstr "http://www.tetedequenelle.fr"
 
 # 337cd1d417f040839e945bf196d86ccc
 #: ../../source/autres-fondements-du-dividende-universel.rst:170
 msgid "http://blog.rom1v.com"
-msgstr ""
+msgstr "http://blog.rom1v.com"
 
 # 2ad7e10f7cf3479e800a69d530d16d84
 #: ../../source/autres-fondements-du-dividende-universel.rst:171
 msgid "http://aymericpontier.blogspot.com"
-msgstr ""
+msgstr "http://aymericpontier.blogspot.com"
 
 # c5e3743d685e472e9d5e6431fee0c3cd
 #: ../../source/autres-fondements-du-dividende-universel.rst:172
 msgid "http://blog.tcrouzet.com"
-msgstr ""
+msgstr "http://blog.tcrouzet.com"
 
 # f5ede485baef47fdaf38f289a1790396
 #: ../../source/autres-fondements-du-dividende-universel.rst:173
 msgid "http://changaco.net/"
-msgstr ""
+msgstr "http://changaco.net/"
 
 # 399f7fe869df481ca0a6410a5382292c
 #: ../../source/autres-fondements-du-dividende-universel.rst:175
@@ -322,3 +430,6 @@ msgid ""
 "d'information, y compris sur les expériences (toutes réussies) des zones "
 "économiques ayant adopté un système monétaire proche du Dividende Universel."
 msgstr ""
+"Furthermore the wikipedia article about  « Basic Income » is full of "
+"information, including about experiences (all successful) of economic area "
+"who adopted a monetary system near the Universal Dividend."

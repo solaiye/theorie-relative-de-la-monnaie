@@ -8,19 +8,21 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-07-16 08:41+0000\n"
-"Last-Translator: Vincent Texier\n"
-"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
+"PO-Revision-Date: 2015-09-02 15:23+0000\n"
+"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
+"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
+"/zooms-sur-l-histoire-de-la-monnaie/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.4-dev\n"
 
 # bc46928602ae48309868d33bcc5c6826
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:3
 msgid "Zooms sur l'histoire de la monnaie"
-msgstr ""
+msgstr "Focus on History of money"
 
 # d0478593a507448786ae977e842ea077
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:5
@@ -29,6 +31,9 @@ msgid ""
 "analysées du point de vue relatif de la TRM, Il ne s'agit nullement d'un "
 "point de vue « absolu »."
 msgstr ""
+"In this chapter, historical and consecutive monetary periods are analysed "
+"according to the relative viewpoint of the RMT. It does not pretend to be an "
+"\"absolute\" viewpoint."
 
 # c0bf0bc9af5b49e8833e17e77713a7ca
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:10
@@ -36,6 +41,7 @@ msgid ""
 "Les monnaies néolithiques, premières monnaies denses à inflation "
 "incontrôlable"
 msgstr ""
+"The Neolithic currencies, first dense currencies with uncontrolled inflation"
 
 # ec2a7ecad83d403dad40308bbfe7784e
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:12
@@ -47,6 +53,11 @@ msgid ""
 "dissémination font forcément penser à des stocks monétaires, permettant des "
 "échanges sur la base d'une valeur de référence."
 msgstr ""
+"From the Neolithic, we find equivalents of exchanges accounting by material "
+"barter based on diverse reference values. In Britain for instance, we found "
+"in the tumulus built at these times, important stocks of axes made of jade, "
+"which number and dissemination resemble strongly to monetary stocks, "
+"allowing trades based on a value of reference."
 
 # 517cca8620a64228b51b88087186aaaf
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:19
@@ -56,16 +67,20 @@ msgid ""
 "référence, ceci expliquant sans doute que des stocks aussi importants soient"
 " parvenus jusqu'à nous."
 msgstr ""
+"With this type of accounting, yet the possibility of a monetary inflation "
+"were existed, due to those who has access to stocks of this value of "
+"reference. This explains undoubtedly that such important stocks remains "
+"until our era."
 
 # 3b9a5e2797da4efcb97da9e0710b5386
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:28
 msgid "*Haches en Jade du néolithique (Wikimedia)*"
-msgstr ""
+msgstr "*Jade axes from Neolithic (Wikimedia)*"
 
 # ed842da0f603405a9d23048179c6cf30
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:31
 msgid "Les monnaies métalliques, premières monnaies limitant l'inflation"
-msgstr ""
+msgstr "Metallic currencies, first currencies limiting inflation"
 
 # be3101be31014f0faecbd83b2935d48b
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:33
@@ -77,6 +92,10 @@ msgid ""
 "cela les métaux rares allaient avantageusement prendre la place monétaire "
 "centrale."
 msgstr ""
+"Barter being insufficient to allow exchanges, and the first currencies based "
+"on potentially and strongly inflationary productions because easy produced "
+"by anybody, it became necessary to use a money value more stable. To do so, "
+"rare metals were going to take the central monetary role advantageously."
 
 # c478a9a8509a4b36b2a7c02759b2b08d
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:39
@@ -86,11 +105,15 @@ msgid ""
 "empires de l'antiquité, et ce  jusqu'au XVIIIème siècle et le fort "
 "développement des monnaies fiduciaires."
 msgstr ""
+"This is how gold, silver, bronze and copper are going to be used as almost "
+"exclusive value of reference during the empires developments from Antiquity, "
+"and this until the 18th century, beside the strong development of paper "
+"currencies."
 
 # 12cc7bc5b62049f19418858658fdba4a
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:46
 msgid "Empire Romain"
-msgstr ""
+msgstr "Roman Empire"
 
 # 01f6ed9f86d545f0a75210813868158f
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:48
@@ -100,6 +123,10 @@ msgid ""
 "pouvoir d'accaparation illégitime quand le respect de l'éthique vis-à-vis de"
 " l'émission n'est pas au cœur des valeurs fondamentales."
 msgstr ""
+"No empire without monetary expansion! The universality of the use of "
+"currency gives to the one who controls the production and the definition a "
+"great power of illegitimate monopole when the respect for ethics towards the "
+"emission is not at the core of the fundamental values."
 
 # 60b7e23888534f6b932ab6825b463605
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:53
@@ -107,11 +134,13 @@ msgid ""
 "L'expansion de l'Empire Romain s'accompagne d'expansion monétaire "
 "régulièrement « dévaluée » au profit d'un émetteur central : Rome."
 msgstr ""
+"Roman Empire comes with monetary expansion, regularly \"devalued\" for the "
+"benefit of one central issuer: Rome."
 
 # 147bda4b7b28428882dfde93cfbed306
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:60
 msgid "*Solidus, 327 ap JC (Wikimedia)*"
-msgstr ""
+msgstr "*Solidus, AD 327 (Wikimedia)*"
 
 # 5ee267f0eb774cea966d7171d09cd5d0
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:62
@@ -123,6 +152,12 @@ msgid ""
 "selon les récits de Pline l'Ancien on peut estimer qu'entre 26 av. JC et et "
 "le IIIe siècle les Romains ont extrait environ 1 500 tonnes d'or."
 msgstr ""
+"Denier, Sesterium, Aureus, Antoninien, Valerian, Argenteus, Solidus, follow "
+"one another. Made of bronze, copper, silver and gold according to the "
+"conquests by force, and to their gains, or via the slavery in auriferous "
+"zones, as the famous region of \"Las Medulas\" in Spain, where - according "
+"to the narratives of Pliny the Elder - we can consider that between 26 BC "
+"and the 3th century, Romans extracted approximately 1 500 tons of gold."
 
 # 7a0fb779ebd34fce86882123a0f28863
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:69
@@ -133,6 +168,11 @@ msgid ""
 "métal précieux dans ses pièces, n'ayant évidemment pas accès à des "
 "ressources infinies."
 msgstr ""
+"Each of these currencies is emitted while an expansion of the Empire occurs, "
+"and during the appropriation of metallic resources, replacing the former, "
+"then it's slowly devalued by the central issuer which puts less and less "
+"noble metal in the coins, obviously due to not having access to infinite "
+"resources."
 
 # f9e76220ddf24765b29ee5165f2f0e00
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:79
@@ -140,6 +180,8 @@ msgid ""
 "*Région aurifère de Las Medulas exploitée par Rome du Ier au IIIe siècle ap "
 "JC (Wikimedia)*"
 msgstr ""
+"Auriferous region of Las Medulas exploited by Rome from the 1st to the AD "
+"3th century (Wikimedia)"
 
 # 7c5fac23d2934ce7a4a6c08864ae1428
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:81
@@ -149,6 +191,10 @@ msgid ""
 "statut de monnaie (il a toujours de la valeur aujourd'hui !), mais son "
 "universalité comme intermédiaire d'échange qui ne peut pas être assurée."
 msgstr ""
+"The solidus, based on a fixed gold quantity is not abandoned by loss of "
+"value, but by rarity. It's not its value that makes it lose its status of "
+"currency, (it still has value nowadays!), but its universality as "
+"intermediary of exchange which cannot be assured."
 
 # 633f1ebc4acf464183cf4fcb703b4ac0
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:86
@@ -161,6 +207,12 @@ msgid ""
 "pas de contradiction entre la contraction unitaire de la monnaie son "
 "expansion globale qui accompagne l'évolution économique."
 msgstr ""
+"Yet, we can think to the fact that although monetary unity devalues itself - "
+"according to the reference material which is represented during its first "
+"emission in time - it doesn't impede the economic expansion and the global "
+"quantity that can be exchanged by the whole monetary mass - which is "
+"increasing in time. There is no contraction between the unitary contraction "
+"of money and its global expansion which comes with the economic evolution."
 
 # 2db44d2729fe4e01be6559364d9a9f5b
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:94
@@ -173,16 +225,23 @@ msgid ""
 "transformation, alors ce qui est « perdu » unitairement est « gagné » "
 "globalement. Il restera à savoir d'où vient le surplus constaté."
 msgstr ""
+"We can sum up this by the fact that 1 is way smaller compared to 1000 than "
+"compared to 100, while 1000 is way bigger than 100. If doing so, our "
+"monetary unity loose 10%  of its exchange capacity in relation to a given "
+"value, and at the mean time, the monetary mass gains globally 15% of "
+"exchange capacity - due to the economic expansion that comes with its "
+"transformation - then, what is \"lost\" in unit, is \"gained\" globally. "
+"Remains to know where the noticed surplus comes from."
 
 # 8a9f9fa4748347fea4249158004b6726
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:106
 msgid "*Sesterce de trajan 105 ap JC (Wikimedia)*"
-msgstr ""
+msgstr "*Sesterce from Trajan AD 105 (Wikimedia)*"
 
 # 136d12a2985147839a51b7d1d0829d86
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:109
 msgid "La bulle Espagnole d'or et d'argent"
-msgstr ""
+msgstr "Golden and silver Spanish bubble"
 
 # 76ec2ce6b94e45fdaf116b00b0a6e6d2
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:111
@@ -192,6 +251,10 @@ msgid ""
 "XVème siècle). La découverte des Amériques par Christophe Colomb (1492) va "
 "bouleverser les flux monétaires en Europe."
 msgstr ""
+"Despite their limited nature, gold and silver didn't avoid inflation, mostly "
+"during the Spanish Empire time (from the 15th century). The discovery of "
+"Americas by Christoph Columbus (1492)  turned upside down the monetary "
+"streams in Europe."
 
 # fc51a9418bef4057b65c6ef7ac7ac8ee
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:116
@@ -199,6 +262,8 @@ msgid ""
 "Ainsi d'après Wikipédia dans « Relations économiques entre l'Amérique "
 "Espagnole et l'Europe » :"
 msgstr ""
+"According to Wikipedia « Economic relations between the Spanish America and "
+"Europe » (in French only):"
 
 # 4957a012599941a38d56ddea2369dcb5
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:119
@@ -209,6 +274,10 @@ msgid ""
 "représente selon Pierre Chaunu un demi-siècle de production de métaux "
 "précieux en Europe."
 msgstr ""
+"\" The two big battlefield loot done during the Aztec Empire and mostly in "
+"the Inca Empire, brought back important sums of money to the spanish crown "
+"and to the conquistadores. The Inca emperor Atahualpa's ransom represents, "
+"according to Pierre Chaunu, half a century of precious metals in europe."
 
 # 15879a5ed45a4f639e0fad823c2acd6d
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:124
@@ -219,6 +288,11 @@ msgid ""
 "au Nord les mines mexicaines qui vont dominer la production du XVIIIe siècle"
 " en compagnie des mines d'or du Brésil portugais (Minas Gerais)."
 msgstr ""
+"Mines bring back even more spoils of war : first of all, thanks to few "
+"sources of gold in Cuba at the beginning of the 15th century, then thanks to "
+"the big silver mines from Peru in the 17th century (mine from the Potosi), "
+"and more in the north, Mexican mines dominate the production from the 18th "
+"century with the gold mines from Portuguese Brazil (Minas Gerais)."
 
 # 867f847d1c544568ba37cfd03fb96cf4
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:130
@@ -226,6 +300,8 @@ msgid ""
 "C'est au cours des XVIIe et XVIIIe siècle que la production et l'arrivage de"
 " métaux précieux en Europe ont été les plus importants. »"
 msgstr ""
+"It's during the 17th and the 18th centuries that precious metals' production "
+"and arrival in Europe have been the most important.\""
 
 # 8dfb0a7e1a374fbe91f5f0f440aa671f
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:133
@@ -235,6 +311,10 @@ msgid ""
 "prix, le stock de 600 millions de pesos en 1 500 permet de faire autant "
 "d'achat de blé que le stock de 3 milliards en 1800."
 msgstr ""
+"But what do we notice? Precious metals loose their value all along centuries:"
+" according to the historian Earl Hamilton and his \"Price History\", the "
+"stock of 600 millions pesos in 1500, allows to buy as much wheat as the "
+"stock of 3 billions in 1800."
 
 # 9765bef1b1a441dc9064a4d7877c5ad3
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:138
@@ -252,11 +332,22 @@ msgid ""
 " Hamilton à cinq fois plus), en aurait fait monter le prix d'un facteur 5 à "
 "production et consommation constante."
 msgstr ""
+"Addition of money in economy decreases the value of money. What is true for "
+"a gain of any product's productivity (fall of its monetary value regarding a "
+"constant money) is also true for money, even though it's about a good of "
+"reference: the quantity of merchandise that can be exchanged with a certain "
+"quantity of money, depends on the total quantity of currency in circulation. "
+"Therefore, it's not one or another but both. The productivity's growth of "
+"production of wheat would've decreased the price of the currency, here in "
+"gold or silver metal all along the 3 centuries. However, the constant "
+"addition of an important quantity of money which has been spread into the "
+"economy (estimated here according to Hamilton to 5 times more), would've "
+"increased by 5 the price at constant production and consumption."
 
 # 768520440aa34f2b850cba63b85745f1
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:155
 msgid "*Le conquistador Francisco Pizarro (Wikimedia)*"
-msgstr ""
+msgstr "*Conquistador Francisco Pizarro (Wikimedia)*"
 
 # 4bf90e9a104e467e982d535472b1bfef
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:157
@@ -266,6 +357,10 @@ msgid ""
 "de la production de blé a baissé d'un facteur 5 tandis que l'injection de 5 "
 "fois plus de monnaie en a donc stabilisé le prix facial."
 msgstr ""
+"Supposing a relative stability of goods and services production between "
+"these two dates, we would have the right to pretend that the cost of the "
+"wheat production decreased by 5, meanwhile the injection of 5 times more of "
+"money stabilized the facial price."
 
 # d37e633a678c42f880d952e56f091b89
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:166
@@ -273,6 +368,8 @@ msgid ""
 "*Inflation d'or et d'argent suite à la conquête Espagnole (Luc Fievet TRM "
 "2.0)*"
 msgstr ""
+"*Gold and silver inflation following the Spanish conquest (Luc Fievet RMT "
+"2.0)*"
 
 # 3369b2cee0a94dac93a0dbc0bdc77d92
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:168
@@ -288,6 +385,16 @@ msgid ""
 "facteur 5 grâce essentiellement aux gains de productivité réalisés, et "
 "toutes choses égales par ailleurs.."
 msgstr ""
+"This short-cut doesn't reckon with the changes of economic behaviour, with "
+"the growth of the numbers of individuals (which reduce the part on "
+"currency/person), with the new goods and services requiring their part of "
+"the monetary stream, etc... But it allows to understand well the mechanism "
+"occurring within the money system : the local price relies strongly on the "
+"global monetary variation, as well as its density of distribution. The "
+"density has to be understand as so : if the surplus of money was stayed in "
+"Americas, the price of the wheat in Europe, according to the same reasoning, "
+"would have fell from factor 5, essentially due to the gains of productivity "
+"made, and any other things alike.."
 
 # 057dad0ca70d4c53acefcc68d2d70fb1
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:178
@@ -301,16 +408,24 @@ msgid ""
 " ? C'est la confiance dans l'éthique de l'outil d'échange qui assurera "
 "l'adhésion des Citoyens à la monnaie proposée."
 msgstr ""
+"This historical note allows to understand that not only gold and silver "
+"don't escape to the fundamental relative monetary rules, but it's not "
+"require to use them to manage the common monetary mass. Thus, it's not the "
+"nature of a determined good which makes it a currency, but the agreement of "
+"any mode of circular exchange and also purely mathematical. So how this "
+"currency will be managed? It's the trust regarding the ethic of the tool of "
+"exchange which will ensure the membership of Citizens to the proposed "
+"currency."
 
 # 3dd1da31c4134281bfb1acb3e26a8edf
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:191
 msgid "*Reales en argent (Wikimedia)*"
-msgstr ""
+msgstr "*Reales in silver (Wikimedia)*"
 
 # d0513833390d4eaa9419a093e7c6d5e5
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:194
 msgid "L'effondrement à éviter : thésaurisation et déflation"
-msgstr ""
+msgstr "The collapse to avoid : hoarding and deflation"
 
 # 581406f6d8b14e49901a5edd2b60721c
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:196
@@ -323,6 +438,12 @@ msgid ""
 "thésaurisation. La nature limitée de ce type de monnaie rend mécaniquement "
 "impossible ce genre de mouvements de fonds sur le long terme."
 msgstr ""
+"Considering their growing monetary role, golden and silver metal were going "
+"to push to the seek and control of deposits, as well as hoarding. Lending "
+"currencies at fixed interest rate, creditors involve borrowers to give back "
+"more than what it exists in circulation, in a global movement of hoarding. "
+"The limited nature of this type of currency makes impossible technically "
+"this type of flow of funding over the longer term."
 
 # cb91ec97a9d04e06a4260d757875bad2
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:204
@@ -336,6 +457,13 @@ msgid ""
 "les fuites ne sont pas progressivement renflouées, comme il faut rajouter de"
 " l'énergie dans un système isolé pour qu'il poursuive son mouvement ?"
 msgstr ""
+"We have to understand that the phenomenon of lending is already in itself a "
+"hoarding phenomenon, the lender await to gain more money than what he owns, "
+"and it has nothing to see with the role of the currency as an immediate mean "
+"of universal exchange of goods and services. It's not a problem as long as "
+"the lending and the hoarding remain limited, but what happens if the "
+"currency is excessively hoarded or leaks aren't progressively bailed out, as "
+"we have to add energy in an isolated system in order for it to keep moving?"
 
 # d5b3e9157d684d92b59067442a59bad9
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:213
@@ -346,6 +474,11 @@ msgid ""
 "qu'elle présuppose un investissement ultérieur est insuffisante à expliquer "
 "ou à endiguer le mécanisme pour deux raisons :"
 msgstr ""
+"We have a phenomenon of dissipation of the currency. Not only the hoarding "
+"creates a deflationary cycle when the money creation does not compensate the "
+"loss, but the idea which says that saving is good because it presupposes an "
+"upcoming investment, is insufficient to explain or to stem the mechanism, "
+"for two reasons:"
 
 # 2521a74710f54a71808fea1c6b0a72f9
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:219
@@ -359,6 +492,14 @@ msgid ""
 "de monnaie que sous forme de prêts à intérêts, et non plus en circulation de"
 " biens, prend mécaniquement possession de tout le circuit économique."
 msgstr ""
+"If the savings accumulated is re-injected in the forms of loans, the "
+"deflationary cycle will go trough a temporary counter-tendency, and the "
+"accumulated savings, if the borrowers continue to refund correctly increase, "
+"increasing the deflation rate to levels of price decline so insupportable "
+"that the bankruptcy of the exchange circuit is reached. The lender who has "
+"an initial monetary advantage, and gets some fun by only injecting money in "
+"the form of loans, and not in the form of circulating goods, takes "
+"mechanically possession of the whole economic circuit."
 
 # 0dac8fb60f6245ad913be8cb1af9b868
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:228
@@ -373,6 +514,14 @@ msgid ""
 "mettant l'accent sur la densité de la monnaie et le champ de valeur "
 "différentiel."
 msgstr ""
+"if the accumulated savings is invested in another autonomous trading circuit "
+"(in space or in time), this is really good for this new circuit without any "
+"doubt, but it will do nothing on the problem of the initial circuit, which "
+"does not necessary have the goal or the means to sell its production "
+"outside, for example where this money would have been invested. Here again "
+"we perceive the fine analysis enabled by the field of value, which removes "
+"inconsistency of global theories by focusing on the density of money and the "
+"differential field of value."
 
 # 3cf66468a4c942128d30214b3639c1c4
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:237
@@ -384,6 +533,11 @@ msgid ""
 "peu de rapport avec ce que souhaitent produire et échanger des producteurs "
 "libres quant à la mesure de toute valeur."
 msgstr ""
+"Still this local deflationary mechanism is all the more dampened in a money "
+"of rare reference value which, by construction, not only is not dense "
+"everywhere, but also of which the growth depends on external parameters and "
+"specific investments to produce, which lacks of relevance with what the free "
+"producers want to produce and trade regarding the measure of any value."
 
 # 68f5a57ed21a43e98d678961a79f94d3
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:244
@@ -396,13 +550,19 @@ msgid ""
 "de thésaurisation ou les investissements extérieurs à la zone économique "
 "concernée."
 msgstr ""
+"Low growth money but dense encourage investment and plays then its "
+"fundamental role : money usage for trades inside production circuits. "
+"Moreover it can be used to restore progressively monetary density "
+"everywhere, by repairing slowly but progressively and without bumps, "
+"unavoidable leaks due to excess of hoarding or external investments of the "
+"corresponding economic area."
 
 # 53ec363cc5c74ad5a0b7cb048bbcd9ce
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:255
 msgid ""
 "*Un exemple de thésaurisation et d'investissement avec fuite (Luc Fievet TRM"
 " 2.0)*"
-msgstr ""
+msgstr "*An example of hoarding and investment with leak (Luc Fievet RTM 2.0)*"
 
 # 15b51408e61342479be3b908093afc76
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:257
@@ -415,6 +575,13 @@ msgid ""
 "dissipation d'énergie, et il faut toujours d'une façon ou d'une autre "
 "injecter une énergie supplémentaire pour maintenir un système en mouvement."
 msgstr ""
+"Finally, paralleling with the physics is not without interest. We know since "
+"energetics theories that the perpetual movement is impossible. The perpetual "
+"movement consist in a system which would turn on itself, with a initial "
+"input f energy finished. Yet these systems violate the first and second "
+"principles of the thermodynamic. To be clear, there is always energy loss, "
+"and it is necessary, one way or the other, to inject supplementary energy to "
+"keep the system moving."
 
 # d3db557882434ed0b143dde10be11ca2
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:265
@@ -427,6 +594,14 @@ msgid ""
 "consistait souvent à déclarer comme irrecevables des brevets qui "
 "prétendaient établir des machines à mouvements perpétuels."
 msgstr ""
+"To bring an interesting historical footnote, Albert Einstein declared that "
+"he when he was working on his Special Theory of Relativity (from 1902 to "
+"1905), he was working for the patent office of Berne, this work was « handy »"
+" for him. Indeed, besides the fact that it was giving him the necessary "
+"livelihood to pursue his scientific researches, this work was not wasting "
+"too much of his energy, and consisted most of the time to declare as "
+"inadmissible the patents which pretended to realize perpetual movement "
+"machines."
 
 # d3d0f6b72efe495fb688fe465fd6c2ee
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:273
@@ -443,16 +618,26 @@ msgid ""
 "éthique systémique clairement établie, difficilement contestable, et surtout"
 " assurant toujours les libertés économiques."
 msgstr ""
+"To think that a fixed quantity of money would be a guarantee of stability of "
+"the  « value » of this money, is to not understand the Relativity of the "
+"individual measure of value, and not to take into account neither the simple "
+"experimental fact, which demonstrate all along money history for 10 000 "
+"years, that forced or conciously accepted the expansion of monetary masses "
+"is unavoidable. By understanding this phenomenon we will transform the "
+"cyclic changes of catch-up brutally experienced, mostly sources of war or "
+"revolutions, in simple adjusting periods, acceptable because well understood "
+"by anyone, based on a systemic ethic clearly defined, hardly questionable, "
+"and always ensuring the economic freedoms."
 
 # 5f0bd7f0ac264389bd64d3dbc30a83ab
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:286
 msgid "John Locke 1632 - 1704"
-msgstr ""
+msgstr "John Locke 1632 - 1704"
 
 # 533924b651954853864245c946122a24
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:292
 msgid "*John Locke (wikimedia)*"
-msgstr ""
+msgstr "*John Locke (wikimedia)*"
 
 # 0fd471dfcd0d43dfb9e36881e11202a8
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:294
@@ -462,16 +647,20 @@ msgid ""
 " s'approprier légitimement les ressources originelles sans qu'il en reste "
 "suffisamment et en assez bonne qualité pour autrui."
 msgstr ""
+"John Locke, philosopher precursor of the age of the enlightenment  puts "
+"limits and tempere property rights by the « lockean proviso » which declares "
+"that one can only claim legitimately the ownership of original resources "
+"where there is enough, and as good, left in common for others."
 
 # 13893e1ce85b400787c59728649af569
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:301
 msgid "Les monnaies fiduciaires, premières monnaies expansionnistes"
-msgstr ""
+msgstr "Fiat currencies, first expansionist currencies"
 
 # 697a789272d040f2a72cdbf4d1cb6d5f
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:307
 msgid "*Caricature du système de Law (Wikimedia)*"
-msgstr ""
+msgstr "*Caricature of the Law's system (Wikimedia)*"
 
 # 489df94146354f05b8c3b01fe49529e4
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:309
@@ -482,6 +671,11 @@ msgid ""
 "l'œuvre en Italie. La France d'alors croule sous les dettes, et Louis XV "
 "donne le feu vert pour la mise en place du système."
 msgstr ""
+"In the 18th century, the \"Law's system\" - from the Scottish « John Law » - "
+"is officially implemented within a central proto-bank in France. Law "
+"observed the monetary fiduciaries mechanisms which were already working in "
+"Italy. Then France was overwhelmed by debts and Louis 15 gave his agreement "
+"for the implementation of this system."
 
 # 2b1fd91bd21c4103ac6aa76fdca9a9e5
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:315
@@ -492,11 +686,15 @@ msgid ""
 "monnaie représente une part de valeur de référence (or ou argent) payable "
 "par la Banque émettrice."
 msgstr ""
+"Fiduciary money engenders a currency which evolves towards a loss with the "
+"referent value, to go towards a dematerialisation in the form of pure trust. "
+"This very first version of money paper represents a part of the referent "
+"value (gold or silver) payable by the issuing Bank."
 
 # 56e9dd7a2514485e80e60bd7eb474060
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:322
 msgid "Premières Pyramides fiduciaires à création centralisée"
-msgstr ""
+msgstr "First fiat pyramids of centralized creation"
 
 # 174db6db9ce84fe680a7718a726281c4
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:324
@@ -508,6 +706,11 @@ msgid ""
 "d'échanges de valeur. Le développement économique s'accélère au fur et à "
 "mesure que la monnaie devient dense dans l'économie."
 msgstr ""
+"The first banks issuing fiat money base the trust on the reference value. "
+"But the temptation to print more banknotes than the Bank owns in metal as a "
+"guarantee, enabling more and more actors to monetized their production, and "
+"thus to create value exchanges cycles. The economic development is fastening "
+"as money becomes more dense in the economy."
 
 # 82d0c58d1ae34061946c8a0c44091542
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:331
@@ -515,6 +718,8 @@ msgid ""
 "Toutefois deux causes fondamentales créent l'effondrement de ces pyramides "
 "expansionnistes."
 msgstr ""
+"However, two fundamental causes provoke the collapse of these expansionist "
+"pyramids."
 
 # 2935405fdcc443ee90634b9642944b22
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:334
@@ -529,6 +734,15 @@ msgid ""
 "contre une quantité  de la valeur de référence, alors le billet devrait "
 "noter qu'au temps « t » la valeur de référence échangeable sera de :"
 msgstr ""
+"First of all one can not indefinably guarantee fixedly a finished value of "
+"reference by emitting more and more money. It would need to announce clearly "
+"the growth rate of the money emitted by the Bank, would allow getting a "
+"opposite rate of value of reference in time. For example, banknotes are "
+"emitted at a speed of « c », guaranteeing a value of reference owned by the "
+"issuer, and it is announced that the banknote at the time of issuing, the "
+"banknote is exchangeable to a quantity of value of reference, then this "
+"banknote should be noted that at time « t » the exchangeable value of "
+"reference will be :"
 
 # 2c9c8557209c4d38b4938feaaf9c38f5
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:348
@@ -537,6 +751,10 @@ msgid ""
 "faudrait alors noter sur les billet émis à la date « d » que la quantité de "
 "valeur de référence gagée par ce billet pour l'année « a » en cours est de :"
 msgstr ""
+"For example for a displayed growth of banknotes issued of 5% / year, it "
+"should be noted on the banknotes issued at the date « d » that the quantity "
+"of value of reference guaranteed by this banknote for the current year « a » "
+"is :"
 
 # 7fedf2f1be8b48ef9a514b93823ee5b9
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:356
@@ -547,6 +765,11 @@ msgid ""
 "valeur de référence pour chaque billet en fonction de sa date d'émission, "
 "mais il serait exact."
 msgstr ""
+"The quantity of exchangeable value of reference would halve in this precise "
+"situation every 15 years after the issuing date of a banknote. This system "
+"would be complex, and would ask to do the calculation of the value of "
+"reference for every banknote depending on its issuing date, but it would be "
+"exact."
 
 # b5a6805cf16a49e1be8abd2a529b0fa1
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:362
@@ -557,6 +780,11 @@ msgid ""
 "bénéficiaires. Le Banquier se sent alors pousser des ailes, et émet un peu "
 "plus de monnaie, puis encore plus, jusqu'au jour où la confiance chute."
 msgstr ""
+"The second cause is the loss of trust in the fixed guarantee. Existing "
+"banknotes being guaranteed by a fix value, with a very big trust of its "
+"users, the guarantee is almost never claimed by the beneficiaries. The "
+"Banker starts to feel exhilarated, and issue more money, then more again, "
+"until the day where the trust drops."
 
 # 6f9e1b765e5f4b64a0b8cbce4f40108d
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:368
@@ -569,6 +797,13 @@ msgid ""
 "pas dans les coffres de la Banque la valeur de référence en quantité égale à"
 " la somme des gages émis, les clients sont floués, et c'est la faillite."
 msgstr ""
+"Actors of economy are surprised to find so much guarantees of the referent "
+"value in their trades, increasing so the price in the emitted fiduciary "
+"currency, until the day where the trust in the issuer ceases, which "
+"constitutes the rupture and the crisis. Requesting for their guarantees, "
+"beneficiaries find out the truth : the equal quantity of the referent value, "
+"according to the the sum of the emitted wages, doesn't exist in the bank, "
+"customers are swindled and it's bankruptcy."
 
 # 6332cd640d744c239cbe57ea7cb16e70
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:376
@@ -581,6 +816,12 @@ msgid ""
 "la monnaie fiduciaire va prendre place dans l'économie en tant que telle, et"
 " non plus en tant que gage."
 msgstr ""
+"This is the principle of the Ponzi pyramid which is described here and where "
+"it's the last participants who are the most hardly affected. It's due to the "
+"fact that an economical expansion can't be done upon the wage of a fixed "
+"referent value. This phenomenon, which seems obvious, will take 3 centuries "
+"to find a partial improvement, when fiduciary money will take place more and "
+"more in the economy as itself and not as a guarantee."
 
 # c0df39c66a89405282822fc64bc51293
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:383
@@ -590,11 +831,15 @@ msgid ""
 "la valeur à spolier les biens ou faire travailler les derniers entrants au "
 "bénéfice des émetteurs centraux de monnaie."
 msgstr ""
+"The phenomenon of Ponzi pyramid - consisting in making the last participants "
+"pay to remunerate the first ones - in the monetary mirror of the value, "
+"means spoiling goods or making the last participants work for the benefit of "
+"the central issuers of money."
 
 # 82bdbc1496824b79a73aedfd0476cbc0
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:389
 msgid "Thomas Paine 1737 – 1809"
-msgstr ""
+msgstr "Thomas Paine 1737 – 1809"
 
 # d3f7e8374fc345f38edc14b434aac511
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:391
@@ -602,6 +847,8 @@ msgid ""
 "Thomas Paine, révolutionnaire Américain, puis Français, déclare dans « les "
 "droits de l'Homme » publiés en 1792 l'assertion suivante :"
 msgstr ""
+"Thomas Paine, revolutionary American, then French, declared in the \"Human "
+"rights\" published in 1792 the following assertion:"
 
 # 9c65e2859f8147b89afa9ee62182769f
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:394
@@ -614,6 +861,13 @@ msgid ""
 "qui ne peuvent jamais se rencontrer* *dans ce monde, l'un soit autorisé à "
 "maîtriser l'autre jusqu'à la consommation* *des siècles ?\"*"
 msgstr ""
+"*\"Those who have quitted the world, and those who have not yet arrived at "
+"it,* *are as remote from each other as the utmost stretch of mortal "
+"imagination can conceive.* *What possible obligation, then, can exist "
+"between them- what rule or* *principle can be laid down that of two "
+"nonentities, the one out of existence* *and the other not in, and who never "
+"can meet* *in this world, the one should control the other to the end of "
+"time?\"*"
 
 # 67171a71d59b488285ad3060a08c7b85
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:402
@@ -624,16 +878,20 @@ msgid ""
 "représenté, il doit bénéficier d'un revenu universel de base lui permettant "
 "son existence politique."
 msgstr ""
+"In 1785 three years after « Human rights »  Thomas Pain, then French deputy, "
+"publish « Agrarian Justice »  in which he declares that no citizen without "
+"revenue can be and as any citizen has to be represented, he must benefit of "
+"a universal basic income allowing him a political existence."
 
 # f59d198a246442198d0ae84cf3216a23
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:412
 msgid "*Thomas Paine (wikimedia)*"
-msgstr ""
+msgstr "*Thomas Paine (wikimedia)*"
 
 # b09f818e075a4851ad0f30a0458f3f9f
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:415
 msgid "Invention du Levier Bancaire réglementé"
-msgstr ""
+msgstr "Invention of regulated Leverage"
 
 # 1693929286124685bc6c399dc5feb819
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:417
@@ -646,6 +904,12 @@ msgid ""
 "fallait trouver un système qui évite les faillites, tout en gardant les "
 "côtés positifs du système."
 msgstr ""
+"Despite repeated failures of the first Central Banks, the idea of an "
+"expansionist fiduciary money was never abandoned. Why ? Because such a money "
+"is easier to transport, easier to exchange, is a nice business model for "
+"issuing Banks, but most of all it lead the economy to fast expansionist "
+"periods. A system where failure were avoided had to be found while saving "
+"the positive aspects of this system."
 
 # e2464fc37e4b4cc7bc4096b84e663853
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:424
@@ -659,6 +923,14 @@ msgid ""
 "clients pouvaient récupérer leur valeur de référence, et la confiance "
 "restait valable dans le système... Uniquement pendant un temps plus long !"
 msgstr ""
+"A solution has been found: the limited banking leverage. The banker has a "
+"limit of fiduciary money emission in the limited of a regulated ratio. This "
+"system would allow customers to find back the referent value in a "
+"sufficiently high proportion, in order to not undermine the trust. "
+"Historically, it's about factor 10% of reserve which has been chosen. This "
+"reserve ratio, a sufficient numbers of customers could get back their "
+"referent value and the trust remained valid in the system.. Only for a "
+"longer time!"
 
 # 66e06b05ddf4478494393b42dfd53366
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:433
@@ -671,6 +943,13 @@ msgid ""
 "derniers emprunteurs, ne voyant plus venir l'afflux de nouvelle monnaie "
 "permettant de payer dettes + intérêts."
 msgstr ""
+"This system still asymmetric does not impede the loss of trust and only "
+"postpones the term on a larger period. The limited leverage effect is "
+"finally blocked while it reaches the \"long-term assets\", when the 10% of "
+"reserve are reached, the banking system is forced to stop emitting new "
+"credits, and it's bankruptcy for the last borrowers who can't expect any "
+"more stream of the new currency which allows to pay the debts and the "
+"interests."
 
 # 6ffe05ac3b184a2fae45f4a5ba05e86e
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:441
@@ -684,6 +963,13 @@ msgid ""
 "expansionniste encourage sa circulation, permet de payer dettes + intérêts :"
 " elle est la condition nécessaire d'une expansion souple dans le temps."
 msgstr ""
+"The referent value guaranteed by money can't be respected by the issuer who "
+"wants to allocate more credits to reinforce an economic expansion. Beside, "
+"without monetary expansion, it's not possible to reinforce the investment, "
+"the hoarding without associated value creation, sufficient to acquire a "
+"growing buying power. The intrinsically melting value of an expansionist "
+"currency encourage its circulation, allows to pay debts + interest: it is "
+"the necessary  condition for a supple expansion in time."
 
 # d4b12575790e4e7c9fb0c8438235853e
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:450
@@ -698,6 +984,13 @@ msgid ""
 "anciens avec les États, qui traversent sans broncher les « crises » "
 "successives."
 msgstr ""
+"Playing on these both complementary aspects which are expansion and credits "
+"contraction, the centralized system with leverage effect, give to the banks, "
+"the control of the artificial \"economic cycles\", which are only monetary "
+"cycles, allowing not only to control the whole economy but also to ensure - "
+"whatever the created value - a perpetual income. It's a fact: issuers of "
+"asymmetric money are among the oldest economic centres of activities with "
+"the States, which take the successive \"crisis\" in stride."
 
 # adb98ebe7cd24f4e9fc3e0917593ad5d
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:459
@@ -708,6 +1001,10 @@ msgid ""
 "de la monnaie commune et ne mesurent que trop tard l'impact de ce phénomène "
 "sur leur propre activité."
 msgstr ""
+"Producers remote from the monetary emission centre - misunderstanding how "
+"money is emitted - realize belatedly the effects of the politics of credits "
+"emission over the fluctuation of the common money value, and they measure "
+"too late the impact of this phenomenon on their own activity."
 
 # 9f0205aa80554e1d8597a889ff5137e0
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:465
@@ -723,16 +1020,25 @@ msgid ""
 "historique. 1929 était la dernière crise de taille internationale basée sur "
 "une valeur de référence fixe."
 msgstr ""
+"When they realize it, and all wish at the same time to recover the « "
+"reference value » there is not as much stocks for answer to all demands ("
+"insuring 10% of reserves remains in any case a fraud, it is impossible for "
+"the whole owners of money to recover this  « value », and the first to get "
+"it are doing it at the expense of the others before general bankruptcy), and "
+"the bankruptcies from Banks to Banks destabilize then all the rest of the "
+"economy which collapses and leads to social and political disorders of "
+"historical scale. 1929 was the last crisis at an international scale based "
+"on a value of fixed reference."
 
 # 23c4a37e798b4a2186b8d8d279ff17e6
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:479
 msgid "*Charles Ponzi, inventeur de la pyramide du même nom (Wikimedia)*"
-msgstr ""
+msgstr "*Charles Ponzi, inventor of the pyramid named after him (Wikimedia)*"
 
 # 895619db4ec24ece9b41355d260b6bff
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:482
 msgid "Clifford Hugh Douglas 1879 – 1952"
-msgstr ""
+msgstr "Clifford Hugh Douglas 1879 – 1952"
 
 # 5eeb86e387ba4b228d2ee92ca4465f28
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:484
@@ -742,16 +1048,20 @@ msgid ""
 "qui est démontrée comme essentielle pour assurer l'équilibre de la monnaie "
 "et la correction du biais des intérêts liés aux dettes."
 msgstr ""
+"Clifford Hugh Douglas, British engineer published in 1924 « social credit » "
+", where we see for the first time the perspective of a « monetary dividend  »"
+" which is demonstrated as essential to ensure the balance of the money and "
+"the correction of the bias of interests related to debts."
 
 # 731035500112427daca6133b7436669b
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:493
 msgid "*Clifford Hugh Douglas (wikimedia)*"
-msgstr ""
+msgstr "*Clifford Hugh Douglas (wikimedia)*"
 
 # 05e36b95cdc34aa4b68690dfbf4aafaf
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:496
 msgid "L'instabilité de la valeur de référence"
-msgstr ""
+msgstr "The instability of the reference value"
 
 # 8a0c33788bad4633b76c64b9cfa703ff
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:498
@@ -764,11 +1074,18 @@ msgid ""
 " monétaire comme le montre ce graphique du prix en dollar de « l'étalon » "
 "qui n'en était déjà plus vraiment un."
 msgstr ""
+"From 1946 to 1971, the gold standard continues to be used, but it is not "
+"really guaranteed by the transmitter other than through façade prices. As "
+"long as the demand for the reference value was low, the price could be "
+"displayed as fixed, but even before 1971, evolutions of the displayed price "
+"became necessary facing an excessive demand supported by the monetary "
+"expansion, as shown in this graph of the price in dollars of the gold "
+"standard, which was no longer one."
 
 # 6eb600677b184dccab341b5b3b56468e
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:510
 msgid "*Evolution du prix de l'or en $ jusqu'en 1971*"
-msgstr ""
+msgstr "*Evolution of the price of gold in dollars until 1971*"
 
 # 6b35217673cb46a395863a775f562996
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:513
@@ -778,6 +1095,10 @@ msgid ""
 "monnaie en expansion se fait jour quand à demande égale la quantité de "
 "monnaie augmente. C'est un phénomène purement mécanique."
 msgstr ""
+"This is as well as since 1967, gold's price started to letting go. "
+"Impossibility to provide baseline value to fix price within a money in "
+"expansion appear when at equal demand quantity of money growth. This is a "
+"purely mechanically phenomenon."
 
 # d6c6a1e756ca45e2baf4c6b4acb4a5f4
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:518
@@ -790,11 +1111,17 @@ msgid ""
 "mécaniquement impossible sur le long terme de faire cohabiter deux chiffres "
 "totalement contradictoires."
 msgstr ""
+"Similarly seen in 2010, a growth of 7% / year over 10 years of the money "
+"supply in euro, and then hear that \"monetary policy\" is to maintain a \"2% "
+"inflation\" is so absurd that we should not be surprised to see coming "
+"sooner or later a violent catching, either by blows on the most requested "
+"values, or gradually, but it would be mechanically impossible on the long "
+"term to get two totally contradictory figures."
 
 # 25be50e3abaa47d2b753aa9479bb38b9
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:527
 msgid "Abandon complet de l'étalon or, les réserves fractionnaires"
-msgstr ""
+msgstr "Complete abandonment of the gold standard, the fractional reserves"
 
 # 3a3afee9eb7d42a19396107122d4d211
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:529
@@ -806,6 +1133,12 @@ msgid ""
 "Banques. Le prix de l'or a alors subi des variations diverses, passant par "
 "une bulle historique qui a vu un sommet en 1980."
 msgstr ""
+"Recognising the futility and the impossibility of holding a standard through "
+"a reference value, 1971 sees the emergence of fractional reserves, a control "
+"system of the money supply by Central Banks, which allows to control "
+"interest rates and the amount of funds allocated by the Banks. The price of "
+"gold then underwent various changes, through a historical bubble that saw a "
+"peak in 1980."
 
 # 64482a4b9fff431a8fe5f707b25a68b7
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:536
@@ -815,6 +1148,10 @@ msgid ""
 " États, s'en arrogeant un monopole d'émission exclusif au détriment des "
 "producteurs éloignés du centre."
 msgstr ""
+"The system of fractional reserves still does not solve the problem of ethics "
+"as to the currency, a two-headed emission centre, Banks and States, in "
+"arrogating to a monopoly of exclusive emission to the detriment of producers "
+"away from the centre."
 
 # 0d00388a94e344b7b0b62982c3bfbfb5
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:541
@@ -829,6 +1166,14 @@ msgid ""
 "solutions, qui quoique éthiquement très discutables peuvent éviter les "
 "faillites brutales, et donc évitent une part des désordres antérieurs."
 msgstr ""
+"There is always, in this system, a leverage which takes advantage of the "
+"asymmetrical issuer of the currency that creates money by arbitrary credit "
+"«pledged», in case of bankruptcy of the borrower, with a rate such as 8% of "
+"reserve.. made of.. the same currency! This change is a windfall for the "
+"financial sector, since this type of reserve is being manipulated easily, "
+"one can always, in case of crises, find solutions, which can be ethically "
+"very questionable, but allow to avoid sudden failures and thus avoid a part "
+"of previous disorders."
 
 # dca07ae2390849c89e0859a5486b266a
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:551
@@ -843,6 +1188,14 @@ msgid ""
 "d'échanger en « peer to peer », de personne à personne, sans permission "
 "spéciale d'une autorité centrale."
 msgstr ""
+"We can compare the monetary system still active in 2010 to the old French "
+"computers network of the Minitel, a centralized network, where the creation "
+"of services required a review of the monopolistic owner and the sharing of "
+"revenues from the activity. While an issue system of symmetrical currencies "
+"in the space-time such as Universal Dividend is comparable to a neutral "
+"Internet where every citizen of the economic zone is considered as equal to "
+"money creation, and therefore capable of exchanging in \"peer to peer\", "
+"from person to person, without special permission of a central authority."
 
 # 273b1285cd3c4db48eac07d2885872dc
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:560
@@ -851,6 +1204,8 @@ msgid ""
 "l'économie ? Ce système crée des cycles artificiels, au bénéfice des "
 "émetteurs asymétriques :"
 msgstr ""
+"How does this fractional reserve system work in terms of the economy ? This "
+"system creates artificial cycles for the benefit of asymmetric issuers :"
 
 # 2dbe1e7c014d424ab7afb2afdc13aff4
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:564
@@ -862,6 +1217,11 @@ msgid ""
 "contrôle de cette « spoliation réglementaire », à un taux suffisamment "
 "faible pour être supportable."
 msgstr ""
+"**Step 1 :** The financial system is being consolidated, and on the basis of "
+"his \"own founds\" will be able to issue a debt **« € »** via interests "
+"which comes \"irrigate the economy\" by a \"leverage\". Step which can be "
+"long and sprawls overs 10 or 20 years, the Central Bank ensuring a control "
+"of this « regulatory spoliation », at a low enough rate to be sustainable."
 
 # 5d18df1510294bfe814e4718ec8220fd
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:570
@@ -875,6 +1235,13 @@ msgid ""
 "autonomes qui s'en servent à juste titre de moyen d'échange. Cette étape "
 "peut elle aussi durer de 10 à 20 ans..."
 msgstr ""
+"**Step 2 :** the financial system \"is paid\" by the interest **« I »** of "
+"the issued debt (public and private). The interests, and possibly the "
+"nominal debts, fueling the \"hole\" thus formed. Except that the  issued "
+"debt has no reason to \"return\" to the issuer, as having duly paid this or "
+"that, it is very largely hoarded by investors, or is found circulating in "
+"autonomous microsystems which use rightly medium of exchange. This step can "
+"also last for 10 to 20 years ..."
 
 # 36f4d7b1198e4980816960af2ba55078
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:578
@@ -892,6 +1259,17 @@ msgid ""
 "plus « riche » que lors du cycle précédent (en valeur monétisée, ce qui ne "
 "signifie aucunement une valeur « absolue », qui n'existe pas)."
 msgstr ""
+"**Step 3 :** due to the impossibility of return issued debt with interests, "
+"the financial system, on the basis of caused bankruptcies, end up with a "
+"totally unstable balance, and in a bankruptcy itself (it is still expected "
+"to balance its balance sheet). He collapses on itself. There is then a "
+"massive issuance of new debt \"to rebuild it\", to irrigate again an economy "
+"that moves away (inflation of real wealth) but lacking sorely of money ("
+"crisis due to the scarcity artificially maintained of the currency). It then "
+"finds the end of the cycle and a new cycle may restart, 1) 2) and 3), except "
+"that considered economic space is much larger and « richer » than in the "
+"previous cycle (in monetized value which does not mean an « absolute » "
+"value, which does not exist)."
 
 # ac58f2012eb244da8be92a5b7e6d35b4
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:591
@@ -902,21 +1280,26 @@ msgid ""
 "asymétrique, lui assurant un « business modèle » absolu et infaillible, "
 "valable en tout point de l'espace-temps."
 msgstr ""
+"The result for the producers, is that, regardless of the created and "
+"exchanged value, the acceptance of such « common » currency is the assurance "
+"that this value will inevitably vampirized by the asymmetrical issuer, "
+"assuring him a \"business model \"absolute and infallible, valid at any "
+"point in space-time."
 
 # 57d29ba27edd46f6be2e01468e9814dd
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:601
 msgid "*Trois étapes d'émission de l'« argent dette » (Luc Fievet TRM 2.0)*"
-msgstr ""
+msgstr "*Three steps of emission of the « debt money » (Luc Fievet RTM 2.0)*"
 
 # fdcb611d6a9e416a835de8dea15ac509
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:604
 msgid "Yoland Bresson, né en 1942"
-msgstr ""
+msgstr "Yoland Bresson, born in 1942"
 
 # b0eb3e16dffe47219a26c4274787ba40
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:610
 msgid "*Yoland Bresson en 2012 (wikimedia)*"
-msgstr ""
+msgstr "*Yoland Bresson in 2012 (wikimedia)*"
 
 # 30c1b75bb7c249e188d986cd10c73d5e
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:612
@@ -924,6 +1307,8 @@ msgid ""
 "Dans « l'après salariat » publié en 1984 l'économiste Français Yoland "
 "Bresson déclare :"
 msgstr ""
+"In the « post-wage-labour » published in 1984, the french economist Yoland "
+"Bresson states :"
 
 # 74e3593b34e546259996f545d73306c9
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:615
@@ -933,6 +1318,9 @@ msgid ""
 "celle de son existence,* *l'équivalent monétaire de la valeur de l'unité de "
 "temps ».*"
 msgstr ""
+"*« The community needs, through the State, to periodically allocate to* *any "
+"economic citizen, no other considerations than its existence,* *the monetary "
+"equivalent of the value of the unit of time ».*"
 
 # e7d899017e6f430dafe2fce95abfe231
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:619
@@ -942,11 +1330,16 @@ msgid ""
 " (qu'il nomme revenu d'existence) dont la quantité est étonnamment proche de"
 " celle déduite par l'approche purement monétaire et relativiste de la TRM."
 msgstr ""
+"Yoland Bresson demonstrates a relationship between time of existence and "
+"value, and calculates, on considerations relating to GDP, a relative value "
+"of a basic income (named \"revenu d'existence\") whose quantity is "
+"surprisingly close to that deduced by the purely monetary and relativistic "
+"approach to the RTM."
 
 # b64b81c825174bdda97cff2d33b75c55
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:626
 msgid "2010 et après : Bâle III, ou des monnaies symétriques ?"
-msgstr ""
+msgstr "2010 and after : Bâle III, or symmetrical currencies ?"
 
 # f016329c41d64888943242026e835080
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:628
@@ -958,6 +1351,12 @@ msgid ""
 "réseau acentré symétrique et neutre type Internet à part les spécialistes "
 "des réseaux informatiques et des protocoles de télécommunication ?"
 msgstr ""
+"The cycle being long, the capturing value is being made on a sufficiently "
+"low rate to not be excessive, the process is hardly discernible. In the same "
+"way, who is able to see the difference between building a network centered, "
+"such as the Minitel, and building an acentric, symmetrical and neutral "
+"network, such as Internet, except for system administrators and "
+"telecommunication protocols specialists ?"
 
 # 092c6ae96f5c47bb9780270f20cf1beb
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:635
@@ -970,6 +1369,12 @@ msgid ""
 "ouvert, transparent, et équitable entre tous les membres de la zone "
 "monétaire concernée."
 msgstr ""
+"We are therefore in the exploitation of ignorance as to the construction of "
+"the monetary system. An informed citizen of a proposal for the use of a "
+"common currency allowing it to trade fairly with similar production present "
+"and future, should not accept such an architecture, but opt for a choice "
+"that is open, transparent, and equitable among all members of the respective "
+"currency union."
 
 # 335b0d4580c84bfbaaf3752ee511b3d4
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:642
@@ -980,6 +1385,11 @@ msgid ""
 " Bâle I » puis « Bâle II » et « Bâle III » en cours de négociation, censées "
 "« réguler les Banques »."
 msgstr ""
+"2007 – 2010 representes the end of the last cycle of monetary expansion 1971 "
+"– 2010, which has seen successively private rules prevail both in the USA "
+"and in Europe, decided within an « expert » group , named  « Bâle I » then « "
+"Bâle II » and « Bâle III » under negotiation, expected « regulate the Banks "
+"»."
 
 # 6dedb2b083c94078b6e463bcd391c99f
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:648
@@ -987,6 +1397,8 @@ msgid ""
 "Cela reviendrait à essayer de transformer le Minitel alors qu'internet "
 "s'impose."
 msgstr ""
+"This would be like trying to transform the Minitel while the Internet is "
+"being increasingly adopted."
 
 # 4615699e014b43a7bafe163a67ec8745
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:650
@@ -1001,6 +1413,15 @@ msgid ""
 "décentralisée, via les liens de personne à personne et où l'ensemble des "
 "transactions est stocké sur l'ensemble du réseau dans un mode chiffré."
 msgstr ""
+"But what's happening in 2010 ? An explosion of complementary currencies ever "
+"seen in the history of currency crises. If the local currencies explode, "
+"attempting several types of monetary systems, based on a fixed mutual "
+"credit, with an Universal Dividend, it is mainly on Internet that are "
+"deployed interesting attempts, which the most technically accomplished is "
+"probably the Open Source project \"BitCoin\" which allows to manage a "
+"monetary system P2P « peer to peer », where the currency can develop itself "
+"in a fully decentralized way, through peer-to-peer relationships and where "
+"all transactions are stored and encrypted on the entire network."
 
 # b10585e078fd495fa2108476e84243b4
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:660
@@ -1012,6 +1433,12 @@ msgid ""
 " la symétrie temporelle ne l'est pas, et une fois passée la génération de la"
 " masse monétaire maximum, les derniers entrants n'y auront plus accès."
 msgstr ""
+"The project Bitcoin is however sealed by a non-fundamental compatibility "
+"with RTM. Indeed the total mass of Bitcoins is technically limited to a "
+"maximum. So that although the spatial symmetry is respected in part because "
+"it seems not to advantage anyone, the temporal symmetry is not, and once "
+"past the generation of the maximum money supply, the last new adopters won't "
+"have access."
 
 # 58531b4ad08d40e98f83ff6aec879303
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:667
@@ -1022,6 +1449,11 @@ msgid ""
 "économique. Bitcoin ne respecte donc que la première liberté d'un système "
 "monétaire, s'agissant d'un système ouvert."
 msgstr ""
+"In addition there still is a spatial bias. The symmetry is not based on "
+"individuals adopting the system, but on the machine ability to generate "
+"computing. This is not consistent with economic freedoms. Bitcoin therefore "
+"doesn't respect the first freedom of a monetary system, as it is an open "
+"system."
 
 # 0f8fd64cbbfc479d86c835606a22ff66
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:673
@@ -1029,6 +1461,8 @@ msgid ""
 "On peut s'attendre donc à ce que la « pyramide temporelle des Bitcoins » "
 "s'effondre tôt ou tard."
 msgstr ""
+"Therefore it can be expected that the \"temporal pyramid of Bitcoins\" "
+"collapses sooner or later."
 
 # 2ae42544241b4114b763fe5746811c81
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:676
@@ -1037,21 +1471,23 @@ msgid ""
 "qu'après une récolte, un champ de blé ne fournit-il pas encore et toujours "
 "des récoltes abondantes ?"
 msgstr ""
+"What remains from the gold rush, except ghost towns ? Whereas after a "
+"harvest, a wheat field does not provide over and over again abundant crops ?"
 
 # 36673e0f38aa4acf8591c8b4a35fa34e
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:681
 msgid "Graphique historique"
-msgstr ""
+msgstr "Historic graph"
 
 # 15ffe33759d9468899d1beb4bc3866e4
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:687
 msgid "*Les différentes formes monétaires depuis 12 000 ans*"
-msgstr ""
+msgstr "*The different monetary forms since 12,000 years*"
 
 # 4cbd1c4365e0408a89eefc039db47bb1
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:690
 msgid "Le Dividende Universel en application"
-msgstr ""
+msgstr "The Universal Dividend implemented"
 
 # 2edd35307744493a98a947cc88447500
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:692
@@ -1060,6 +1496,9 @@ msgid ""
 " formes, et différents noms comme « revenu d'existence », « revenu permanent"
 " », « allocation universelle » etc..."
 msgstr ""
+"The Universal Dividend has already been implemented recently under different "
+"forms, and under different names as « unconditional basic income », « basic "
+"income guarantee », « universal basic income » etc..."
 
 # a4c9c9de5df444edb60b575c8749e742
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:696
@@ -1072,6 +1511,12 @@ msgid ""
 "d'un Revenu d'Existence) en France qui fut présidée par l'économiste Yoland "
 "Bresson."
 msgstr ""
+"There are examples of implementation in Alaska, in a local experience in "
+"Namibia, within SEL as SCEC in Italy, or in Brazil. There are groups that "
+"promote a symmetric and individual income as the International Association "
+"of BIEN (Basic Income Exchange Network), as well as the AIRE (Association "
+"pour l'Instauration d'un Revenu d'Existence) in France was chaired by the "
+"economist Yoland Bresson."
 
 # 391409ab64cc404d8aeef04e30f5dd3c
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:703
@@ -1087,6 +1532,15 @@ msgid ""
 "d'inciter les citoyens ayant peu de revenus, soit à ne pas monétiser leurs "
 "productions, soit à ne pas déclarer les échanges (ou les deux)."
 msgstr ""
+"Best of all, Europe is already virtually installed in a system where an "
+"Universal Dividend grew since 20 years, in parallel with a system of "
+"arbitrary credits. In France, in 2010, the RSA is 450€/month, but it "
+"decreases gradually as assured people gain additional revenues, on a large "
+"ditch, so that for example, among citizens earning an equal hourly income, "
+"some touching the RSA by working only half-time, when others are full-time. "
+"A totally unfair system that can be called \"great divide\" and whose main "
+"consequence is to encourage citizens with little income, not to monetize "
+"their productions, or not to declare the exchanges (or both)."
 
 # 6e396916f43c4b39ad5d5fe5ec78c72b
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:714
@@ -1097,6 +1551,11 @@ msgid ""
 "recherche d'un « emploi », et qui donc in fine ne considèrent pas les "
 "individus comme les associés inconditionnels de la nation."
 msgstr ""
+"This is actually all OECD countries that offers a minimum income, which "
+"remains conditional in most cases, usually associated with an age "
+"requirement, various constraints such as to demonstrate the search of a \""
+"job\", and thus ultimately they do not consider individuals as unconditional "
+"associated with the nation."
 
 # 01f64f50dddf42818a70eb1bd231668e
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:720
@@ -1107,6 +1566,11 @@ msgid ""
 "associés à la monnaie commune n'en ont pas, et ont parfois des salaires "
 "minimum inférieurs à ce montant."
 msgstr ""
+"The main problem of the euro zone is the strong disparity of the minimum "
+"income. Where France, Germany and Spain offer more or less comparable amount "
+"of 450€/month, the citizens of other countries recently associated with the "
+"common currency don't have, and sometimes have minimum wages below this "
+"amount."
 
 # 19037adcd2684e76ba7e2ce5bfda3965
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:730
@@ -1118,6 +1582,12 @@ msgid ""
 "Citoyen gagne toujours la même chose,* *environ 1050 € / mois. "
 "(http://www.creationmonetaire.info « Le revenu de base en France »)*"
 msgstr ""
+"*Evolution in France in 2011, of the net revenue received* *(blue areas + "
+"orange = RSA + net complement.* *The yellow areas, green and red are the "
+"taxes)* *According of total individual turnover* *or full salary (abscissa = "
+"full salary).* *Between 600€ and 2200€ / month of turnover,* *The Citizen "
+"earns always the same amount,* *about 1050€ / month. (http://"
+"www.creationmonetaire.info « The basic income in France »)*"
 
 # 044b02390ac5486dad3896770e2492ab
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:739
@@ -1127,6 +1597,10 @@ msgid ""
 "distorsion de concurrence entre individus, en totale contradiction avec "
 "l'objectif affiché d'un marché libre et non faussé."
 msgstr ""
+"Under these conditions, the production leaves the countries offering high "
+"minimum income to reach out to those where it is much lower or non-existent, "
+"creating a strong distortion of competition between individuals, in total "
+"contradiction with the stated objective of a free market and undistorted ."
 
 # 5c346e0d2a8b4d3291c1b29732b0175e
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:744
@@ -1141,11 +1615,20 @@ msgid ""
 "sont l'accès aux ressources, la production, et l'échange « dans la monnaie "
 "»)."
 msgstr ""
+"A common currency is only compatible with human rights if its mode of "
+"creation respect the equality of men before the judgment of any value, and "
+"thus their equal right to the money creation. The implementation of an "
+"economic zone based on a common currency, without a convergence of "
+"individual minimum incomes, is a violation of law. It comes to an "
+"implementation of a currency that doesn't respect the four freedoms (the "
+"freedom of the democratic change in the code, and the three economic "
+"freedoms which are the access to resources, the production, and the exchange "
+"« in the currency » )."
 
 # c1f65858fb2c463eb5320dffcf1cbf54
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:754
 msgid "Le projet libre Open-UDC"
-msgstr ""
+msgstr "The open project Open-UDC"
 
 # 80456f0839674351848808d4be3a7597
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:756
@@ -1154,6 +1637,9 @@ msgid ""
 "développement d'un système informatique libre (sous licence GPL), de monnaie"
 " libre à Dividende Universel."
 msgstr ""
+"The project Open-UDC ( as « Universal Dividend Currency ») is a development "
+"project of an open computer system ( licensed under GPL ), of free "
+"currencies based on Universal Dividend."
 
 # 49a546c71bb5422cb77cffc956973f90
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:760
@@ -1163,6 +1649,10 @@ msgid ""
 "collective d'échanges monétaires au sein d'une masse monétaire numérique "
 "associée à des règles et processus de contrôle ouverts et démocratiques."
 msgstr ""
+"Initiated in 2011, it is accessible on http://www.open-udc.org , and it "
+"consists to develop a set of tools allowing the individual and collective "
+"management of monetary exchange within of a digital money supply associated "
+"with rules and open and democratic control processes."
 
 # d33b79b94a0549148664c8169c443691
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:765
@@ -1172,16 +1662,20 @@ msgid ""
 "qu'il peut être utile de rappeler ici pour les créateurs de SEL voulant "
 "s'inspirer de la TRM :"
 msgstr ""
+"Besides an initial democratic basis, the project has reduced the calculation "
+"of the Universal Dividend on a monthly basis from very simple rules, it may "
+"be useful to remind here for the creators of local money wanting to follow "
+"the RTM :"
 
 # 5388ce14fc114d87a5e1c8fcd824931e
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:770
 msgid "UD (0) = 100 UDC"
-msgstr ""
+msgstr "UD (0) = 100 UDC"
 
 # 3af9a1bfc6f945f7a9601841a69ddb3d
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:771
 msgid "UD (n+1) = MAX { UD(n) ; Pud × M(n)/N(n) }"
-msgstr ""
+msgstr "UD (n+1) = MAX { UD(n) ; Pud × M(n)/N(n) }"
 
 # 0c71f12aaec249d5bfb5fbc90791a8ba
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:773
@@ -1191,6 +1685,10 @@ msgid ""
 "prédéfini, M(n) est la masse monétaire du mois précédent, et N(n) le nombre "
 "de membres de la communauté monétaire."
 msgstr ""
+"Where « n » is the previous month. UD(n) is the Universal Dividend of the "
+"last month, Pud is the constant percentage of the preset minimum Universal "
+"Dividend, M(n) is the money supply of the last month, and N(n) is the number "
+"of members of the monetary community."
 
 # d63b1a9105bd429d9c8cbedd20f4f164
 #: ../../source/zooms-sur-l-histoire-de-la-monnaie.rst:778
@@ -1199,3 +1697,6 @@ msgid ""
 "et est remonté si la croissance de la masse monétaire par membre (M(n)/N(n))"
 " devient inférieure au minimum « Pud »."
 msgstr ""
+"The Universal Dividend in monetary units and thus fixed, never fall, and is "
+"recovered if the growth of the money supply for each member (M(n)/N(n)) "
+"becomes lower to the minimum « Pud »."

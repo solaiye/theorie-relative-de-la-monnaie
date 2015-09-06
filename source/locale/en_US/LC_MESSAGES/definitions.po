@@ -10,14 +10,16 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-07-16 08:46+0000\n"
-"Last-Translator: Vincent Texier\n"
-"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
+"PO-Revision-Date: 2015-09-03 12:05+0000\n"
+"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
+"Language-Team: English (United States) "
+"<http://weblate.ucoin.io/projects/rtm/definitions/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.4-dev\n"
 
 # a85a6d8d7fea490199687adf49e5039c
 #: ../../source/definitions.rst:3
@@ -40,12 +42,16 @@ msgid ""
 "à l'établissement des lois physiques, aucune étude poussée ne peut être "
 "menée sans que ne soient définis auparavant le repère de référence de "
 "l'économie et l'unité de mesure associée."
-msgstr "As a landmark and time and length units are necessary to the establishment of physics laws, none advanced study can be conducted without the previous definition of the economy reference landmark and the associated measure unit."
+msgstr ""
+"As a reference and time units and length units are necessary to the "
+"establishment of physics laws, no advanced study can be conducted without "
+"the previous definitions of the economy reference frame and the associated "
+"measure unit."
 
 # 33f22592507f4cdba38ab4d0c9c09e85
 #: ../../source/definitions.rst:15
 msgid "Repère : la zone monétaire"
-msgstr "Landmark: the monetary zone"
+msgstr "Reference : the currency union"
 
 # 75071ae582ae46aebb8558277adcac14
 #: ../../source/definitions.rst:17
@@ -57,7 +63,7 @@ msgstr "An economic zone or a monetary zone is the base landmark of the economic
 # 7195f78c765247c18c756004fe726b54
 #: ../../source/definitions.rst:20
 msgid "L'espace où l'accord monétaire est manifeste"
-msgstr "The space where the monetary deal is manifest"
+msgstr "The space where the monetary agreement is manifest"
 
 # 12565bda8eea4e35b013ab0a963c9e50
 #: ../../source/definitions.rst:22

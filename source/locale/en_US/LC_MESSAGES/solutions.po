@@ -8,19 +8,21 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-07-16 08:41+0000\n"
-"Last-Translator: Vincent Texier\n"
-"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
+"PO-Revision-Date: 2015-09-01 22:40+0000\n"
+"Last-Translator: sb <s_b_@openmailbox.org>\n"
+"Language-Team: English (United States) "
+"<http://weblate.ucoin.io/projects/rtm/solutions/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.4-dev\n"
 
 # cca5a1967f2d4887a267091a2204da41
 #: ../../source/solutions.rst:3
 msgid "Solutions"
-msgstr ""
+msgstr "Solutions"
 
 # 6734a857e4db46dc89dc68dade104698
 #: ../../source/solutions.rst:5
@@ -32,11 +34,17 @@ msgid ""
 "pourtant limite aussi la quantité de monnaie afin qu'elle garde à la fois de"
 " la stabilité et un potentiel d'échange non nul."
 msgstr ""
+"A *spatio-temporal symmetry* (the application of the relativity principle) "
+"is then necessary, that permits the circularity of exchanges of values, "
+"ensuring a temporal continuity, that is non-discriminatory inside of the "
+"spatio-temporal reference frame, taking into account present and future and "
+"while also limiting the quantity of money so it is both stable and an non-"
+"null exchange potential."
 
 # 96a98a15987542ac908f1aa165fc428e
 #: ../../source/solutions.rst:12
 msgid "Est-ce seulement possible ? Oui !"
-msgstr ""
+msgstr "Is it only possible ? Yes !"
 
 # 409611ffa7604848a425be939e041e38
 #: ../../source/solutions.rst:14
@@ -44,11 +52,13 @@ msgid ""
 "Comme nous allons le voir, non seulement les classes de solutions sont "
 "parfaitement déterminées mais on peut trouver une solution optimisée."
 msgstr ""
+"As we'll see, not only the solution classes are perfectly determined but we "
+"can find one optimized solution."
 
 # d4fcbbde08f04e779b886ce34047ca63
 #: ../../source/solutions.rst:19
 msgid "a) Classes de solutions"
-msgstr ""
+msgstr "a) Solution Classes"
 
 # 2fa9d965886044d08ed1192e85843a6e
 #: ../../source/solutions.rst:21
@@ -58,6 +68,10 @@ msgid ""
 " acteurs un crédit mutuel (pas une dette) mathématique, donc sans dimension "
 "et non liée à une valeur spécifique."
 msgstr ""
+"The solutions for monetary creation respecting the spatio-temporal "
+"symmetries imply that the monetary mass \"M(t)\" chosen by the actors of a "
+"mathematical mutual credit (not a debt), so without dimension and not linked "
+"to a specific value."
 
 # 1d3734855d41459ba7d72843c9953454
 #: ../../source/solutions.rst:26
@@ -66,11 +80,14 @@ msgid ""
 " les équations différentielles qui sont nécessaires pour la détermination "
 "des solutions du problème des trois producteurs."
 msgstr ""
+"The conditions of symmetry and thus of freedom, will permit us to establish "
+"the differential equations necessary to determine the solutions to the \""
+"three producers\" problem."
 
 # f2b45abb3894473d96a7049e1df5e59d
 #: ../../source/solutions.rst:31
 msgid "Une symétrie spatiale"
-msgstr ""
+msgstr "A spatial symmetry"
 
 # f21b2237a0dc4132be0e7f9a965a38dc
 #: ../../source/solutions.rst:33
@@ -79,6 +96,8 @@ msgid ""
 "quant à la création de nouvelle monnaie. Nous obtenons donc à « t » constant"
 " :"
 msgstr ""
+"No reference frame or individual present at the « t » instant is privileged "
+"toward the creation of new money. We obtain then with « t » constant :"
 
 # 3fc292c5e6404722ad788f046e5b3959
 #: ../../source/solutions.rst:40
@@ -87,6 +106,9 @@ msgid ""
 "étant donné les définitions données dans les chapitres précédents le passage"
 " d'un individu à un autre."
 msgstr ""
+"dM represents the variation of money, and dx the spatial dimension and so as "
+"with the definitions given in the previous chapters, the step from one "
+"individual to another."
 
 # 76e5da1078b0466db3e5d76f10dc94e5
 #: ../../source/solutions.rst:44
@@ -95,6 +117,8 @@ msgid ""
 "mais nous aurions pu tout aussi bien noter dans une notation plus "
 "mathématique :"
 msgstr ""
+"We make here reference to a notation and a physicist reasoning, but we could "
+"have noted as well in a more mathematical notation :"
 
 # b977e8e9b0c24d2198d9f29ded0e8c2e
 #: ../../source/solutions.rst:51
@@ -102,11 +126,13 @@ msgid ""
 "Chacun pourra ainsi mieux comprendre la symétrie spatio-temporelle invoquée "
 "ici selon son référentiel de notation et de raisonnement habituel."
 msgstr ""
+"Anyone could then better understand the spatio-temporal symmetry invoked "
+"here according its own notation and usual thinking referential."
 
 # bd59c3e8431449c284904ab4e11a82f0
 #: ../../source/solutions.rst:55
 msgid "Une symétrie temporelle"
-msgstr ""
+msgstr "A temporal symmetry"
 
 # 6ab84e8c1a744db3b99414cbe2d58216
 #: ../../source/solutions.rst:57
@@ -114,6 +140,8 @@ msgid ""
 "Toute génération est semblablement établie économiquement pendant toute sa "
 "durée de vie limitée « ev »."
 msgstr ""
+"Any generation is established in the same economical way during all of it's "
+"limited lifespan « ev »."
 
 # 72c66074b26549c4bdc60136b06ff229
 #: ../../source/solutions.rst:60
@@ -124,11 +152,15 @@ msgid ""
 " relatif que les individus positionnés au temps « t » et donc en notation "
 "continue :"
 msgstr ""
+"No generation is privileged in the time. The whole individuals positioned at "
+"the time immediately following « t+dt » has to be credited of a relative "
+"part of money at the same title and in the same relative ratio than the "
+"individuals positioned at the time « t » and so in a continuous notation :"
 
 # b31cb0e5573b4fd88773064cfb7d968c
 #: ../../source/solutions.rst:69
 msgid "Ou encore en approche discrète (dt = 1 unité de temps) :"
-msgstr ""
+msgstr "Or again a discrete approach (dt = 1 time unit ) :"
 
 # f83cd012f4ac40e29c19d9fb71106627
 #: ../../source/solutions.rst:76
@@ -138,6 +170,9 @@ msgid ""
 "que signifie « petit » dans notre raisonnement, quand nous aborderons la "
 "notion d'espérance de vie)."
 msgstr ""
+"« c » represents then the relative ratio or the relative variation of money "
+"during a small unit of time « dt » (we will see later what does \"small\" "
+"mean in our reasoning, when we will approach the notion of lifespan)."
 
 # 499bf85b5f504037a7b0373d1f34bce5
 #: ../../source/solutions.rst:81
@@ -148,6 +183,11 @@ msgid ""
 "monétaire en respectant ainsi les trois libertés économiques et le principe "
 "de relativité dans tout l'espace-temps considéré."
 msgstr ""
+"The relative amount of money created must be then relatively constant in all "
+"times, respecting by then the temporal symmetry and permitting the "
+"participation of individuals of all generations to the same monetary system "
+"by respecting the three economic freedoms and the principle of relativity in "
+"the whole considered space-time."
 
 # 033a3b0f621b4941a3eb590f773f8b90
 #: ../../source/solutions.rst:87
@@ -156,11 +196,14 @@ msgid ""
 "classe de solutions possible. Ce sont les solutions exponentielles (ou "
 "fonctions « puissance ») :"
 msgstr ""
+"Which makes that the problem of the three producers is resolved by only one "
+"class of possible solutions. These are the exponential solutions (or « power "
+"» functions) :"
 
 # 1077a0bdacd64ae09d47487bde08a836
 #: ../../source/solutions.rst:95
 msgid "Ce qui s'écrit aussi en puissance de (1+c) sous la forme :"
-msgstr ""
+msgstr "It is also written in power of (1+c) in the form :"
 
 # e53a986eb5244ed096a89e428926f8c4
 #: ../../source/solutions.rst:101
@@ -171,6 +214,10 @@ msgid ""
 "d'une même part relative de monnaie, un « Dividende Universel » (DU) qui "
 "vaut :"
 msgstr ""
+"Concretely this means that for the coherents solutions with the three "
+"economical freedoms and the priciple of relaivity, anyone of the N(t) actors "
+"of the economical zone existing at a date \"t\" is emiting a same relative "
+"part of money, a \"universal dividend\" (UD) that is valuated as:"
 
 # 02d1a5d73d34459794d2d30bc7c77cfa
 #: ../../source/solutions.rst:110
@@ -183,6 +230,13 @@ msgid ""
 " (sources de déflation), autant que les extrêmes de l'excès de monétisation "
 "(sources de bulles locales ou d'hyperinflation)."
 msgstr ""
+"Saying it with other words : the growth « c » of the monetary supply « M » "
+"is relatively stable and distributed symmetrically between the whole actors "
+"presents and to come. These solutions with Universal Dividend ensure the "
+"respect of the relativity principle. the density of the money is ensured in "
+"all time and space, avoiding that way the extreme monetary droughts (sources "
+"of deflation), as well as the extremes of the excess of monetization ("
+"sources of local bubbles or hyperinflation)."
 
 # 45a1f6785fc049499c305ae455a32202
 #: ../../source/solutions.rst:118
@@ -194,6 +248,12 @@ msgid ""
 "léser les acteurs économiques tant présents que futurs, que l'on peut aussi "
 "nommer « flux des individus »."
 msgstr ""
+"The money is created in a continuous way consistent with the continuous "
+"replacement of the generations and the growth of the chosen monetary supply, "
+"« c » is equitably attributed in space (the whole individuals) at the « t » "
+"instant  whatever « t » is, which is the only way not to harm the economical "
+"actors from present as well as future ones, that we can also name « flow of "
+"individuals »."
 
 # 3fec1bee2c7049c486ff032c337f8c0c
 #: ../../source/solutions.rst:125
@@ -207,11 +267,19 @@ msgid ""
 " raison de privilégier aucun d'entre eux vis-à-vis de la création monétaire "
 "dans l'ensemble de l'espace-temps économique ainsi déterminé."
 msgstr ""
+"So it is well the space-time factor, and more exactly the temporal dimension "
+"(generational), linked to the limited duration of the life of individuals, "
+"that changes the nature of the definition of the money.  So we need to avoid "
+"the fundamental error that is to considerate the whole actors as a « "
+"permanent » quantity. Understanding that it is a flow of individuals in "
+"perpetual renewing, and that in that flow there is no reason to privilege "
+"any of them regarding the monetary creation in the whole economical space-"
+"time thus determined."
 
 # f62eb77cc6d14b6991a93d021aa41bff
 #: ../../source/solutions.rst:138
 msgid "*(Luc Fievet TRM 2.0)*"
-msgstr ""
+msgstr "*(Luc Fievet RTM 2.0)*"
 
 # c80c0d495a374842a14dd198b1b37f26
 #: ../../source/solutions.rst:140
@@ -223,6 +291,11 @@ msgid ""
 "Cette même part doit être suffisamment petite pour garder à la monnaie "
 "préexistante une valeur stable."
 msgstr ""
+"« c » is the Universal Dividend factor, it represents well a part of the "
+"total monetary supply existing at the instant « t », created for every "
+"member. That monetary part permits them to exchange their goods an services "
+"in a independent way from the previous monetary creation. That same part "
+"must be small enough to keep to the pre-existing money a stable value."
 
 # 4d08b02bd8454ad58bff58fc3eaa5701
 #: ../../source/solutions.rst:147
@@ -234,6 +307,11 @@ msgid ""
 " dividende universel, dont nous allons maintenant établir les valeurs "
 "limites et cohérentes d'encadrement."
 msgstr ""
+"It would be wrong to understand here that the monetary supply should be « an "
+"exponential function ». We treated here only the theoretical idea of three "
+"producers, perfectly replaced between space and time. Therefore we should "
+"keep only the fundamental instant result, to know : a universal dividend "
+"that we are going now to establish the limits and coherent framing values."
 
 # 3b8f1c501878437f919439a4c972400f
 #: ../../source/solutions.rst:158
@@ -241,11 +319,13 @@ msgid ""
 "*En vert sont marquées les naissances, en rouge les décès des individus,* "
 "*l'axe vertical étant le temps (Luc Fievet TRM 2.0)*"
 msgstr ""
+"*Green elements represent the births, in red the deaths of individuals,* *"
+"the vertical axis is the time (Luc Fievet RTM 2.0)*"
 
 # 0164c4be68164573abcbd054f935cc87
 #: ../../source/solutions.rst:162
 msgid "b) Optimisation et espérance de vie"
-msgstr ""
+msgstr "b) Optimization and life expectancy"
 
 # 36655ce35cc448e4bd146d5dfd36dc7d
 #: ../../source/solutions.rst:164
@@ -258,6 +338,12 @@ msgid ""
 "vis-à-vis du flux entre les générations déjà mortes et celles qui viennent à"
 " naître."
 msgstr ""
+"It is possible to find a fundamental relation between Universal Dividend « c "
+"» and life expectancy. Indeed, let's consider first to simplify an economic "
+"zone composed of N(t) members with N(t) being stable in time and having an "
+"average life expectancy « ev ».  Let's observe at first how the living "
+"generation is positioning itself toward the flux between the generations "
+"already dead and those that just born."
 
 # 24e5fa468ad14ec98aee22f11d7e4b65
 #: ../../source/solutions.rst:171
@@ -268,6 +354,10 @@ msgid ""
 " le passage d'une coordonnée de temps à la suivante de tous ceux qui restent"
 " en vie."
 msgstr ""
+"If we imagine now that a unit of time pass, we must also know how the "
+"individuals the most close to « ev » pass from life to death and those not "
+"yet born but soon come to existence, as well as the passing of one time "
+"coordinate to the next of all those that stay in life."
 
 # d44f7e3dada247bea2a5fe33021c5872
 #: ../../source/solutions.rst:180
@@ -276,6 +366,9 @@ msgid ""
 "ce schéma* *la hauteur temporelle d'existence « ev »* *et son centre de "
 "symétrie « ev/2 »*"
 msgstr ""
+"*In green the living generations at « t ».* *We must see and understand on "
+"that schema* *the temporal height of existence « ev »* *and its center of "
+"symmetry « ev/2 »*"
 
 # 6791a4af1a3d41f999ad67f390242784
 #: ../../source/solutions.rst:185
@@ -288,11 +381,17 @@ msgid ""
 "l'ensemble de ce « trajet de vie » en parcourant l'ensemble du jet d'eau, "
 "qui lui semble immuable."
 msgstr ""
+"To do an analogy, you can think of a fountain that always seems the same "
+"seen from far although its droplets of water disappear step by step in the "
+"time, passing from the positions of those that are at initial projection at "
+"its base to those falling back in the basin. It takes a given time (the life "
+"span) for a drop of water to effectuate the whole of that « life track » by "
+"following the stream of water jet, that itself seems immutable."
 
 # 2e732fe59ffb43b69a226e96ae9dbcb5
 #: ../../source/solutions.rst:196
 msgid "*Fontaine (wikimedia)*"
-msgstr ""
+msgstr "*Fountain (wikimedia)*"
 
 # c14161c52fd940478e427183462c3311
 #: ../../source/solutions.rst:198
@@ -305,21 +404,27 @@ msgid ""
 "disparue mais encore présente dans la hauteur temporelle en proportion de "
 "1/ev."
 msgstr ""
+"Once that observation understood and integrated with the previous results, "
+"we can then pose as fundamental relation that the creation of the money "
+"supply during the whole past life expectancy must only be represented at « t "
+"» instant toward the existing monetary supply as the tiny fraction of "
+"individuals of that nearly disappeared generation but still present in the "
+"temporal height in proportion of 1/ev."
 
 # 13182f0976ef4775b0a6eaa80334b611
 #: ../../source/solutions.rst:205
 msgid "Il nous faut donc établir que :"
-msgstr ""
+msgstr "We have to pose that:"
 
 # 82c73a2a6fe3475d9994e18227600a9d
 #: ../../source/solutions.rst:211
 msgid "Ce qui implique :"
-msgstr ""
+msgstr "Which implies :"
 
 # 32be2887acf04130bbc2754f74b2336e
 #: ../../source/solutions.rst:217
 msgid "Ce qui nous donne pour c :"
-msgstr ""
+msgstr "Which gives for c :"
 
 # f1bf86881106423bac74239f91c3d39b
 #: ../../source/solutions.rst:223
@@ -327,16 +432,18 @@ msgid ""
 "« c » étant petit on démontre mathématiquement (développement limité) que "
 "cela peut aussi s'écrire :"
 msgstr ""
+"« c » being small we mathematically demonstrate (limited development) that "
+"it can also be written as :"
 
 # d0530d97402e4e05932592f4065f7fbe
 #: ../../source/solutions.rst:230
 msgid "Ou plus simplement :"
-msgstr ""
+msgstr "Or more simply :"
 
 # 43bee58cb2284f9698e4bc7c50cb0aef
 #: ../../source/solutions.rst:236
 msgid "Ces trois dernières expressions (E1), (E2) et (E3) étant équivalentes."
-msgstr ""
+msgstr "These three last expressions (E1), (E2) and (E3) being equivalent."
 
 # 2d792632f397445eb043ce0da2395080
 #: ../../source/solutions.rst:238
@@ -348,6 +455,11 @@ msgid ""
 "âgés). Le même raisonnement pour « ev/2 » nous donne donc une valeur en "
 "accord avec la symétrie centrale :"
 msgstr ""
+"As we have seen before we cannot be satisfied completely with this value "
+"because the center of the temporal symmetry is placed at ev/2 and not at ev. "
+"It is thus here a minimal value for c, that goes in the way of giving the "
+"advantage to the leaving generation (older). The same reasoning for « ev/2 » "
+"gives us a value in accordance with the central symmetry :"
 
 # 02db1bda54ef43848daab1f27ac1db44
 #: ../../source/solutions.rst:249
@@ -360,6 +472,12 @@ msgid ""
 "solaire un rythme économique fondamental du fait notamment des récoltes "
 "annuelles, mais aussi des congés."
 msgstr ""
+"It's important to note that the time unit is in the calculation is not "
+"neutral, because it's linked to the regular distribution of the universal "
+"dividend in the economy. This rhythm is not neutral for the economy. We "
+"choose the year as a fundamental economic unit because of experimental data "
+"that give to the solar year a fundamental economic rhythm because of the "
+"annual harvest and holidays."
 
 # 4f075a73c74745dda3eabe3190a87449
 #: ../../source/solutions.rst:263
@@ -369,6 +487,10 @@ msgid ""
 "génération précédente pour M(t) durant son existence* *alors que la masse "
 "monétaire en vigueur est M(t+ev)*"
 msgstr ""
+"*Generation shown here in blue* *does not represent more than 1/ev* *of the "
+"whole livings, has participated to the monetary creation* *of previous "
+"generation for M(t) during all its existence* *even if the monetary supply "
+"in place is M(t+ev)*"
 
 # 2fe809f2bc484be6b4b6456cba72f33c
 #: ../../source/solutions.rst:281
@@ -384,6 +506,15 @@ msgid ""
 "OpenUDC) d'utiliser une règle fondamentale très simple et très lisible qui "
 "arbitre perpétuellement entre valeur quantitative et valeur relative."
 msgstr ""
+"Let's note that money is quantitative when we use it, it's continuous aspect "
+"being only an appearance (see the analogy of the fountain). Thus, the "
+"Universal Dividend is quantitative. Having bounds of relatives values is "
+"completely coherent with a stable quantitative UD which is recalculated and "
+"increased only when it might risk to exceed its acceptable bounds of its "
+"relative value. This remark is important and needs to be analyzed deeply. "
+"This is what allow a project of free money compatible with the RTM (like "
+"OpenUDC and uCoin) to use a fundamental, and yet simple and understandable, "
+"rule to conciliate indefinitely between quantitative and relative value."
 
 # 63be61827ed94c63a3fe1bfabe85b939
 #: ../../source/solutions.rst:296
@@ -391,11 +522,13 @@ msgid ""
 "*Au bout de 80 unités de temps,* *la génération précédente représentée par 1"
 " à t = 0* *ne représentera plus que 1/80ème de la monnaie existante*"
 msgstr ""
+"*After 80 time units,* *the previous generation represented by 1 at t=0* *"
+"will account for only 1/80th of the existing money*"
 
 # c4b3a1f9a4f94b428712800558630ca7
 #: ../../source/solutions.rst:301
 msgid "Conclusion"
-msgstr ""
+msgstr "Conclusion"
 
 # 97f87184c9274630be93ed5eefe148d1
 #: ../../source/solutions.rst:303
@@ -403,6 +536,7 @@ msgid ""
 "On peut maintenant conclure de façon complète que le résultat fondamental de"
 " la TRM est :"
 msgstr ""
+"We can now conclude and write the complete fundamental result of the RTM :"
 
 # 2039a22648ec41809798d843ce8f8cf7
 #: ../../source/solutions.rst:306
@@ -413,11 +547,16 @@ msgid ""
 "qui dépend de** **l'espérance de vie moyenne de la zone monétaire considérée"
 " sous la forme :**"
 msgstr ""
+"**The monetary systems compatible with the principle of relativity and the** "
+"**three economic freedoms are monetary system with a Universal Dividend** **"
+"which the value is a proportion to « c » of the money supply which depends "
+"on** **the average human lifetime of the considered economic zone. The "
+"equation to calculate the UD should then be similar to :**"
 
 # 9a999dcfbcbd498f9c78e36e8be0662a
 #: ../../source/solutions.rst:315
 msgid "La contraposée est donc aussi un résultat fondamental de la TRM :"
-msgstr ""
+msgstr "The converse is then a fundamental result of the RTM too :"
 
 # 6d4c965ef18f492cb27e7e4e5386dbce
 #: ../../source/solutions.rst:317
@@ -426,6 +565,9 @@ msgid ""
 "sont pas** **compatibles avec le principe de relativité et les trois "
 "libertés économiques »**"
 msgstr ""
+"**« The monetary systems which do not integrate a universal dividend are "
+"not** **compatible with the relativity principle and the three economic "
+"freedoms »**"
 
 # 4b203093dbb3470ba218a798fcf7ca94
 #: ../../source/solutions.rst:320
@@ -436,6 +578,10 @@ msgid ""
 "ainsi une génération sur une autre (entrante ou sortante, peu importe !) ne "
 "serait pas non plus compatible avec la TRM."
 msgstr ""
+"We could also add to better clarify that an universal dividend which would "
+"exist but would be too weak or too strong, then, outside the defined ranges, "
+"on a too long period, then benefiting a generation on another (entrant, "
+"outgoing, whatever !) would not be compatible with the RTM too."
 
 # 7d395b9d8a354496b27f3875408ce7f9
 #: ../../source/solutions.rst:326
@@ -446,6 +592,10 @@ msgid ""
 "ces violations des principes fondamentaux, qui conduisent inévitablement à "
 "des insurrections à terme."
 msgstr ""
+"This last point is fundamental because the temptation is big for the living "
+"to claim excessive property rights on the living area, then violating the "
+"freedoms of their successors. History is full of these violations of "
+"fundamental principles, which lead inevitably to insurrections in the end."
 
 # 7d98aff9224441769452724fa141bde2
 #: ../../source/solutions.rst:332
@@ -454,6 +604,9 @@ msgid ""
 "proportionnel à l'espérance de vie de la zone économique considérée (ln "
 "étant une fonction qui varie très peu)."
 msgstr ""
+"We could remember that the Universal Dividend is almost inversely "
+"proportional to the life expectancy of the economic zone considered ( ln "
+"being a function which varies very little )."
 
 # 297e9deb046c4f33908bc175dd172832
 #: ../../source/solutions.rst:340
@@ -463,8 +616,12 @@ msgid ""
 "faible aura tendance à favoriser les sortants,* *tandis qu'au dessus un "
 "dividende trop élevé* *aura tendance à favoriser les entrants*"
 msgstr ""
+"*Acceptable values (in blue) of the % of universal dividend* *depending on "
+"the life expectancy* *At the bottom of the colored area* *a dividend too "
+"weak will have a tendency to favor outgoings,* *whereas at the top a "
+"dividend too big* *will have a tendency to favor entrants*"
 
 # 588079ca26ca4b078ea54cbe204c61eb
 #: ../../source/solutions.rst:347
 msgid "Ces résultats concluent notre développement théorique principal."
-msgstr ""
+msgstr "These results conclude our main theoretical development."

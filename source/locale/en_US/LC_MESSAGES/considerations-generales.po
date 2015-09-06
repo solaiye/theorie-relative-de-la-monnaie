@@ -8,24 +8,26 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-07-16 08:41+0000\n"
-"Last-Translator: Vincent Texier\n"
-"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
+"PO-Revision-Date: 2015-09-03 15:36+0000\n"
+"Last-Translator: sb <s_b_@openmailbox.org>\n"
+"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
+"/considerations-generales/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.4-dev\n"
 
 # c5bcefa8a9fe4320bc150065b8934df8
 #: ../../source/considerations-generales.rst:3
 msgid "Considérations générales"
-msgstr ""
+msgstr "General considerations"
 
 # 2b4af2e2e5714ed1aaba8b4c994787ab
 #: ../../source/considerations-generales.rst:6
 msgid "Quelques ordres de grandeur"
-msgstr ""
+msgstr "Some orders of magnitude"
 
 # bdf5dd88d6be4106a4f4da82d526ac60
 #: ../../source/considerations-generales.rst:8
@@ -33,6 +35,8 @@ msgid ""
 "Une zone économique comme la zone € a une espérance de vie moyenne de 80 ans"
 " en 2012, on obtient :"
 msgstr ""
+"An economic zone like the Eurozone has an average life expectancy of eighty "
+"years in 2012, we obtain :"
 
 # ac4c78e2e1cc43c7aaf2957f5659a34c
 #: ../../source/considerations-generales.rst:14
@@ -42,17 +46,21 @@ msgid ""
 "euro avec 10 000 milliards d'euros et 330 millions de citoyens le Dividende "
 "Universel optimisé serait alors compris entre :"
 msgstr ""
+"To give an idea of orders of magnitude, make a comparative on real data of "
+"2010. Take the example of the eurozone with 10 000 billions of euros and 330 "
+"millions of citizens, optimized Universal Dividend would be included between "
+":"
 
 # d94c83c3f7c04ee980e0c4f0fa769645
 #: ../../source/considerations-generales.rst:23
 msgid "et"
-msgstr ""
+msgstr "and"
 
 # 95f0fcee5c274e2e94e230bd23963931
 #: ../../source/considerations-generales.rst:29
 msgid ""
 "Donc entre 552 € / mois et 928 € / mois pour une famille de 4 personnes."
-msgstr ""
+msgstr "Thus between 552 € / month and 928 € / month for a family of 4."
 
 # 416ff61ba5ed4cb1925da8cac52067ba
 #: ../../source/considerations-generales.rst:31
@@ -64,6 +72,12 @@ msgid ""
 "c'est le salaire minimum qui est de 130 € / mois sans qu'il y ait de monnaie"
 " individuellement allouée."
 msgstr ""
+"The reality shows great disparities within the zone about the existence of a "
+"minimum and individual income because in France or in Germany we "
+"conditionally reach 450€ / month / individual (condition of age, of "
+"resource, etc…), compared to countries like Romania or Bulgaria, where there "
+"is a minimal salary of 130€ / month / individual, and without money "
+"allocated individually."
 
 # 372ecc06a60a491086eadb144c90c54b
 #: ../../source/considerations-generales.rst:38
@@ -75,6 +89,12 @@ msgid ""
 "monétaire individuelle. Cela revient à ne pas reconnaître l'égalité entre "
 "individus au sein d'une zone économique commune."
 msgstr ""
+"We are, in Europe, in a case of high spatial asymmetry which results to "
+"create high disparities and a transfer of economic activities in countries "
+"with high individual monetary allocation (discouraged to produce goods and "
+"monetized services), toward the countries with almost no individual monetary "
+"allocation. This returns by not recognizing the equality between individuals "
+"within a common economic zone."
 
 # af8c9a595b2b4875b06a47cd4b584e20
 #: ../../source/considerations-generales.rst:45
@@ -86,6 +106,11 @@ msgid ""
 "création monétaire, et ils ne l'auraient sûrement pas acceptée dans de "
 "telles conditions."
 msgstr ""
+"If the ins and outs of monetary creation were presented to individuals of "
+"this community, and thus their own required approval to organize this common "
+"currency, they would realize the encountered difficulties in regards of "
+"ethic and fairness, of symmetry before the monetary creation, and they would "
+"not have accepted in such conditions."
 
 # e4a09c178b6d45a3b55fc25a25516f3f
 #: ../../source/considerations-generales.rst:51
@@ -94,6 +119,9 @@ msgid ""
 "000 milliards de $ en circulation et 310 millions d'habitants pour 80 ans "
 "d'espérance de vie. Il serait compris entre :"
 msgstr ""
+"In USA, the optimal universal dividend is calculated for about $ 15 000 "
+"billion in circulation and 310 millions of residents for a 80 years life "
+"span. It would be between :"
 
 # 428486c7a86c4b46b27e53547d5357b9
 #: ../../source/considerations-generales.rst:61
@@ -106,6 +134,13 @@ msgid ""
 "pas une quantité fixe, elle évolue dans le temps et dans l'espace, et toute "
 "mesure doit être comprise comme n'ayant de valeur que locale et instantanée."
 msgstr ""
+"With these remarks, we will see later that the installation of an Universal "
+"Dividend can be progressive and does not have to be fixed on a given "
+"monetary state to be organized. The given numbers here aim to explain the "
+"mechanism, and to give orders of magnitude at the moment when the "
+"calculation is done. One must not forget that the monetary supply is not a "
+"fixed quantity, it evolves in space and time, and any measure must be "
+"understood as a local and instantaneous value only."
 
 # 5f37ab714c154f6b914c4f794a8a1f48
 #: ../../source/considerations-generales.rst:69
@@ -125,6 +160,19 @@ msgid ""
 "reflète la valeur existante. Mais cette considération sort du strict* *cadre"
 " de la TRM proprement dite.*"
 msgstr ""
+"*NB : In addition, Yoland Bresson points out that the PDB is between 2 and 3 "
+"times the* *monetary supply at various stages, and we may consider that an "
+"unconditional basic* *income could be based on 2 to 3 times the Universal "
+"Dividend, that is in 2010* *approximately 400 € / month / citizen in Europe, "
+"or 600 $ / month / citizen in the United-States.* *We then make the "
+"difference between the Universal Dividend as an individual monetary* *"
+"creation and the Basic Income, which includes the Universal Dividend* *and a "
+"share of redistribution. We can also apply the temporal symmetry principle* *"
+"not only to the immaterial circulating currency but also to the* *property "
+"rights of the prime matter globally, which leads to* *at least double the "
+"transmitted value in the time if we consider that the* *money reflects the "
+"existing value. But this consideration is beyond the* *remit of the RTM "
+"itself.*"
 
 # 13c2a6c8888941188d962814aab66e43
 #: ../../source/considerations-generales.rst:83
@@ -136,11 +184,17 @@ msgid ""
 " 2010/2012 seront évidemment* *à recalculer selon les variations de la "
 "population, de l'espérance de vie et de* *la masse monétaire.*"
 msgstr ""
+"*These remarks associated to a range of possible values for « c », leave a* *"
+"range of acceptable values in 2012 for a Basic Income (and not only a* *"
+"Universal Dividend) between 200 € and 800 € / month / Citizen for Europe and "
+"300* *$ to 1200 $ / month / Citizen in the United-States. These data from "
+"2010/2012 are obviously* *to be calculated again depending on population, "
+"life expectancy and* *monetary mass variations.*"
 
 # ce54ec91162246daaee0083e5c20b148
 #: ../../source/considerations-generales.rst:92
 msgid "À propos de la valeur"
-msgstr ""
+msgstr "About value"
 
 # 4c5f682ed7c144e29623e95e17eb4c8c
 #: ../../source/considerations-generales.rst:94
@@ -149,6 +203,9 @@ msgid ""
 " l'éthique, parce qu'elle dévaloriserait ce que possèdent les individus ne "
 "tient pas devant l'analyse tant globale que locale."
 msgstr ""
+"The argument that the monetary supply's inflation would be unethical, "
+"because it would depreciate what individuals own is not consistent by the "
+"global and local analyses."
 
 # 9469fc9a489547b6905a84f283617acb
 #: ../../source/considerations-generales.rst:98
@@ -158,6 +215,10 @@ msgid ""
 "temporel devant nos descendants qui n'ont pas à être considérés comme exclus"
 " du processus à notre bénéfice."
 msgstr ""
+"First of all, the argument that life expectancy, and the fair monetary "
+"creation towards generations shrugs off the stance from a temporal point of "
+"view, before our descendants who should not be considered as excluded of the "
+"process to our benefit."
 
 # 8bfefbdc88d84090a9ea6a9b93d94f4c
 #: ../../source/considerations-generales.rst:103
@@ -165,6 +226,8 @@ msgid ""
 "Ensuite même d'un point de vue local l'argument ne tient pas devant une "
 "analyse fine."
 msgstr ""
+"Then, even from a local point of view the argument is flawed before a subtle "
+"analyse."
 
 # 68cc1fd1c417454a86d8482f0eb6ba18
 #: ../../source/considerations-generales.rst:106
@@ -174,16 +237,20 @@ msgid ""
 " donc une fraction du dividende c / N ce qui fait que son ratio de « gain » "
 "monétaire personnel est de :"
 msgstr ""
+"For an individual or an individual collective « X » among the N of the "
+"economic zone who owns a fraction f of the entire monetary supply. X "
+"receives therefore a fraction of the dividend c / N which means that its "
+"ratio of personal monetary « gain » is :"
 
 # 54309077f7f84473b9b9cd5713ed9719
 #: ../../source/considerations-generales.rst:115
 msgid "Soit :"
-msgstr ""
+msgstr "So :"
 
 # c01b5e9e7c704ebdb1e0b6ae4619997b
 #: ../../source/considerations-generales.rst:121
 msgid "Et donc :"
-msgstr ""
+msgstr "And thus :"
 
 # 194358a211e642458d2f4495689f3fcc
 #: ../../source/considerations-generales.rst:127
@@ -192,6 +259,9 @@ msgid ""
 "possède moins de M/N de monnaie, égal à c, s'il possède exactement M/N de "
 "monnaie, et inférieur à c s'il possède plus de 1/N de monnaie."
 msgstr ""
+"What will make its ratio of personal gain G more than c is that he owns less "
+"than M/N, equals to c, if he owns exactly M/N money, or less than c if he "
+"owns more than 1/N of money."
 
 # c8ed874fd48f476fb1bb9bef6bc8c276
 #: ../../source/considerations-generales.rst:131
@@ -199,6 +269,8 @@ msgid ""
 "C'est donc selon la quantité de monnaie possédée qu'on peut estimer être "
 "gagnant monétairement ou pas."
 msgstr ""
+"It is therefore from the quantity of money owned one can estimate be "
+"beneficiary or not."
 
 # ac2bea5b85bd43a4a32ffac0aaa04ba7
 #: ../../source/considerations-generales.rst:134
@@ -208,6 +280,9 @@ msgid ""
 "000, pour une communauté de 10 membres. Admettons une espérance de vie telle"
 " que le DU soit de 5 % / an."
 msgstr ""
+"**Numeric example :** A owns 50, B owns 200, there are other individuals in "
+"this monetary community and the monetary supply is 1 000, for a community of "
+"10 members. Assuming a life expectancy such as the UD is 5 % / year."
 
 # b3a6948a76f34d30a4e4338d64341926
 #: ../../source/considerations-generales.rst:139
@@ -222,6 +297,13 @@ msgid ""
 "monnaie, tandis que pour A, en dessous de cette moyenne, c'est l'inverse qui"
 " se produit."
 msgstr ""
+"The annual Universal Dividend allocated to anyone will be 5 % x 1000 / 10 = "
+"5. A will have then 55, and B 205. Locally, A has benefited of 5/50 = 10 % "
+"of additional money, instead of 50 / 1000 = 5 % and B owns 205 / 1050 = "
+"19,52% of the monetary supply against 200 / 1000 = 20 % before distribution. "
+"B has seen his share of money reduced because he owned before the "
+"distribution more than 1000 / 10 = 100 of money, whereas for A, under the "
+"average, the opposite happens."
 
 # 3687b2cccba7462893af53cecab8bca0
 #: ../../source/considerations-generales.rst:148
@@ -231,6 +313,10 @@ msgid ""
 " individu, mécaniquement inférieure à M/N, donc les prix ajustés à la baisse"
 " par déflation locale."
 msgstr ""
+"However, if X owns more than M/N of money, so more than the average, the "
+"monetary supply that he doesn't own will be, on average, by individual, "
+"mechanically less than M/N, so the prices adjusted downward by local "
+"deflation."
 
 # b096e7294b3a4f58af2e09011ca5473e
 #: ../../source/considerations-generales.rst:153
@@ -241,6 +327,11 @@ msgid ""
 "monter pour la raison inverse, et ce qui est gagné relativement à la monnaie"
 " sera perdu relativement aux valeurs."
 msgstr ""
+"Also, although his quantity of relative money won't grow as fast as the "
+"global mass, he can benefit from lower prices. In addition, if he owns less "
+"than M/N of money, the prices could have a tendency to increase for the "
+"opposite reason, and what was won relatively to the money will be lost "
+"relatively to the values."
 
 # dfcd632dbab14b3d99426e3546154a9d
 #: ../../source/considerations-generales.rst:163
@@ -250,6 +341,11 @@ msgid ""
 "situation relative* *est différente selon la part relative* *de monnaie "
 "possédée par chacun.*"
 msgstr ""
+"*Graphic example with three individuals,*\n"
+"*having a monetary distribution of 300,*\n"
+"*having a Universal Dividend, then.*\n"
+"*The evolution of their relative situation* *is different depending on their "
+"relative share* *of money owned by each.*"
 
 # 67e06e09eeb84842890023b40d4d741f
 #: ../../source/considerations-generales.rst:170
@@ -263,6 +359,14 @@ msgid ""
 "L'innovation empêchant la comparaison dans le temps, cf principe de "
 "relativité)."
 msgstr ""
+"In relative theory where the analysis includes the relation between the "
+"parts and the overall they form, Local + Non-Local = Global. This means that "
+"everything chosen individually as an opposite effect on the rest of the "
+"economy. If the money is stocked, it is an effect which tends to lower "
+"prices where the money becomes scarce, and if the money flows, it is an "
+"effect which tends to raise them (at constant levels of production, "
+"excluding innovation. The innovation preventing the comparison in time, see "
+"the principle of relativity)."
 
 # 04eb5f32efca42b5af9989d7b4ce9135
 #: ../../source/considerations-generales.rst:178
@@ -272,6 +376,10 @@ msgid ""
 "monnaie, mais aussi les biens qu'il pourra acheter avec sa monnaie, ainsi "
 "que la monnaie qu'il pourra récupérer en vendant ses biens."
 msgstr ""
+"Finally, the value is obviously not the money. The value, for which X can "
+"pretend, includes the goods he owns, which includes admittedly the money, "
+"but also the goods he could buy with his money, as well as the money he "
+"could get by selling its goods."
 
 # 071f829d3a5a4d0a9ecd5859f8f4b61f
 #: ../../source/considerations-generales.rst:183
@@ -284,6 +392,12 @@ msgid ""
 " de nouveaux biens et services, ce qui sera la valeur de demain est dans une"
 " grande partie totalement imprévisible."
 msgstr ""
+"Thus, the arbitration of X could depend only on his personal choices about "
+"the quantity of money he wants to include in its goods or not, its good he "
+"wants to hold, sell, or buy, and certainly not only about the quantity of "
+"money he owns. Moreover, in an innovative economy where the members are "
+"encouraged to create new goods and services, what will be value tomorrow is "
+"in to a large extend totally unpredictable."
 
 # fe6584bf1ed642f18bc63709315e898e
 #: ../../source/considerations-generales.rst:195
@@ -296,6 +410,13 @@ msgid ""
 "*dépend de l'individu concerné et de comment le surplus monétaire sera "
 "distribué d'une part,* *et utilisé par les individus d'autre part.*"
 msgstr ""
+"*But furthermore,* *before and after the distribution of a Universal "
+"Dividend,* *the prices of the non-monetary goods can evolve too.* *There is, "
+"thus, no possible, simple and generalizable conclusions* *about the monetary "
+"distribution, if only that it is not favorable* *nor unfavorable for all, "
+"all the time, but its beneficial effect or not* *depends on the concerned "
+"individual and how the monetary surplus will be distributed on one hand,* *"
+"and used by the individuals in the other hand.*"
 
 # c3e6ec24973f4cea82c9ffe0cbd852a9
 #: ../../source/considerations-generales.rst:204
@@ -307,6 +428,11 @@ msgid ""
 "plus s'il avait gardé des « droits de propriété intellectuelle » sur sa "
 "fabuleuse théorie de l'électromagnétisme)."
 msgstr ""
+"Also it exists no certainty possible about what should be done in the part "
+"of « protecting » one's capital, which is here a purely relative value (the "
+"custom office Rousseau would be surprised to know the estimation of his "
+"capital done in 2010, and Maxwell even more if he still owned « intellectual "
+"property rights » on his fabulous theory about electromagnetism)."
 
 # bc4ce21d99294d419f38258ddb0dc6e3
 #: ../../source/considerations-generales.rst:211
@@ -316,11 +442,15 @@ msgid ""
 "déterminent l'impact que pourra avoir l'augmentation de la masse monétaire "
 "sur le panier individuel de valeurs."
 msgstr ""
+"Moreover the Universal Dividend is without absolutely no prejudice, in terms "
+"of personal gains or loss, with the « value ». It is the individual choices "
+"which determinate the impact that could have the increasing of the monetary "
+"supply on the individual basket of values."
 
 # 80485b65473740bdaaf15a9208b02680
 #: ../../source/considerations-generales.rst:217
 msgid "À propos de la symétrie de la valeur apportée par les individus"
-msgstr ""
+msgstr "About the symmetry of the value created by individuals"
 
 # 28c5e622d97f4bbf8e01cd439abbcf8a
 #: ../../source/considerations-generales.rst:219
@@ -334,6 +464,14 @@ msgid ""
 "Or la valeur qui existe au sein de cette communauté d'individus n'a aucune "
 "raison de primer sur la valeur estimée par les futurs entrants."
 msgstr ""
+"One should really understand the argument of symmetry in its entirety. The "
+"members of a set-up monetary system were beneficial of the early monetary "
+"creation, but or not necessarily « rich » of this particular money. They are "
+"mostly rich of the goods, the skills, the fundamental nature of human being "
+"able to trade with his siblings and to have a unique opinion about what is "
+"value or not. Yet the value which exists inside this community of "
+"individuals has no reason to prime on the value estimated by the future "
+"entrants."
 
 # 390d87021fe94a5f879028ff14183dfe
 #: ../../source/considerations-generales.rst:228
@@ -345,6 +483,11 @@ msgid ""
 "n'y a pas non plus à supposer que l'estimation des valeurs réalisée par la "
 "génération suivante serait moins légitime que celle de la précédente."
 msgstr ""
+"This is spatially and temporally true. That is when two communities decide "
+"to integrate with one and the other, and so to merge their money, one should "
+"not to prime on the other before the individual monetary creation, and when "
+"a generation replace another, one should not suppose that values realized by "
+"next generation would be less legit than the previous."
 
 # 5611e617c6384e5d8e5cbd59225df2f0
 #: ../../source/considerations-generales.rst:235
@@ -355,6 +498,11 @@ msgid ""
 "et donc seule la monnaie, contractuellement admise par les membres de la "
 "zone économique constitue une mesure commune de valeur."
 msgstr ""
+"That is why it is a relative theory of money. There is no individual "
+"referential privileged about the measure of the value, each individual "
+"constitute an acceptable reference to get a measure, and only the money, "
+"contractually admitted by the members of the economic zone is a common "
+"measure of value."
 
 # fc0186dc893d4c65a70a31bd83374481
 #: ../../source/considerations-generales.rst:241
@@ -367,6 +515,13 @@ msgid ""
 "l'Univers. La vitesse de la lumière rapportée au volume de l'Univers diminue"
 " dans le temps."
 msgstr ""
+"It is the same as in relativistic physics, we have between two relative "
+"references only one common measurement standard which is the speed of light, "
+"from which observers agree, and transform their view of the phenomenon ("
+"time, space, etc...) in relation to the chosen reference. Yet this measure, "
+"although common, is not « absolute » as a result of the expansion of the "
+"Universe. The speed of light in relation to the volume of the Universe "
+"decreases over time."
 
 # e9be17869e09427aab1f54af0e877e8b
 #: ../../source/considerations-generales.rst:248
@@ -378,6 +533,11 @@ msgid ""
 "aussi se traduire aussi par une réduction de certains flux par optimisation "
 "de leur usage)."
 msgstr ""
+"It is the same for the money coming with a growing economy in the space-"
+"time. Succeeding human generation are building on each other to create "
+"higher or different values in a process of quantitative and/or qualitative "
+"progress (which can also be translated to a reduction of some flux by "
+"optimization of their usage)."
 
 # 75551b45af5c4d7abeebbf76e76c8ef1
 #: ../../source/considerations-generales.rst:254
@@ -391,8 +551,15 @@ msgid ""
 "économique pour les Amish est très sensiblement différente de celle d'une "
 "autre communauté."
 msgstr ""
+"Even if case of stagnation or regression (we can think of the case of North "
+"American Amishes who refused to integrate the technical « progress » in "
+"their community), the community enriches itself in terms of knowledge, lived "
+"experience, which in the long term will constitute without any doubt a value "
+"related to the experimental knowledge so acquired whatever the "
+"interpretation. It makes no doubt that the economic value for the Amishes "
+"differs significantly from one of another community."
 
 # a3cf86f370594414bc53689601ea5e8a
 #: ../../source/considerations-generales.rst:266
 msgid "*Fermier Amish fertilisant son champ (wikimedia)*"
-msgstr ""
+msgstr "*Amish farmer fertilizing his field (Wikimedia)*"

@@ -8,19 +8,21 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-07-16 08:41+0000\n"
-"Last-Translator: Vincent Texier\n"
-"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
+"PO-Revision-Date: 2015-09-02 16:13+0000\n"
+"Last-Translator: sb <s_b_@openmailbox.org>\n"
+"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
+"/comment-comparer-deux-zones-economiques/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.4-dev\n"
 
 # ff691b6f37d74486b5fcad518264ea48
 #: ../../source/comment-comparer-deux-zones-economiques.rst:3
 msgid "Comment comparer deux zones économiques ?"
-msgstr ""
+msgstr "How to compare two economic zones ?"
 
 # 9fdad658ce8f4ac0b5fc7e4d874bb319
 #: ../../source/comment-comparer-deux-zones-economiques.rst:5
@@ -30,6 +32,9 @@ msgid ""
 " champ de valeur, nous permettent une comparaison entre deux zones "
 "économiques qui utilisent deux monnaies différentes."
 msgstr ""
+"The definitions we have just seen concerning the money supply, its growth, "
+"the link it should have with the Universal Dividend and the value field, "
+"allow us to compare two economic zones that use two different currencies."
 
 # eb2f82c58456443f819b63fe5baffbb9
 #: ../../source/comment-comparer-deux-zones-economiques.rst:10
@@ -38,6 +43,9 @@ msgid ""
 " définie dans l'espace et dans le temps, Ma(x,t) et Mb(x,t) et d'un nombre "
 "de citoyens respectifs Na et Nb ayant accès à la monnaie commune."
 msgstr ""
+"For two economic area A and B credited each one of a monetary mass defined "
+"in space and time, Ma(x,t) and Mb(x,t) and a number of respective citizen Na "
+"and Nb having access to the common money."
 
 # 381c6fc192624f49955789f3c51826b6
 #: ../../source/comment-comparer-deux-zones-economiques.rst:14
@@ -46,16 +54,19 @@ msgid ""
 "commune instantanée de la valeur individuelle Ua et Ub à un instant donné "
 "sur la base de la densité monétaire moyenne de chacune des zones."
 msgstr ""
+"The application of the principle of relativity invite us to define an "
+"instant common measure of individual value Ua and UB at a time given on the "
+"basis of the average monetary density of each of these areas."
 
 # 392e8aa88adb4f07b37318761d2cff91
 #: ../../source/comment-comparer-deux-zones-economiques.rst:18
 msgid "Pour A :"
-msgstr ""
+msgstr "For A :"
 
 # d555798fedce444eb2d85618da253056
 #: ../../source/comment-comparer-deux-zones-economiques.rst:24
 msgid "et pour B :"
-msgstr ""
+msgstr "and for B :"
 
 # e6daf318f7f74b049ef6cd39f8e4d5c4
 #: ../../source/comment-comparer-deux-zones-economiques.rst:30
@@ -64,13 +75,16 @@ msgid ""
 " change d'une quantité de monnaie de la zone A Qa en une quantité de monnaie"
 " Qb de la zone B est tel que :"
 msgstr ""
+"The instant exchange rate T(a/b) of the currencies, which represents the "
+"ratio of exchange of a quantity of money in the area A Qa to a quantity of "
+"money Qb of the area B so that :"
 
 # b4e563b1b89546af9c505f29f7030e59
 #: ../../source/comment-comparer-deux-zones-economiques.rst:38
 msgid ""
 "Avec dans le cadre du principe de relativité une valeur fondamentale, qui "
 "est :"
-msgstr ""
+msgstr "Within the principle of relativity a fundamental value, which is :"
 
 # 7bfd8dd01b03415cb7fb9c8fec1d211b
 #: ../../source/comment-comparer-deux-zones-economiques.rst:44
@@ -83,16 +97,22 @@ msgid ""
 "commune elle, ne souffre d'aucune sorte d'arbitraire, et est parfaitement "
 "mesurable."
 msgstr ""
+"This fundamental result differs from common tools with which we measure the "
+"relationships between the « prices »... Yet the values being fundamentally "
+"judged as different from one individual to another, and so from one economic "
+"area to another, this reference is completely distorted by the arbitrary "
+"choice of values used to defined these prices. Whereas the density of common "
+"money does not suffer any kind of arbitrary, and is perfectly measurable."
 
 # e7f87271417f4e2f928317215ee4a005
 #: ../../source/comment-comparer-deux-zones-economiques.rst:52
 msgid "Application numérique :"
-msgstr ""
+msgstr "Numerical application :"
 
 # 4e21c76268a348e388a71dcc20283ade
 #: ../../source/comment-comparer-deux-zones-economiques.rst:62
 msgid "Taux de change relatif **T (€ / $) = 1,60 $/€**"
-msgstr ""
+msgstr "Relative exchange rate **T (€ / $) = 1,60 $/€**"
 
 # a91a25a369684a599542bbf5d9d51b12
 #: ../../source/comment-comparer-deux-zones-economiques.rst:64
@@ -100,6 +120,8 @@ msgid ""
 "Entre 2008 et 2010 le taux de change constaté sur les marchés oscillait "
 "entre **1,30 $/€ et 1,60 $/€**."
 msgstr ""
+"Between 2008 and 2010 the exchange rate found on the markets oscillated "
+"between **1,30 $/€ and 1,60 $/€**."
 
 # 1513abe558d3473fbd78a883b4140436
 #: ../../source/comment-comparer-deux-zones-economiques.rst:66
@@ -111,6 +133,11 @@ msgid ""
 "communique plus officiellement M3, et ce sont des sites non officiels qui en"
 " donnent des estimations."
 msgstr ""
+"But even if the result found is near a fundamental theoretical value "
+"applicable in Relative Theory of Money, there are two factors which "
+"reference must be made. First of all the monetary masses released by the "
+"Central Banks are questionable because the American Fed does not communicate "
+"officially M3, and these are unofficial websites who give estimations."
 
 # aba87b633f5b43e2a2a0104316cda86e
 #: ../../source/comment-comparer-deux-zones-economiques.rst:73
@@ -122,6 +149,12 @@ msgid ""
 "des deux côtés, ce qui crée de fortes distorsions temporaire (et une perte "
 "économique forte à long terme selon l'importance de ces distorsions)."
 msgstr ""
+"Furthermore, and this is not the most important point, we are not in these "
+"economic areas in Universal Dividend areas where individuals are equals "
+"before monetary creation. Money is created in a centralized way on arbitrary "
+"values, and in a non symmetrical way from both sides, which creates strong "
+"temporary distortions (and an economic loss in the long term according to "
+"the importance of these distortions)."
 
 # 18923e2af45d4cff82fef3083869b21f
 #: ../../source/comment-comparer-deux-zones-economiques.rst:80
@@ -134,6 +167,12 @@ msgid ""
 "à tout son espace, et devra donc avoir de forts taux de croissance de "
 "rattrapage spatial."
 msgstr ""
+"Moreover, we can see the role the population is having about the exchange "
+"rates measured by the ratio « Na/Nb ». Thus, one can approach the currency "
+"policy based on the importance of the economic space considered better. It "
+"is obvious that seen this way an economic area under-monetized, will have "
+"soon or later to extend the expansion of its money supply to all its space, "
+"therefore to have strong growth rate due to spatial catch-up."
 
 # cceeed06e77d407cad8686c61b69447d
 #: ../../source/comment-comparer-deux-zones-economiques.rst:87
@@ -146,6 +185,12 @@ msgid ""
 "ce qui va jouer sur la valeur de Na qui représente le nombre de citoyens "
 "monétisés."
 msgstr ""
+"We understand here the chinese problem in 2010. Since a small part of the 1 "
+"400 millions inhabitants can benefit of monetized exchanges, the monetary "
+"mass must grow strongly in all other area of the economy to monetize it as a "
+"whole. It is for hundred of human being to have access to the monetary tool "
+"to develop their exchanges, which will play on the value of N which "
+"represents the number of monetized citizen."
 
 # f16208619c2e438288fe37a1a484b5f4
 #: ../../source/comment-comparer-deux-zones-economiques.rst:94
@@ -156,6 +201,11 @@ msgid ""
 "même rythme que Na (nombre de citoyens monétisés), sans que cela joue sur la"
 " valeur de change fondamentale de sa monnaie."
 msgstr ""
+"However because of the ratio Na/Nb which will be, at the end of complete "
+"monetization of its population, really big for it against Europe or United-"
+"States, the Chinese money supply « Ma » will be able to grow at the same "
+"pace as Na (number of monetized citizens), without it having an impact of "
+"the fundamental exchange value of its money."
 
 # 7f0c53a6608f4b29be38b782a1a4c3fc
 #: ../../source/comment-comparer-deux-zones-economiques.rst:100
@@ -167,6 +217,11 @@ msgid ""
 "politique de croissance monétaire dans le temps, pour jouer sur le rapport "
 "Mb/Ma."
 msgstr ""
+"The evolution of the exchange rate for Europe and the United-states, which "
+"are for their part already strongly monetized in space (Nb will not grow "
+"much anymore), will not depend then on China monetary growth if this one is "
+"only spatial, but on their own monetary growth policy in time, to play with "
+"the ratio Mb/Ma."
 
 # 82a0dad888944cc494dd3653647fb645
 #: ../../source/comment-comparer-deux-zones-economiques.rst:106
@@ -180,6 +235,12 @@ msgid ""
 "Dividende Universel sur lequel faire jouer jouer la hauteur de la densité de"
 " la masse monétaire."
 msgstr ""
+"We are here in front of two growth policy to catch-up with the necessary "
+"balance, in two complementary dimensions : spatial on the Chinese side (one "
+"should not forgot the similar problem for the 1 200 millions indian people "
+"under-monetized too), and temporally for the United-States and Europe. Yet "
+"the temporally catch-up in Europe and the United-States necessitate a "
+"Universal Dividend on which to play the density height of the monetary mass."
 
 # 533ac78100e240a3ba262497a73418fc
 #: ../../source/comment-comparer-deux-zones-economiques.rst:118
@@ -188,6 +249,9 @@ msgid ""
 "*Seule la quantité monétaire des échanges augmente* *et maintient stable la "
 "vitesse de circulation (Luc Fievet TRM 2.0)*"
 msgstr ""
+"*Evolution following a constant ratio Mb/Ma using time monetization.* *Only "
+"the monetary quantity of the exchanges grows* *and keeps stable the speed of "
+"circulation (Luc Fievet RTM 2.0)*"
 
 # cf8db43e65a7401a9e31fed31d07d2d9
 #: ../../source/comment-comparer-deux-zones-economiques.rst:126
@@ -196,3 +260,6 @@ msgid ""
 "quantité monétaire par citoyen monétisé* *(nouveaux citoyens monétisés = "
 "deuxième cercle) reste stable (Luc Fievet TRM 2.0)*"
 msgstr ""
+"*Evolution according to a constant ratio Ma/Na through the spacial "
+"monetization.* *The monetary quantity by monetized citizen* *(new monetized "
+"citizens = second circle) remains stable (Luc Fievet RTM 2.0)*"

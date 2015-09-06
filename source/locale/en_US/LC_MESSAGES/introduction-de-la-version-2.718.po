@@ -10,19 +10,21 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-01-17 13:35+0000\n"
-"Last-Translator: Moul <ma.azimi@laposte.net>\n"
-"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
+"PO-Revision-Date: 2015-09-01 19:57+0000\n"
+"Last-Translator: sb <s_b_@openmailbox.org>\n"
+"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
+"/introduction-de-la-version-2718/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.4-dev\n"
 
 # bf23091d91eb4a8aac333b7d31e586c9
 #: ../../source/introduction-de-la-version-2.718.rst:3
 msgid "Introduction de la version 2.718"
-msgstr "Introduction to version 2.718"
+msgstr "Introduction to the version 2.718"
 
 # 59779c2c4cc14c1080a95107e7c478e8
 #: ../../source/introduction-de-la-version-2.718.rst:5
@@ -30,7 +32,10 @@ msgid ""
 "Le lecteur de la TRM 1.0 et 2.0 ayant quelques connaissances mathématiques "
 "sur les fonctions exponentielles aura remarqué que la numérotation des "
 "versions tend vers le nombre e."
-msgstr "The reader of RMT 1.0 and 2.0 with some mathematical knowledge on exponential functions have notice that the version numbering tends towards the number \"e\"."
+msgstr ""
+"The reader of RTM 1.0 and 2.0 with some mathematical knowledge on "
+"exponential functions have notice that the version numbering tends towards "
+"the number \"e\"."
 
 # 0b59446467194df8a6c034e16514e52f
 #: ../../source/introduction-de-la-version-2.718.rst:9
@@ -41,7 +46,12 @@ msgid ""
 "qui peut faire sens par analogie sur d'autres domaines que l'économie en "
 "inscrivant un lien profond sur l'espace-temps d'analyse des mesures dans ses"
 " dimensions temporelles et quantitatives."
-msgstr "This version 2.718 of RMT brings an improvement on the form and on the signification of demonstrations without changing the meaning nor the quantitative result. This improvement brings a better theoretical definition that can make sense by analogy on other domains than economy by [inscrivant] a deep link on space-time [] in its temporal and quantitative dimensions."
+msgstr ""
+"This version 2.718 of RTM brings an improvement on the form and on the "
+"signification of demonstrations without changing the meaning nor the "
+"quantitative result. This improvement brings a better theoretical definition "
+"that can make sense by analogy on other domains than economy by [inscrivant] "
+"a deep link on space-time [] in its temporal and quantitative dimensions."
 
 # 2803804b9244430f90eea189aedb7e74
 #: ../../source/introduction-de-la-version-2.718.rst:15
@@ -57,7 +67,9 @@ msgstr "Most importantly, the limited life span of the observed objects and of t
 msgid ""
 "Cette amélioration sur la partie théorique conduit aussi à quelques "
 "remarques de portée générale sur la forme."
-msgstr "This improvement on the theoretical part lead also to some general remarks on the form."
+msgstr ""
+"This improvement on the theoretical part leads also to some general remarks "
+"on the form."
 
 # 9cef7cc6a81a45dbb7dd7c102a580d09
 #: ../../source/introduction-de-la-version-2.718.rst:22
@@ -65,7 +77,10 @@ msgid ""
 "La partie historique est aussi augmentée par l'inscription dans la trame "
 "décrite d'une lignée de penseurs économiques constituée par John Locke, "
 "Thomas Paine, Clifford Hugh Douglas et Yoland Bresson."
-msgstr "The historical part is also augmented by the introduction in the storyline of a lineage of economic thinkers consisting of  John Locke, Thomas Paine, Clifford Hugh Douglas and Yoland Bresson."
+msgstr ""
+"The historical part is also augmented by the introduction in the storyline "
+"of a lineage of economic thinkers consisting of John Locke, Thomas Paine, "
+"Clifford Hugh Douglas and Yoland Bresson."
 
 # 0ad8eccd2a334a78a6db94f9ba79455a
 #: ../../source/introduction-de-la-version-2.718.rst:28
@@ -73,7 +88,10 @@ msgid ""
 "« Ceux qui ont quitté ce monde et ceux qui n'existent pas encore sont à la "
 "plus grande distance les uns des autres que l'imagination humaine puisse "
 "concevoir : quelle possibilité d'obligation peut-il donc y avoir entre eux ?"
-msgstr "\"Those which have leaved the world, and those which doesn't exist yet, are as remote from each other as the utmost stretch of mortal imagination can conceive. Which possible obligation, then, can exist therefore between them?"
+msgstr ""
+"« Those which have leaved the world, and those which doesn't exist yet, are "
+"as remote from each other as the utmost stretch of mortal imagination can "
+"conceive. Which possible obligation, then, can exist therefore between them ?"
 
 # edea39b48f95464aa06dbda6f17e473c
 #: ../../source/introduction-de-la-version-2.718.rst:33
@@ -82,4 +100,7 @@ msgid ""
 "dont l'un a cessé d'être et l'autre n'existe pas encore, et qui ne peuvent "
 "jamais se rencontrer dans ce monde, l'un soit autorisé à maîtriser l'autre "
 "jusqu'à la consommation des siècles ? »"
-msgstr "Which rule or principle can be laid down that of two nonentities, the one out of existence and the other not in, and who never can meet in this world, the one should control the other to the end of time?\""
+msgstr ""
+"Which rule or principle can be laid down that of two nonentities, the one "
+"out of existence and the other not in, and who never can meet in this world, "
+"the one should control the other to the end of time ? »"

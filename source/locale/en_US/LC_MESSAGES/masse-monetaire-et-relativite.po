@@ -9,19 +9,21 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-01-18 21:18+0000\n"
-"Last-Translator: Moul <ma.azimi@laposte.net>\n"
-"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
+"PO-Revision-Date: 2015-09-03 19:22+0000\n"
+"Last-Translator: sb <s_b_@openmailbox.org>\n"
+"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
+"/masse-monetaire-et-relativite/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.4-dev\n"
 
 # 623876910d904d31abec4f33c37c5034
 #: ../../source/masse-monetaire-et-relativite.rst:3
 msgid "Masse Monétaire et Relativité"
-msgstr "Monetary mass and Relativity"
+msgstr "Monetary supply and Relativity"
 
 # b8746994cecb4da8980f7a19d9d38c44
 #: ../../source/masse-monetaire-et-relativite.rst:6
@@ -34,7 +36,9 @@ msgid ""
 "L'étude de la masse monétaire d'une zone économique en tant que donnée "
 "chiffrée globale ne suffit pas à constater si la monnaie est correctement "
 "créée ou pas."
-msgstr "The study of the economic zone's monetary mass as a global numeral doesn't suffice to note if money is correctly created or not."
+msgstr ""
+"The study of the money supply in an economic zone as a global figure is not "
+"enough to ascertain if the money is correctly created or not."
 
 # bb269390b4c2442e8c8cdec1e17f2487
 #: ../../source/masse-monetaire-et-relativite.rst:11
@@ -44,7 +48,12 @@ msgid ""
 "symétrique dans telle ou telle sous-partie de l'économie violerait l'éthique"
 " des classes de solutions du problème des trois producteurs étendu aux N "
 "citoyens de la zone économique."
-msgstr "In fact, if we can in some circumstances note that a monetary mass grows maintained at a constant rhythm, his density of non symmetric creation in such or such economy sub-part rape ethic a set of solutions of the tree productors' issue expanded to N citizen of the economic zone."
+msgstr ""
+"In fact, if we can in some circumstances note that a monetary supply grows "
+"to a maintained and constant rhythm, his density of non symmetric creation "
+"in such or such economic sub-part would violate the ethic of set of "
+"solutions of the \"tree producers' issue\" expanded to N citizens of the "
+"economic zone."
 
 # 4fd9e6a89b2547cdbd36939310e35582
 #: ../../source/masse-monetaire-et-relativite.rst:17
@@ -54,7 +63,12 @@ msgid ""
 " monétaire pour une application biaisée de la création de valeur, et se fait"
 " au détriment de tous les autres acteurs présents et futurs, tant du point "
 "de vue du « premier choix » que du point de vue du « jugement de valeur »."
-msgstr "Non symmetric monetary creation density issues are essentially due to the hoarding by an under-part of citizens of the monetary creation for a biased value creation application, and it is detrimental done to other present and future actors, both from the point of view \"first choice\" from the point of view of \"value judgment\"."
+msgstr ""
+"The issues of density based on a non-symmetric monetary creation are "
+"essentially due to the hoarding by an under-part of citizens of the monetary "
+"creation for a biased application of the value creation, and it has been "
+"done at the expense of all present and future actors, in terms of both « "
+"first choice » and « value judgment »."
 
 # c8408bedc2574953bf50234aa4b5bb29
 #: ../../source/masse-monetaire-et-relativite.rst:23
@@ -63,7 +77,11 @@ msgid ""
 "complétée, pour un contrôle citoyen efficace de l'éthique monétaire, par une"
 " information relative à la densité spatiale de création de cette monnaie, "
 "sachant que cette densité devrait être équilibrée."
-msgstr "Global monetary publication information should be completed, for an efficient citizen control of monetary ethics, by a relative information to spacial density creation of that money, knowing that this density should be balanced."
+msgstr ""
+"The publication of global monetary information should therefore be "
+"completed, for an efficient citizen control of monetary ethics, by a "
+"relative information to a spacial density of creation of that money, knowing "
+"that this density should be balanced."
 
 # 34b4f5fb3dcc4e749d83cab89b2fac2d
 #: ../../source/masse-monetaire-et-relativite.rst:28
@@ -74,7 +92,13 @@ msgid ""
 "monétaire inversée réalisée à Toulouse pendant une même période de 50 ans "
 "produirait sans aucun doute un résultat similaire (toujours au détriment des"
 " autres villes)."
-msgstr "And in USA, in Australia or in China this is because monetary creation is essentially done on the coast that economy is the most ostensibly flourishing, and that population flows concentrate there. The same reverse monetary creation realized on land during the same period of 50 years would produce without doubt a similar result (always detrimental of coast)."
+msgstr ""
+"Therefore in France, it is because the monetary creation is essentially "
+"concentrated around Paris that the economy is ostensibly the most "
+"flourishing, and that the population flows are condensed there. The same "
+"reverse monetary creation realized in the provinces during the same period "
+"of 50 years would produce without doubt a similar result (always at the "
+"expense of other cities)."
 
 # 0a6f786912974ea2844a998c2a5315ee
 #: ../../source/masse-monetaire-et-relativite.rst:35
@@ -90,7 +114,13 @@ msgid ""
 "quant à « c » dans les économies falsifiées par l'argent « dette » "
 "arbitrairement créé, qui détruit généralement la croissance par la perte de "
 "repère des individus quant à l'efficience de leur monnaie."
-msgstr "We measure by \"c\" the growth of the monetary mass. That is furthermore called \"economic growth\" within the meaning usually give to GDP, fundamentally depends in a way of \"c\". But this is the uncertainty about \"c\" in falsified economy by arbitrarily created \"debt\" money, which generally destroy growth with landmark loss of persons about money efficiency."
+msgstr ""
+"We measure by « c » the growth of the monetary supply. That is furthermore "
+"called « economic growth », within the meaning usually given to GDP, "
+"fundamentally depends on « c ». But this is the uncertainty about « c » in "
+"the falsified economies by arbitrarily created « debt » money, which "
+"generally destroys the growth by losing reference's individuals in terms of "
+"money efficiency."
 
 # 92ed88782e5d43cd981559737b924b0c
 #: ../../source/masse-monetaire-et-relativite.rst:44
@@ -103,7 +133,15 @@ msgid ""
 "répercutés suite à l'augmentation des prix, et non pas en même temps, cela "
 "fera donc monter le PIB, quand bien même il serait produit et consommé d'une"
 " année sur l'autre les mêmes biens et services."
-msgstr "There is a fundamental error to estimate the \"growth\" via the GDP, which measure exchanges of value. In fact, growing of the monetary mass, if at all it is sufficiently dense in the economy, will have as effect, at constant production, to mechanically make rises prices, without perform on exchanges quantity, costs are generally passed following growing of prices, and not at the same time, this will make rise GDP, even if it were produced and consumed from one year to the other same goods and services."
+msgstr ""
+"There is a fundamental error to estimate the « growth » via the GDP, which "
+"measures the exchanges of values. In fact, the growing of the monetary "
+"supply, if at all it is sufficiently dense in the economy, will have as "
+"effect, at constant production, to mechanically rise the prices, without "
+"performing on the exchanges quantity, the costs are generally passed "
+"following the growing of prices, and not at the same time, so this will rise "
+"GDP, even if it would be produced and consumed, from one year to another, "
+"the same goods and services."
 
 # a0788fafb12447aabf55511467d65023
 #: ../../source/masse-monetaire-et-relativite.rst:53
@@ -111,7 +149,10 @@ msgid ""
 "Il est même possible de voir le PIB monter à production moindre et échanges "
 "moindres, si la monnaie est créée dans une proportion suffisamment "
 "importante pour compenser."
-msgstr "It is also possible to see rise GDP at lower production and lower exchanges, if the money is created in a sufficient and significant proportion to offset."
+msgstr ""
+"It is also possible to see the rising of GDP at lower production and lower "
+"exchanges, if the money is created in a sufficient and significant "
+"proportion to offset."
 
 # da8e3a5f0282412fa1b49a596096140a
 #: ../../source/masse-monetaire-et-relativite.rst:57
@@ -121,7 +162,11 @@ msgid ""
 "représente une donnée parfaitement sûre, connue, vérifiable et *ne dépend "
 "pas du référentiel choisi* *pour la mesurer* contrairement à toute autre "
 "estimation."
-msgstr "The \"growth\" with the point of view of \"GDP\" is therefore a notion perfectly biased, whereas monetary mass growth represents a perfectly sure , known, verifiable data and *does not depends on the reference chosen* *to measure it* unlike to all other estimation."
+msgstr ""
+"The « growth » with the point of view of « GDP » is therefore a notion "
+"perfectly biased, whereas the growth of the monetary supply represents a "
+"perfectly sure, known, and verifiable information and *does not depend on "
+"the chosen repository* *to measure it* unlike to all other estimation."
 
 # aa8a82fa49be4b7f8258d3c5bc0bffb4
 #: ../../source/masse-monetaire-et-relativite.rst:62
@@ -132,7 +177,13 @@ msgid ""
 "euros de 1997 à 2007 a atteint 8 % / an de moyenne pour une répartition au "
 "sein des 330 millions de citoyens de la zone économique du surplus de "
 "monnaie commune non communiquée et certainement non-dense."
-msgstr "The following graphic shows the whole monetary mass M3 compound of M1, (M2 - M1) and (M3 - M2) of the euro zone from 1997 to october 2012 in quantity and also in growth on 12 months (ordered on % on the right). The growth in euro from 1997 to 2007 had reach on average 8 % per year for a distribution in the 330 millions of citizens of the economic zone of excess of common money non communicated and certainly non-dense."
+msgstr ""
+"The following graph shows the whole monetary supply M3 composed of M1, (M2 - "
+"M1) and (M3 - M2) of the euro zone from 1997 to october 2012 in quantity and "
+"also in growth on 12 months (ordered on % on the right). The growth in euro "
+"from 1997 to 2007 had reach on average 8 % / year, for a distribution within "
+"the 330 millions of citizens of the economic zone, of an excess of common "
+"money non published and certainly non-dense."
 
 # bf60a6b3a4c84de2a6c56336e3f0112b
 #: ../../source/masse-monetaire-et-relativite.rst:73
@@ -145,7 +196,14 @@ msgid ""
 "Banques. Le gagnant stocke ses gains, et le perdant se met en faillite, "
 "actant ainsi en fin d'opération, une création monétaire centrale sans "
 "équilibre."
-msgstr "This monetary creation essentially profits to States and larges companies even if they produce most of the time with outdated and extremely expensive processes, obsoletes values and without interest for 90 % of the population. This system does only benefits to some privileged individuals, and encourages to incestuous speculation between banks. The winner stocks his earnings, and by losing it gets bankrupt, acting thus at the end of operation, a central and unbalanced monetary creation."
+msgstr ""
+"This monetary creation essentially profits to States and big companies even "
+"if they produce most of the time with outdated and extremely expensive "
+"processes, obsoletes values and without interest for 90% of the population. "
+"This system does only benefit to some privileged individuals, and encourages "
+"to an incestuous speculation between Banks. The winner stocks his earnings, "
+"and the loser is bankrupt, acting thus at the end of operation, a central "
+"and unbalanced monetary creation."
 
 # 5815d8265b204587985d2c9a44280258
 #: ../../source/masse-monetaire-et-relativite.rst:81
@@ -156,7 +214,12 @@ msgid ""
 "d'échange tout en les forçant à l'utiliser (et donc notamment à payer sous "
 "la contrainte des impôts et des intérêts de crédits dans cette monnaie dont "
 "l'émission est contrôlée par ailleurs)."
-msgstr "Even if money is an immaterial and a common tool to exchange productions in an economical zone, it is used to define a power linked to deprive capacity of citizens sovereign of the exchange tool while forcing them to use (and therefore especially to pay under tax and credits interests constraints in a money whose however the emission is controlled)."
+msgstr ""
+"Even if the money is an immaterial and a common tool to exchange productions "
+"in an economic zone, it is used to define a power linked to the capacity to "
+"deprive the sovereign citizens of the exchange tool while forcing them to "
+"use it (and therefore especially to pay under the constraint of tax and "
+"interest credits in a money whose in addition the emission is controlled)."
 
 # dea50c8473c44fd3b6a9745f5468d84d
 #: ../../source/masse-monetaire-et-relativite.rst:88
@@ -169,7 +232,14 @@ msgid ""
 " asymétrique de monnaie a beau jeu de définir et produire lui-même de façon "
 "exclusive et donc au détriment d'autrui ce qui tient lieu de mesure de "
 "valeur !"
-msgstr "It is however obvious that the only decision to stop allocate additional credits to a pseudo-isolated economic zone, makes it on the mechanical incapacity (and not fundamentally productive) to repay the capital and interests \"in the money\". How to ensure to pay with something we don't produced our-selves? The asymmetric money producer have well game to define and produce it-self an exclusive way and therefore detrimental to others which takes place of value measure!"
+msgstr ""
+"It is however obvious that the only decision to stop allocating additional "
+"credits to a pseudo-isolated economic zone, makes it on the mechanical "
+"incapacity (and not fundamentally productive) to repay the capital and the "
+"interests « in the money ». How do we make sure to pay with something that "
+"we don't produce ourselves ? The asymmetric money producer is taking the "
+"easy way out by defining and producing itself exclusively and therefore at "
+"the expense of others which takes place as measured value !"
 
 # 39031a065f6f4f83bef2e92c42c25e3d
 #: ../../source/masse-monetaire-et-relativite.rst:96
@@ -178,7 +248,11 @@ msgid ""
 " croissance que de la masse monétaire, qui s'accompagne avec un effet retard"
 " de croissance en valeur monétaire des échanges économiques monétisés, "
 "quelle que soit leur forme relative dans l'espace et dans le temps."
-msgstr "The \"growth\" within the meaning of GDP can be a total lure. There is no growth than the monetary mass, which accompanies with a growth delay effect of monetary value of monetize economics exchanges, regardless to there relative form in space and time."
+msgstr ""
+"The « growth » within the meaning of GDP can be a total lure. The only "
+"growth is that of the monetary supply, which accompanies with a delay effect "
+"of growth in monetary terms of monetized economic exchanges, regardless of "
+"their relative form in space and time."
 
 # 1014df22b0c24275bc9bb29460d8289c
 #: ../../source/masse-monetaire-et-relativite.rst:101
@@ -187,12 +261,16 @@ msgid ""
 "à l'aide d'un outil dont l'expérimentateur choisit les paramètres selon son "
 "bon vouloir, et sans tenir compte des modifications dans ses résultats "
 "autrement que par des choix subjectifs."
-msgstr "There is then an unacceptable scientific angle to perform measures thanks to a tools whose the experimenter choose the settings according to his goodwill, and without considering modifications in its results other than its subjective choices."
+msgstr ""
+"There is then an unacceptable scientific angle to perform measures thanks to "
+"a tool whose the experimenter chooses the settings according to his "
+"goodwill, and without considering of modifications in its results other than "
+"its subjective choices."
 
 # bf2d4da088a3477aa6d4fe024b1d741e
 #: ../../source/masse-monetaire-et-relativite.rst:107
 msgid "Potentiel d'achat"
-msgstr "Potential purchasing"
+msgstr "Purchasing potential"
 
 # 3a1a62d3e1a74274b6247f0cb1939fa8
 #: ../../source/masse-monetaire-et-relativite.rst:109
@@ -206,7 +284,15 @@ msgid ""
 "2010 des quantités de « poules au pot Henri IV», « Fiacres 1900 », « "
 "formation à l'art subtil d'alchimiste » ou autre « livre produit par les "
 "moines copistes »."
-msgstr "If we consider the monetary mass growth, we will not talk about purchasing power of a given money quantity without getting in touch with that same mass. We will talk about potential purchasing. The angle which consist to define a \"basket of goods\"'s price arbitrarily define as \"purchasing power\" measure, returns to define a timeless purchasing power wherein honestly we shall find therefore in 2010 quantity of \"hens to the Henri IV's can\", \"1900 cabs\", \"formation to subtle alchemist art\" or other \"books produced by copyist monks\"."
+msgstr ""
+"If we consider the growth of the monetary supply, we will not talk about "
+"purchasing power of a given quantity of money without getting in touch with "
+"that same mass. We will therefore talk about the purchasing potential. The "
+"angle which consists to define the price of a « basket of goods » "
+"arbitrarily defined as « purchasing power » measure, returns to define a "
+"timeless purchasing power wherein honestly we shall find therefore in 2010 "
+"quantities of « hens to the Henri IV's can », « 1900 cabs », « formation to "
+"subtle alchemist art » or other « books produced by copyist monks »."
 
 # 393cf48ed1e047279d94d58961d677c2
 #: ../../source/masse-monetaire-et-relativite.rst:118
@@ -215,7 +301,11 @@ msgid ""
 " d'accepter une telle méthode, basée sur des valeurs « absolue » quand bien "
 "même elles seraient revues et actualisées, car elles seront toujours "
 "sujettes à des choix arbitraires."
-msgstr "From the Relative Monetary Theory's point of view, we can refute to accept such method, based on an \"absolute\" values even if there were review and updated, because there will always be subject to arbitrary choices."
+msgstr ""
+"From the point of view of the Relative Theory of Money, we can only refute "
+"to accept such a method, based on an « absolute » values even if there were "
+"reviewed and updated, because there will always be subject to arbitrary "
+"choices."
 
 # bde891fa7fdf4fe6a1dcc56960fe7765
 #: ../../source/masse-monetaire-et-relativite.rst:123
@@ -223,7 +313,10 @@ msgid ""
 "Le graphique suivant représente l'évolution d'un salaire « fixe » de 1 500 "
 "euros rapporté à la masse monétaire Euro (exprimée en milliards d'€) de 2000"
 " à 2010, et donc du potentiel d'achat."
-msgstr "The following graph represents changes of a \"fix\" 1 500 euro salary reported to the Euro monetary mass (expressed in billions of euros) form 2000 to 2010, and therefore the potential purchasing."
+msgstr ""
+"The following graph represents the evolution of a « fixed » salary of 1'500 €"
+" reported to the monetary supply of the Euro (expressed in billions of euros)"
+" from 2000 to 2010, and therefore to the potential purchasing."
 
 # 2c1ed973820241e98d1eb359315da9da
 #: ../../source/masse-monetaire-et-relativite.rst:127
@@ -235,7 +328,14 @@ msgid ""
 "à quel point le mensonge quant à des mesures pourtant vérifiables peut se "
 "propager au sein de démocraties où le pouvoir médiatique est censé "
 "représenter la garantie de la transparence."
-msgstr "The potential purchasing of a fix salary had fallen more than 50 % between 2000 and 2010. In other words it is probable that the price of a majority of goods \"relatively stable\" in terms of application between these two dates had raised more than 100 % on the same period. It is very surprising to see how lying about proceedings however verifiable can spreads in democracies where the media power is expected represent transparency's warranty."
+msgstr ""
+"The potential purchasing of a fixed salary had fallen more than 50 % between "
+"2000 and 2010. In other words, it is likely that the prices of a majority of "
+"goods « relatively stable » in terms of application between these two dates "
+"had raised more than 100% on the same period. It is very surprising to see "
+"how lying about proceedings however verifiable can be spread within "
+"democracies where the media power is expected to represent the "
+"transparency's warranty."
 
 # 18440b400c6749e7a5ad5afe8a98bcb2
 #: ../../source/masse-monetaire-et-relativite.rst:140
@@ -247,7 +347,13 @@ msgid ""
 "rien n'assure à une production donnée d'être échangeable en quoi que ce soit"
 " demain, cela dépend des choix individuels et collectifs qui changent dans "
 "le temps."
-msgstr "Relative Money Theory does not say that a \"salary\" should follow the monetary mass inflation, that is impossible, highest salaries would be advantages and would participate to the increase of the monetary mass upper to the balance rate! Moreover nothing ensure to a given production to be exchangeable in anything tomorrow, this depends on individuals and collectives choices which change over time."
+msgstr ""
+"The Relative Theory of Money does not say that a « salary » should follow "
+"the inflation of the monetary supply, that is in fact impossible, the "
+"highest salaries would benefit and would participate to an increase in the "
+"monetary supply greater than the balance rate ! Moreover, nothing ensure to "
+"a given production to be exchangeable in anything tomorrow, this depends on "
+"individual and collective choices which change over time."
 
 # 2f6df8da57b949e68870eb39e04c798d
 #: ../../source/masse-monetaire-et-relativite.rst:147
@@ -256,7 +362,11 @@ msgid ""
 "uniquement lui, qui est indexé à la masse monétaire, et qui assure que la "
 "base monétaire est symétriquement distribuée, et donc compatible avec les "
 "trois libertés économiques fondamentales."
-msgstr "Relative Money Theory says that this is the Universal Dividend, and only it, which is indexed to the monetary mass, and which ensure that the monetary basis is symmetrically distributed, and therefore compatible with the three fundamentals economics liberties."
+msgstr ""
+"The Relative Theory of Money says that this is the Universal Dividend, and "
+"only it, which is indexed to the monetary supply, and which ensures that the "
+"monetary basis is symmetrically distributed, and therefore compatible with "
+"the three fundamental economic freedoms."
 
 # eee3aaf749c74c8b8eaa8620048ff53c
 #: ../../source/masse-monetaire-et-relativite.rst:152
@@ -266,4 +376,8 @@ msgid ""
 "citoyen de la zone économique, afin que les acteurs de l'économie fassent "
 "leurs choix en toute connaissance de cause et selon leur propre point de vue"
 " individuel."
-msgstr "It also says that we should correctly measure economics magnitudes in relatives data, taking into account of the existing money quantity per citizen of the economic zone, so that the economy actors do they choices wittingly and according to there individual point of view."
+msgstr ""
+"It also says that we should correctly measure the economic magnitudes in "
+"relative data, taking into account of the quantity of the existing money per "
+"citizen within the economic zone, so that the economic actors should do "
+"their choices wittingly and according to their individual point of view."

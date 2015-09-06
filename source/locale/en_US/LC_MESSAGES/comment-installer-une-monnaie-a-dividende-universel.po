@@ -8,19 +8,21 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-07-16 08:41+0000\n"
-"Last-Translator: Vincent Texier\n"
-"Language-Team: English (United States) (http://www.transifex.com/p/french-to-english/language/en_US/)\n"
+"PO-Revision-Date: 2015-08-22 20:12+0000\n"
+"Last-Translator: Maël AZIMI <moul@moul.re>\n"
+"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
+"/comment-installer-une-monnaie-dividende-universel/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.4-dev\n"
 
 # 68394dbc0f2c471dbfd66ce7d046da10
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:3
 msgid "Comment installer une monnaie à Dividende Universel ?"
-msgstr ""
+msgstr "How set-up a currency based on Universal Dividend?"
 
 # 07cd4d6854384af1ac65a3cc586119e2
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:5
@@ -29,11 +31,13 @@ msgid ""
 "d'une nouvelle monnaie ou sur la base de la monnaie existante suivant deux "
 "approches, simple ou progressive."
 msgstr ""
+"A dividend universal based currency can be set-up based on a new currency or "
+"on an existing one following two approaches, simple or progressive."
 
 # d9183275b3854ee39f0114fd072e2d09
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:10
 msgid "Approche simple"
-msgstr ""
+msgstr "Simple approach"
 
 # 40709721a9bd49a2b426c0a4a0a51be8
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:12
@@ -45,6 +49,12 @@ msgid ""
 "Cette approche est particulièrement adaptée au cas d'une monnaie "
 "préexistante qui mute en Dividende Universel."
 msgstr ""
+"First approach consist to set-up an initial universal dividend superior to "
+"the \"c\" rate target that we will let unchanged during time that the "
+"monetary mass growth rate reach \"c\". From now on, we regularly increase "
+"the universal dividend following the \"c\" rate. This approach is "
+"particularly suitable in the case of a preexisting currency that mutates to "
+"universal dividend."
 
 # 0ef88030eadc4089a56fee3d40591ac4
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:19
@@ -58,11 +68,18 @@ msgid ""
 "toute activité économique libre basée sur l'individu souverain, prenant "
 "toute sa part dans le système monétaire."
 msgstr ""
+"For instance, in euro zone, this approach could be performed based on social "
+"minimum financial help ever installed, grouping all social helps within a "
+"unique and simplified counter, and integrating in the preexisting salary the "
+"dividend universal mention in the gross wage. It could be a \"motionless "
+"revolution\" which would essentially consist in awareness of basic income as "
+"base of whole free economical activity based on sovereign individual, taking "
+"all his part in the monetary system."
 
 # f893948d1ae344a9b5357f0ec259926b
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:34
 msgid "Approche progressive, le cas Européen"
-msgstr ""
+msgstr "Progressive approach, the European case"
 
 # 8a60f312b29a42d9802a1187d35dd261
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:36
@@ -72,6 +89,9 @@ msgid ""
 "solution est particulièrement adaptée à la création d'une nouvelle monnaie "
 "au sein d'un SEL."
 msgstr ""
+"Second approach consist to allocate to each new member an initial credit fix "
+"associated to an optimal universal dividend since the beginning. This "
+"solution is particularly suitable to create a new currency within a LETS."
 
 # aa44e91fc08642ba8241096f86676ece
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:41
@@ -88,6 +108,16 @@ msgid ""
 "économique monétisée, qui la plupart du temps consiste essentiellement en un"
 " risque de sortir des conditions d'obtention."
 msgstr ""
+"Europe give us an absolutely interesting case about a truncated universal "
+"dividend. Truncated because a big part of Euro zone does not benefits of "
+"minimal income, and that an other part benefits of a conditional minimal "
+"income (so non universal) and furthermore which is very high. We got "
+"individuals working for others with the simple application of an asymmetric "
+"monetary politic. Furthermore, conditions to get those minimal incomes are "
+"extremely complex, and need for individuals so much energy to ask their part "
+"to different counters, that one time obtained, it discourages very strongly "
+"monetized economic activity, that most of the time consist essentially in a "
+"risk to get out obtaining conditions."
 
 # 97041d515a104166ab42cbfab7c29b03
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:53
@@ -97,6 +127,9 @@ msgid ""
 "beaucoup moins si par ailleurs le citoyen s'aventure à monétiser une "
 "activité déclarée)."
 msgstr ""
+"The observed minimum income in France or in Germany is about on average 450€ "
+"/ months (sometimes much more with others helps, but also least if besides "
+"that the individual ventures to monetize a declared activity)."
 
 # 1ba34112f9b44394bf9e9bc34ee09b75
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:57
@@ -104,6 +137,8 @@ msgid ""
 "Si la zone euro déclarait brutalement ce niveau de DU pour les 330 millions "
 "de citoyens, cela reviendrait"
 msgstr ""
+"If euro zone brutally says this universal dividend level for 330 million "
+"citizens, this would be"
 
 # bd8bf204cf3b41339682a215ee0f57ec
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:64
@@ -111,11 +146,13 @@ msgid ""
 "à un taux de 18 % de la masse monétaire, qui, à DU fixe, atteindrait le taux"
 " de croissance optimal de 5 % de la masse monétaire en 15 ans."
 msgstr ""
+"a 18% rate of the monetary mass, which, to fix universal dividend, could "
+"reach the optimal growth rate of 5% of monetary mass in 15 years."
 
 # 85565c90b9cf4f25b73303435979280b
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:68
 msgid "Le DU lui même suivrait alors cette évolution :"
-msgstr ""
+msgstr "Universal dividend it-self would follow this evolution:"
 
 # 76697a0e051e46b49b52ed823bfeb092
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:74
@@ -125,6 +162,10 @@ msgid ""
 "sont privés de DU se voyant dotés d'un DU nouveau et élevé pourraient se "
 "voir économiquement désorganisés de façon très rapide."
 msgstr ""
+"We could object that this evolution could be sudden, creating violent and "
+"sudden economical distortions, countries in which a zone are private of "
+"universal dividend seeing with a new and high universal dividend could be "
+"quickly disorganized economically."
 
 # 674d336e4bc84fef9630303f258a43e4
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:79
@@ -134,6 +175,11 @@ msgid ""
 " / mois / citoyen pour les citoyens privés de revenu minimum, afin de le "
 "faire converger vers une cible de 450 € / mois / citoyen dans toute la zone."
 msgstr ""
+"We can also imagine an other strategy of convergence more flexible, starting "
+"from a universal dividend calculated on 2010 monetary mass, of 130 € per "
+"months per individuals for individuals private of minimum income, to make "
+"converge toward a target of 450 € per months per individuals in the whole "
+"zone."
 
 # 8903367f4d0d45fdbdbd2b5edfe7d40f
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:84
@@ -144,11 +190,16 @@ msgid ""
 "la masse totale de monnaie COMMUNE au détriment des autres citoyens ?), on "
 "atteindrait alors très rapidement cet objectif car :"
 msgstr ""
+"Basing on an asymmetric and strong growth of euro monetary mass observed at "
+"8% per years from 2000 to 2007 (Law question: why did we allowed some of "
+"them to benefits exclusively monetary mass growth of common money at the "
+"detriment of other individuals?), we would reach very quickly this goal "
+"because:"
 
 # 62948cf0a5754720bb252897da502eae
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:94
 msgid "équivaut à"
-msgstr ""
+msgstr "equals to"
 
 # e188ff53ce1541d89d22bad56ab28c39
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:100
@@ -156,6 +207,8 @@ msgid ""
 "La même durée que selon la première stratégie ! (mais en créant moins de "
 "monnaie, et donc de façon plus progressive)."
 msgstr ""
+"Same duration as first strategy! (but creating less money, and so in a way "
+"more progressive)."
 
 # a85741cf52c349338a5b41369e2df29f
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:103
@@ -165,11 +218,15 @@ msgid ""
 "reconnaissance de l'égalité entre les citoyens d'une même zone monétaire "
 "devant la mesure de toute valeur, et donc devant la création monétaire."
 msgstr ""
+"Possibilities of progressives establishing exist, this is a simple question "
+"of spatio-temporal defined goal fixing, associated to recognition of "
+"equality between individuals of the same monetary zone behind measure of all "
+"value, and so behind monetary creation."
 
 # acaf598ba8f2424da9c316b99cfaedf6
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:113
 msgid "Réflexion sur le prêt à intérêts"
-msgstr ""
+msgstr "Reflexion on loan interests"
 
 # e212ee8530134d7c88c8b649514db1ef
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:115
@@ -180,6 +237,11 @@ msgid ""
 " qu'il n'en est créé, ce qui peut s'avérer mécaniquement impossible à "
 "réaliser, indépendamment de tout niveau de production ou d'échange."
 msgstr ""
+"Regardless the monetary system used, it is right to think carefully to loan "
+"interest issue. If this interest exceeds money mass growth rate, we are in a "
+"case in which we must recover more money than it is created, what can prove "
+"mechanically impossible to realize, independently to all production and "
+"exchange levels."
 
 # b5222bcf21b04b77a17bce16710e1978
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:121
@@ -190,6 +252,10 @@ msgid ""
 "de rendre plus de monnaie qu'il n'en existe localement. Ces cas sont des "
 "conditions de faillite forcée."
 msgstr ""
+"If an autonomous economical zone but unisulated, whose local money were feed "
+"through an initial loan interest, then sees arbitrarily private of the "
+"associated money creation, then creditor's demand is to give back more money "
+"than it exist locally. Those cases are conditions of forced bankruptcy."
 
 # f36a70a8b8b94c6aac86edabadd1e35e
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:127
@@ -201,6 +267,11 @@ msgid ""
 "moins susceptibles de pouvoir rembourser. C'est la condition suffisante pour"
 " provoquer des faillites personnelles."
 msgstr ""
+"For instance in France on 2010, thought monetary mass increased of 8% per "
+"years during 2000 to 2007, (7% between 2000 and 2010 due to the contraction "
+"2007 – 2010), the 22% interest rate is a legal rate, relevant in addition to "
+"individuals the more remote from money creation, so the less susceptible to "
+"refund. This is sufficient condition to provoke personals flaws."
 
 # 8dcd541375fe4d57a2d83b80f582e2de
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:134
@@ -217,6 +288,15 @@ msgid ""
 "déflation locale, et donc à des faillites forcées, indépendamment de toute "
 "notion de production et d'échange de valeur."
 msgstr ""
+"But also taking the case of a global money growth rate of 7% per year, with "
+"this additional money which is not symmetrically allocated within a zone, "
+"but only benefit to centrals transmitters and their affiliates to the center "
+"of the global Ponzi pyramid. A local interest rate of 5%, however lower to "
+"the global growth rate, will be, in remote place of emission, superior to "
+"local money growth which will be for instance of 1%. Then it is here from "
+"the moment of acceptance of this loan, a case of local decrease of monetary "
+"mass 5% - 1% = 4% per year, leading to local deflation and so to forced "
+"bankruptcy, independently to all production and exchange value notion."
 
 # a3a5e7e1486e4cdda2f6ba7e9812ac97
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:145
@@ -230,6 +310,14 @@ msgid ""
 " rapport à l'emprunteur. Le premier a toute l'information et tout le pouvoir"
 " de la modifier, le second n'a ni l'un ni l'autre."
 msgstr ""
+"We might say that whoever accepts the loan should evaluate the ins and outs, "
+"and its responsibility to evaluate his \"risk, except that he is behind a "
+"Bank system which got access to all his accounts, and to global financial "
+"data. So, there is an asymmetric access to information, which allows one to "
+"take the advantage over the other. In fact the advantage of the money "
+"transmitter is immeasurable compared to the borrower. The first has all the "
+"information and all power to change it, the second has neither one nor the "
+"other."
 
 # d2c51a4654c748afa83847f953b04f03
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:154
@@ -243,6 +331,13 @@ msgid ""
 "solution n'est pas d'augmenter le taux d'intérêt au-delà des conditions "
 "maximales requises, mais de prêter moins ou pas du tout."
 msgstr ""
+"With a transparent universal dividend, money mass long term growth being "
+"known and dense in economy, the fix interest rate of a money credit (of a "
+"previously accumulated money by the lender) shall not legally exceed "
+"universal dividend rate to have insurance that the general conditions used "
+"to pay principal and interest. If the \"risk\" proves overweening for the "
+"lender, solution is not to increase interest rate beyond require maximal "
+"conditions, but to loan less or not at all."
 
 # e13e045a3d90440aaf5c7142b76facce
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:163
@@ -254,6 +349,11 @@ msgid ""
 "supérieur, et de tels contrats devraient être déclarés logiquement "
 "irrecevables."
 msgstr ""
+"At least this should also be the case on all monetary system. The interest "
+"rate of a loan can not legally exceed monetary mass growth rate. Without "
+"this, it is sure that conditions are not filled to be certain that it is "
+"possible to refund a loan at superior rate, and such contracts must be "
+"logically declared inadmissible."
 
 # 90e444dd73a741668814a139b186fae7
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:169
@@ -261,11 +361,13 @@ msgid ""
 "Il est logiquement aberrant que la Loi n'interdise pas d'émettre des prêts à"
 " un taux d'intérêt supérieur au taux de croissance de la masse monétaire."
 msgstr ""
+"It is logically aberrant that Law does not prohibit to emit credit with an "
+"interest rate superior to monetary mass growth rate."
 
 # d06aa7fdbaf24a289d16082aa307c723
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:173
 msgid "Réflexion sur l'impôt"
-msgstr ""
+msgstr "Reflection on tax"
 
 # 75d33e9826954e0ba8ab3bc7d81fab90
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:175
@@ -275,6 +377,9 @@ msgid ""
 "sauf à donner à l'État une prérogative intenable sur l'initiative "
 "individuelle."
 msgstr ""
+"Same reasoning on the interest loan, implies that tax can NOT globally "
+"exceed monetary mass growth rate, except to give to the State an untenable "
+"prerogative on individual initiative."
 
 # 6f94048581864c0ab037cbaf9ad32e1f
 #: ../../source/comment-installer-une-monnaie-a-dividende-universel.rst:179
@@ -288,3 +393,10 @@ msgid ""
 "produit, et ne pas s'endetter au-delà du raisonnable étant donné le flux "
 "normal de revenus qu'il est censé obtenir."
 msgstr ""
+"This means that on an universal dividend economy, community representative, "
+"to finance collectives projects with tax must their estimate basing on the "
+"number of managed individuals, and knowing money growth \"c\" factor do not "
+"take at maximum a global fraction the lower possible \"f ``×`` c\". For the "
+"rest, the State must finance by counter goods and services it produces, and "
+"that not going into debt beyond reasonable given normal flow of income which "
+"it is supposed to get."
