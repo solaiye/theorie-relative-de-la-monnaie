@@ -3,7 +3,7 @@
 bin/
 # include pot files for Weblate translation
 build/*
-source/locale/*/LC_MESSAGES/*.mo
+*.mo
 develop-eggs/
 .Python
 TRM_2_718_b.odt
