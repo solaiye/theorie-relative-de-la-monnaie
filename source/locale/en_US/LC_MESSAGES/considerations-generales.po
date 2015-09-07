@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-03 15:36+0000\n"
+"PO-Revision-Date: 2015-09-07 13:44+0000\n"
 "Last-Translator: sb <s_b_@openmailbox.org>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/considerations-generales/en_US/>\n"
@@ -397,7 +397,7 @@ msgstr ""
 "wants to hold, sell, or buy, and certainly not only about the quantity of "
 "money he owns. Moreover, in an innovative economy where the members are "
 "encouraged to create new goods and services, what will be value tomorrow is "
-"in to a large extend totally unpredictable."
+"to a large extent totally unpredictable."
 
 # fe6584bf1ed642f18bc63709315e898e
 #: ../../source/considerations-generales.rst:195
