@@ -8,13 +8,14 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-06 13:39+0000\n"
-"Last-Translator: Moul <moul@moul.re>\n"
-"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm/formalisaton/en_US/>\n"
+"PO-Revision-Date: 2015-09-06 21:02+0000\n"
+"Last-Translator: Vincent Texier <vit@free.fr>\n"
+"Language-Team: English (United States) "
+"<http://weblate.ucoin.io/projects/rtm/formalisaton/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2.4-dev\n"
 
@@ -486,31 +487,31 @@ msgstr "Freedom of production"
 
 #: ../../source/formalisaton.rst:43
 msgid "\\a) Liberté"
-msgstr ""
+msgstr "\\a) Freedom"
 
 #: ../../source/formalisaton.rst:50
 msgid "\\b) Valeur"
-msgstr ""
+msgstr "\\b) Value"
 
 #: ../../source/formalisaton.rst:61
 msgid "\\c) Monnaie"
-msgstr ""
+msgstr "\\c) Money"
 
 #: ../../source/formalisaton.rst:69
 msgid "\\d) Zone monétaire"
-msgstr ""
+msgstr "\\d) Currency union"
 
 #: ../../source/formalisaton.rst:85
 msgid "\\a) Liberté d'accès aux ressources"
-msgstr ""
+msgstr "\\a) Resources access freedom"
 
 #: ../../source/formalisaton.rst:91
 msgid "\\b) Liberté de production"
-msgstr ""
+msgstr "\\b) Production freedom"
 
 #: ../../source/formalisaton.rst:97
 msgid "\\c) Liberté d'échange « dans la monnaie »"
-msgstr ""
+msgstr "\\c) Freedom to exchange \"in the money\""
 
 #~ msgid "a) Liberté"
 #~ msgstr "a) Freedom"
