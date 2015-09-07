@@ -8,13 +8,14 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-01 21:15+0000\n"
-"Last-Translator: sb <s_b_@openmailbox.org>\n"
-"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm/probleme-de-la-monnaie-dette/en_US/>\n"
+"PO-Revision-Date: 2015-09-06 21:09+0000\n"
+"Last-Translator: Vincent Texier <vit@free.fr>\n"
+"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
+"/probleme-de-la-monnaie-dette/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_US\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2.4-dev\n"
 
@@ -347,15 +348,15 @@ msgstr ""
 
 #: ../../source/probleme-de-la-monnaie-dette.rst:10
 msgid "\\a) La symétrie spatiale n'est pas respectée"
-msgstr ""
+msgstr "\\a) The spacial symmetry is not respected"
 
 #: ../../source/probleme-de-la-monnaie-dette.rst:21
 msgid "\\b) La symétrie temporelle n'est pas respectée"
-msgstr ""
+msgstr "\\b) The temporal symmetry is not respected"
 
 #: ../../source/probleme-de-la-monnaie-dette.rst:34
 msgid "\\c) L'asservissement par l'intérêt manquant"
-msgstr ""
+msgstr "\\c) Enslavement by the missing interest"
 
 #~ msgid "a) La symétrie spatiale n'est pas respectée"
 #~ msgstr "a) The spacial symmetry is not respected"
