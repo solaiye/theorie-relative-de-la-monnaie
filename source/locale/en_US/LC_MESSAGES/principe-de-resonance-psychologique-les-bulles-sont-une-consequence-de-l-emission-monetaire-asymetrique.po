@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-06 21:07+0000\n"
+"PO-Revision-Date: 2015-09-13 09:30+0000\n"
 "Last-Translator: Vincent Texier <vit@free.fr>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/principe-de-resonance-psychologique/en_US/>\n"
@@ -283,7 +283,7 @@ msgstr ""
 "which there are measures of global monetary mass controlled by the issuing "
 "center constituted of the private Banks (leverage) and Centrals. In this "
 "asymmetrical monetary system, periods where a beginning of concentration of "
-"monetary flux is found, is under-fed by a creation of money of resonance."
+"monetary flux is found, is over-fed by a creation of money of resonance."
 
 # bb61599a723c4e869b1ad83bea2cfb9a
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:157
