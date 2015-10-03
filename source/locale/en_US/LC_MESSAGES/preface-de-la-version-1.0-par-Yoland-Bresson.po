@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-07 12:16+0000\n"
-"Last-Translator: sb <s_b_@openmailbox.org>\n"
+"PO-Revision-Date: 2015-09-17 19:14+0000\n"
+"Last-Translator: Cédric Moreau <cem.moreau@gmail.com>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/preface-de-la-version-10-par-yoland-bresson/en_US/>\n"
 "Language: en_US\n"
@@ -62,7 +62,6 @@ msgstr ""
 
 # dcf821a8f10447cd8ee1eb30f9c352cb
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:19
-#, fuzzy
 msgid ""
 "Nous avons presque tous déjà pratiqué un tel système… en jouant au Monopoly."
 " En effet chaque joueur reçoit au départ la même quantité de monnaie, et à "
@@ -140,7 +139,6 @@ msgstr ""
 
 # 114c939f5f604d67b0e04fc6ee3b583b
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:49
-#, fuzzy
 msgid ""
 "Il suppose une population stable en nombre avec une espérance de vie donnée."
 " C'est-à-dire qu’il admet un solde démographique naturel nul : il y a autant"

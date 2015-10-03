@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-06 21:02+0000\n"
-"Last-Translator: Vincent Texier <vit@free.fr>\n"
+"PO-Revision-Date: 2015-09-22 18:46+0000\n"
+"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
 "Language-Team: English (United States) "
 "<http://weblate.ucoin.io/projects/rtm/formalisaton/en_US/>\n"
 "Language: en_US\n"
@@ -134,12 +134,12 @@ msgid ""
 "fluctuante relativement à l'individu qui l'utilise, la produit ou l'échange,"
 " elle est donc fluctuante dans tout l'espace-temps considéré."
 msgstr ""
-"We talk about value of all economic good, material, enegetical, immaterial, "
-"spacial or temporal. For example, we can attribute a value to a fruit, to "
-"electricity, a software, a terrain or a teaching. The principle of "
-"relativity negate all absolute value. All value is fluctuating relatively to"
-" the individual that uses it, produces it or exchanges it, and is so "
-"fluctuating in a given space-time."
+"Value means any physical or not, energy, spacial or temporal economic good. "
+"For example, we can attribute a value to a fruit, to electricity, a "
+"software, a terrain or by teaching. The principle of relativity denies any "
+"absolute measurement of value. Any value fluctuates relatively to the "
+"individual that uses it, produces it or exchanges it, and thus fluctuates in "
+"the considered spacetime."
 
 # 6cd3cdbd85b74e789d92259a0d10fbc4
 #: ../../source/formalisaton.rst:63
@@ -150,8 +150,8 @@ msgid ""
 "monétaire considérée)."
 msgstr ""
 "The money is a common accounting and exchange tool to all citizens of the "
-"same economic zone (by extension we could say \"universal\" by meaning, "
-"within the considered currency union)."
+"same economic zone (by extension we could say « universal » by meaning, "
+"within the considered monetary union)."
 
 # 999fbae6acfb46dba2f04f967127554b
 #: ../../source/formalisaton.rst:71
@@ -159,8 +159,8 @@ msgid ""
 "Une zone monétaire (ou zone économique) se définit par un espace souverain, "
 "et ses citoyens présents et futurs. Il s'agit donc d'un espace-temps local."
 msgstr ""
-"One currency union (or economic zone) is defined as a sovereign space, and "
-"it's citizens present or future. It is so a local space-time."
+"One monetary union (or economic zone) is defined as a sovereign space with "
+"its present and future citizens. It is thus a local space-time."
 
 # 5092e23c9aa448b9b87f4bda6d762530
 #: ../../source/formalisaton.rst:77
@@ -181,7 +181,7 @@ msgstr ""
 # 626d17ca41d94e87b74cdabef320ff1f
 #: ../../source/formalisaton.rst:87
 msgid "Tout citoyen est libre d'accéder aux ressources."
-msgstr "Any citizen is free to access resources."
+msgstr "Any citizen is free to access to resources."
 
 # 1111459b131e4ddaa74df803090f9d63
 #: ../../source/formalisaton.rst:93
@@ -203,7 +203,7 @@ msgid ""
 msgstr ""
 "As freedom is defined as non-nuisance, we must not fall into the basic and "
 "logical error consisting of interpreting the economic freedoms as the "
-"freedom to violate the property of others or to produce or exchange what "
+"freedom to violate the property of others or to produce or exchange which "
 "should not be permitted by the law."
 
 # fb0a25b520694958a615fe418a92656b

@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-05 22:32+0000\n"
-"Last-Translator: Vincent Texier <vit@free.fr>\n"
+"PO-Revision-Date: 2015-09-22 10:44+0000\n"
+"Last-Translator: Moul <moul@moul.re>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/probleme-des-trois-producteurs/en_US/>\n"
 "Language: en_US\n"
@@ -40,12 +40,12 @@ msgstr ""
 "of individuals, despite their fundamental disagreements regarding what "
 "constitutes the value, there remains a fundamental problem for the "
 "definition of this currency. It can be reduced by solving the following "
-"spacial-temporal three producers problem :"
+"spacial-temporal three producers problem:"
 
 # 86c8867816b84c6ab8d3a2dcbbfa80a6
 #: ../../source/probleme-des-trois-producteurs.rst:12
 msgid "X, Y, et Z, produisent respectivement des valeurs Vx Vy et Vz."
-msgstr "X, Y and Z respectively produce values Vx, Vy and Vz."
+msgstr "X, Y and Z respectively produce Vx, Vy and Vz values."
 
 # 2a387a9c35054660b18c43860f016a15
 #: ../../source/probleme-des-trois-producteurs.rst:14
@@ -94,8 +94,8 @@ msgid ""
 "existent,* *produisent et échangent des valeurs stables. (Luc Fievet TRM "
 "2.0)*"
 msgstr ""
-"*For a small time unit « dt »* *the individuals X Y and Z coexist,* *produce "
-"and exchange stable values. (Luc Fievet RTM 2.0)*"
+"*For a small \"dt\" time unit, individuals X, Y and Z coexist, produce and "
+"exchange stable values. (Luc Fievet RTM 2.0)*"
 
 # e7103d624bc74d788705b01ce63c165e
 #: ../../source/probleme-des-trois-producteurs.rst:39
@@ -105,10 +105,10 @@ msgid ""
 "font pourtant l'objet d'échanges circulaires, mais *« dans le temps »* les "
 "individus et les valeurs produites changent du tout au tout."
 msgstr ""
-"So, not only *«in space »* (for a short time of evolution «dt») the values "
-"are not commonly recognized by producers and are the object of circular "
-"exchanges, but *« in time »* the individuals and the produced values change "
-"completely."
+"So, not only *\"in space\"* (for a short time of evolution \"dt\") the "
+"values are not commonly recognized by producers and are the object of "
+"circular exchanges, but *\"in time\"* the individuals and the produced "
+"values change completely."
 
 # 9dcc82cbf4fe4b988b72caed1e923966
 #: ../../source/probleme-des-trois-producteurs.rst:44
@@ -148,7 +148,7 @@ msgid ""
 "manque de monnaie."
 msgstr ""
 "This result doesn't reduce the value of the money because its total "
-"quantity, although purely mathematic, is limited in all instant. The "
+"quantity, although purely mathematics, is limited in all instant. The "
 "purchasing potential of this money is limited by the prices beyond which the "
 "producers would not be able to exchange their productions because of a lack "
 "of money."
@@ -158,7 +158,9 @@ msgstr ""
 msgid ""
 "*Le problème des trois producteurs se complique* *lorsqu'au bout d'un temps "
 "suffisamment long ils sont morts et remplacés (Luc Fievet TRM 2.0)*"
-msgstr "*The problem of the three producers get more complicated* *when after some time, they die and they are replaced. (Luc Fievet TRM 2.0)*"
+msgstr ""
+"*\"Three producers” problem get more complicated* *when after some time, "
+"they die and they are replaced. (Luc Fievet TRM 2.0)*"
 
 # ccd21f34e378461e970a508b148d8684
 #: ../../source/probleme-des-trois-producteurs.rst:70
