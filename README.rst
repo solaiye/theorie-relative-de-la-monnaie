@@ -16,7 +16,7 @@ Require Sphinx 1.3+
     $ sudo pip install virtualenv
     $ virtualenv -p /usr/bin/python2.7 venv
     $ source venv/bin/activate
-    $ pip install -r /path/to/theorie-relative-de-la-monnaie/requirements.txt
+    $ pip install -vv -r /path/to/theorie-relative-de-la-monnaie/requirements.txt
     $ pip install matplotlib
 
 - Fedora:
@@ -28,12 +28,20 @@ Require Sphinx 1.3+
       python-numpydoc ipython python-sphinx python-ipython-sphinx
 
 
-Generate all (copy pdf and epub in html folder)
-======================================================
+Generate all files
+==================
+
+All files (pdf, epub) are in the build/html folder.
 
 ::
 
     $ ./build_all.sh
+
+Generate english translated build :
+
+::
+
+    $ ./build_all_en_US.sh
 
 Generate HTML, PDF and EPUB version
 ===================================
@@ -57,8 +65,8 @@ Generate EPUB version :
     $ make epub SPHINXOPTS="-t epub"
 
 
-Download generated files
-========================
+Download lastest generated files
+================================
 
 You can download files from the `latest release <https://github.com/vtexier/theorie-relative-de-la-monnaie/releases>`_
 
@@ -69,20 +77,41 @@ Translation in english
 ::
 
     $ sudo pip install sphinx-intl
-    $ pip install transifex-client
 
-Generate pot files in build/locale
+Generate pot files from rst files in build/locale
 
 ::
 
     $ make gettext
 
-Generate po files in source/locale
+Generate po files from pot files in source/locale
 (use english (United-States) with label en_US)
 
 ::
 
     $ sphinx-intl update -p build/locale -d source/locale/ -l en_US
+
+Create mo files
+
+::
+
+    $ sphinx-intl build --locale-dir source/locale
+
+Generate translated build :
+
+::
+
+    $ ./build_all_en_US.sh
+
+
+Transifex platform
+==================
+
+To sync with a Transifex project :
+
+::
+
+    $ pip install transifex-client
 
 Add pot files index in .tx/config
 
@@ -108,16 +137,3 @@ Add -f to force
 ::
 
     $ tx pull -l en_US -r french-to-english.index
-
-Create mo files
-
-::
-
-    $ sphinx-intl build --locale-dir source/locale
-
-Generate translated html document :
-
-::
-
-    $ make html SPHINXOPTS="-t html -D language='en_US' -D html_theme_path='themes/en_US' -D html_static_path='themes/en_US/html/static'"
-
