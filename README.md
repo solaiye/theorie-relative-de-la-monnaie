@@ -24,7 +24,7 @@ Texte sous licence [GPL version 3](http://www.gnu.org/licenses/gpl.html)
 
 Require Sphinx 1.3+
 
-- Ubuntu:
+- Ubuntu 14.04:
 
 ```bash
     $ sudo apt-get install python-pip
