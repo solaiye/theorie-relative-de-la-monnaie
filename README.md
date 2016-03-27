@@ -34,8 +34,7 @@ Require Sphinx 1.3+
     $ sudo pip install virtualenv
     $ virtualenv -p /usr/bin/python2.7 venv
     $ source venv/bin/activate
-    $ pip install -vv -r /path/to/theorie-relative-de-la-monnaie/requirements.txt
-    $ pip install matplotlib
+    $ pip install -vv -r requirements.txt
 ```
 
 - Fedora:
