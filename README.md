@@ -1,12 +1,30 @@
-Install
-=======
+# Relative Theory of Money (TRM)
+
+Relative Theory of Money (TRM) is a theory about a new money system based
+on a Universal Dividend calculated from the human life expectancy.
+It demonstrate that only one mathematical solution exists to create a "libre money".
+
+You can download files from the [latest release](https://github.com/vtexier/theorie-relative-de-la-monnaie/releases)
+
+Text licensed under [GPL version 3](http://www.gnu.org/licenses/gpl.html)
+
+# Théorie Relative de la Monnaie (TRM)
+
+La Théorie Relative de la Monnaie est une théorie décrivant un nouveau système monétaire
+basé sur un Dividende Universel calculé à partir de l'espérance de vie humaine.
+Elle démontre qu'il n'existe qu'une seule solution mathématique pour créer une "monnaie libre".
+
+Vous pouvez télécharger les fichiers de [la dernière version](https://github.com/vtexier/theorie-relative-de-la-monnaie/releases)
+
+Texte sous licence [GPL version 3](http://www.gnu.org/licenses/gpl.html)
+
+## Install repository
 
 Require Sphinx 1.3+
 
 - Ubuntu:
 
-::
-
+```bash
     $ sudo apt-get install python-pip
     $ sudo apt-get install python-dev
     $ sudo apt-get install libfreetype6-dev
@@ -18,122 +36,115 @@ Require Sphinx 1.3+
     $ source venv/bin/activate
     $ pip install -vv -r /path/to/theorie-relative-de-la-monnaie/requirements.txt
     $ pip install matplotlib
+```
 
 - Fedora:
 
-::
+```bash
 
     $ sudo dnf install python-pip python-devel freetype-devel \
       texlive texlive-latex dvipng python-matplotlib numpy \
       python-numpydoc ipython python-sphinx python-ipython-sphinx
+```
 
+## Generate all languages
 
-Generate all files
-==================
+Generate french and english version in ``build/fr_FR`` and ``build/en_US`` folders:
 
-All files (pdf, epub) are in the build/html folder.
+```bash
+    $ ./build.sh
+```
 
-::
+Generate original french version in ``build/fr_FR`` folder:
 
-    $ ./build_all.sh
+```bash
+    $ ./build_fr_FR.sh
+```
 
-Generate english translated build :
+Generate translated english version in ``build/en_US`` folder:
 
-::
+```bash
+    $ ./build_en_US.sh
+```
 
-    $ ./build_all_en_US.sh
+## Generate HTML, PDF and EPUB version
 
-Generate HTML, PDF and EPUB version
-===================================
+Generate HTML version:
 
-Generate HTML version :
-
-::
-
+```bash
     $ make html SPHINXOPTS="-t html"
+```
 
-Generate PDF version :
+Generate PDF version:
 
-::
-
+```bash
     $ make latexpdf SPHINXOPTS="-t latex"
+```
 
 Generate EPUB version :
 
-::
-
+```bash
     $ make epub SPHINXOPTS="-t epub"
+```
+## Translation in english
 
-
-Download lastest generated files
-================================
-
-You can download files from the `latest release <https://github.com/vtexier/theorie-relative-de-la-monnaie/releases>`_
-
-
-Translation in english
-======================
-
-::
-
+```bash
     $ sudo pip install sphinx-intl
+```
 
 Generate pot files from rst files in build/locale
 
-::
-
+```bash
     $ make gettext
+```
 
 Generate po files from pot files in source/locale
 (use english (United-States) with label en_US)
 
-::
-
+```bash
     $ sphinx-intl update -p build/locale -d source/locale/ -l en_US
+```
 
 Create mo files
 
-::
-
+```bash
     $ sphinx-intl build --locale-dir source/locale
+```
+Generate translated build:
 
-Generate translated build :
-
-::
-
+```bash
     $ ./build_all_en_US.sh
+```
 
-
-Transifex platform
-==================
+## Transifex platform
 
 To sync with a Transifex project :
 
-::
-
+```bash
     $ pip install transifex-client
+```
 
 Add pot files index in .tx/config
 
-::
-
+```bash
     $ sphinx-intl update-txconfig-resources --pot-dir build/locale --locale-dir source/locale --transifex-project-name french-to-english
+```
 
 Replace "en" language by "fr" in .tx/config
 
-::
-
+```bash
     $ source_lang = fr
+```
 
 Send the pot source files to the transifex server
 
-::
-
+```bash
     $ tx push -s
+```
 
 Get a translated po file
 Add -f to force
 
-::
-
+```bash
     $ tx pull -l en_US -r french-to-english.index
+```

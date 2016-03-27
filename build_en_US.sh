@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# required to avoid pdf make to fail if a french latex build was made before
+rm -r build/latex
+
 # GENERATE MO FILES
 sphinx-intl build --locale-dir source/locale
 
@@ -15,3 +18,5 @@ cp build/epub/TheorieRelativedelaMonnaie.epub build/html/.
  make latexpdf SPHINXOPTS="-t latex -D language='en_US' -D latex_elements.title='Relative Theory of Money' -D latex_elements.release='' -D latex_elements.releasename=''"
  cp build/latex/TheorieRelativedelaMonnaie.pdf build/html/.
 
+# label folder as english version
+mv build/html build/en_US
