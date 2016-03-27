@@ -18,6 +18,8 @@ Vous pouvez télécharger les fichiers de [la dernière version](https://github.
 
 Texte sous licence [GPL version 3](http://www.gnu.org/licenses/gpl.html)
 
+[![Build Status](https://travis-ci.org/vtexier/theorie-relative-de-la-monnaie.svg?branch=dev)](https://travis-ci.org/vtexier/theorie-relative-de-la-monnaie)
+
 ## Install repository
 
 Require Sphinx 1.3+
