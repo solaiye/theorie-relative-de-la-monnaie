@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2016-03-28 10:33+0000\n"
-"Last-Translator: Cédric Moreau <cem.moreau@gmail.com>\n"
+"PO-Revision-Date: 2016-03-28 10:35+0000\n"
+"Last-Translator: sb <s_b_@openmailbox.org>\n"
 "Language-Team: English (United States) "
 "<http://weblate.ucoin.io/projects/rtm/formalisaton/en_US/>\n"
 "Language: en_US\n"
@@ -349,7 +349,7 @@ msgstr "Freedom of use"
 # 9d16591cf773410e93905faf082ff1e1
 #: ../../source/formalisaton.rst:163
 msgid "Liberté d'accès au code source"
-msgstr "Freedom to access and read the source code"
+msgstr "Freedom to access and to read the source code"
 
 # bb1da0b2bc194b219083336b8fc11741
 #: ../../source/formalisaton.rst:164
@@ -385,13 +385,13 @@ msgstr "Freedom to access to resources"
 # 569aa3ba1f5a45fda496c008848d376e
 #: ../../source/formalisaton.rst:172
 msgid "Liberté de production de valeurs"
-msgstr "Freedom of value production"
+msgstr "Freedom to produce values"
 
 # 64331a9765be4d9a8506b53250659ce8
 # ef214bc1e56c4b0084408f67a6fbf3e0
 #: ../../source/formalisaton.rst:173 ../../source/formalisaton.rst:211
 msgid "Liberté d'échange « dans la monnaie »"
-msgstr "Freedom of exchange \"in the money\""
+msgstr "Freedom to exchange « in the money »"
 
 # 35556374f5e24b60b67d78e3d2f1db83
 #: ../../source/formalisaton.rst:175
@@ -412,9 +412,9 @@ msgid ""
 "liberté et plus encore selon la quatrième liberté comme nous le verrons par "
 "la suite."
 msgstr ""
-"We can speak about the Euro as a freedom depriving money, or as a depriving "
-"monetary system, *at least* in the sense of the first freedom, and more "
-"following the fourth freedom as we shall see in the following."
+"We can speak about the Euro as a money depriving of freedoms, or as a "
+"private monetary system, *at least* in the sense of the first freedom, and "
+"even more according to the fourth freedom as we shall see in the following."
 
 # af5e1dbb65034429882d935e4017366f
 #: ../../source/formalisaton.rst:183
@@ -427,12 +427,12 @@ msgid ""
 "troc là où elle n'est pas présente, ne peut avoir la caractéristique de "
 "liberté « d'échange dans la monnaie »."
 msgstr ""
-"Other example: gold. We can talk about the gold as a *monetary candidate* "
-"not respecting *at least* the third economic freedom of economic exchange "
-"*\"in the money\"*, for the simple reason – that we will develop later – "
-"that it is not universally accessible in the core of an economic zone. Such "
-"a \"money\" that forces to return to barter where it is not present, cannot "
-"have the characteristic of freedom \"to exchange in the money\"."
+"Another example : gold. We can talk about the gold as a *monetary candidate* "
+"not respecting *at least* the third economic freedom of economic exchange *« "
+"in the money »*, for the simple reason - that we will develop later - that "
+"it is not universally accessible within an economic zone. Such a « money » "
+"that forces back to barter where the money is not present, cannot have the "
+"characteristic of  freedom « to exchange in the money »."
 
 # 0c3497f1d915481abfa520b27c7b81ff
 #: ../../source/formalisaton.rst:190
@@ -442,8 +442,8 @@ msgid ""
 "monétaire."
 msgstr ""
 "And this is why the RTM makes the difference between a specific value and "
-"the money as *\"measure and mean of universal exchange\"* inside the "
-"currency union."
+"the money as *« measure and medium of universal exchange »* inside the "
+"monetary union."
 
 # c3f7b56087754a66896d5ae0f95f797b
 #: ../../source/formalisaton.rst:193
@@ -458,12 +458,12 @@ msgid ""
 " »."
 msgstr ""
 "It is quite the same role that the speed of light plays in Relativist "
-"physics. The light is not a physical object like any other objects. It's "
-"speed, data of space/time (a distance divided by a time) is the same in all "
-"and every referential. And it is because observers agree on that point, that"
-" they deduce the relativity of the other measures to establish a relativist "
-"theory compatible between them, giving different measures following "
-"different referentials, but having the \"same shape\"."
+"physics. The light is not a physical object like any other objects. Its "
+"speed, data of space/time (a distance divided by a time) is the same in any "
+"referential. And it is because observers agree on this point, that they "
+"deduce the relativity of the other measurements to establish a relativist "
+"theory compatible between them, giving different measurements following "
+"different referentials, but having the « same shape »."
 
 # e82c8e82073c4e3c9ded7cb096927e5a
 #: ../../source/formalisaton.rst:202
