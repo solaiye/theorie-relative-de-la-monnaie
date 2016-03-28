@@ -1,15 +1,7 @@
-.installed.cfg
-.~lock*
-bin/
 # include pot files for Weblate translation
 build/
+!build/.gitkeep
 *.mo
-develop-eggs/
-.Python
-TRM_2_718_b.odt
-include/
-lib/
-man/
-share/
 .idea
 log.txt
+venv
