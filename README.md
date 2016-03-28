@@ -1,20 +1,24 @@
 # Relative Theory of Money (TRM)
 
-Relative Theory of Money (TRM) is a theory about a new money system based
+Relative Theory of Money (TRM) is a theory about a money system based
 on a Universal Dividend calculated from the human life expectancy.
 It demonstrate that only one mathematical solution exists to create a "libre money".
 
-You can download files from the [latest release](https://github.com/vtexier/theorie-relative-de-la-monnaie/releases)
+You can [read it online here](http://vtexier.github.io/theorie-relative-de-la-monnaie/en_US)
+
+You can [download files here](https://github.com/vtexier/theorie-relative-de-la-monnaie/releases)
 
 Text licensed under [GPL version 3](http://www.gnu.org/licenses/gpl.html)
 
 # Théorie Relative de la Monnaie (TRM)
 
-La Théorie Relative de la Monnaie est une théorie décrivant un nouveau système monétaire
+La Théorie Relative de la Monnaie est une théorie décrivant un système monétaire
 basé sur un Dividende Universel calculé à partir de l'espérance de vie humaine.
 Elle démontre qu'il n'existe qu'une seule solution mathématique pour créer une "monnaie libre".
 
-Vous pouvez télécharger les fichiers de [la dernière version](https://github.com/vtexier/theorie-relative-de-la-monnaie/releases)
+Vous pouvez [la lire en ligne ici](http://vtexier.github.io/theorie-relative-de-la-monnaie/fr_FR)
+
+Vous pouvez [télécharger les fichiers ici](https://github.com/vtexier/theorie-relative-de-la-monnaie/releases)
 
 Texte sous licence [GPL version 3](http://www.gnu.org/licenses/gpl.html)
 
