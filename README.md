@@ -1,6 +1,6 @@
 # Relative Theory of Money (TRM)
 
-Relative Theory of Money (TRM) is a theory about a new money system based
+Relative Theory of Money (TRM) is a theory about a money system based
 on a Universal Dividend calculated from the human life expectancy.
 It demonstrate that only one mathematical solution exists to create a "libre money".
 
@@ -12,7 +12,7 @@ Text licensed under [GPL version 3](http://www.gnu.org/licenses/gpl.html)
 
 # Théorie Relative de la Monnaie (TRM)
 
-La Théorie Relative de la Monnaie est une théorie décrivant un nouveau système monétaire
+La Théorie Relative de la Monnaie est une théorie décrivant un système monétaire
 basé sur un Dividende Universel calculé à partir de l'espérance de vie humaine.
 Elle démontre qu'il n'existe qu'une seule solution mathématique pour créer une "monnaie libre".
 
