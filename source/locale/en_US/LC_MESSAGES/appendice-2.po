@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2016-03-28 10:15+0000\n"
-"Last-Translator: sb <s_b_@openmailbox.org>\n"
+"PO-Revision-Date: 2016-03-28 10:17+0000\n"
+"Last-Translator: Magali Marc <3neurons@riseup.net>\n"
 "Language-Team: English (United States) "
 "<http://weblate.ucoin.io/projects/rtm/appendice-2/en_US/>\n"
 "Language: en_US\n"
@@ -140,7 +140,7 @@ msgstr ""
 #: ../../source/appendice-2.rst:49
 msgid ""
 "C'est donc l'homme qui est le seul fondement invariant de toute économie."
-msgstr "This is human who is the only invariant foundation of any economy."
+msgstr "Therefore, human is the only invariant foundation of any economy."
 
 # e9663f3ce91d4b83bd19e3e29ef65682
 #: ../../source/appendice-2.rst:51
@@ -520,9 +520,9 @@ msgid ""
 ":math:`R=\\frac{Q}{DU}` le nombre d'unités relatives co-produites par un "
 "individu entre :math:`t_{0}` et t :"
 msgstr ""
-"So we can also transform our metric in relative based on the relative unit "
-"\"UD\" so established. Now call :math:`R=\\frac{Q}{DU}` the number of units "
-"co-produced by an individual between :math:`t_{0}` and t:"
+"So we can also transform our metric in relative based on the established "
+"relative unit \"UD\" so established. Now let's call :math:`R=\\frac{Q}{DU}` "
+"the number of co-produced units by an individual between :math:`t_{0}` and t:"
 
 # 327757f758c6417fa527207b274851f5
 #: ../../source/appendice-2.rst:274
