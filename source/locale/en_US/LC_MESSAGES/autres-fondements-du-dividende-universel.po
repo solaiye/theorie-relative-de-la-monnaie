@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-03 15:54+0000\n"
-"Last-Translator: sb <s_b_@openmailbox.org>\n"
+"PO-Revision-Date: 2016-03-28 10:13+0000\n"
+"Last-Translator: César <cesar.proute@gmail.com>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/autres-fondements-du-dividende-universel/en_US/>\n"
 "Language: en_US\n"
@@ -22,7 +22,7 @@ msgstr ""
 # cf6375ef84404e0a8f8010bed4238a53
 #: ../../source/autres-fondements-du-dividende-universel.rst:3
 msgid "Autres fondements du Dividende Universel"
-msgstr "Other basis of the Universal Dividend"
+msgstr "Other bases of the Universal Dividend"
 
 # c9615ff83cd64add8be13b8761f59a77
 #: ../../source/autres-fondements-du-dividende-universel.rst:5
@@ -33,8 +33,9 @@ msgid ""
 "vers le même résultat fondamental."
 msgstr ""
 "Even if the logical and mathematical approach is enough to reach the result "
-"of an Universal Dividend money, it is still possible to develop additional "
-"and more practical points of view, which tend to the same fundamental result."
+"of a Universal Dividend money, it is still possible to develop complementary "
+"and more practical points of views, which tend to the same fundamental "
+"result."
 
 # 0364c6fce85d4455921951598965809c
 #: ../../source/autres-fondements-du-dividende-universel.rst:12
@@ -93,7 +94,7 @@ msgstr ""
 # e260f98b637542aeac7c75b3b746d252
 #: ../../source/autres-fondements-du-dividende-universel.rst:36
 msgid "Monétisation de la valeur libre, bénévole, non directement marchande"
-msgstr "Monetization of free value, voluntary, not directly mercantile"
+msgstr "Monetization of free value, voluntary, non-directly mercantile"
 
 # ee9a9a16188c4ac0939d9ab926f2aeb9
 #: ../../source/autres-fondements-du-dividende-universel.rst:38
