@@ -7,6 +7,11 @@ python:
 dist: trusty
 sudo: required
 
+# blacklist
+branches:
+  except:
+    - dev
+
 before_install:
 - sudo apt-get -qq update
 - sudo apt-get install -y python-pip
@@ -32,7 +37,7 @@ deploy:
     skip_cleanup: true
     script: ./deploy_github_pages.sh
     on:
-      branch: dev
+      branch: master
       python: '2.7'
 
   # deploy zip releases on tags
