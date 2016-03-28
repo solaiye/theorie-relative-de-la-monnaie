@@ -14,6 +14,6 @@ git config user.name "Travis CI" && \
 git config user.email "nobody@nobody.org" && \
 git add . && \
 git commit -m'build' && \
-git push --force --quiet $remote_repo master:$remote_branch > /dev/null 2>&1 && \
+git push --force $remote_repo master:$remote_branch && \
 rm -fr .git && \
 cd ${current_dir}
