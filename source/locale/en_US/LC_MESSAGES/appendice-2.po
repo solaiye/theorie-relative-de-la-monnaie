@@ -11,7 +11,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
 "PO-Revision-Date: 2016-03-28 10:15+0000\n"
-"Last-Translator: Magali Marc <3neurons@riseup.net>\n"
+"Last-Translator: sb <s_b_@openmailbox.org>\n"
 "Language-Team: English (United States) "
 "<http://weblate.ucoin.io/projects/rtm/appendice-2/en_US/>\n"
 "Language: en_US\n"
@@ -59,12 +59,12 @@ msgstr "The freedom of choice of one's monetary system"
 # 829dabb1db38483fa6c5dfa4fce79f46
 #: ../../source/appendice-2.rst:18
 msgid "La liberté d'utiliser les ressources"
-msgstr "Freedom to access resources"
+msgstr "The freedom to access resources"
 
 # 2b01ff2798b2489ebd608e0a7d1e0c00
 #: ../../source/appendice-2.rst:19
 msgid "La liberté d'estimation et de production de toute valeur économique"
-msgstr "Freedom to evaluate and produce any economic value"
+msgstr "The freedom to evaluate and produce any economic value"
 
 # 67d313b7f8a84a7b8dbfd8b7167b7f92
 #: ../../source/appendice-2.rst:20
