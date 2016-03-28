@@ -24,7 +24,7 @@ env:
   - GH_REF="github.com/vtexier/theorie-relative-de-la-monnaie.git"
   - secure: T3mqMZT1BcaniFctu/h+ETOfwojfzAcgyg8Mp3n7Jlc4fvXVc1CKjbioZ/zgTdNmdI8iY1X4Yn7FPcObXuRTD2CEDhHufdx9IAyoRvhpU22lks7ZwMFK4QL78cWrXRckkmnMv01FSBaWXGaowocGJIJCXhSGn5PmxmzpgYXAETIsXy3bGKsQNw16+cyd1Ln9MGn+RiPvG2B+FsNx33TZb/gIQfQnyxAnHWDFBVK7AkFnxPG43yLWmWD3x2ECfxb12AEmNUqeM0HHp2HAX3S7NQH8iII7gSplGk6yX/WooOOmP3adiWDxOJ8c3Qtkxsd4cLeYtzU1upqvN20j4z6eJ+tYp9qplEjpcFU6P19y1uxw/+MeMG1jtWxHUyfNBF5U3y7nArD46TPmDTZTyaC1+JTssRFxFZeeTGXbyKapha1ceFlC6TMUtGz65km6c+P29mUkZEttOBM/6/ui3V2ugzrIiINuFBpoBwDMgRKK6EYhGijdrW8oQ79GsjY1nY8+mg3jbHO4TbsHVGPJXoGGtEwJYBq8H/mMRigWFrxAdCjZI5EWwT70V1oMiiarDPjfRP806L9cuKmITzQ40l1kTFVtloylPpLgfLXTKxMj2/9kPjROuvQGP9ieSbg/2NvwVNUC0aGUJ0fDZsCmvkrze1VZqEVCaha5M9rRblPiGPk=
 
-#before_deploy: ./build_release.sh
+before_deploy: ./build_release.sh
 
 deploy:
   # deploy dev updates on github-pages
@@ -35,13 +35,15 @@ deploy:
       branch: dev
       python: '2.7'
 
-#  # deploy zip releases on tags
-#  - provider: releases
-#    api_key:
-#      secure: muTCTtKjhLZtLSNS+OZCMh0kcHoW2hdpQkkGlX53RELYrg91mF8KAsVGFWwGGxfJlp/N+nTrBIphyCeef62NNSsME6wPOFZlfUGYv8QupxGCt8+phzHGRBphKvReQca2S0KnWX0L07kdwmzV7gZia1WTkAcH6HnZOxPY1MYJ9YJTFK75aW+r4VZGsdv2g8PJdMbxJBC83fFanLJ6mqrWvv6umxwCXRnfvhFVUFXiRdh4b2YF8jTX+EJ5ZhbCPb41i1uppzqxpgeIHEQMCJvNNPIikkRXO8SugswtM4BvYqCBVl0tBd7vuQCRw5PGTduoKgPsN+1sF4J1aLYg9hfx/AoWg1RpbqUVzIM0O7GAI49e6WL/2mKq2cE9nF0izxibfWYMLfSsjHAGeR2S7UgN6/5BmVFAVErwkVZTaJt+Z8E63UcGncmBLKIlp/usj+0BuTT4rUBknqeFmi9SSWdxV7ux2AceBCcHa0mXsAf5BJD4R4c1R/YYnrVWrH9iScpsl8x97lgIZs9XCdmSrZ94O90BEJzAPhz9hFgp1ZQzt1RmZs6HtQZVe3agmJvCPzFZ4Yy9lLtbVNeez00vkmpcW4kTMoNpCHZ8y5oo5ASFhxy+En9NjPOAFUSernKEnF7rKmjBpFXXEU0gFTZsx1DOBbfVhh+JPRIoXjc2m0TjS68=
-#    file: ./rst/build/geconomicus.zip
-#    skip_cleanup: true
-#    on:
-#      repo: vtexier/Geconomicus
-#      tags: true
-#      python: '3.4'
+  # deploy zip releases on tags
+  - provider: releases
+    api_key:
+      secure: N2AirpBJ4/V9v5wDiXFCsPkkeWG7EiEp3FCrZDJrDqlb4NRcybuhwVbeu6HqixP/SMZInEXS3V3FDIu4lnaDOFNu1Ch1il2g4SF1ZlYfZhdxW03s/k8QkeaR07QCJk4vwCCLf8WORqrxIQMRNrftu3PuAMTig7qSogOWTb6Lz0zAYXyWG9ErfrZE5W2l6iYiVcsvc4oxyCFloMaopFny89qCDJCgOMaqUOcPo5ihJwTjuUznQAJP2YItwg2BVGHz6FDgRIdPydWHtcf029csEOBm1rVFe7yPoPL8hdh6MWWthy++yKPwnm4dtOxToftrX4cM6dhJo6hPcfXZC3yFluoXVvQo6guvOlGYFLS4BKnMEgnJb7zASB4xZShiW3F9soyHAezdTvvlvPeSR7w9QNX9KFjH4CgRN/wOLjO42uXvcwcPYoOtxM/cPS6yIsyGsG6yl6YzWst06rHB5qy8JmpyC+ulgn2DOZFhz/muGjC8Fw89gq+6AzlI5bClqVLhRuS87HNyX+7dQS8Cm2GdPFgN7QbCSS3zHEzzsvKIwj9+dNO3/u3fwe9D3otGb+v39nVK1cvhwk+PrlAOp23vYpDoEqI/47qSmxnMA9TbWArx3icqezfhw/2HDzpCDvcWXz0Phso2XsCEuAH0ivpMIuzMb5jifW3E/d3d/81TZIU=
+    file:
+      - ./build/TRM_fr_FR.zip
+      - ./build/TRM_en_US.zip
+    skip_cleanup: true
+    on:
+      repo: vtexier/theorie-relative-de-la-monnaie
+      tags: true
+      python: '2.7'
