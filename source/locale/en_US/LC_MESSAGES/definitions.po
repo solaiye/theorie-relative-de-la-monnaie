@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-06 13:19+0000\n"
-"Last-Translator: Moul <moul@moul.re>\n"
+"PO-Revision-Date: 2016-03-28 10:12+0000\n"
+"Last-Translator: César <cesar.proute@gmail.com>\n"
 "Language-Team: English (United States) "
 "<http://weblate.ucoin.io/projects/rtm/definitions/en_US/>\n"
 "Language: en_US\n"
@@ -58,7 +58,9 @@ msgstr "Reference: currency union"
 msgid ""
 "Une zone économique ou zone monétaire constitue le repère de base de l'étude"
 " économique. Qu'est-ce qui la caractérise ?"
-msgstr "An economic zone or a monetary zone is the base landmark of the economic study. What characterized it?"
+msgstr ""
+"An economic zone or a monetary zone is the base frame of the economic study. "
+"What characterizes it?"
 
 # 7195f78c765247c18c756004fe726b54
 #: ../../source/definitions.rst:20
@@ -70,21 +72,26 @@ msgstr "The space where the monetary agreement is manifest"
 msgid ""
 "Le temps, c'est-à-dire, l'espérance de vie moyenne des individus qui y "
 "vivent et y meurent."
-msgstr "Time, that is to say, average individuals life span which lives and dies."
+msgstr ""
+"Time, that is to say, the average life span of individuals who live and die "
+"in it."
 
 # af83c2ea1e5141c7ac348b41797e9d8a
 #: ../../source/definitions.rst:24
 msgid ""
 "La production individuelle ou collective (entrepreneuriale) de biens et de "
 "services"
-msgstr "Individual or collective (entreprenarial) production of goods and services"
+msgstr ""
+"Individual or collective (entrepreneurial) production of goods and services"
 
 # 05f28842e29642cb9a6ec218113290e3
 #: ../../source/definitions.rst:26
 msgid ""
 "L'échange de biens et de services entre individus ou groupements "
 "d'individus."
-msgstr "The goods and services exchange between individuals or individuals groups."
+msgstr ""
+"The exchange of goods and services between individuals or groups of "
+"individuals."
 
 # 903816735cf3450892bcf3c5bf87b74b
 #: ../../source/definitions.rst:28
@@ -98,7 +105,16 @@ msgid ""
 "ces biens et services. Par contre, on ne peut pas définir de zone économique"
 " vide d'individus. C'est donc bien l'individu qui constitue la seule valeur "
 "commune et fondamentale de tout repère économique valide."
-msgstr "Individuals or individuals groups are inevitably brought to exchange, only for information, education, or more generally still link. Which therefore fundamentally characterize the economics zone it is all individuals which compose it. Economy exist everywhere and anytime as soon as individuals produced and exchange goods and services, and that regardless of goods and services nature. For instance, we can not define an economic zone empty of individuals. That is well individuals which constitute the only common and fundamental value of all valid economic landmark."
+msgstr ""
+"Individuals or groups of individuals are inevitably brought to exchange, "
+"even if only information, education, or even more generally bonds. What "
+"therefore fundamentally characterizes the economic zone is all the "
+"individuals who compose it. The economy exist everywhere and at all times as "
+"soon as individuals produce and exchange goods and services, and that "
+"regardless of the nature of these goods and services. On the other hand, we "
+"cannot define an economic zone empty of individuals. Therefore it is indeed "
+"the individual who constitutes the only common and fundamental value of any "
+"valid economic frame."
 
 # d7cef6d6b9bf4359a5e6eb406032d089
 #: ../../source/definitions.rst:38
@@ -108,7 +124,11 @@ msgid ""
 "économique peut donc se représenter comme un espace temps discret en "
 "constante création/destruction où chaque point temporaire représente un "
 "individu à durée de vie limitée."
-msgstr "But to go further, this set of individuals evolve in time with births and dead, immigration and emigration. The economic zone could be imagined as a space time discreet on constant creation/destruction where each temporal point represents individual at limited life time."
+msgstr ""
+"But to go further, this set of individuals evolve in time with births and "
+"deaths, immigration and emigration. Therefore the economic zone can be seen "
+"as a discretized spacetime in constant creation/destruction where each "
+"temporary point represents an individual with a limited life span."
 
 # 5436464abeb44b2e9778a3a502e38d95
 #: ../../source/definitions.rst:44
@@ -119,11 +139,11 @@ msgid ""
 "moyenne, correspond à l'espérance de vie que l'on nommera« ev » de la zone "
 "économique considérée."
 msgstr ""
-"It is a spacio-temporal welf on a continue, non static, discreet "
-"transaction, where each point of space-time is created at a determined date ("
-"birth of an individual) and at limited life duration which, on average, "
-"matches to life span which we will nominate \"ls\" in a considered economic "
-"zone."
+"Thus it is a spatiotemporal model in continuous, non-static, discreet "
+"transformation, where each space-time point is created at a determined date ("
+"birth of an individual) and has a limited duration which, on average, "
+"matches to the life span which we will denote \"ls\" in the considered "
+"economic zone."
 
 # ee58ff3b5f9747388790db9d54bcaa26
 #: ../../source/definitions.rst:49
@@ -133,7 +153,12 @@ msgid ""
 "toute chose et aucun des individus ou groupement d'individus d'une zone "
 "économique donnée n'est en mesure d'imposer aux autres une vision "
 "particulière de ce qui est de la valeur ou ce qui n'en est pas."
-msgstr "That is the fundamental definition of Relativity in economics, all individual have personal and unique vision of value of all things and each individuals of individuals groups of economic zone is not able to impose to others a particular vision of what is value or not."
+msgstr ""
+"Furthermore and this is the fundamental definition of Relativity in "
+"economics, any individual has a personal and unique vision of the value of "
+"all things and no individual or groups of individuals from an economic zone "
+"is to be able to impose onto others a particular vision of what is value or "
+"not."
 
 # e25249c7921b4cf5b00b2aafe5153974
 #: ../../source/definitions.rst:57
@@ -156,15 +181,15 @@ msgid ""
 "d'échanges, au moins sur une petite période de temps."
 msgstr ""
 "An economic zone is said to be pseudo-isolated when, for a given time "
-"duration, we can consider that it live independently or almost-independently "
-"opposite to exterior. Perhaps the case of economic systems on still "
-"autonomous islands, where the livelihoods of individuals is ensured by "
-"sufficient food production (which is also quite relative, see for example "
-"the case study of some ascetics), but also the case of a topologically "
-"complex group of individuals in a not connected space, transnational, even "
-"transcontinental. As long as this set shows an autonomy, we can consider it "
-"as a pseudo-single economic zone, able to self-manage their work flow and "
-"exchange, at least on a small period of time."
+"duration, we can consider that it lives independently or quasi-independently "
+"from its exterior. It could be the case of economies on still autonomous "
+"islands, where the livelihoods of individuals is ensured by sufficient food "
+"production (which is also quite relative, see for example the case study of "
+"some ascetics), but also the case of a topologically complex group of "
+"individuals in a non-connected, transnational, even transcontinental space. "
+"As long as it shows autonomy, we can consider it as a pseudo-isolated "
+"economic zone, able to self-manage its flow of production and exchange, at "
+"least on a small period of time."
 
 # e7440f04b4da421f8dc688bcbf3af4c9
 #: ../../source/definitions.rst:72
@@ -179,10 +204,10 @@ msgid ""
 "représente le prix dans l'unité de mesure commune (appelée la monnaie "
 "commune) de la production de X « Cx »."
 msgstr ""
-"When there is goods or services exchanges, we talk about value exchange. X "
-"exchange with Y a value Vx = Vy = Px × Cx = Py × Cy, where \"Px\" represents "
-"the price in the common measure unity (called the common money) of "
-"population of X \"Cx\"."
+"When there is exchange of goods and/or services, we talk about value "
+"exchange. X exchanges with Y a value Vx = Vy = Px × Cx = Py × Cy, where \""
+"Px\" represents the price in the common measure unit (called the common "
+"money) of X's production \"Cx\"."
 
 # 13990c1a08d94a598c92a66ce6d5d13c
 #: ../../source/definitions.rst:79
@@ -192,7 +217,12 @@ msgid ""
 " >> Vx, et ne s'en porte pas moins bien. Par ailleurs Z qui observerait cet "
 "échange pourrait tout à fait juger selon son propre référentiel que Vx et Vy"
 " n'ont pas de valeur."
-msgstr "This definition of value is perfectly relative to the observer which measure it, so if X consider that Vx = Vy, it is possible that Y consider Vy very bigger than Vx, and do not wear less. By aillor Z which observed this exchange may well judge according to his own reference that Vx and Vy does not have value."
+msgstr ""
+"This definition of value is perfectly relative to the observer who measures "
+"it, so if X considers that Vx = Vy, it is possible that Y considers Vy >> "
+"Vx, and be perfectly fine. Furthermore, Z who observed this exchange may "
+"well judge according to his own referential that Vx and Vy does not have any "
+"value."
 
 # a39e17994720411c9cb4e2c45989ab28
 #: ../../source/definitions.rst:84

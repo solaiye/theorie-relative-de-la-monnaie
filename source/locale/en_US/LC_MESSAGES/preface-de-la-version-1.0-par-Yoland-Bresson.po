@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-17 19:14+0000\n"
-"Last-Translator: Cédric Moreau <cem.moreau@gmail.com>\n"
+"PO-Revision-Date: 2015-10-11 10:49+0000\n"
+"Last-Translator: sb <s_b_@openmailbox.org>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/preface-de-la-version-10-par-yoland-bresson/en_US/>\n"
 "Language: en_US\n"
@@ -22,7 +22,7 @@ msgstr ""
 # 4dc678742d0f48608e8de75be39ecd00
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:3
 msgid "Préface de la version 1.0 par Yoland Bresson"
-msgstr "Preface by Yoland Bresson"
+msgstr "Preface of the version 1.0 by Yoland Bresson"
 
 # 3340c80b356047ada5eb31e85987b017
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:5
