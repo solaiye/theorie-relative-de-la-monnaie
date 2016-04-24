@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Stéphane Laborde
 # This file is distributed under the same license as the Théorie Relative de la Monnaie package.
-# 
+#
 # Translators:
 # Moul <ma.azimi@laposte.net>, 2015
 msgid ""
@@ -115,10 +115,10 @@ msgid ""
 "arbitrairement créé, qui détruit généralement la croissance par la perte de "
 "repère des individus quant à l'efficience de leur monnaie."
 msgstr ""
-"We measure by « c » the growth of the monetary supply. That is furthermore "
-"called « economic growth », within the meaning usually given to GDP, "
-"fundamentally depends on « c ». But this is the uncertainty about « c » in "
-"the economies falsified by arbitrarily created « debt » money, which "
+"We measure by \"c\" the growth of the monetary supply. That is furthermore "
+"called \"economic growth\", within the meaning usually given to GDP, "
+"fundamentally depends on \"c\". But this is the uncertainty about \"c\" in "
+"the economies falsified by arbitrarily created \"debt\" money, which "
 "generally destroys the growth by losing reference's individuals in terms of "
 "money efficiency."
 

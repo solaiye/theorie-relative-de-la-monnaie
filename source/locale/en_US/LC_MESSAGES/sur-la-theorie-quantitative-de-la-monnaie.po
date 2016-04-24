@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Stéphane Laborde
 # This file is distributed under the same license as the Théorie Relative de la Monnaie package.
-# 
+#
 # Translators:
 msgid ""
 msgstr ""
@@ -55,7 +55,7 @@ msgid ""
 " complet, pendant un temps t :"
 msgstr ""
 "Along a circular line of exchange, we have then by doing a complete turn, "
-"during a time « t » :"
+"during a time \"t\" :"
 
 # 456d9fe058e24305b7db8a4c85c3525a
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:29
@@ -107,8 +107,8 @@ msgid ""
 "l'espace (selon d'autres individus)."
 msgstr ""
 "The bias of a vision only global, is the non-relativity of measure of value. "
-"Because globally we find here or there an « exchange of values » we will "
-"decide that value is « here ». Yet this measure only concerns its actors, "
+"Because globally we find here or there an \"exchange of values\" we will "
+"decide that value is \"here\". Yet this measure only concerns its actors, "
 "and is not stable neither in time, nor in space (from other individuals "
 "point of view)."
 
@@ -118,7 +118,7 @@ msgid ""
 "*SEL et valeurs non monétisées dans la monnaie « dette » centrale (Luc "
 "Fievet TRM 2.0)*"
 msgstr ""
-"*LETSystem and non-monetized values in the central « debt » money  (Luc "
+"*LETSystem and non-monetized values in the central \"debt\" money  (Luc "
 "Fievet RTM 2.0)*"
 
 # b76f2e62ca624b80a56fcd14ecc9143d

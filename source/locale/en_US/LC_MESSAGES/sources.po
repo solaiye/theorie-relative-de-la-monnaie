@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Stéphane Laborde
 # This file is distributed under the same license as the Théorie Relative de la Monnaie package.
-# 
+#
 # Translators:
 msgid ""
 msgstr ""
@@ -27,7 +27,7 @@ msgstr "Sources"
 # 070cf25064bd4e60918fe73377fc11ec
 #: ../../source/sources.rst:0
 msgid "Théorie : Blog « Création Monétaire »"
-msgstr "Theory : Blog « Monetary Creation »"
+msgstr "Theory : Blog \"Monetary Creation\""
 
 # 2572c391738c47ab80287522ecb39f5c
 #: ../../source/sources.rst:0
@@ -77,7 +77,7 @@ msgstr "http://www.revenudexistence.org"
 # 919bce19eac64773bb5408ec8ac6447e
 #: ../../source/sources.rst:0
 msgid "Olivier Auber et la « perspective numérique »"
-msgstr "Olivier Auber and the « digital perspective »"
+msgstr "Olivier Auber and the \"digital perspective\""
 
 # 0ec2a461c79043cab62ca48e5d9de3f3
 #: ../../source/sources.rst:0

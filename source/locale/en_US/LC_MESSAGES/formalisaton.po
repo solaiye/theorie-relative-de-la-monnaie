@@ -42,9 +42,9 @@ msgid ""
 " bien différentes d'un observateur à l'autre, la seule mesure invariante "
 "étant celle de la vitesse de la lumière."
 msgstr ""
-"The principle of relativity as defined by Albert Einstein postulates that *« "
+"The principle of relativity as defined by Albert Einstein postulates that *\" "
 "the laws of physics express themselves identically (have the same shape) in "
-"all and every referentials »* (inertial referential or not). We call it also "
+"all and every referentials\"* (inertial referential or not). We call it also "
 "\"principle of symmetry\" or \"covariance\". The principle does not mean "
 "that all the observers measure the same thing, but that the laws of physics "
 "that you establish must, following their transformation from one to another "
@@ -150,7 +150,7 @@ msgid ""
 "monétaire considérée)."
 msgstr ""
 "The money is a common accounting and exchange tool to all citizens of the "
-"same economic zone (by extension we could say « universal » by meaning, "
+"same economic zone (by extension we could say \"universal\" by meaning, "
 "within the considered monetary union)."
 
 # 999fbae6acfb46dba2f04f967127554b
@@ -285,7 +285,7 @@ msgid ""
 "n'est pas neutre. On doit donc se poser la question de la transparence et de"
 " la légitimité du code."
 msgstr ""
-"According to the consequences of the « digital perspective » revealed by "
+"According to the consequences of the \"digital perspective\" revealed by "
 "Olivier Auber, the choice of a system implies the choice of the code that "
 "rules it, and that is not neutral. We have then to question the transparency "
 "and the legitimacy of the code."
@@ -303,7 +303,7 @@ msgstr ""
 "That implies that the freedom of the code that rules the system (here the "
 "money, which is the code of all economic exchanges), is a prior concept to "
 "the choice, if not there is simply no choice, then no freedom. According to "
-"that criteria defended by the inventor of « free software » Richard "
+"that criteria defended by the inventor of \"free software\" Richard "
 "Stallman, if you accept to use a system where the code is not free, you "
 "reduce your own fundamental freedoms."
 
@@ -391,7 +391,7 @@ msgstr "Freedom to produce values"
 # ef214bc1e56c4b0084408f67a6fbf3e0
 #: ../../source/formalisaton.rst:173 ../../source/formalisaton.rst:211
 msgid "Liberté d'échange « dans la monnaie »"
-msgstr "Freedom to exchange « in the money »"
+msgstr "Freedom to exchange \"in the money\""
 
 # 35556374f5e24b60b67d78e3d2f1db83
 #: ../../source/formalisaton.rst:175
@@ -428,11 +428,11 @@ msgid ""
 "liberté « d'échange dans la monnaie »."
 msgstr ""
 "Another example : gold. We can talk about the gold as a *monetary candidate* "
-"not respecting *at least* the third economic freedom of economic exchange *« "
-"in the money »*, for the simple reason - that we will develop later - that "
-"it is not universally accessible within an economic zone. Such a « money » "
+"not respecting *at least* the third economic freedom of economic exchange "
+"*\"in the money\"*, for the simple reason - that we will develop later - that "
+"it is not universally accessible within an economic zone. Such a \"money\" "
 "that forces back to barter where the money is not present, cannot have the "
-"characteristic of  freedom « to exchange in the money »."
+"characteristic of freedom \"to exchange in the money\"."
 
 # 0c3497f1d915481abfa520b27c7b81ff
 #: ../../source/formalisaton.rst:190
@@ -442,7 +442,7 @@ msgid ""
 "monétaire."
 msgstr ""
 "And this is why the RTM makes the difference between a specific value and "
-"the money as *« measure and medium of universal exchange »* inside the "
+"the money as *\"measure and medium of universal exchange\"* inside the "
 "monetary union."
 
 # c3f7b56087754a66896d5ae0f95f797b
@@ -463,7 +463,7 @@ msgstr ""
 "referential. And it is because observers agree on this point, that they "
 "deduce the relativity of the other measurements to establish a relativist "
 "theory compatible between them, giving different measurements following "
-"different referentials, but having the « same shape »."
+"different referentials, but having the \"same shape\"."
 
 # e82c8e82073c4e3c9ded7cb096927e5a
 #: ../../source/formalisaton.rst:202
