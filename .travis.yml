@@ -26,19 +26,19 @@ script: ./build.sh
 
 env:
   global:
-  - GH_REF="github.com/vtexier/theorie-relative-de-la-monnaie.git"
+  - GH_REF="github.com/libre-money-projects/theorie-relative-de-la-monnaie.git"
   - secure: T3mqMZT1BcaniFctu/h+ETOfwojfzAcgyg8Mp3n7Jlc4fvXVc1CKjbioZ/zgTdNmdI8iY1X4Yn7FPcObXuRTD2CEDhHufdx9IAyoRvhpU22lks7ZwMFK4QL78cWrXRckkmnMv01FSBaWXGaowocGJIJCXhSGn5PmxmzpgYXAETIsXy3bGKsQNw16+cyd1Ln9MGn+RiPvG2B+FsNx33TZb/gIQfQnyxAnHWDFBVK7AkFnxPG43yLWmWD3x2ECfxb12AEmNUqeM0HHp2HAX3S7NQH8iII7gSplGk6yX/WooOOmP3adiWDxOJ8c3Qtkxsd4cLeYtzU1upqvN20j4z6eJ+tYp9qplEjpcFU6P19y1uxw/+MeMG1jtWxHUyfNBF5U3y7nArD46TPmDTZTyaC1+JTssRFxFZeeTGXbyKapha1ceFlC6TMUtGz65km6c+P29mUkZEttOBM/6/ui3V2ugzrIiINuFBpoBwDMgRKK6EYhGijdrW8oQ79GsjY1nY8+mg3jbHO4TbsHVGPJXoGGtEwJYBq8H/mMRigWFrxAdCjZI5EWwT70V1oMiiarDPjfRP806L9cuKmITzQ40l1kTFVtloylPpLgfLXTKxMj2/9kPjROuvQGP9ieSbg/2NvwVNUC0aGUJ0fDZsCmvkrze1VZqEVCaha5M9rRblPiGPk=
 
 before_deploy: ./build_release.sh
 
 deploy:
-  # deploy dev updates on github-pages
-  - provider: script
-    skip_cleanup: true
-    script: ./deploy_github_pages.sh
-    on:
-      branch: master
-      python: '2.7'
+#  # deploy dev updates on github-pages
+#  - provider: script
+#    skip_cleanup: true
+#    script: ./deploy_github_pages.sh
+#    on:
+#      branch: master
+#      python: '2.7'
 
   # deploy zip releases on tags
   - provider: releases
@@ -49,6 +49,6 @@ deploy:
       - ./build/TRM_en_US.zip
     skip_cleanup: true
     on:
-      repo: vtexier/theorie-relative-de-la-monnaie
+      repo: libre-money-projects/theorie-relative-de-la-monnaie.git
       tags: true
       python: '2.7'
