@@ -1,15 +1,15 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Stéphane Laborde
 # This file is distributed under the same license as the Théorie Relative de la Monnaie package.
-# 
+#
 # Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-03 15:54+0000\n"
-"Last-Translator: sb <s_b_@openmailbox.org>\n"
+"PO-Revision-Date: 2016-03-28 10:14+0000\n"
+"Last-Translator: Magali Marc <3neurons@riseup.net>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/autres-fondements-du-dividende-universel/en_US/>\n"
 "Language: en_US\n"
@@ -22,7 +22,7 @@ msgstr ""
 # cf6375ef84404e0a8f8010bed4238a53
 #: ../../source/autres-fondements-du-dividende-universel.rst:3
 msgid "Autres fondements du Dividende Universel"
-msgstr "Other basis of the Universal Dividend"
+msgstr "Other bases of the Universal Dividend"
 
 # c9615ff83cd64add8be13b8761f59a77
 #: ../../source/autres-fondements-du-dividende-universel.rst:5
@@ -33,8 +33,9 @@ msgid ""
 "vers le même résultat fondamental."
 msgstr ""
 "Even if the logical and mathematical approach is enough to reach the result "
-"of an Universal Dividend money, it is still possible to develop additional "
-"and more practical points of view, which tend to the same fundamental result."
+"of a Universal Dividend money, it is still possible to develop complementary "
+"and more practical points of views, which tend to the same fundamental "
+"result."
 
 # 0364c6fce85d4455921951598965809c
 #: ../../source/autres-fondements-du-dividende-universel.rst:12
@@ -93,7 +94,7 @@ msgstr ""
 # e260f98b637542aeac7c75b3b746d252
 #: ../../source/autres-fondements-du-dividende-universel.rst:36
 msgid "Monétisation de la valeur libre, bénévole, non directement marchande"
-msgstr "Monetization of free value, voluntary, not directly mercantile"
+msgstr "Monetization of free value, voluntary, non-directly mercantile"
 
 # ee9a9a16188c4ac0939d9ab926f2aeb9
 #: ../../source/autres-fondements-du-dividende-universel.rst:38
@@ -106,12 +107,12 @@ msgid ""
 "logiciels libres qui ont été développés et distribués sans aucune "
 "reconnaissance monétaire pour une très grande partie."
 msgstr ""
-"The art, the free softwares, the free rights writings, non-mercantile work "
-"done by charities or individually etc... What any citizen of the euro area "
-"brings, are values, which benefits to the mercantile sector directly or "
-"indirectly, immediately or delayed in time. For example the Internet works "
-"with a layer of free softwares which were developed and distributed most of "
-"the times without any monetary recognition."
+"Art, free software, free rights writings, non-mercantile work made thanks to "
+"associative or individual actions etc... provided by each citizen from the "
+"Euro zone, are values, which benefit to the mercantile sector directly or "
+"indirectly, immediately or delayed in time. For example, Internet works with "
+"a layer of free software that have been developed and distributed for the "
+"most part, without any monetary recognition."
 
 # 82f93905132e41e091a3fbc7440f97c2
 #: ../../source/autres-fondements-du-dividende-universel.rst:46
@@ -187,9 +188,9 @@ msgstr ""
 "go for a proprietary approach. The two approaches do not oppose, they "
 "complement each, and can totally exist not only between different actors, "
 "but also for one actor who, as the case may be, can choose to do a free or a "
-"proprietary contribution. One would not « classify » a free citizen, master "
-"of his own fate, in any « box » where he would be constrained to stay to "
-"pretend to benefit any social « window » , which would constitute an obvious "
+"proprietary contribution. One would not \"classify\" a free citizen, master "
+"of his own fate, in any \"box\" where he would be constrained to stay to "
+"pretend to benefit any social \"window\" , which would constitute an obvious "
 "economic setback, limiting creativity and individual production to really "
 "specific domains, by definition not innovative !"
 
@@ -246,7 +247,7 @@ msgstr ""
 "Universal Dividend then does not only have a neutral role to the investment "
 "via the monetary mass growth allocated between every citizen, but also an "
 "economic buffer in case of evaporation of the money in any zone pseudo-"
-"isolated inside a monetary area. If we imagine that « X », after doing a big "
+"isolated inside a monetary area. If we imagine that \"X\", after doing a big "
 "monetary gain decide to leave the autonomous area to invest somewhere else ("
 "or simply save money), the Universal Dividend makes sure that the monetary "
 "exchanges are not totally stuck, and can start again progressively."
@@ -281,7 +282,7 @@ msgstr ""
 "about the usage of any information system : the code must be transparent and "
 "editable. To accept a money any citizen should at least accept the running "
 "code, and be able to change by democratic choices. Yet it is obvious in 2011 "
-"that these two minimum conditions are not filled by  « official » moneys "
+"that these two minimum conditions are not filled by \"official\" moneys "
 "with hidden codes, imposed, of which the development of the working code is "
 "not submitted to any democratic choice (Bâle I, II et III, are monetary "
 "principle not submitted to the approbation of the users)."
@@ -294,7 +295,7 @@ msgid ""
 " économique selon des critères élevés comme la légitimité, l'éthique et la "
 "neutralité."
 msgstr ""
-"The « digital horizon », highlighted by Olivier Auber should awake us about "
+"The \"digital horizon\", highlighted by Olivier Auber should awake us about "
 "the dimension of this choice of monetary code attached to economic freedom "
 "following high criterion like the legitimacy, ethic, or neutrality."
 
@@ -430,6 +431,6 @@ msgid ""
 "d'information, y compris sur les expériences (toutes réussies) des zones "
 "économiques ayant adopté un système monétaire proche du Dividende Universel."
 msgstr ""
-"Furthermore the wikipedia article about  « Basic Income » is full of "
+"Furthermore the wikipedia article about \"Basic Income\" is full of "
 "information, including about experiences (all successful) of economic area "
 "who adopted a monetary system near the Universal Dividend."

@@ -1,15 +1,15 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Stéphane Laborde
 # This file is distributed under the same license as the Théorie Relative de la Monnaie package.
-# 
+#
 # Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-23 19:50+0000\n"
-"Last-Translator: Moul <moul@moul.re>\n"
+"PO-Revision-Date: 2016-03-28 10:22+0000\n"
+"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/considerations-generales/en_US/>\n"
 "Language: en_US\n"
@@ -216,10 +216,10 @@ msgid ""
 "temporel devant nos descendants qui n'ont pas à être considérés comme exclus"
 " du processus à notre bénéfice."
 msgstr ""
-"First of all, the argument that life expectancy, and the fair monetary "
-"creation towards generations shrugs off the stance from a temporal point of "
-"view, before our descendants who should not be considered as excluded of the "
-"process to our benefit."
+"First of all, the argument of life expectancy and fair monetary creation "
+"towards all generations, shrugs off the stance from a temporal point of view "
+"before our descendants who shouldn't be excluded from the process for our "
+"benefit."
 
 # 8bfefbdc88d84090a9ea6a9b93d94f4c
 #: ../../source/considerations-generales.rst:103
@@ -260,9 +260,9 @@ msgid ""
 "possède moins de M/N de monnaie, égal à c, s'il possède exactement M/N de "
 "monnaie, et inférieur à c s'il possède plus de 1/N de monnaie."
 msgstr ""
-"What will make its ratio of personal gain G more than c is that he owns less "
-"than M/N, equals to c, if he owns exactly M/N money, or less than c if he "
-"owns more than 1/N of money."
+"That means that its ratio of personal gain G will be greater than c, if one "
+"owns less than M/N money, equals to c, if one owns exactly M/N money, or "
+"less than c if one owns more than 1/N of money."
 
 # c8ed874fd48f476fb1bb9bef6bc8c276
 #: ../../source/considerations-generales.rst:131
@@ -270,8 +270,8 @@ msgid ""
 "C'est donc selon la quantité de monnaie possédée qu'on peut estimer être "
 "gagnant monétairement ou pas."
 msgstr ""
-"It is therefore from the quantity of money owned one can estimate be "
-"beneficiary or not."
+"It is therefore depending on the owned quantity of money that one can "
+"estimate to be beneficiary or not."
 
 # ac2bea5b85bd43a4a32ffac0aaa04ba7
 #: ../../source/considerations-generales.rst:134
@@ -485,8 +485,8 @@ msgid ""
 msgstr ""
 "This is spatially and temporally true. That is when two communities decide "
 "to integrate with one and the other, and so to merge their money, one should "
-"not to prime on the other before the individual monetary creation, and when "
-"a generation replace another, one should not suppose that values realized by "
+"not prime on the other before the individual monetary creation, and when a "
+"generation replace another, one should not suppose that values realized by "
 "next generation would be less legit than the previous."
 
 # 5611e617c6384e5d8e5cbd59225df2f0
@@ -534,10 +534,10 @@ msgid ""
 "de leur usage)."
 msgstr ""
 "It is the same for the money coming with a growing economy in the space-"
-"time. Succeeding human generation are building on each other to create "
+"time. The succession of human generations built upon each other, creates "
 "higher or different values in a process of quantitative and/or qualitative "
-"progress (which can also be translated to a reduction of some flux by "
-"optimization of their usage)."
+"improvement (which can also be translated by a reduction of some streams by "
+"optimization of its use)."
 
 # 75551b45af5c4d7abeebbf76e76c8ef1
 #: ../../source/considerations-generales.rst:254

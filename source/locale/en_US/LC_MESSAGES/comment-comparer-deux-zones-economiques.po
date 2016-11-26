@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Stéphane Laborde
 # This file is distributed under the same license as the Théorie Relative de la Monnaie package.
-# 
+#
 # Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-22 17:39+0000\n"
+"PO-Revision-Date: 2016-03-28 10:18+0000\n"
 "Last-Translator: sb <s_b_@openmailbox.org>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/comment-comparer-deux-zones-economiques/en_US/>\n"
@@ -98,7 +98,7 @@ msgid ""
 "mesurable."
 msgstr ""
 "This fundamental result differs from common tools with which we measure the "
-"relationships between the « prices »... Yet the values being fundamentally "
+"relationships between the \"prices\"... Yet the values being fundamentally "
 "judged as different from one individual to another, and so from one economic "
 "area to another, this reference is completely distorted by the arbitrary "
 "choice of values used to defined these prices. Whereas the density of common "
@@ -120,7 +120,7 @@ msgid ""
 "Entre 2008 et 2010 le taux de change constaté sur les marchés oscillait "
 "entre **1,30 $/€ et 1,60 $/€**."
 msgstr ""
-"Between 2008 and 2010 the exchange rate found on the markets oscillated "
+"Between 2008 and 2010, the exchange rate found on the markets oscillated "
 "between **1,30 $/€ and 1,60 $/€**."
 
 # 1513abe558d3473fbd78a883b4140436
@@ -168,7 +168,7 @@ msgid ""
 "rattrapage spatial."
 msgstr ""
 "Moreover, we can see the role the population is having about the exchange "
-"rates measured by the ratio « Na/Nb ». Thus, one can approach the currency "
+"rates measured by the ratio \"Na/Nb\". Thus, one can approach the currency "
 "policy based on the importance of the economic space considered better. It "
 "is obvious that seen this way an economic area under-monetized, will have "
 "soon or later to extend the expansion of its money supply to all its space, "
@@ -203,7 +203,7 @@ msgid ""
 msgstr ""
 "However because of the ratio Na/Nb which will be, at the end of complete "
 "monetization of its population, really big for it against Europe or United-"
-"States, the Chinese money supply « Ma » will be able to grow at the same "
+"States, the Chinese money supply \"Ma\" will be able to grow at the same "
 "pace as Na (number of monetized citizens), without it having an impact of "
 "the fundamental exchange value of its money."
 

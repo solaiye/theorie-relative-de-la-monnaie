@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Stéphane Laborde
 # This file is distributed under the same license as the Théorie Relative de la Monnaie package.
-# 
+#
 # Translators:
 msgid ""
 msgstr ""
@@ -92,8 +92,8 @@ msgid ""
 "*Évolution temporelle de pseudo « valeurs » par émission arbitraire de « "
 "monnaie dette »*"
 msgstr ""
-"*Evolution over time of pseudo « values » by arbitrary issuance of « debt "
-"money »*"
+"*Evolution over time of pseudo \"values\" by arbitrary issuance of \"debt "
+"money\"*"
 
 # 968bb4f37cea403283a12162861d928a
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:34
@@ -123,7 +123,7 @@ msgid ""
 "monnaie  investi dans le secteur, qui aura produit un excès de production "
 "non solvable."
 msgstr ""
-"This  « growth » reaches a limited maximum, whether by control of the global"
+"This  \"growth\" reaches a limited maximum, whether by control of the global"
 " monetary expansion by the authorities, or by market saturation. At this "
 "time, the value starts to stabilize globally, if not to drop. The drop will "
 "be related to the excess of money invested in this sector, which will have "
@@ -160,10 +160,10 @@ msgid ""
 " bulle dans le champ de valeur sur un exemple."
 msgstr ""
 "One should really understand in the field of value the indebtedness of the  "
-"« last buyers », following the explosion of the bubble, which is due to the "
+"\"last buyers\", following the explosion of the bubble, which is due to the "
 "asymmetrical creation and arbitrary of credits. It is not allocated to solve"
 " problems of the three producers and the circularity of the trade of value "
-"inside economy, but only on the basis of  « expanding values », creating "
+"inside economy, but only on the basis of \"expanding values\", creating "
 "then an inherent resonance. Let's see the evolution of the bubble in the "
 "field of value with an example."
 
@@ -322,8 +322,8 @@ msgid ""
 "de monnaie."
 msgstr ""
 "And for M3 US$, on a period even longer, we obtain indications on longer "
-"periods where we see the resonance of monetary expansions with the big « "
-"economic » crisis, which are only the effect of the principle of "
+"periods where we see the resonance of monetary expansions with the big "
+"\"economic\" crisis, which are only the effect of the principle of "
 "psychological resonance in a system of asymmetrical creation of money."
 
 # b15b2316a42e4d719ea489bdfbac7453
@@ -405,8 +405,8 @@ msgid ""
 msgstr ""
 "\\b) The arbitrary credits issuer allocates then credit lines to the "
 "producer of this value, and to the purchasers, by doing so he creates a "
-"field distortion in his favor, credits and interests being  « due ». "
-"Initially the value  « increase » suddenly because of the local injection of "
+"field distortion in his favor, credits and interests being \"due\". "
+"Initially the value \"increase\" suddenly because of the local injection of "
 "credits."
 
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:83
@@ -426,8 +426,8 @@ msgstr ""
 "possible (he reached his maximum permitted leverage) which is the case of "
 "the big systemic crisis (the leverage effect is globally reached by the "
 "whole system, and one can not create more money anymore legally with this "
-"advantage). At this time, the force of interests and credits refund makes « "
-"the bubble burst » which can not feed itself of the injection of new credits."
+"advantage). At this time, the force of interests and credits refund makes "
+"\"the bubble burst\" which can not feed itself of the injection of new credits."
 
 #: ../../source/principe-de-resonance-psychologique-les-bulles-sont-une-consequence-de-l-emission-monetaire-asymetrique.rst:93
 msgid ""
@@ -440,8 +440,8 @@ msgid ""
 "remboursement total dû (capital + intérêts) supérieur à la croissance locale"
 " de la monnaie."
 msgstr ""
-"\\d) It remains at the end of the « cycle » an arbitrary credits issuers who "
-"« sucked »  most of the preexisting money because of the payment of the "
+"\\d) It remains at the end of the \"cycle\" an arbitrary credits issuers who "
+"\"sucked\"  most of the preexisting money because of the payment of the "
 "interests, and so has realized a benefit, and a sector of production of "
 "value where not only last purchasers are with a superior debt to the value "
 "they bought, but where the one producer is charged with a mechanically "

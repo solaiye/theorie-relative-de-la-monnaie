@@ -1,15 +1,15 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Stéphane Laborde
 # This file is distributed under the same license as the Théorie Relative de la Monnaie package.
-# 
+#
 # Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-17 19:14+0000\n"
-"Last-Translator: Cédric Moreau <cem.moreau@gmail.com>\n"
+"PO-Revision-Date: 2015-10-11 10:49+0000\n"
+"Last-Translator: sb <s_b_@openmailbox.org>\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/preface-de-la-version-10-par-yoland-bresson/en_US/>\n"
 "Language: en_US\n"
@@ -22,7 +22,7 @@ msgstr ""
 # 4dc678742d0f48608e8de75be39ecd00
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:3
 msgid "Préface de la version 1.0 par Yoland Bresson"
-msgstr "Preface by Yoland Bresson"
+msgstr "Preface of the version 1.0 by Yoland Bresson"
 
 # 3340c80b356047ada5eb31e85987b017
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:5
@@ -46,7 +46,7 @@ msgid ""
 msgstr ""
 "But all sciences build a specific language and I fear that economists, as "
 "the honest citizen of the century, don't grasp all the interest of this "
-"theoretical input without a « translation »."
+"theoretical input without a \"translation\"."
 
 # 3c3b360ac4604d66bd888b0b1c9fd33f
 #: ../../source/preface-de-la-version-1.0-par-Yoland-Bresson.rst:14
@@ -56,7 +56,7 @@ msgid ""
 "acteurs, individus de tout âge et de tout sexe, chacun d’eux en en recevant "
 "une part égale."
 msgstr ""
-"The « Universal Dividend system »,  which the author proposes, is a monetary "
+"The \"Universal Dividend system\",  which the author proposes, is a monetary "
 "system in which the money is uniformly distributed between all the actors, "
 "individuals of all age or sex, any one of them receiving an equal part."
 
@@ -170,12 +170,12 @@ msgid ""
 "inconditionnellement distribué entre tous les membres de la population. Ce "
 "facteur c est égal à 5 % environ pour une espérance de vie de 80 ans."
 msgstr ""
-"The answer is what the author calls « the Optimal Universal Dividend » : the "
-"monetary supply must grow annually with a « c » factor, of course inversely "
+"The answer is what the author calls \"the Optimal Universal Dividend\" : the "
+"monetary supply must grow annually with a \"c\" factor, of course inversely "
 "proportional to the life span – meaning the duration of the renewing of the "
 "population or the time to set the system in place completely – and that "
 "money surplus must be equally and unconditionally distributed between all "
-"population members. This « c » factor is equal to more or less 5% for a life "
+"population members. This \"c\" factor is equal to more or less 5% for a life "
 "span of 80 years."
 
 # 873f546f65eb4327bd3d43254ed73468
@@ -187,7 +187,7 @@ msgid ""
 "membre de la communauté et non pour exister ?"
 msgstr ""
 "How to deduce the unconditional amount to attribute not in monetary supply, "
-"but in monthly income flows, an « existence income », here totally conform "
+"but in monthly income flows, an \"existence income\", here totally conform "
 "to its definition : income attributed because one exists, as member of the "
 "community, and not to exist ?"
 
@@ -260,8 +260,8 @@ msgid ""
 msgstr ""
 "If we simply divide the 1515€ in 12 months, we implicitly suppose that "
 "monetary supply takes exactly one year to generate a total flow of revenue "
-"equal to itself. It's by the way how I defined the  « economical Unit of "
-"Time », a single norm in which the pass from the mass to flows can be "
+"equal to itself. It's by the way how I defined the \"economical Unit of "
+"Time\", a single norm in which the pass from the mass to flows can be "
 "expressed everywhere without distortion. Indeed, depending on the country or "
 "the times or circumstances, expansion, recession, a particular monetary "
 "supply circulates faster or slower, supporting more or less frequent "
@@ -324,8 +324,8 @@ msgstr ""
 "equality which we should imagine – could be elevated. I have personally been "
 "tempted to propose one, taking establishing consequences of an existence "
 "income or a system with universal dividend, to follow the author, by "
-"publishing « Une Clémente Économie » (in french). But this essay is nor "
-"exclusive nor definitive. The « Relative Theory of Money » offered to the "
+"publishing \"Une Clémente Économie\" (in french). But this essay is nor "
+"exclusive nor definitive. The \"Relative Theory of Money\" offered to the "
 "Libre Community of cybernauts is an invitation which is addressed to it, in "
 "a total sharing of creative ideas, to imagine, then to concretize another "
 "world.\n"
