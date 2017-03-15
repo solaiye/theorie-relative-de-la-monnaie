@@ -4,6 +4,7 @@
 # 
 # Translators:
 # Vincent Texier, 2015
+# Jytou, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: TRM French to English\n"
@@ -23,7 +24,7 @@ msgstr ""
 # 85a254dc3a8f4bfbbaf0771d1d1fe7dd
 #: ../../source/index.rst:3
 msgid "Sommaire"
-msgstr "Table of content"
+msgstr "Table of contents"
 
 # 765d43b499314149a70cb7452e2e852e
 #: ../../source/index.rst:34
