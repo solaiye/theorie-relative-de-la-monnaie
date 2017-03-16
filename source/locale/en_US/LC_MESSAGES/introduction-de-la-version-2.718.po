@@ -5,6 +5,7 @@
 # Translators:
 # Moul <ma.azimi@laposte.net>, 2015
 # Vincent Texier, 2015
+# Jytou, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: TRM French to English\n"
@@ -34,7 +35,7 @@ msgid ""
 "versions tend vers le nombre e."
 msgstr ""
 "The reader of RTM 1.0 and 2.0 with some mathematical knowledge on "
-"exponential functions have notice that the version numbering tends towards "
+"exponential functions have noticed that the version numbering tends towards "
 "the number \"e\"."
 
 # 0b59446467194df8a6c034e16514e52f
@@ -47,11 +48,11 @@ msgid ""
 "inscrivant un lien profond sur l'espace-temps d'analyse des mesures dans ses"
 " dimensions temporelles et quantitatives."
 msgstr ""
-"This version 2.718 of RTM brings an improvement on the form and on the "
+"This 2.718 version of the RTM brings an improvement on the form and on the "
 "signification of demonstrations without changing the meaning nor the "
 "quantitative result. This improvement brings a better theoretical definition "
-"that can make sense by analogy on other domains than economy registering a "
-"deep link on space-time analysis in its temporal and quantitative dimensions."
+"that can make sense by analogy with other domains than economy registering a "
+"deep link with space-time analysis in its temporal and quantitative dimensions."
 
 # 2803804b9244430f90eea189aedb7e74
 #: ../../source/introduction-de-la-version-2.718.rst:15
@@ -60,7 +61,10 @@ msgid ""
 "des observateurs nous apparaît comme un élément fondamental trop peu pris en"
 " compte non seulement en économie mais aussi dans beaucoup d'autres domaines"
 " d'analyse."
-msgstr "Most importantly, the limited life span of the observed objects and of the observers appears to us as a fundamental part and much too little account has been taken on that in economy but also in many other areas of analysis."
+msgstr ""
+"Most importantly, the limited life span of the observed objects and of the "
+"observers appears to us as a fundamental element which is not taken into "
+"account sufficiently not only in economy but also in many other areas of analysis."
 
 # e65c05cd8f6041bb80bee5365c0b8a91
 #: ../../source/introduction-de-la-version-2.718.rst:19
@@ -78,7 +82,7 @@ msgid ""
 "décrite d'une lignée de penseurs économiques constituée par John Locke, "
 "Thomas Paine, Clifford Hugh Douglas et Yoland Bresson."
 msgstr ""
-"The historical part is also augmented by the introduction in the storyline "
+"The historical part is also augmented with the introduction in the storyline "
 "of a lineage of economic thinkers consisting of John Locke, Thomas Paine, "
 "Clifford Hugh Douglas and Yoland Bresson."
 
@@ -89,9 +93,9 @@ msgid ""
 "plus grande distance les uns des autres que l'imagination humaine puisse "
 "concevoir : quelle possibilité d'obligation peut-il donc y avoir entre eux ?"
 msgstr ""
-"\"Those which have leaved the world, and those which doesn't exist yet, are "
+"\"Those who have left the world, and those who don't exist yet, are "
 "as remote from each other as the utmost stretch of mortal imagination can "
-"conceive. Which possible obligation, then, can exist therefore between them?"
+"conceive. Which possible obligation, then, can therefore exist between them?"
 
 # edea39b48f95464aa06dbda6f17e473c
 #: ../../source/introduction-de-la-version-2.718.rst:33
@@ -101,6 +105,6 @@ msgid ""
 "jamais se rencontrer dans ce monde, l'un soit autorisé à maîtriser l'autre "
 "jusqu'à la consommation des siècles ? »"
 msgstr ""
-"Which rule or principle can be laid down that of two nonentities, the one "
-"out of existence and the other not in, and who never can meet in this world, "
-"the one should control the other to the end of time?\""
+"Which rule or principle can be laid down so that from two imaginary beings, one "
+"already out of existence and the other not yet born, and who can never meet "
+"in this world, one would be allowed to control the other until the end of time?\""
