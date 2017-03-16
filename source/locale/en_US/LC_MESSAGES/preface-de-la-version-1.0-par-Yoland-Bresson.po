@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the Théorie Relative de la Monnaie package.
 #
 # Translators:
+# Jytou, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-10-11 10:49+0000\n"
-"Last-Translator: sb <s_b_@openmailbox.org>\n"
+"PO-Revision-Date: 2017-03-17 23:30+0000\n"
+"Last-Translator: mypseudo at laposte dot net\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/preface-de-la-version-10-par-yoland-bresson/en_US/>\n"
 "Language: en_US\n"
@@ -233,8 +234,8 @@ msgid ""
 "attribution mensuelle de revenu, un revenu d’existence, semble une "
 "instauration moins traumatisante pour nos institutions."
 msgstr ""
-"Such a setting would correspond to an institutional bigbang. A monthly "
-"attribution of income, an existence income, seems to be a less traumatising "
+"Such a setting would correspond to an institutional Big Bang. A monthly "
+"attribution of income, an existence income, seems to be a less traumatizing "
 "implementation for our institutions."
 
 # 80df6d4d011543c8b2bdc9cac30df5f1
@@ -327,7 +328,7 @@ msgstr ""
 "publishing \"Une Clémente Économie\" (in French). But this essay is neither "
 "exclusive nor definitive. The \"Relative Theory of Money\" which is offered "
 "to the Libre Community of cybernauts is an invitation addressed to it, in "
-"a total sharing of creative ideas, to imagine, then to concretize another "
+"a total sharing of creative ideas, to imagine, then to materialize another "
 "world.\n"
 "\n"
 "Yoland Bresson\n"

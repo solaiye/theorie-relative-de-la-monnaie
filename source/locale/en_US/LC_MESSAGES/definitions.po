@@ -5,13 +5,14 @@
 # Translators:
 # Moul <ma.azimi@laposte.net>, 2015
 # Vincent Texier, 2015
+# Jytou, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2016-03-28 10:12+0000\n"
-"Last-Translator: César <cesar.proute@gmail.com>\n"
+"PO-Revision-Date: 2017-03-17 23:30+0000\n"
+"Last-Translator: mypseudo at laposte dot net\n"
 "Language-Team: English (United States) "
 "<http://weblate.ucoin.io/projects/rtm/definitions/en_US/>\n"
 "Language: en_US\n"
@@ -33,7 +34,7 @@ msgid ""
 "une mesure de référence des échanges, de la même façon qu'en toute science, "
 "le repère considéré et les unités de mesure se doivent d'être définis avant "
 "toute étude."
-msgstr "We can not validly study economy without appeal to a landmark and to an exchange reference measure, in the same way that in all science, the considered landmark and measure units should be define before a study."
+msgstr "We can not validly study economy without relying upon both a landmark and an exchange reference measure, in the same way that in all science, the considered landmark and measure units should be defined before any study."
 
 # 447c8bda96e049dd8cffd709ea80150f
 #: ../../source/definitions.rst:9
@@ -43,15 +44,15 @@ msgid ""
 "menée sans que ne soient définis auparavant le repère de référence de "
 "l'économie et l'unité de mesure associée."
 msgstr ""
-"As a reference and time units and length units are necessary to the "
-"establishment of physics laws, no advanced study can be conducted without "
-"the previous definitions of the economy reference frame and the associated "
+"As a reference and time units as well as length units are necessary to the "
+"establishment of the laws of physics, no advanced study can be conducted without "
+"previously defining the economic reference frame and the associated "
 "measure unit."
 
 # 33f22592507f4cdba38ab4d0c9c09e85
 #: ../../source/definitions.rst:15
 msgid "Repère : la zone monétaire"
-msgstr "Reference: currency union"
+msgstr "Reference: Monetary Zone"
 
 # 75071ae582ae46aebb8558277adcac14
 #: ../../source/definitions.rst:17
@@ -107,9 +108,9 @@ msgid ""
 "commune et fondamentale de tout repère économique valide."
 msgstr ""
 "Individuals or groups of individuals are inevitably brought to exchange, "
-"even if only information, education, or even more generally bonds. What "
+"even if it is only information, education, or even more generally bonds. What "
 "therefore fundamentally characterizes the economic zone is all the "
-"individuals who compose it. The economy exist everywhere and at all times as "
+"individuals who compose it. The economy exists everywhere and at all times as "
 "soon as individuals produce and exchange goods and services, and that "
 "regardless of the nature of these goods and services. On the other hand, we "
 "cannot define an economic zone empty of individuals. Therefore it is indeed "
@@ -125,9 +126,9 @@ msgid ""
 "constante création/destruction où chaque point temporaire représente un "
 "individu à durée de vie limitée."
 msgstr ""
-"But to go further, this set of individuals evolve in time with births and "
+"But to go further, this set of individuals evolves in time with births and "
 "deaths, immigration and emigration. Therefore the economic zone can be seen "
-"as a discretized spacetime in constant creation/destruction where each "
+"as a discretized space-time in constant creation/destruction where each "
 "temporary point represents an individual with a limited life span."
 
 # 5436464abeb44b2e9778a3a502e38d95
@@ -140,9 +141,9 @@ msgid ""
 "économique considérée."
 msgstr ""
 "Thus it is a spatiotemporal model in continuous, non-static, discreet "
-"transformation, where each space-time point is created at a determined date ("
-"birth of an individual) and has a limited duration which, on average, "
-"matches to the life span which we will denote \"ls\" in the considered "
+"transformation, where each space-time point is created at a determined date "
+"(birth of an individual) and has a limited duration which, on average, "
+"matches the life span which we will denote \"ls\" in the considered "
 "economic zone."
 
 # ee58ff3b5f9747388790db9d54bcaa26
@@ -157,8 +158,8 @@ msgstr ""
 "Furthermore and this is the fundamental definition of Relativity in "
 "economics, any individual has a personal and unique vision of the value of "
 "all things and no individual or groups of individuals from an economic zone "
-"is to be able to impose onto others a particular vision of what is value or "
-"not."
+"is able to impose onto others a particular vision of what is value or "
+"what is not."
 
 # e25249c7921b4cf5b00b2aafe5153974
 #: ../../source/definitions.rst:57
@@ -182,13 +183,13 @@ msgid ""
 msgstr ""
 "An economic zone is said to be pseudo-isolated when, for a given time "
 "duration, we can consider that it lives independently or quasi-independently "
-"from its exterior. It could be the case of economies on still autonomous "
-"islands, where the livelihoods of individuals is ensured by sufficient food "
+"from its exterior. It could be the case of economies on islands that are still "
+"autonomous, where the livelihoods of individuals is ensured by a sufficient food "
 "production (which is also quite relative, see for example the case study of "
 "some ascetics), but also the case of a topologically complex group of "
 "individuals in a non-connected, transnational, even transcontinental space. "
 "As long as it shows autonomy, we can consider it as a pseudo-isolated "
-"economic zone, able to self-manage its flow of production and exchange, at "
+"economic zone, able to self-manage its flow of production and exchanges, at "
 "least on a small period of time."
 
 # e7440f04b4da421f8dc688bcbf3af4c9
@@ -207,7 +208,7 @@ msgstr ""
 "When there is exchange of goods and/or services, we talk about value "
 "exchange. X exchanges with Y a value Vx = Vy = Px × Cx = Py × Cy, where \""
 "Px\" represents the price in the common measure unit (called the common "
-"money) of X's production \"Cx\"."
+"currency) of X's production \"Cx\"."
 
 # 13990c1a08d94a598c92a66ce6d5d13c
 #: ../../source/definitions.rst:79
@@ -221,8 +222,8 @@ msgstr ""
 "This definition of value is perfectly relative to the observer who measures "
 "it, so if X considers that Vx = Vy, it is possible that Y considers Vy >> "
 "Vx, and be perfectly fine. Furthermore, Z who observed this exchange may "
-"well judge according to his own referential that Vx and Vy does not have any "
-"value."
+"very well judge according to his own referential that neither Vx nor Vy have any "
+"value at all."
 
 # a39e17994720411c9cb4e2c45989ab28
 #: ../../source/definitions.rst:84
@@ -233,7 +234,7 @@ msgid ""
 "de l'observateur, ce qui se constate aussi par les actions de dons ou de "
 "taxations sans retours, et donc non symétriques, où l'égalité des valeurs "
 "échangées n'est pas respectée en fonction du point de vue."
-msgstr "Recall here how much men are fundamentaly not agreed all long of their history on respective value of their goods. Also equality of exchange values is not an independent economic criterion of the observer, which is also seen by the actions of donations ou taxation withou returns, and therefore non-symetrics, where equality of exchange values is not respected according the point of view."
+msgstr "Let's remember here how much men have fundamentally not agreed throughout their history on respective values of their goods. Therefore equality of exchange values is not an economic criterion that is independent of the observer, which is also seen through actions of donations or taxation without anything in return, and which are therefore non-symmetrical, where equality of exchange values is not respected according to the point of view."
 
 # da6702d1a7834e75a271ca03265fb130
 #: ../../source/definitions.rst:91
@@ -243,7 +244,7 @@ msgid ""
 "monnaie. Une monnaie définie donne ainsi une mesure commune de valeur à "
 "toute chose dans la même unité, pour un repère d'observation donné, ce qui "
 "permet des comparaisons plus aisées."
-msgstr "This is for universals needs of value measure, that individuals agree on a common measure of exchange they call money. A define money give thus a common measure of value to all things in same unity, for a given observation landmark, which permits comparisons wealthier."
+msgstr "The need to measure value universally pushes individuals to agree on a common measure of exchange, which they call money. A defined money give thus a common measure of value to all things in the same unit, for a given observation landmark, which allows easier comparisons."
 
 # 5f7343c6a19044ae93b422e945852c77
 #: ../../source/definitions.rst:96
@@ -251,7 +252,7 @@ msgid ""
 "La monnaie joue donc le rôle non seulement d'outil d'échange entre individus"
 " de la zone économique, mais aussi de seule valeur indépendante du "
 "référentiel d'observation."
-msgstr "Money thus act not only of exchange tool between individuals of an economic zone, but also the only value independent from the observation landmark."
+msgstr "Money thus acts not only as an exchange tool between individuals of the economic zone, but it also becomes the only value that is independent from the observation landmark."
 
 # 2ed0d24fd87b4b12bab5cd412b806ba2
 #: ../../source/definitions.rst:99
@@ -260,7 +261,7 @@ msgid ""
 "définitions différentes de la monnaie, qui impliquent des types d'échanges "
 "fondamentalement différents, et qui sont le plus souvent ignorées par ceux "
 "qui acceptent de l'utiliser."
-msgstr "This being said, it exit historically and locally, a many different definitions of money, which involved fundamentally different types of exchanges, and which are often ignored by those which accepts to use it."
+msgstr "This being said, many different definitions of money exist historically and locally, which are based on radically different types of exchanges, and which are often not known by those who accept to use it."
 
 # bfc9ae5379f840cfb2bf77f285cce446
 #: ../../source/definitions.rst:104
@@ -269,7 +270,7 @@ msgid ""
 "façon contrainte, constituent une violation du droit contractuel de base en "
 "économie, qui suppose l'acceptation des parties impliquées quant au type "
 "d'échange proposé."
-msgstr "Those cases of ignorance of money nature used most of the time in a constraint way, are a violation of the contractual law of the economy basis, which suppose the acceptance of involved parts about the proposed exchange type."
+msgstr "Those cases of ignorance of the nature of the money that is used most of the time under pressure, are a violation of the basic contractual law in economy, which supposes the acceptance of involved parties of the proposed exchange type."
 
 # 055f9c0ade504d7b941fbf09a3ac852c
 #: ../../source/definitions.rst:108
@@ -279,7 +280,7 @@ msgid ""
 "constitue un acte contraire aux droits de l'Homme de disposer de sa vie pour"
 " sa part économique et une violation des principes constitutionnels de "
 "liberté et d'égalité."
-msgstr "We can without hesitation declare that the imposition of use of a non contractual money (not subject to a voluntary acceptance) is an act opposite to human right to dispose of his life for an economic part and a violation to constitutionals principles of liberty and equality."
+msgstr "We can without hesitation declare that imposing the use of a non contractual money (not subject to a voluntary acceptance) is an act opposite to the Human Rights to manage one's life on an economic part as well as a violation of the constitutional principles of liberty and equality."
 
 # 05b6aa6b66b34abd85588e46df98391d
 #: ../../source/definitions.rst:114
@@ -288,4 +289,4 @@ msgid ""
 "être réellement acceptable que si elle fait l'objet d'une élaboration "
 "démocratique dans sa définition, ainsi que dans sa validation, son "
 "acceptation sa modification et son abandon."
-msgstr "And thus minimum in a real democracy, the official money can not really be acceptable only if it subject of a democratic elaboration in it definition, as in it validation, it acceptation it modification and it abandonment."
+msgstr "And thus at a minimum in a real democracy, the official money can really be acceptable only if it is subject to a democratic elaboration of its definition, as in its validation, its acceptation, its modification and it abandonment."
