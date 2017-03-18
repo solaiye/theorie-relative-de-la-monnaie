@@ -190,7 +190,7 @@ msgstr ""
 "*These remarks associated to a range of possible values for \"c\", give a "
 "range of acceptable values in 2012 for a Basic Income (and not only a "
 "Universal Dividend) between 200€ and 800€ per month per Citizen for Europe "
-"and $300  to $1200 per month per Citizen in the United States. This data from "
+"and $300 to $1200 per month per Citizen in the United States. This data from "
 "2010/2012 is obviously to be calculated again depending on population, "
 "life expectancy and monetary mass variations.*"
 
