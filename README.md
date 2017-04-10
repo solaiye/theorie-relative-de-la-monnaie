@@ -33,7 +33,7 @@ Require Sphinx 1.3+
     $ sudo apt-get install python-pip
     $ sudo apt-get install python-dev
     $ sudo apt-get install libfreetype6-dev
-    $ sudo apt-get install texlive texlive-lang-f texlive-latex-extra texlive-latex-recommended
+    $ sudo apt-get install texlive texlive-lang-french texlive-latex-extra texlive-latex-recommended
     $ sudo apt-get install dvipng
 
     $ sudo pip install virtualenv
