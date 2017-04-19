@@ -30,7 +30,7 @@ Thomas Paine, Clifford Hugh Douglas et Yoland Bresson.
    puisse concevoir : quelle possibilité d'obligation peut-il donc
    y avoir entre eux ?
 
-   Quelle règle ou quel principe peut-on poser pour que deux êtres imaginaires
+   Quelle règle ou quel principe peut-on poser pour que de deux êtres imaginaires
    dont l'un a cessé d'être et l'autre n'existe pas encore, et qui ne peuvent
    jamais se rencontrer dans ce monde, l'un soit autorisé à maîtriser
    l'autre jusqu'à la consommation des siècles ? »
