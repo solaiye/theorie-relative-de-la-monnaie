@@ -96,18 +96,27 @@ msgstr ""
 "as remote from each other as the utmost stretch of mortal imagination can "
 "conceive. Which possible obligation, then, can exist therefore between them?"
 
-# edea39b48f95464aa06dbda6f17e473c
+#: ../../source/introduction-de-la-version-2.718.rst:38
+msgid "― « Les droits de l'homme » 1791 Thomas Paine (1737 – 1809)"
+msgstr "― \"The Rights of Man\" 1791 Thomas Paine (1737 – 1809)"
+
 #: ../../source/introduction-de-la-version-2.718.rst:33
 msgid ""
-"Quelle règle ou quel principe peut-on poser pour que deux êtres imaginaires "
-"dont l'un a cessé d'être et l'autre n'existe pas encore, et qui ne peuvent "
-"jamais se rencontrer dans ce monde, l'un soit autorisé à maîtriser l'autre "
-"jusqu'à la consommation des siècles ? »"
+"Quelle règle ou quel principe peut-on poser pour que de deux êtres "
+"imaginaires dont l'un a cessé d'être et l'autre n'existe pas encore, et qui "
+"ne peuvent jamais se rencontrer dans ce monde, l'un soit autorisé à "
+"maîtriser l'autre jusqu'à la consommation des siècles ? »"
 msgstr ""
 "Which rule or principle can be laid down that of two nonentities, the one "
 "out of existence and the other not in, and who never can meet in this world,"
 " the one should control the other to the end of time?\""
 
-#: ../../source/introduction-de-la-version-2.718.rst:38
-msgid "― « Les droits de l'homme » 1791 Thomas Paine (1737 – 1809)"
-msgstr "― \"The Rights of Man\" 1791 Thomas Paine (1737 – 1809)"
+#~ msgid ""
+#~ "Quelle règle ou quel principe peut-on poser pour que deux êtres imaginaires "
+#~ "dont l'un a cessé d'être et l'autre n'existe pas encore, et qui ne peuvent "
+#~ "jamais se rencontrer dans ce monde, l'un soit autorisé à maîtriser l'autre "
+#~ "jusqu'à la consommation des siècles ? »"
+#~ msgstr ""
+#~ "Which rule or principle can be laid down that of two nonentities, the one "
+#~ "out of existence and the other not in, and who never can meet in this world,"
+#~ " the one should control the other to the end of time?\""
