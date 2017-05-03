@@ -35,5 +35,5 @@ Thomas Paine, Clifford Hugh Douglas et Yoland Bresson.
    jamais se rencontrer dans ce monde, l'un soit autorisé à maîtriser
    l'autre jusqu'à la consommation des siècles ? »
 
-   -- « Les droits de l'homme » 1791
+   ― « Les droits de l'homme » 1791
    Thomas Paine (1737 – 1809)

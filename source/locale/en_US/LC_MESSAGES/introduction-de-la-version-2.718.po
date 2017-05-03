@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Stéphane Laborde
 # This file is distributed under the same license as the Théorie Relative de la Monnaie package.
-# 
+#
 # Translators:
 # Moul <ma.azimi@laposte.net>, 2015
 # Vincent Texier, 2015
@@ -12,12 +12,11 @@ msgstr ""
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
 "PO-Revision-Date: 2015-09-06 12:55+0000\n"
 "Last-Translator: Moul <moul@moul.re>\n"
-"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
-"/introduction-de-la-version-2718/en_US/>\n"
-"Language: en_US\n"
+"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm/introduction-de-la-version-2718/en_US/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2.4-dev\n"
 
@@ -49,9 +48,10 @@ msgid ""
 msgstr ""
 "This version 2.718 of RTM brings an improvement on the form and on the "
 "signification of demonstrations without changing the meaning nor the "
-"quantitative result. This improvement brings a better theoretical definition "
-"that can make sense by analogy on other domains than economy registering a "
-"deep link on space-time analysis in its temporal and quantitative dimensions."
+"quantitative result. This improvement brings a better theoretical definition"
+" that can make sense by analogy on other domains than economy registering a "
+"deep link on space-time analysis in its temporal and quantitative "
+"dimensions."
 
 # 2803804b9244430f90eea189aedb7e74
 #: ../../source/introduction-de-la-version-2.718.rst:15
@@ -60,7 +60,10 @@ msgid ""
 "des observateurs nous apparaît comme un élément fondamental trop peu pris en"
 " compte non seulement en économie mais aussi dans beaucoup d'autres domaines"
 " d'analyse."
-msgstr "Most importantly, the limited life span of the observed objects and of the observers appears to us as a fundamental part and much too little account has been taken on that in economy but also in many other areas of analysis."
+msgstr ""
+"Most importantly, the limited life span of the observed objects and of the "
+"observers appears to us as a fundamental part and much too little account "
+"has been taken on that in economy but also in many other areas of analysis."
 
 # e65c05cd8f6041bb80bee5365c0b8a91
 #: ../../source/introduction-de-la-version-2.718.rst:19
@@ -93,14 +96,27 @@ msgstr ""
 "as remote from each other as the utmost stretch of mortal imagination can "
 "conceive. Which possible obligation, then, can exist therefore between them?"
 
-# edea39b48f95464aa06dbda6f17e473c
+#: ../../source/introduction-de-la-version-2.718.rst:38
+msgid "― « Les droits de l'homme » 1791 Thomas Paine (1737 – 1809)"
+msgstr "― \"The Rights of Man\" 1791 Thomas Paine (1737 – 1809)"
+
 #: ../../source/introduction-de-la-version-2.718.rst:33
 msgid ""
-"Quelle règle ou quel principe peut-on poser pour que deux êtres imaginaires "
-"dont l'un a cessé d'être et l'autre n'existe pas encore, et qui ne peuvent "
-"jamais se rencontrer dans ce monde, l'un soit autorisé à maîtriser l'autre "
-"jusqu'à la consommation des siècles ? »"
+"Quelle règle ou quel principe peut-on poser pour que de deux êtres "
+"imaginaires dont l'un a cessé d'être et l'autre n'existe pas encore, et qui "
+"ne peuvent jamais se rencontrer dans ce monde, l'un soit autorisé à "
+"maîtriser l'autre jusqu'à la consommation des siècles ? »"
 msgstr ""
 "Which rule or principle can be laid down that of two nonentities, the one "
-"out of existence and the other not in, and who never can meet in this world, "
-"the one should control the other to the end of time?\""
+"out of existence and the other not in, and who never can meet in this world,"
+" the one should control the other to the end of time?\""
+
+#~ msgid ""
+#~ "Quelle règle ou quel principe peut-on poser pour que deux êtres imaginaires "
+#~ "dont l'un a cessé d'être et l'autre n'existe pas encore, et qui ne peuvent "
+#~ "jamais se rencontrer dans ce monde, l'un soit autorisé à maîtriser l'autre "
+#~ "jusqu'à la consommation des siècles ? »"
+#~ msgstr ""
+#~ "Which rule or principle can be laid down that of two nonentities, the one "
+#~ "out of existence and the other not in, and who never can meet in this world,"
+#~ " the one should control the other to the end of time?\""
