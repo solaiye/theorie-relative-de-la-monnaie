@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Stéphane Laborde
 # This file is distributed under the same license as the Théorie Relative de la Monnaie package.
-# 
+#
 # Translators:
 # Moul <ma.azimi@laposte.net>, 2015
 # Vincent Texier, 2015
@@ -13,12 +13,12 @@ msgstr ""
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
 "PO-Revision-Date: 2017-03-17 23:30+0000\n"
 "Last-Translator: mypseudo at laposte dot net\n"
-"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
-"/introduction-de-la-version-2718/en_US/>\n"
+"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm/introduction-de-la-version-2718/en_US/>\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2.4-dev\n"
 
@@ -97,15 +97,18 @@ msgstr ""
 "are as remote from each other as the utmost stretch of mortal imagination can "
 "conceive."
 
-# edea39b48f95464aa06dbda6f17e473c
+#: ../../source/introduction-de-la-version-2.718.rst:38
+msgid "― « Les droits de l'homme » 1791 Thomas Paine (1737 – 1809)"
+msgstr "― \"The Rights of Man\" 1791 Thomas Paine (1737 – 1809)"
+
 #: ../../source/introduction-de-la-version-2.718.rst:33
 msgid ""
-"Quelle règle ou quel principe peut-on poser pour que deux êtres imaginaires "
-"dont l'un a cessé d'être et l'autre n'existe pas encore, et qui ne peuvent "
-"jamais se rencontrer dans ce monde, l'un soit autorisé à maîtriser l'autre "
-"jusqu'à la consommation des siècles ? »"
+"Quelle règle ou quel principe peut-on poser pour que de deux êtres "
+"imaginaires dont l'un a cessé d'être et l'autre n'existe pas encore, et qui "
+"ne peuvent jamais se rencontrer dans ce monde, l'un soit autorisé à "
+"maîtriser l'autre jusqu'à la consommation des siècles ? »"
 msgstr ""
 "What possible obligation, then, can exist between them — what rule or principle "
 "can be laid down that of two nonentities, the one out of existence and the other "
 "not in, and who never can meet in this world, the one should control the other to "
-"the end of time?\" (\"The Rights of Man\" by Thomas Paine)"
+"the end of time?\""

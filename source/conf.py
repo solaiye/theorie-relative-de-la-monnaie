@@ -225,6 +225,7 @@ latex_elements = {
 \usepackage{tikz}
 \usepackage{pgfplots}
 \usepackage{empheq}
+\DeclareUnicodeCharacter{2015}{\\textemdash}
 """,
 }
 

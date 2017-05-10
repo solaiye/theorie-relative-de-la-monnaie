@@ -4,9 +4,9 @@ Relative Theory of Money (TRM) is a theory about a money system based
 on a Universal Dividend calculated from the human life expectancy.
 It demonstrate that only one mathematical solution exists to create a "libre money".
 
-You can [read it online here](http://vtexier.github.io/theorie-relative-de-la-monnaie/en_US)
+You can [read it online here](http://en.trm.creationmonetaire.info/)
 
-You can [download files here](https://github.com/vtexier/theorie-relative-de-la-monnaie/releases)
+You can [download files here](https://github.com/libre-money-projects/theorie-relative-de-la-monnaie/releases)
 
 Text licensed under [GPL version 3](http://www.gnu.org/licenses/gpl.html)
 
@@ -16,13 +16,12 @@ La Théorie Relative de la Monnaie est une théorie décrivant un système moné
 basé sur un Dividende Universel calculé à partir de l'espérance de vie humaine.
 Elle démontre qu'il n'existe qu'une seule solution mathématique pour créer une "monnaie libre".
 
-Vous pouvez [la lire en ligne ici](http://vtexier.github.io/theorie-relative-de-la-monnaie/fr_FR)
+Vous pouvez [la lire en ligne ici](http://trm.creationmonetaire.info/)
 
-Vous pouvez [télécharger les fichiers ici](https://github.com/vtexier/theorie-relative-de-la-monnaie/releases)
+Vous pouvez [télécharger les fichiers ici](https://github.com/libre-money-projects/theorie-relative-de-la-monnaie/releases)
 
 Texte sous licence [GPL version 3](http://www.gnu.org/licenses/gpl.html)
 
-[![Build Status](https://travis-ci.org/vtexier/theorie-relative-de-la-monnaie.svg?branch=dev)](https://travis-ci.org/vtexier/theorie-relative-de-la-monnaie)
 
 ## Install repository
 
