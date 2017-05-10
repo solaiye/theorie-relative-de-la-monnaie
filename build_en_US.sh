@@ -15,8 +15,10 @@ make epub SPHINXOPTS="-t epub -D language='en_US' -D html_theme_path='themes/en_
 cp build/epub/TheorieRelativedelaMonnaie.epub build/html/.
 
 # PDF
- make latexpdf SPHINXOPTS="-t latex -D language='en_US' -D latex_elements.title='Relative Theory of Money' -D latex_elements.release='' -D latex_elements.releasename=''"
+# make latexpdf SPHINXOPTS="-t latex -D language='en_US' -D latex_elements.title='Relative Theory of Money' -D latex_elements.release='' -D latex_elements.releasename=''"
+ make latexpdf SPHINXOPTS="-t latex -D language='en_US' -D latex_elements.title='Relative Theory of Money' -D latex_elements.release='2.718'"
  cp build/latex/TheorieRelativedelaMonnaie.pdf build/html/.
 
 # label folder as english version
+rm -rf build/en_US/html
 mv build/html build/en_US
