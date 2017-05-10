@@ -143,7 +143,7 @@ msgstr ""
 "Thus it is a spatiotemporal model in continuous, non-static, discreet "
 "transformation, where each space-time point is created at a determined date "
 "(birth of an individual) and has a limited duration which, on average, "
-"matches the life span which we will denote \"ls\" in the considered "
+"matches the life span which we will denote “ls” in the considered "
 "economic zone."
 
 # ee58ff3b5f9747388790db9d54bcaa26
@@ -206,9 +206,9 @@ msgid ""
 "commune) de la production de X « Cx »."
 msgstr ""
 "When there is exchange of goods and/or services, we talk about value "
-"exchange. X exchanges with Y a value Vx = Vy = Px × Cx = Py × Cy, where \""
-"Px\" represents the price in the common measure unit (called the common "
-"currency) of X's production \"Cx\"."
+"exchange. X exchanges with Y a value Vx = Vy = Px × Cx = Py × Cy, where "
+"“Px” represents the price in the common measure unit (called the common "
+"currency) of X's production “Cx”."
 
 # 13990c1a08d94a598c92a66ce6d5d13c
 #: ../../source/definitions.rst:79
