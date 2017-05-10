@@ -112,11 +112,11 @@ avec cette même masse. On parlera donc de potentiel d'achat. Le biais qui
 consiste à définir le prix d'un « panier de biens » arbitrairement défini
 comme mesure du « pouvoir d'achat », revient à définir un pouvoir d'achat
 intemporel dans lequel en toute honnêteté on retrouverait alors en 2010 des
-quantités de « poules au pot Henri IV», « Fiacres 1900 », « formation à l'art
+quantités de « poules au pot Henri IV », « Fiacres 1900 », « formation à l'art
 subtil d'alchimiste » ou autre « livre produit par les moines copistes ».
 
-Du point de vue du la Théorie Relative de la Monnaie, on ne peut que refuser
-d'accepter une telle méthode, basée sur des valeurs « absolue » quand bien même
+Du point de vue de la Théorie Relative de la Monnaie, on ne peut que refuser
+d'accepter une telle méthode, basée sur des valeurs « absolues » quand bien même
 elles seraient revues et actualisées, car elles seront toujours sujettes à des
 choix arbitraires.
 
