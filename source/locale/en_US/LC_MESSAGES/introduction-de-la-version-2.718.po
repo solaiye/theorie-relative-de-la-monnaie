@@ -1,7 +1,6 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Stéphane Laborde
-# This file is distributed under the same license as the Théorie Relative de
-# la Monnaie package.
+# This file is distributed under the same license as the Théorie Relative de la Monnaie package.
 #
 # Translators:
 # Moul <ma.azimi@laposte.net>, 2015
@@ -14,13 +13,14 @@ msgstr ""
 "POT-Creation-Date: 2017-03-18 17:12+0100\n"
 "PO-Revision-Date: 2017-03-17 23:30+0000\n"
 "Last-Translator: mypseudo at laposte dot net\n"
-"Language-Team: English (United States) "
-"<http://weblate.ucoin.io/projects/rtm/introduction-de-la-"
-"version-2718/en_US/>\n"
+"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm/introduction-de-la-version-2718/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.3.4\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.4-dev\n"
 
 #: ../../source/introduction-de-la-version-2.718.rst:3
 msgid "Introduction de la version 2.718"
@@ -93,6 +93,10 @@ msgstr ""
 " it, are as remote from each other as the utmost stretch of mortal "
 "imagination can conceive."
 
+#: ../../source/introduction-de-la-version-2.718.rst:38
+msgid "― « Les droits de l'homme » 1791 Thomas Paine (1737 – 1809)"
+msgstr "― \"The Rights of Man\" 1791 Thomas Paine (1737 – 1809)"
+
 #: ../../source/introduction-de-la-version-2.718.rst:33
 #, fuzzy
 msgid ""
@@ -105,7 +109,4 @@ msgstr ""
 "principle can be laid down that of two nonentities, the one out of "
 "existence and the other not in, and who never can meet in this world, the"
 " one should control the other to the end of time?”"
-
-#~ msgid "   -- « Les droits de l'homme » 1791    Thomas Paine (1737 – 1809)"
-#~ msgstr "   -- “The Rights of Man” 1791   Thomas Paine (1737 – 1809)"
 
