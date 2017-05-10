@@ -108,7 +108,7 @@ de l'équilibre nécessaire, dans deux dimensions complémentaires : spatiale
 du côté Chinois (il ne faudrait pas non plus oublier le problème similaire qui
 se pose aux 1 200 millions d'Indiens sous-monétisés eux aussi), et temporelle
 pour les États-Unis et l'Europe. Or le rattrapage temporel en Europe et aux États-Unis
-nécessite la mise en place d'un Dividende Universel sur lequel faire jouer jouer
+nécessite la mise en place d'un Dividende Universel sur lequel faire jouer
 la hauteur de la densité de la masse monétaire.
 
 .. figure:: images/comment_comparer_1.png
