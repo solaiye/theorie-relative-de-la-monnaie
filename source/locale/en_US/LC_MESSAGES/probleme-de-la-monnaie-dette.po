@@ -3,13 +3,15 @@
 # This file is distributed under the same license as the Théorie Relative de la Monnaie package.
 # 
 # Translators:
+# Moul, 2015
+# Jytou, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-22 11:27+0000\n"
-"Last-Translator: Moul <moul@moul.re>\n"
+"PO-Revision-Date: 2017-03-24 23:30+0000\n"
+"Last-Translator: mypseudo at laposte dot net\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/probleme-de-la-monnaie-dette/en_US/>\n"
 "Language: en_US\n"
@@ -22,7 +24,7 @@ msgstr ""
 # 9ff4a9228c4e403aaba7fea7ef5c4c76
 #: ../../source/probleme-de-la-monnaie-dette.rst:3
 msgid "Problème de la « monnaie dette »"
-msgstr "\"Debt-money\" problem"
+msgstr "“Debt-Money” Problem"
 
 # bbc6a75cb9f946d6a6ab0d370f1a9522
 #: ../../source/probleme-de-la-monnaie-dette.rst:5
@@ -31,9 +33,9 @@ msgid ""
 "ensuite payer Z, qui paye enfin X, on a une solution partielle, qui crée un "
 "problème fondamental de symétrie."
 msgstr ""
-"If we say that X is indebting (negative balance sheet) to credit Y, who can "
-"then pays Z, who finally pays X, their is a partial solution that creates a "
-"fundamental problem of symmetry."
+"If we say that X is putting himself into debt (negative balance sheet) to credit Y, who can "
+"then pays Z, who finally pays X, we have a partial solution that creates a "
+"fundamental problem regarding symmetry."
 
 # 3593a250540c406db855d0d3fdf4f688
 #: ../../source/probleme-de-la-monnaie-dette.rst:12
@@ -46,12 +48,12 @@ msgid ""
 "spécifique, sous peine de bloquer une sous-partie de l'économie (ici les "
 "échanges entre Y et Z)."
 msgstr ""
-"If it is \"X\" that owns the right to get in debt in the first place, "
-"according to \"Y\" and \"Z\" there is a huge equity problem. We can say "
-"otherwise that the production of every of these values have not to wait for "
+"If it is “X” who owns the right to get in debt in the first place, "
+"according to “Y” and “Z” there is a huge equity problem. Besides, we can say "
+"that the production of every of these values does not need to wait for "
 "a specific point of monetary emission to circulate. Value exchanges can and "
 "must start independently of any specific point, under the risk of blocking a "
-"part of the economy (here the exchange between Y and Z)."
+"part of the economy (here the exchanges between Y and Z)."
 
 # 8653e60349064488beb1a4bfaddd7606
 #: ../../source/probleme-de-la-monnaie-dette.rst:23
@@ -65,12 +67,12 @@ msgid ""
 "économique locale), bloquant aussi leurs échanges sans raison valable de "
 "leur point de vue."
 msgstr ""
-"Even when imagining that X, Y and Z are initially all credited at the same "
-"time of a fixed quantity of money, what is the situation for A, B or C that "
+"Even if imagining that X, Y and Z are initially all credited at the same "
+"time of a fixed quantity of money, what is the situation for A, B or C who "
 "will come after them in the economic system? Their respective exchanges of "
-"values being totally different from those of X, Y and Z, have not to suffer "
-"neither from a unique emission done in the past, and which repartition would "
-"be excessively concentrated here or there (or even could have fled out of "
+"values being totally different from those of X, Y and Z, should not suffer "
+"either from a unique emission done in the past, and whose distribution would "
+"be excessively concentrated here or there (or could even have fled out of "
 "the local economic zone), thus blocking their exchanges without sensible "
 "reasons from their point of view."
 
@@ -81,9 +83,9 @@ msgid ""
 "émission asymétrique suffit, si on en respecte le principe à la lettre, à "
 "assurer l'asservissement sans fin des uns envers les autres."
 msgstr ""
-"One algorithmic demonstration enlightens the fact that a debt-money with "
-"asymmetric emission is sufficient, if we respect it's principle to the "
-"letter, to ensure the enslavement without end of some by the other people."
+"One algorithmic demonstration enlightens us on the fact that a debt-money with "
+"asymmetric emission is sufficient, if we respect its principle to the "
+"letter, to ensure the endless enslavement of some people by others."
 
 # 878b6af553d146499fb917a68fb9e5b2
 #: ../../source/probleme-de-la-monnaie-dette.rst:40
@@ -103,19 +105,19 @@ msgid ""
 "H. En (2) les 5 % sont remboursés, puis éventuellement dépensés en (3) et "
 "c'est ensuite la boucle sans fin."
 msgstr ""
-"Interests of H owe to B are 5% / year. In (1) is done the emission of a new "
-"\"debt\" by B, constituting then the “money” credited to H. In (2) the 5% "
+"Interests owed to B by H are 5% / year. In (1) is created the emission of a new "
+"“debt” by B, constituting then the “money” credited to H. In (2) the 5% "
 "are reimbursed, then eventually spent in (3), and then it's a infinite loop."
 
 # a158c67e574946f6bd39e420161a4b2b
 #: ../../source/probleme-de-la-monnaie-dette.rst:48
 msgid "*(1) B : -100 | +100 => H +100 | -100*"
-msgstr "*(1) B : -100 | +100 => H +100 | -100*"
+msgstr "*(1) B: -100 | +100 => H +100 | -100*"
 
 # 6bb985e90bc94d519be4e79262fa5107
 #: ../../source/probleme-de-la-monnaie-dette.rst:49
 msgid "*(2) B : -100 | +105 => H +95 | - 100*"
-msgstr "*(2) B : -100 | +105 => H +95 | - 100*"
+msgstr "*(2) B: -100 | +105 => H +95 | - 100*"
 
 # 0af9b72b098d4a639df6596cc05597a5
 #: ../../source/probleme-de-la-monnaie-dette.rst:50
@@ -125,7 +127,7 @@ msgstr "*(3) B buys for 5 to H 1 hour of work*"
 # 255704892d1b455ab5e3aa0f121b64fa
 #: ../../source/probleme-de-la-monnaie-dette.rst:51
 msgid "*(4) B : -100 | +100 => H +100 | - 100*"
-msgstr "*(4) B : -100 | +100 => H +100 | - 100*"
+msgstr "*(4) B: -100 | +100 => H +100 | - 100*"
 
 # 78c69ecebffe4cfda967e921eeb5fcb9
 #: ../../source/probleme-de-la-monnaie-dette.rst:52
@@ -142,11 +144,11 @@ msgid ""
 "rembourse véritablement cette dette. Il appellera alors « rembourser » le "
 "seul fait de lui payer cette rente éternelle."
 msgstr ""
-"**Choice 1**: infinite loop. H is infinitely enslaved by B that wins 5% per "
-"year without work, when H has to work for B to get them back. The problem "
+"**Choice \#1**: infinite loop. H is infinitely enslaved by B who earns 5% per "
+"year without working, while H has to work for B to get them back. The problem "
 "here is not so the missing interest than H working eternally for B. B has "
-"then no interest (pun intended!) in H reimbursing really that debt. He will "
-"call it \"reimbursing\" the only fact to pay him that eternal annuity."
+"then no interest (pun intended!) in H really reimbursing his debt. He will "
+"call “reimbursing” the only fact to pay him that eternal annuity."
 
 # 2df7ca4a358a4d558c89fed25e8d2997
 #: ../../source/probleme-de-la-monnaie-dette.rst:61
@@ -157,16 +159,16 @@ msgid ""
 " se voit de plus en plus endetté et au bout de 20 boucles on se retrouve à "
 "la situation suivante :"
 msgstr ""
-"**Choice 2**: if in the contrary B does not spend the 5% per year but stores "
-"it skipping the step (3) (or only spend a small fraction of it to store the "
-"most of it), then there is a real missing interest in the economy. H sees "
-"himself more and more in debt, and after 20 loops we find the following "
+"**Choice \#2**: if on the contrary B does not spend the 5% per year but stores "
+"it, skipping step (3) (or only spends a small fraction of it and stores "
+"most of it), then there is a real missing interest in the economy. H finds "
+"himself more and more into debt, and after 20 loops we find the following "
 "situation:"
 
 # 654f0ca6df1a4d7db24f8570f3f5dbab
 #: ../../source/probleme-de-la-monnaie-dette.rst:67
 msgid "*B : -100 | + 200 => H +000 | -100*"
-msgstr "*B : -100 | + 200 => H +000 | -100*"
+msgstr "*B: -100 | +200 => H +000 | -100*"
 
 # 77cc6a7810cb4b1b981adc1e890aa19f
 #: ../../source/probleme-de-la-monnaie-dette.rst:69
@@ -179,12 +181,12 @@ msgid ""
 "qu'il estime comme étant la base économique du prochain cycle au meilleur "
 "prix."
 msgstr ""
-"At that moment (H) will not be able to reimburse the next cycle. He is "
-"bankrupt, in default, or a negotiation takes place. B has then a huge stock "
+"At that moment (H) will not be able to reimburse during the next cycle. He goes "
+"bankrupt, defaults, or a negotiation takes place. B has then a huge stock "
 "of money, he profits from a purchasing power multiplied by an economy in "
-"deflation (as in all that time the economy will have suffered by the "
-"progressive rarefaction of the circulating money). He buys then all he "
-"estimates as being the economic base of the next cycle at the best price."
+"deflation (since during all that time the economy will have suffered from the "
+"progressive rarefaction of the circulating money). He then buys everything he "
+"believes will be the economic base of the next cycle at the best price."
 
 # 307996cac6c146129eae1332bb0e4806
 #: ../../source/probleme-de-la-monnaie-dette.rst:76
@@ -198,10 +200,10 @@ msgid ""
 "ne sont pas donnés."
 msgstr ""
 "Then the cycle will restart on the base of a new generation of humans. B "
-"recreates enough money for his own benefit, that he will lend, at a level of"
-" creation high enough to make the old monetary mass negligible. Indeed one "
-"never starts from 0 to (1), but on the basis of a pre-existing monetary "
-"supply, that will for example be 1 on 100 created unilaterally on false "
+"recreates enough money for his own benefit, which he will lend, at a level of "
+"creation high enough to make the old money mass negligible. Indeed one "
+"never starts from scratch in (1), but on the base of a pre-existing monetary "
+"supply, that will for example be 1 of 100 created unilaterally on false "
 "premisses, a pseudo-contract whose terms are not given."
 
 # b9eaf30043e743309ce1eba8d5b4f4b7
@@ -212,11 +214,11 @@ msgid ""
 " nouvel homme H récemment né, à qui l'on expliquerait pas ce mécanisme ne "
 "peut se rendre compte du phénomène subtil que très tard dans sa propre vie."
 msgstr ""
-"All of this is only possible because H ignores the mechanism that no-one "
-"tells him. If on top of that that mechanism is going for the time span or "
-"more, a new human H recently born, to which no-one would explain that "
-"mechanism, would eventually be able to see that subtle phenomenon only late "
-"in his own life."
+"All of this is only possible because H ignores the mechanism that nobody "
+"tells him. If on top of that this mechanism is going on for a lifespan or "
+"more, a new human H recently born, to which nobody would have explained that "
+"mechanism, would eventually be able to only become aware of that subtle "
+"phenomenon late in his own life."
 
 # efc7f3af5ccf4a25a8ce018f1ef00133
 #: ../../source/probleme-de-la-monnaie-dette.rst:90
@@ -232,13 +234,13 @@ msgid ""
 "logique qu'il prétend appliquer, mais la prise de conscience individuelle du"
 " phénomène s'accélérerait."
 msgstr ""
-"And more, and it's not the least essential points of the phenomenon, we have "
-"to signal that we see in 2012 a confusion between the common \"dept-money\", "
-"issued by the political collectivities supposed to represent the citizens, "
-"and the private \"dept-money\". Both wear the same **name**. But if we "
-"distinguish the issued money exclusively under that \"debt\" form by the "
-"political community and the one issued by a private group, without giving "
-"them the same name, the mechanism would be not only be more respectful of "
+"Moreover, and it's not the least of the essential points of the phenomenon, we have "
+"to warn that we see in 2012 a confusion between the common “debt-money”, "
+"issued by the political collectivities alleged to represent the citizens, "
+"and private “debt-money”. Both wear the same **name**. But if we "
+"distinguished the money created exclusively under that “debt” form by the "
+"political community from the one issued by a private group, without giving "
+"them the same name, the mechanism would not only be more respectful of "
 "the logic it pretends to apply, but the rise of individual consciousness of "
 "the phenomenon would accelerate."
 
@@ -264,17 +266,17 @@ msgstr ""
 "So it is then staggering that when it is about protecting trademarks the law "
 "would be non-negotiable while being about counterfeiting the universal "
 "exchange tool we accept the fact that a group of private enterprises call "
-"with the same monetary sign what is only it's own \"debt\" emission, as if "
-"they shared the same mark, and that we use the same mark, with the same "
-"acronym, for the debt emission from the political community. Imagine once "
+"with the same monetary sign what is only it's own “debt” emission, as if "
+"they shared the same brand, and that we use this same brand, with the same "
+"acronym, for the debt emission of the political community. Imagine once "
 "that a beverage would be called “Coca-Cola” while being produced "
 "indifferently by General Motors or Pepsi Cola and that the State itself "
 "would use that acronym to emit another beverage and would use it as "
 "reference to ensure the economical exchanges compatibility. Which political "
-"community would accept that? But it's well exactly what this confusion "
-"concerning the common money has produced. One cannot then be surprised of "
+"community would accept that? But it is exactly what this confusion "
+"concerning the common money has produced. One should then not be surprised by "
 "the final chaos which that false logic, that unacceptable principle, can "
-"bring to humans."
+"bring humans into."
 
 # d9adb6c87c49434899cf179cc7651e49
 #: ../../source/probleme-de-la-monnaie-dette.rst:117
@@ -288,8 +290,8 @@ msgid ""
 "respecte pas la symétrie et l'égalité des référentiels devant la solution "
 "proposée."
 msgstr ""
-"That \"solution\" is thus not one. It have to be banned, because it doesn't "
-"respect the symmetry and the equity of the reference frames in front of the "
+"That “solution” is thus not a valid one. It needs to be banned, because it doesn't "
+"respect the symmetry and the equity of the reference frames compared to the "
 "proposed solution."
 
 # 0a96293f34a34da2b4f2617a6e9b2c1e
@@ -301,11 +303,11 @@ msgid ""
 "l'émission de dettes émises par des acteurs divers et prétendant pouvoir "
 "être nommées malgré tout par un même sigle comptable."
 msgstr ""
-"And more: it just profits from the confusion that tends to generalize \""
-"debt\" notion to a same and single acronym, making sharing the loss to the "
-"whole political community that is ignorant of the emission mechanism of "
-"issued debts by diverse actors and nevertheless pretending to be called by "
-"the same accounting sign."
+"Additionally, it just thrives on the confusion that tends to generalize "
+"the notion of “debt” to a same and single acronym, forcing the "
+"whole political community to share the losses, because it is ignorant of "
+"the emission mechanism of issued debts by diverse actors and nevertheless "
+"pretending to be called using the same accounting sign."
 
 # be635bdfcce244fcadf5a0b938f5ce10
 #: ../../source/probleme-de-la-monnaie-dette.rst:129
@@ -319,13 +321,13 @@ msgid ""
 "devant les biens possédés, ni devant la monnaie accumulée suite aux "
 "échanges)."
 msgstr ""
-"In conclusion, \"dept-money\" is a system instituting a profound asymmetry "
-"in money creation, that is not contractually acceptable inside a democracy "
+"In conclusion, “debt-money” is a system instituting a profound asymmetry "
+"regarding monetary creation, which is not contractually acceptable inside a democracy "
 "respecting human rights. Logically the recognition of the equality of "
-"judgment of all economical value imply **the symmetry in front of  the "
-"creation rules** of a money that would be really common (which does not "
-"signify the equality in front of possessed goods or accumulated money "
-"following exchanges)."
+"judgment of all economical value implies **the symmetry regarding the "
+"creation rules** of a currency that would be really common (which does not "
+"mean equality regarding possessed goods or accumulated money "
+"through exchanges)."
 
 # f327e95a2115477c90bf23d42053dace
 #: ../../source/probleme-de-la-monnaie-dette.rst:137
@@ -338,12 +340,12 @@ msgid ""
 "contracte envers un détenteur de monnaie pré-existante. C'est bien le "
 "premier point qui est ici dénoncé."
 msgstr ""
-"We must understand here the distinction between the money creation by a \""
-"debt\" against an arbitrary center, meaning the fact that certain actors "
-"situated spatially or temporally have got the exclusive privilege to issue "
+"We must understand here the distinction between the monetary creation by a "
+"“debt” toward an arbitrary center, meaning the fact that some actors "
+"located spatially or temporally have the exclusive privilege of issuing "
 "money, creating an asymmetry toward the other actors of the present and "
-"future economy and the debt we contract with one possessing pre-existing "
-"money. It is well the point denounced here."
+"future economy and the debt contracted with one possessing pre-existing "
+"money. It is indeed the main point condemned here."
 
 #: ../../source/probleme-de-la-monnaie-dette.rst:10
 msgid "\\a) La symétrie spatiale n'est pas respectée"
@@ -355,13 +357,4 @@ msgstr "\\b) Temporal symmetry is not respected"
 
 #: ../../source/probleme-de-la-monnaie-dette.rst:34
 msgid "\\c) L'asservissement par l'intérêt manquant"
-msgstr "\\c) Enslavement by the missing interest"
-
-#~ msgid "a) La symétrie spatiale n'est pas respectée"
-#~ msgstr "a) The spacial symmetry is not respected"
-
-#~ msgid "b) La symétrie temporelle n'est pas respectée"
-#~ msgstr "b) The temporal symmetry is not respected"
-
-#~ msgid "c) L'asservissement par l'intérêt manquant"
-#~ msgstr "c) Enslavement by the missing interest"
+msgstr "\\c) Enslavement through missing interest"

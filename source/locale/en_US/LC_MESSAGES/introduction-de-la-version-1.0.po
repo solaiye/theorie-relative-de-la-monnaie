@@ -24,7 +24,7 @@ msgstr ""
 # b331c718d8464e1ea6bfe4b15d56849e
 #: ../../source/introduction-de-la-version-1.0.rst:3
 msgid "Introduction de la version 1.0"
-msgstr "Introduction to version 1.0"
+msgstr "Introduction to Version 1.0"
 
 # d7f878d34eab49a58f13e05542ad3308
 #: ../../source/introduction-de-la-version-1.0.rst:5
@@ -108,7 +108,7 @@ msgid ""
 msgstr ""
 "This book's aim is not to define the monetary system as it exists, but "
 "rather to define what would be an fair currency within space-time, as "
-"well as what I call \"Relative Money\" in that it can only be defined "
+"well as what I call “Relative Money” in that it can only be defined "
 "relatively to every independent measurement frame of reference within the "
 "system: the element which is linked to every individual citizen within "
 "the concerned economic zone."
@@ -162,7 +162,7 @@ msgid ""
 "référentiel théorique pour les comprendre."
 msgstr ""
 "At the same time, and I will come back to this, my astonishment was even "
-"greater when I discovered Yoland Bresson's \"Time Value\" works. Even if the "
+"greater when I discovered Yoland Bresson's “Time Value” works. Even if the "
 "differential equations he proposes differ in their form from those which I "
 "established to describe the same notion of value field, we found exactly the "
 "same relations between global and local measures. I consequently "
