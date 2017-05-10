@@ -1,7 +1,8 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Stéphane Laborde
-# This file is distributed under the same license as the Théorie Relative de la Monnaie package.
-# 
+# This file is distributed under the same license as the Théorie Relative de
+# la Monnaie package.
+#
 # Translators:
 # Moul <ma.azimi@laposte.net>, 2015
 # Vincent Texier, 2015
@@ -10,102 +11,101 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-07-16 10:25+0200\n"
+"POT-Creation-Date: 2017-03-18 17:12+0100\n"
 "PO-Revision-Date: 2017-03-17 23:30+0000\n"
 "Last-Translator: mypseudo at laposte dot net\n"
-"Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
-"/introduction-de-la-version-2718/en_US/>\n"
-"Language: en_US\n"
+"Language-Team: English (United States) "
+"<http://weblate.ucoin.io/projects/rtm/introduction-de-la-"
+"version-2718/en_US/>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.4-dev\n"
+"Generated-By: Babel 2.3.4\n"
 
-# bf23091d91eb4a8aac333b7d31e586c9
 #: ../../source/introduction-de-la-version-2.718.rst:3
 msgid "Introduction de la version 2.718"
-msgstr "Introduction to version 2.718"
+msgstr "Introduction to Version 2.718"
 
-# 59779c2c4cc14c1080a95107e7c478e8
 #: ../../source/introduction-de-la-version-2.718.rst:5
 msgid ""
-"Le lecteur de la TRM 1.0 et 2.0 ayant quelques connaissances mathématiques "
-"sur les fonctions exponentielles aura remarqué que la numérotation des "
-"versions tend vers le nombre e."
+"Le lecteur de la TRM 1.0 et 2.0 ayant quelques connaissances "
+"mathématiques sur les fonctions exponentielles aura remarqué que la "
+"numérotation des versions tend vers le nombre e."
 msgstr ""
 "The reader of RTM 1.0 and 2.0 with some mathematical knowledge on "
-"exponential functions have noticed that the version numbering tends towards "
-"the number \"e\"."
+"exponential functions have noticed that the version numbering tends "
+"toward the number “e”."
 
-# 0b59446467194df8a6c034e16514e52f
 #: ../../source/introduction-de-la-version-2.718.rst:9
 msgid ""
-"Cette version 2.718 de la TRM apporte une amélioration sur la forme et la "
-"signification des démonstrations sans en changer ni le sens ni le résultat "
-"quantitatif. Cette amélioration apporte une meilleure définition théorique "
-"qui peut faire sens par analogie sur d'autres domaines que l'économie en "
-"inscrivant un lien profond sur l'espace-temps d'analyse des mesures dans ses"
-" dimensions temporelles et quantitatives."
+"Cette version 2.718 de la TRM apporte une amélioration sur la forme et la"
+" signification des démonstrations sans en changer ni le sens ni le "
+"résultat quantitatif. Cette amélioration apporte une meilleure définition"
+" théorique qui peut faire sens par analogie sur d'autres domaines que "
+"l'économie en inscrivant un lien profond sur l'espace-temps d'analyse des"
+" mesures dans ses dimensions temporelles et quantitatives."
 msgstr ""
-"This 2.718 version of the RTM brings an improvement on the form and on the "
-"signification of demonstrations without changing the meaning nor the "
-"quantitative result. This improvement brings a better theoretical definition "
-"that can make sense by analogy with other domains than economy registering a "
-"deep link with space-time analysis in its temporal and quantitative dimensions."
+"This 2.718 version of the RTM brings an improvement on the form and on "
+"the signification of demonstrations without changing the meaning nor the "
+"quantitative result. This improvement brings a better theoretical "
+"definition that can make sense by analogy with other domains than economy"
+" registering a deep link with space-time analysis in its temporal and "
+"quantitative dimensions."
 
-# 2803804b9244430f90eea189aedb7e74
 #: ../../source/introduction-de-la-version-2.718.rst:15
 msgid ""
-"Essentiellement la durée de vie limitée des objets d'observation ainsi que "
-"des observateurs nous apparaît comme un élément fondamental trop peu pris en"
-" compte non seulement en économie mais aussi dans beaucoup d'autres domaines"
-" d'analyse."
+"Essentiellement la durée de vie limitée des objets d'observation ainsi "
+"que des observateurs nous apparaît comme un élément fondamental trop peu "
+"pris en compte non seulement en économie mais aussi dans beaucoup "
+"d'autres domaines d'analyse."
 msgstr ""
-"Most importantly, the limited life span of the observed objects and of the "
-"observers appears to us as a fundamental element which is not taken into "
-"account sufficiently not only in economy but also in many other areas of analysis."
+"Most importantly, the limited life span of the observed objects and of "
+"the observers appears to us as a fundamental element which is not taken "
+"into account sufficiently not only in economy but also in many other "
+"areas of analysis."
 
-# e65c05cd8f6041bb80bee5365c0b8a91
 #: ../../source/introduction-de-la-version-2.718.rst:19
 msgid ""
 "Cette amélioration sur la partie théorique conduit aussi à quelques "
 "remarques de portée générale sur la forme."
 msgstr ""
-"This improvement on the theoretical part leads also to some general remarks "
-"on the form."
+"This improvement on the theoretical part leads also to some general "
+"remarks on the form."
 
-# 9cef7cc6a81a45dbb7dd7c102a580d09
 #: ../../source/introduction-de-la-version-2.718.rst:22
 msgid ""
 "La partie historique est aussi augmentée par l'inscription dans la trame "
 "décrite d'une lignée de penseurs économiques constituée par John Locke, "
 "Thomas Paine, Clifford Hugh Douglas et Yoland Bresson."
 msgstr ""
-"The historical part is also augmented with the introduction in the storyline "
-"of a lineage of economic thinkers consisting of John Locke, Thomas Paine, "
-"Clifford Hugh Douglas and Yoland Bresson."
+"The historical part is also augmented with the introduction in the "
+"storyline of a lineage of economic thinkers consisting of John Locke, "
+"Thomas Paine, Clifford Hugh Douglas and Yoland Bresson."
 
-# 0ad8eccd2a334a78a6db94f9ba79455a
 #: ../../source/introduction-de-la-version-2.718.rst:28
 msgid ""
-"« Ceux qui ont quitté ce monde et ceux qui n'existent pas encore sont à la "
-"plus grande distance les uns des autres que l'imagination humaine puisse "
-"concevoir : quelle possibilité d'obligation peut-il donc y avoir entre eux ?"
+"« Ceux qui ont quitté ce monde et ceux qui n'existent pas encore sont à "
+"la plus grande distance les uns des autres que l'imagination humaine "
+"puisse concevoir : quelle possibilité d'obligation peut-il donc y avoir "
+"entre eux ?"
 msgstr ""
-"\"Those who have quitted the world, and those who have not yet arrived at it, "
-"are as remote from each other as the utmost stretch of mortal imagination can "
-"conceive."
+"“Those who have quitted the world, and those who have not yet arrived at"
+" it, are as remote from each other as the utmost stretch of mortal "
+"imagination can conceive."
 
-# edea39b48f95464aa06dbda6f17e473c
 #: ../../source/introduction-de-la-version-2.718.rst:33
+#, fuzzy
 msgid ""
-"Quelle règle ou quel principe peut-on poser pour que deux êtres imaginaires "
-"dont l'un a cessé d'être et l'autre n'existe pas encore, et qui ne peuvent "
-"jamais se rencontrer dans ce monde, l'un soit autorisé à maîtriser l'autre "
-"jusqu'à la consommation des siècles ? »"
+"Quelle règle ou quel principe peut-on poser pour que de deux êtres "
+"imaginaires dont l'un a cessé d'être et l'autre n'existe pas encore, et "
+"qui ne peuvent jamais se rencontrer dans ce monde, l'un soit autorisé à "
+"maîtriser l'autre jusqu'à la consommation des siècles ? »"
 msgstr ""
-"What possible obligation, then, can exist between them — what rule or principle "
-"can be laid down that of two nonentities, the one out of existence and the other "
-"not in, and who never can meet in this world, the one should control the other to "
-"the end of time?\" (\"The Rights of Man\" by Thomas Paine)"
+"What possible obligation, then, can exist between them — what rule or "
+"principle can be laid down that of two nonentities, the one out of "
+"existence and the other not in, and who never can meet in this world, the"
+" one should control the other to the end of time?”"
+
+#~ msgid "   -- « Les droits de l'homme » 1791    Thomas Paine (1737 – 1809)"
+#~ msgstr "   -- “The Rights of Man” 1791   Thomas Paine (1737 – 1809)"
+
