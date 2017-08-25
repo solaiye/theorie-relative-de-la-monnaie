@@ -92,22 +92,20 @@ Generate EPUB version :
 ```
 ## Translation in english
 
+### Install translation tools
+
 ```bash
     $ sudo pip install sphinx-intl
 ```
-
-Generate pot files from rst files in build/locale
-
-```bash
-    $ make gettext
-```
-
-Generate po files from pot files in source/locale
-(use english (United-States) with label en_US)
+### Generate/update po files (translation files)
+_Do it every time you modified rst files_ 
 
 ```bash
-    $ sphinx-intl update -p build/locale -d source/locale/ -l en_US
+    $ ./update_po_files.sh
 ```
+...Then edit po files to translate from the french...
+
+### Generate english version
 
 Create mo files
 
@@ -120,7 +118,7 @@ Generate translated build:
     $ ./build_all_en_US.sh
 ```
 
-## Transifex platform
+## Transifex platform (DEPRECATED)
 
 To sync with a Transifex project :
 
