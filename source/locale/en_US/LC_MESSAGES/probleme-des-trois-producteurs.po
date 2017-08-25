@@ -6,13 +6,14 @@
 # Smyds <cesar.proute@gmail.com>, 2015
 # Nathanaël Leprette, 2015
 # Vincent Texier, 2015
+# Jytou, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-22 10:44+0000\n"
-"Last-Translator: Moul <moul@moul.re>\n"
+"PO-Revision-Date: 2017-03-18 23:30+0000\n"
+"Last-Translator: mypseudo at laposte dot net\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/probleme-des-trois-producteurs/en_US/>\n"
 "Language: en_US\n"
@@ -25,7 +26,7 @@ msgstr ""
 # dd6c343e3aa54af6966aabcad1d9d23a
 #: ../../source/probleme-des-trois-producteurs.rst:3
 msgid "Problème des trois producteurs"
-msgstr "The \"three producers\" problem"
+msgstr "The “Three Producers Problem”"
 
 # beebe3e9d79448609abf8f6ec830636a
 #: ../../source/probleme-des-trois-producteurs.rst:5
@@ -38,9 +39,9 @@ msgid ""
 msgstr ""
 "The necessity to define a common currency being given inside the community "
 "of individuals, despite their fundamental disagreements regarding what "
-"constitutes the value, there remains a fundamental problem for the "
-"definition of this currency. It can be reduced by solving the following "
-"spacial-temporal three producers problem:"
+"constitutes value or not, a fundamental problem remains for the "
+"definition of this currency. It can be reduced to solving the following "
+"time-space “Three Producers Problem”:"
 
 # 86c8867816b84c6ab8d3a2dcbbfa80a6
 #: ../../source/probleme-des-trois-producteurs.rst:12
@@ -51,7 +52,7 @@ msgstr "X, Y and Z respectively produce Vx, Vy and Vz values."
 #: ../../source/probleme-des-trois-producteurs.rst:14
 msgid ""
 "X souhaite obtenir Vy, Y souhaite obtenir Vz, et Z souhaite obtenir Vx."
-msgstr "X wants Vy, Y wants Vz, and Z wants Vx."
+msgstr "X wants to acquire Vy, Y wants Vz, and Z wants Vx."
 
 # 5cd8f22fa1414e42b29688738f61b428
 #: ../../source/probleme-des-trois-producteurs.rst:16
@@ -65,10 +66,10 @@ msgid ""
 "chacun."
 msgstr ""
 "We can see that the exchanges cannot be bilateral, but must be circular. "
-"Furthermore as it's perfectly possible that X grants no value to Vz, Y to "
-"Vx, and Z to Vy (relativity principle), none of the goods and services "
-"produced can be used as a common metric. This is the fundamental argument "
-"that implies that the currency must be defined on a independent basis of the "
+"Furthermore as it is perfectly possible that X grants no value to Vz, Y to "
+"Vx, and Z to Vy (relativity principle), none of the produced goods and services "
+"can be used as a common metric. This is the fundamental argument "
+"that implies that the currency must be defined on a basis that is independent of the "
 "produced values by each individual."
 
 # 061ecc51504e4d10a9d123542d68fd5c
@@ -83,8 +84,8 @@ msgid ""
 msgstr ""
 "The problem also exists in time, where the individuals, productions, "
 "services and needs will evolve in nature and will progressively be replaced "
-"or disappear. It is not less necessary for individuals to be able, at any "
-"time, to trade appropriately each other's production in order to satisfy "
+"or disappear. It is not less necessary for individuals to be able, at all "
+"times, to trade appropriately each other's production in order to satisfy "
 "their respective changing needs."
 
 # 28153dcaba8c4df58c1cd4470376c563
@@ -94,7 +95,7 @@ msgid ""
 "existent,* *produisent et échangent des valeurs stables. (Luc Fievet TRM "
 "2.0)*"
 msgstr ""
-"*For a small \"dt\" time unit, individuals X, Y and Z coexist, produce and "
+"*For a small “dt” time unit, individuals X, Y and Z coexist, produce and "
 "exchange stable values. (Luc Fievet RTM 2.0)*"
 
 # e7103d624bc74d788705b01ce63c165e
@@ -105,10 +106,10 @@ msgid ""
 "font pourtant l'objet d'échanges circulaires, mais *« dans le temps »* les "
 "individus et les valeurs produites changent du tout au tout."
 msgstr ""
-"So, not only *\"in space\"* (for a short time of evolution \"dt\") the "
+"So, not only *“in space”* (for a short time of evolution “dt”) "
 "values are not commonly recognized by producers and are the object of "
-"circular exchanges, but *\"in time\"* the individuals and the produced "
-"values change completely."
+"circular exchanges, but *“in time”* the individuals and the produced "
+"values change radically."
 
 # 9dcc82cbf4fe4b988b72caed1e923966
 #: ../../source/probleme-des-trois-producteurs.rst:44
@@ -119,8 +120,8 @@ msgid ""
 "producteurs présents à tout instant, et au moins pour ce temps court, de "
 "s'accorder sur la stabilité de leur outil d'échange circulaire."
 msgstr ""
-"Nevertheless, for a short time, we observe a certain stability. So, there is "
-"a continuous evolution of economical parameters, including the money we want "
+"Nevertheless, for a time that is short enough, we observe some stability. So, there is "
+"a continuous evolution of economical parameters, including the currency we want "
 "to define, which allows the present producers at any moment, and at least "
 "for this short period of time, to agree on the stability of their circular "
 "exchange tool."
@@ -136,7 +137,7 @@ msgstr ""
 "Also, as we shall demonstrate in what follows, and to be coherent with our "
 "fundamentals, only a purely mathematical quantification of exchanges, "
 "independent of all references, goods and services, is acceptable for our "
-"actors of the problem of the three producers."
+"actors in the “Three Producers Problem”."
 
 # 74897483b90144f8b5ee708c7bc413b0
 #: ../../source/probleme-des-trois-producteurs.rst:56
@@ -159,7 +160,7 @@ msgid ""
 "*Le problème des trois producteurs se complique* *lorsqu'au bout d'un temps "
 "suffisamment long ils sont morts et remplacés (Luc Fievet TRM 2.0)*"
 msgstr ""
-"*\"Three producers” problem get more complicated* *when after some time, "
+"*The “Three Producers Problem” gets more complicated when after some time, "
 "they die and they are replaced. (Luc Fievet TRM 2.0)*"
 
 # ccd21f34e378461e970a508b148d8684
@@ -169,5 +170,5 @@ msgid ""
 "envisagées et les soucis qu'elles posent avant d'aborder la solution "
 "relativiste proprement dite."
 msgstr ""
-"The problem being posed, we are going now to browse and analyse some "
-"solutions that we considered, before talking about the relativist solution."
+"The problem being posed, we are going now to browse and analyze the "
+"solutions that we considered, before addressing the actual relativist solution."

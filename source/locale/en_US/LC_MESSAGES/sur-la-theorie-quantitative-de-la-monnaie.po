@@ -3,13 +3,15 @@
 # This file is distributed under the same license as the Théorie Relative de la Monnaie package.
 #
 # Translators:
+# Vincent Texier, 2015
+# Jytou, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-01 22:46+0000\n"
-"Last-Translator: sb <s_b_@openmailbox.org>\n"
+"PO-Revision-Date: 2017-04-08 23:30+0000\n"
+"Last-Translator: mypseudo at laposte dot net\n"
 "Language-Team: English (United States) <http://weblate.ucoin.io/projects/rtm"
 "/sur-la-theorie-quantitative-de-la-monnaie/en_US/>\n"
 "Language: en_US\n"
@@ -31,8 +33,8 @@ msgid ""
 "économiques classiques aux limites. Soit en effet l'équation fondamentale du"
 " champ de valeur :"
 msgstr ""
-"The general definition of the field of value allows to find economic results "
-"common to limits. Thus, let the equation of the field of value be :"
+"The general definition of the value field allows to find common economic results "
+"at the limits. Thus, let the equation of the value field be:"
 
 # 0a960a9cd7f743cc9aad85c647570abd
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:11
@@ -40,13 +42,13 @@ msgid ""
 "Dans le cas d'une économie pseudo-isolée en équilibre e  à création "
 "monétaire locale nulle, nous avons alors :"
 msgstr ""
-"In the case of a balanced economy pseudo-isolated of null local creation of "
-"money, we have then :"
+"In the case of a balanced pseudo-isolated economy of null local creation of "
+"money, we have then:"
 
 # bafbfff0b14f430999e9af3ef7792628
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:17
 msgid "Ou encore :"
-msgstr "Or also :"
+msgstr "Or also:"
 
 # f586b0b052bd4dcd86675daa69e015f2
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:23
@@ -55,7 +57,7 @@ msgid ""
 " complet, pendant un temps t :"
 msgstr ""
 "Along a circular line of exchange, we have then by doing a complete turn, "
-"during a time \"t\" :"
+"during a time “t”:"
 
 # 456d9fe058e24305b7db8a4c85c3525a
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:29
@@ -65,10 +67,10 @@ msgid ""
 "producteurs ne sont pas remplacés par la génération suivante, nous donne le "
 "résultat de la théorie quantitative de la monnaie :"
 msgstr ""
-"Which, if production remains unchanged, and prices stable, and for a time "
-"short enough where the production stays similar, and where producers are not "
-"replaced by next generation, gives us the result of the quantitative theory "
-"of money :"
+"Which, if the production remains unchanged, and with stable prices, and for a time "
+"short enough during which the production stays similar, and where producers are not "
+"replaced by the next generation, gives us the result of the quantitative theory "
+"of money:"
 
 # 93ae43b0615847dfbc512d76941b769e
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:38
@@ -92,9 +94,9 @@ msgid ""
 "monétaires sont négligeables."
 msgstr ""
 "Which is then an equality concerning only global and integrable quantities. "
-"This result does not consider the local fluctuations of space-time "
-"reference, and is only valid within a pseudo-isolated economy, for a short "
-"time where changes - be they productive, individual or monetary - are "
+"This result does not consider the local fluctuations of the space-time "
+"reference frame, and is only valid within a pseudo-isolated economy, for a short "
+"time when changes - be they productive, individual or monetary - are "
 "negligible."
 
 # e374ab409ef84c1bbe218989696c5c7a
@@ -106,10 +108,10 @@ msgid ""
 "ne concerne que ses acteurs, et n'est stable ni dans le temps, ni dans "
 "l'espace (selon d'autres individus)."
 msgstr ""
-"The bias of a vision only global, is the non-relativity of measure of value. "
-"Because globally we find here or there an \"exchange of values\" we will "
-"decide that value is \"here\". Yet this measure only concerns its actors, "
-"and is not stable neither in time, nor in space (from other individuals "
+"The bias of an only global vision is the non-relativity of measure of value. "
+"Because globally we find here or there an “exchange of values” we will "
+"decide that value is “here”. Yet this measure only concerns its actors, "
+"and is not stable neither in time, nor in space (from other individuals' "
 "point of view)."
 
 # 8149cdf89c224431baad13c91b3993f7
@@ -118,7 +120,7 @@ msgid ""
 "*SEL et valeurs non monétisées dans la monnaie « dette » centrale (Luc "
 "Fievet TRM 2.0)*"
 msgstr ""
-"*LETSystem and non-monetized values in the central \"debt\" money  (Luc "
+"*LETS and non-monetized values in the central “debt” money (Luc "
 "Fievet RTM 2.0)*"
 
 # b76f2e62ca624b80a56fcd14ecc9143d
@@ -130,9 +132,9 @@ msgid ""
 "nouvelle monnaie locale devient nécessaire (création de SEL)."
 msgstr ""
 "That is if money is created asymmetrically, not dense, the value is stored "
-"or exchange so heavily in another part of the economy without being "
+"or exchanged very heavily in another part of the economy without being "
 "monetized (if hollow), or the creation of a new local currency becomes "
-"necessary (creation of LETSystem)."
+"necessary (creation of LETS)."
 
 # 78dfea5cac8148bd853f4877a9312b7d
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:68
@@ -143,10 +145,10 @@ msgid ""
 " du Dividende Universel, qui monétise durablement et progressivement "
 "l'économie."
 msgstr ""
-"As this is a phenomenon of accumulation, the output of this impasse can be "
-"done either via the hyperinflation of sub-monetized values, possible by "
-"issuing of violent remedial currency or by the gradual process of Universal "
-"Dividend, which monetizes sustainably and gradually the economy."
+"As this is a phenomenon of accumulation, coming out from this deadlock can be "
+"achieved either via the hyperinflation of sub-monetized values, which can be done by "
+"violently issuing remedial money or by the gradual process of Universal "
+"Dividend, which monetizes the economy gradually and in a sustainable manner."
 
 # e698808cef4d43828ebeb5cbdecf1300
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:73
@@ -158,12 +160,12 @@ msgid ""
 " surgir des comportements économiques violents, anticipant des choix sujets "
 "à suspicion quant à leur changements ultérieurs."
 msgstr ""
-"As noted in the calculation of the optimal Universal Dividend, one can get "
-"out distortions by setting the desired rate of Universal Dividend. This is "
-"obviously a great need to conceive a fully transparent and stable "
+"As we noted in the calculation of the optimal Universal Dividend, one can get "
+"out of distortions by setting the desired rate of Universal Dividend. It is "
+"obviously a strong need to conceive a fully transparent and stable "
 "configuration in time, otherwise it is not surprising to see a surge of "
-"violent economic behaviours, anticipating choices subject to suspicion as to "
-"their subsequent changes."
+"violent economic behaviors, anticipating choices which are subject to suspicion "
+"regarding their subsequent changes."
 
 # 09638f3563eb47a7ad32208b735cf7e1
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:80
@@ -178,13 +180,13 @@ msgid ""
 "dans le respect de la liberté de chacun, en incitant fortement la créativité"
 " individuelle."
 msgstr ""
-"This is a complete reversal of the current paradigm in 2010 ! Instead of "
+"This is a complete reversal of the current paradigm in 2010! Instead of "
 "Central Banks that are trying to maintain arbitrarily end of life values "
 "with hidden and suspicious monetary emissions that promote a caste of "
-"initiated leaders in place, and therefore artificial and unhelpful maintain "
-"of monopolies on old values, we need a currency with stable, dense and "
+"initiated leaders in place, and therefore the artificial and unhelpful upholding "
+"of monopolies on old values, we need a currency with a stable, dense and "
 "transparent issuance, in which the values fluctuate, and the individual "
-"economic positions change with the respect of the freedom of each "
+"economic positions change with respect to the freedom of each "
 "individual, by strongly encouraging individual creativity."
 
 # 76e656ef4479484ba7cd9d2712a6f2aa
@@ -193,8 +195,8 @@ msgid ""
 "Si donc on reprend les axiomes de la Théorie Quantitative de la Monnaie, qui"
 " définit la monnaie comme :"
 msgstr ""
-"So if we look the axioms of the Quantitative Theory of Money, which defines "
-"the money as :"
+"So if we take the axioms of the Quantitative Theory of Money, which defines "
+"the money as:"
 
 # cc18630bbe8847d3a61ca9a1ac0e7d77
 #: ../../source/sur-la-theorie-quantitative-de-la-monnaie.rst:92
@@ -226,11 +228,11 @@ msgid ""
 msgstr ""
 "The paradigm of the RTM which defines it as the four freedoms of democratic "
 "change of the code, access to resources, production and trade, invalidates "
-"the consistency of these axioms. \"Store of Value\" is inconsistent with the "
+"the consistency of these axioms. “Store of Value” is inconsistent with the "
 "medium of exchange. The currency cannot be compatible with these two "
-"concepts at once. Only a short period of time permits to consider a stable "
+"concepts at the same time. Only a short period of time allows to consider a stable "
 "value of the money, like any other economic good or service. Its "
-"universality as a medium of exchange in space and time can not be ensured "
+"universality as a medium of exchange in space and time can be ensured "
 "with this pseudo-steady value only via a stable issuance."
 
 # faca9099f00046da949783e6554b2833

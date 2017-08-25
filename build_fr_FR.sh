@@ -13,4 +13,5 @@ make latexpdf SPHINXOPTS="-t latex"
 cp build/latex/TheorieRelativedelaMonnaie.pdf build/html/.
 
 # label folder as french version
+rm -rf build/fr_FR/html
 mv build/html build/fr_FR

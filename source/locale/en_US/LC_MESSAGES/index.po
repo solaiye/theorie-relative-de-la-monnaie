@@ -4,13 +4,14 @@
 # 
 # Translators:
 # Vincent Texier, 2015
+# Jytou, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: TRM French to English\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-16 10:25+0200\n"
-"PO-Revision-Date: 2015-09-01 11:03+0000\n"
-"Last-Translator: truc_fullname <s_b_@openmailbox.org>\n"
+"PO-Revision-Date: 2017-03-17 23:30+0000\n"
+"Last-Translator: mypseudo at laposte dot net\n"
 "Language-Team: English (United States) "
 "<http://weblate.ucoin.io/projects/rtm/index/en_US/>\n"
 "Language: en_US\n"
@@ -23,7 +24,7 @@ msgstr ""
 # 85a254dc3a8f4bfbbaf0771d1d1fe7dd
 #: ../../source/index.rst:3
 msgid "Sommaire"
-msgstr "Table of content"
+msgstr "Table of Contents"
 
 # 765d43b499314149a70cb7452e2e852e
 #: ../../source/index.rst:34
