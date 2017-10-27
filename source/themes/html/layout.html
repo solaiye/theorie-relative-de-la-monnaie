@@ -11,8 +11,10 @@
         <div class="row top-navbar">
             <div class="span6 left">
                 Livre « <a href="index.html">Théorie Relative de la Monnaie v2.718</a> »
+                - Rev. {{ version }} (Github rev. <a href="https://github.com/libre-money-projects/theorie-relative-de-la-monnaie/releases"><span id="TRM_releases"></span></a>)
+
             </div><!-- span6 -->
-            <div class="span4 right"><div>
+                        <div class="span4 right"><div>
     <a href="index.html">sommaire</a> |
     {%- if prev %}
     <a
@@ -52,6 +54,7 @@
 -->
 <script src="_static/Hyphenator.js" type="text/javascript" charset="utf-8"></script>
 <script src="_static/fr.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script type="text/javascript" charset="utf-8">
 Hyphenator.config({
     displaytogglebox : true,
@@ -59,6 +62,27 @@ Hyphenator.config({
     defaultlanguage: 'fr'
 });
 Hyphenator.run();
+
+getRelease("libre-money-projects","theorie-relative-de-la-monnaie","TRM_releases");
+function getRelease(user, repo, Id) {
+   var xmlhttp = new XMLHttpRequest();
+   xmlhttp.onreadystatechange = function() {
+       if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+          var myArr = JSON.parse(xmlhttp.responseText);
+          release = populateRelease(myArr,Id);
+       }
+   }
+   xmlhttp.open("GET", "https://api.github.com/repos/" + user + "/" + repo + "/releases", true);
+   xmlhttp.send();
+}
+function populateRelease(arr,Id) {
+   var release = arr[0].tag_name;
+   document.getElementById(Id).innerHTML = release;
+}
+
+
+
+
 </script>
 
 <div class="container footer">
