@@ -297,6 +297,7 @@ texinfo_documents = [
 # -- Options for Epub output -------------------------------------------
 epub_basename = 'TheorieRelativedelaMonnaie'
 epub_theme = 'epub'
+epub_title = u"Théorie Relative de la Monnaie v2.718, rev. " + release
 epub_author = u'Stéphane Laborde'
 epub_publisher = u'Stéphane Laborde'
 #epub_scheme = 'UUID'
