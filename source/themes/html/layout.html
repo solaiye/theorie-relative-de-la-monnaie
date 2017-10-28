@@ -11,10 +11,10 @@
         <div class="row top-navbar">
             <div class="span6 left">
                 Livre « <a href="index.html">Théorie Relative de la Monnaie v2.718</a> »
-                - Rev. {{ version }} (Github rev. <a href="https://github.com/libre-money-projects/theorie-relative-de-la-monnaie/releases"><span id="TRM_releases"></span></a>)
+                - rev. {{ version }} (Github rev. <a href="https://github.com/libre-money-projects/theorie-relative-de-la-monnaie/releases"><span id="TRM_releases"></span></a>)
 
             </div><!-- span6 -->
-                        <div class="span4 right"><div>
+            <div class="span4 right"><div>
     <a href="index.html">sommaire</a> |
     {%- if prev %}
     <a
@@ -49,9 +49,6 @@
 </div><!-- container -->
 {% endblock %}
 {% block footer %}
-<!--
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
--->
 <script src="_static/Hyphenator.js" type="text/javascript" charset="utf-8"></script>
 <script src="_static/fr.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
@@ -71,7 +68,7 @@ function getRelease(user, repo, Id) {
           var myArr = JSON.parse(xmlhttp.responseText);
           release = populateRelease(myArr,Id);
        }
-   }
+   };
    xmlhttp.open("GET", "https://api.github.com/repos/" + user + "/" + repo + "/releases", true);
    xmlhttp.send();
 }
@@ -79,9 +76,6 @@ function populateRelease(arr,Id) {
    var release = arr[0].tag_name;
    document.getElementById(Id).innerHTML = release;
 }
-
-
-
 
 </script>
 
