@@ -20,7 +20,7 @@ il faut prendre conscience des enjeux de la mondialisation qui amène
 des milliards de personnes à développer des échanges monétisés,
 ainsi que des déséquilibres historiques des échanges intercontinentaux.
 
-Mais pour pour cette échelle globale, ce sont les idées liées non pas à la mécanique quantique,
+Mais pour cette échelle globale, ce sont les idées liées non pas à la mécanique quantique,
 mais à la Relativité, qui sont les plus pertinentes pour espérer comprendre
 ce qui ne fonctionne pas et tenter d'apporter les mutations nécessaires.
 
