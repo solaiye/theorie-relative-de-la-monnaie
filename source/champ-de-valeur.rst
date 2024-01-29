@@ -146,7 +146,7 @@ apparaît dans le champ de valeur comme un creux : (monnaie = 0) – valeur < 0.
 C'est le cas de toute la production troquée, donnée, produite sans échanges
 marchands, dont font partie l'essentiel de la production des logiciels libres,
 des œuvres libres de droits, de tous les services bénévoles, qui bénéficient
-dans une  une part non négligeable à l'économie monétisée.
+dans une part non négligeable à l'économie monétisée.
 
 On peut se demander pourquoi des producteurs donnent leurs productions sans
 bénéficier d'un retour monétaire. La raison en est que certaines valeurs sont
